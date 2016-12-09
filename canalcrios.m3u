@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/4.png",Cartoon Network
+http://live.tvplayerlatino.com/streaming/src1/owHw3
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/12.png",CBeebies
+http://live.tvplayerlatino.com/streaming/src1/5hgci?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/nick-2.png",Nick HD
+http://live.tvplayerlatino.com/streaming/src1/3hujI?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png",Nick JR
+http://live.tvplayerlatino.com/streaming/src1/DFX8y?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/7.png",Nick Toons
+http://live.tvplayerlatino.com/streaming/src1/mYLvZ?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/7.png",Nickelodeon
+http://live.tvplayerlatino.com/streaming/src1/Q7iup?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/13.png",Disney Channel
+http://live.tvplayerlatino.com/streaming/src1/yr1Y7?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/9.png",Disney Junior
+http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/13.png",Disney XD
+http://live.tvplayerlatino.com/streaming/src1/Ow853?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/1.png",Boomerang
+http://live.tvplayerlatino.com/streaming/src1/u3H8s?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/11.png",Tiin
+http://live.tvplayerlatino.com/streaming/src1/gm6eP?58afba
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/6.png",Tooncast
+http://live.tvplayerlatino.com/streaming/src1/BNgf7?58afba
