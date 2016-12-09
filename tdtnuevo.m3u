@@ -39,3 +39,54 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/187
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow]--- CANALES ESPANA ---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1, NEOX
+http://a3live-lh.akamaihd.net/i/neox/neox_1@35261/master.m3u8
+
+#EXTINF:-1 tvg-name="La 1" tvg-logo="http://www.plus.es/recorte/m-NEO/ficha/NEOX.png" group-title="Televisión Digital Terreste",NEOX
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
+ 
+#EXTINF:-1 tvg-name="La 1" tvg-logo="http://www.plus.es/recorte/m-NEO/ficha/ANTV.png" group-title="Televisión Digital Terreste",ANDALUCIA TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+ 
+#EXTINF:-1 tvg-name="La 1" tvg-logo="http://www.plus.es/recorte/m-NEO/ficha/ENERGY.png" group-title="Televisión Digital Terreste",ENERGY
+http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8
+
+#EXTINF:-1,[COLOR blue]--- NOTICIAS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,TN
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1 group-title="Noticias",C5N
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 group-title="Noticias",Canal 26 Noticias
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:-1 group-title="Noticias",A24
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",360TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1 group-title="Noticias",Canal Rural
+rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
+#EXTINF:-1 group-title="Noticias",CNN en español
+http://187.247.255.139/Apple/CNNEspanol1200.m3u8
+#EXTINF:-1 group-title="Noticias",Cable Noticias
+http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
+#EXTINF:-1 group-title="Variedades",H13 Noticias
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
+#EXTINF:-1 group-title="Noticias",El Tiempo Televisión
+http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
+#EXTINF:-1 group-title="Noticias",TeleSur
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+#EXTINF:-1 group-title="Noticias",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 group-title="Noticias",Canal 24 horas
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+#EXTINF:-1 group-title="Variedades",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Euronews en Español
+http://149.11.34.78:1935/live/euronewses.stream/playlist.m3u8
