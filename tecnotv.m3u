@@ -505,6 +505,99 @@ http://lb.iptvserver.tv:8080/redirect/LiveEdge/skysp1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/1451.png",Ultimate Events & Sports 2 
 http://lb.iptvserver.tv:8080/redirect/LiveEdge/EstrellaTVLA/playlist.m3u8
 
+#EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 group-title="España",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="España",Antena 3 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 group-title="España",BYU Television internacional HD
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:-1 group-title="España",Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 group-title="España",Canal Sur TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1 group-title="España",El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1 group-title="España",Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1 group-title="España",LA 10 
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1 group-title="España",LA 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 group-title="España",Intereconomía
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:-1 group-title="España",La sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 group-title="España",MEGA 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 group-title="España",TV Sevillana
+http://cloud1.cdnstreamserver.com/olsevilla/livestream1/chunklist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,SP | FDF
+http://sutverduz.com:8080/live/marija/marija/2650.ts
+#EXTINF:-1,SP | La Sexta HD
+http://sutverduz.com:8080/live/marija/marija/2649.ts
+#EXTINF:-1,SP | DCINE
+http://sutverduz.com:8080/live/marija/marija/2651.ts
+#EXTINF:-1,SP | TV3 CAT
+http://sutverduz.com:8080/live/marija/marija/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://sutverduz.com:8080/live/marija/marija/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://sutverduz.com:8080/live/marija/marija/2656.ts
+#EXTINF:-1,SP | CUATRO
+http://sutverduz.com:8080/live/marija/marija/2652.ts
+#EXTINF:-1,SP | TVE 2 HD
+http://sutverduz.com:8080/live/marija/marija/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://sutverduz.com:8080/live/marija/marija/2659.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP HD
+http://sutverduz.com:8080/live/marija/marija/2664.ts
+#EXTINF:-1,SP | Barca TV
+http://sutverduz.com:8080/live/marija/marija/2665.ts
+#EXTINF:-1,SP | TELEVISA HD
+http://sutverduz.com:8080/live/marija/marija/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://sutverduz.com:8080/live/marija/marija/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+http://sutverduz.com:8080/live/marija/marija/2648.ts
+#EXTINF:-1,SP | Teledeporte
+http://sutverduz.com:8080/live/marija/marija/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://sutverduz.com:8080/live/marija/marija/2653.ts
+#EXTINF:-1,SP | CANAL+ TOROS
+http://sutverduz.com:8080/live/marija/marija/2654.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://sutverduz.com:8080/live/marija/marija/2657.ts
+#EXTINF:-1,SP | CALLE 13
+http://sutverduz.com:8080/live/marija/marija/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+http://sutverduz.com:8080/live/marija/marija/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://sutverduz.com:8080/live/marija/marija/2640.ts
+#EXTINF:-1,SP | NEOX
+http://sutverduz.com:8080/live/marija/marija/2641.ts
+#EXTINF:-1,SP | NOVA
+http://sutverduz.com:8080/live/marija/marija/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://sutverduz.com:8080/live/marija/marija/2639.ts
+#EXTINF:-1,SP | TVE 1 HD
+http://sutverduz.com:8080/live/marija/marija/2666.ts
+#EXTINF:-1,SP | A&E
+http://sutverduz.com:8080/live/marija/marija/2667.ts
+#EXTINF:-1,SP | Canal+ Accion HD
+http://sutverduz.com:8080/live/marija/marija/2668.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://sutverduz.com:8080/live/marija/marija/2663.ts
+#EXTINF:-1,SP | PARAMOUNT CH
+http://sutverduz.com:8080/live/marija/marija/2643.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES 2
+http://sutverduz.com:8080/live/marija/marija/2644.ts
+
+
 
 
 
