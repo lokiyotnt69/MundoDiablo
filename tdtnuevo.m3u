@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,SP Canal Sur - SP Canal Sur
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1841.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1, Telecinco
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1821.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Neox - SP Neox
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1830.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP La Sexta - SP La Sexta
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1846.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP La 2 - SP La 2
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1847.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP La 1 - SP La 1
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1854.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP FDF - SP FDF
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1858.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Energy - SP Energy
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1864.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Divinity - SP Divinity
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1863.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Cuatro - SP Cuatro
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1871.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1870.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1869.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1868.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Barca Tv - SP Barca Tv
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1860.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP Antena 3 - SP Antena 3
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1872.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SP 24 Horas - SP 24 Horas
+plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1876.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
