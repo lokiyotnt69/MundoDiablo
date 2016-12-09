@@ -16,27 +16,5 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/188
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,Disney Junior.
-rtmp://newiphelikop.no-ip.org:44935/p6p/000disnjun.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #Disney Junior.
-#EXTINF:-1,Boomerang
-rtmp://newiphelikop.no-ip.org:44935/p6p/0000boomer.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #Boomerang
-#EXTINF:-1,BoomerangII
-rtmp://newiphelikop.no-ip.org:44935/p6p/KIDS-B_O_O_M_E_R.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #BoomerangII
-#EXTINF:-1,*NICKELODEON.
-rtmp://newiphelikop.no-ip.org:44935/p6p/555cnickelodeon.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #*NICKELODEON.
-#EXTINF:-1,*SMILE.
-rtmp://newiphelikop.no-ip.org:44935/p6p/555csmile.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #*SMILE.
-#EXTINF:-1,iptv-KIDS-2014
-rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS1.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS-2014
-#EXTINF:-1,iptv-KIDS 2
-rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS2.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 2
-#EXTINF:-1,iptv-KIDS 3
-rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS3.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 3
-#EXTINF:-1,iptv-KIDS 4
-rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS4.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 4
-#EXTINF:-1,iptv-KIDS 5
-rtmp://newiphelikop.no-ip.org:44935/p6p/NB_KIDS5.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #iptv-KIDS 5
-#EXTINF:-1,BABY-TV.
-rtmp://newiphelikop.no-ip.org:44935/p6p/KIDS-PAN-BABY.stream?u=L0254-E_AlexiaAXm4.26&p=AXASm-0254L live=1 timeout=10 #BABY-TV
 
 
