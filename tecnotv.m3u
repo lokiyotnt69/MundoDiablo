@@ -1251,30 +1251,6 @@ rtmp://edge2.everyon.tv/etv2sb/phd499  pageUrl=http://nowwatchtvlive.me/channel-
 
 #EXTINF:-1,[COLOR skyblue][I][B]------------------Spain-----------------------------[/B][/I][/COLOR]
 
-#EXTINF:-1,ES_B_SPORTS
-http://www.t12v.com:8000/live/1054/1054/3938.ts
-#EXTINF:-1,ES_MOVIESTAR_MOTOGP
-http://www.t12v.com:8000/live/1054/1054/765.ts
-#EXTINF:-1,ES_CANAL+_LIGA_HD
-http://www.t12v.com:8000/live/1054/1054/795.ts
-#EXTINF:-1,ES_EUROSPORT_1
-http://www.t12v.com:8000/live/1054/1054/855.ts
-#EXTINF:-1,ES_EUROSPORT_2
-http://www.t12v.com:8000/live/1054/1054/852.ts
-#EXTINF:-1,ES_CANAL+_FUTBOL
-http://www.t12v.com:8000/live/1054/1054/793.ts
-#EXTINF:-1,ES_REAL_MADRID_TV
-http://www.t12v.com:8000/live/1054/1054/851.ts
-#EXTINF:-1,ES_BARCA_TV
-http://www.t12v.com:8000/live/1054/1054/775.ts
-#EXTINF:-1,ES_TELEDEPORTE
-http://www.t12v.com:8000/live/1054/1054/848.ts
-#EXTINF:-1,ES_A_E_SPAIN
-http://www.t12v.com:8000/live/1054/1054/779.ts
-#EXTINF:-1,ES_CANAL_DEPORTES
-http://www.t12v.com:8000/live/1054/1054/3937.ts
-#EXTINF:-1,ES_CANAL_DEPORTES_2
-http://www.t12v.com:8000/live/1054/1054/3935.ts
 
 
 
