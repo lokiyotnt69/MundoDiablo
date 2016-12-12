@@ -2,30 +2,14 @@
 
 
 
-<item>
-<title>-[COLOR red]1[/COLOR]</title>
-<link>http://163.172.6.8:8000/get.php?username=5566&password=5566&type=m3u</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 
 
 <item>
-<title>-[COLOR red] [/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-
-<item>
-<title>-[COLOR red]  [/COLOR]</title>
+<title>-[COLOR red] 2 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>http://163.172.6.8:8000/get.php?username=5566&password=5566&type=m3u</externallink>	
 </item>
