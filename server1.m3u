@@ -1,220 +1,687 @@
 #EXTM3U
-#EXTINF:-1,------- Spanish ---------
-http://ipsatpro.com:8000/live/Yakup/Yakup/1072.ts
-#EXTINF:-1,ES: Taquilla 1
-http://ipsatpro.com:8000/live/Yakup/Yakup/1071.ts
-#EXTINF:-1,ES: Taquilla 2
-http://ipsatpro.com:8000/live/Yakup/Yakup/1070.ts
-#EXTINF:-1,ES: Taquilla 3
-http://ipsatpro.com:8000/live/Yakup/Yakup/1069.ts
-#EXTINF:-1,ES: Taquilla 4
-http://ipsatpro.com:8000/live/Yakup/Yakup/1068.ts
-#EXTINF:-1,ES: Taquilla 5
-http://ipsatpro.com:8000/live/Yakup/Yakup/1067.ts
-#EXTINF:-1,ES: Taquilla 6
-http://ipsatpro.com:8000/live/Yakup/Yakup/1066.ts
-#EXTINF:-1,ES: Taquilla 7
-http://ipsatpro.com:8000/live/Yakup/Yakup/1065.ts
-#EXTINF:-1,ES: Taquilla 8
-http://ipsatpro.com:8000/live/Yakup/Yakup/1064.ts
-#EXTINF:-1,ES: Taquilla 9
-http://ipsatpro.com:8000/live/Yakup/Yakup/1063.ts
-#EXTINF:-1,ES: Taquilla 10
-http://ipsatpro.com:8000/live/Yakup/Yakup/1062.ts
-#EXTINF:-1,ES: Canal+ Liga
-http://ipsatpro.com:8000/live/Yakup/Yakup/1022.ts
-#EXTINF:-1,ES: Canal+ Deportes HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1012.ts
-#EXTINF:-1,ES: Canal+ Futpol
-http://ipsatpro.com:8000/live/Yakup/Yakup/1020.ts
-#EXTINF:-1,ES: Canal+ Golf
-http://ipsatpro.com:8000/live/Yakup/Yakup/1019.ts
-#EXTINF:-1,ES: Canal+ HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1016.ts
-#EXTINF:-1,ES: Canal+ Accion
-http://ipsatpro.com:8000/live/Yakup/Yakup/1030.ts
-#EXTINF:-1,ES: Canal+ Dcine
-http://ipsatpro.com:8000/live/Yakup/Yakup/1028.ts
-#EXTINF:-1,ES: Canal+ Comedia
-http://ipsatpro.com:8000/live/Yakup/Yakup/1031.ts
-#EXTINF:-1,ES: Canal+ Estrenos HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1059.ts
-#EXTINF:-1,ES: Canal+ de las Estrellas
-http://ipsatpro.com:8000/live/Yakup/Yakup/1048.ts
-#EXTINF:-1,ES: Canal+ Series
-http://ipsatpro.com:8000/live/Yakup/Yakup/1058.ts
-#EXTINF:-1,ES: Canal+ Serie Xtra
-http://ipsatpro.com:8000/live/Yakup/Yakup/1004.ts
-#EXTINF:-1,ES: Canal+ Cuatro
-http://ipsatpro.com:8000/live/Yakup/Yakup/1026.ts
-#EXTINF:-1,ES: Canal+ Dcine Espanol
-http://ipsatpro.com:8000/live/Yakup/Yakup/1033.ts
-#EXTINF:-1,ES: Canal+ Cocina
-http://ipsatpro.com:8000/live/Yakup/Yakup/1024.ts
-#EXTINF:-1,ES: Canal+ AXN HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1054.ts
-#EXTINF:-1,ES: Canal+ Toros
-http://ipsatpro.com:8000/live/Yakup/Yakup/1049.ts
-#EXTINF:-1,ES: Canal Los40
-http://ipsatpro.com:8000/live/Yakup/Yakup/1002.ts
-#EXTINF:-1,ES: Canal+ Nova
-http://ipsatpro.com:8000/live/Yakup/Yakup/1034.ts
-#EXTINF:-1,ES: Canal+ Fox HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1029.ts
-#EXTINF:-1,ES: Canal T HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1047.ts
-#EXTINF:-1,ES: Canal MicroVision HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1041.ts
-#EXTINF:-1,ES: Canal+ 40
-http://ipsatpro.com:8000/live/Yakup/Yakup/1039.ts
-#EXTINF:-1,ES: 24 Horas
-http://ipsatpro.com:8000/live/Yakup/Yakup/1046.ts
-#EXTINF:-1,ES: Bein Sport ES HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1003.ts
-#EXTINF:-1,ES: Barca TV
-http://ipsatpro.com:8000/live/Yakup/Yakup/1021.ts
-#EXTINF:-1,ES: Movis Star Moto Gp
-http://ipsatpro.com:8000/live/Yakup/Yakup/1011.ts
-#EXTINF:-1,ES: Movi Star F1
-http://ipsatpro.com:8000/live/Yakup/Yakup/1010.ts
-#EXTINF:-1,ES: Comedy Central
-http://ipsatpro.com:8000/live/Yakup/Yakup/1042.ts
-#EXTINF:-1,ES: Teledeportes
-http://ipsatpro.com:8000/live/Yakup/Yakup/1050.ts
-#EXTINF:-1,ES: Clan TVE
-http://ipsatpro.com:8000/live/Yakup/Yakup/1045.ts
-#EXTINF:-1,ES: Real Madrid
-http://ipsatpro.com:8000/live/Yakup/Yakup/1037.ts
-#EXTINF:-1,ES: La 1
-http://ipsatpro.com:8000/live/Yakup/Yakup/1014.ts
-#EXTINF:-1,ES: La 2
-http://ipsatpro.com:8000/live/Yakup/Yakup/1013.ts
-#EXTINF:-1,ES: Canal+ Cine
-http://ipsatpro.com:8000/live/Yakup/Yakup/1025.ts
-#EXTINF:-1,ES: La  Sexta HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1017.ts
-#EXTINF:-1,ES: TV Galicia
-http://ipsatpro.com:8000/live/Yakup/Yakup/1015.ts
-#EXTINF:-1,ES: News DW
-http://ipsatpro.com:8000/live/Yakup/Yakup/1053.ts
-#EXTINF:-1,ES: Proyecto 40
-http://ipsatpro.com:8000/live/Yakup/Yakup/1056.ts
-#EXTINF:-1,ES: Azteca Noticias
-http://ipsatpro.com:8000/live/Yakup/Yakup/1061.ts
-#EXTINF:-1,ES: 324 Entertainment
-http://ipsatpro.com:8000/live/Yakup/Yakup/1005.ts
-#EXTINF:-1,ES: Fox Life
-http://ipsatpro.com:8000/live/Yakup/Yakup/1060.ts
-#EXTINF:-1,ES: Hollywood
-http://ipsatpro.com:8000/live/Yakup/Yakup/1036.ts
-#EXTINF:-1,ES: Axn White HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1023.ts
-#EXTINF:-1,ES: History
-http://ipsatpro.com:8000/live/Yakup/Yakup/1051.ts
-#EXTINF:-1,ES: Calle 13 Spain
-http://ipsatpro.com:8000/live/Yakup/Yakup/1009.ts
-#EXTINF:-1,ES: Azteca trece
-http://ipsatpro.com:8000/live/Yakup/Yakup/1018.ts
-#EXTINF:-1,ES: Anime
-http://ipsatpro.com:8000/live/Yakup/Yakup/999.ts
-#EXTINF:-1,ES: Azteca 7 Monterrey
-http://ipsatpro.com:8000/live/Yakup/Yakup/1035.ts
-#EXTINF:-1,ES: Antena 3 Internacional
-http://ipsatpro.com:8000/live/Yakup/Yakup/1000.ts
-#EXTINF:-1,ES: A&E
-http://ipsatpro.com:8000/live/Yakup/Yakup/1001.ts
-#EXTINF:-1,ES: FDF
-http://ipsatpro.com:8000/live/Yakup/Yakup/1007.ts
-#EXTINF:-1,ES: Caza Y Pesca
-http://ipsatpro.com:8000/live/Yakup/Yakup/1027.ts
-#EXTINF:-1,ES: Viajar
-http://ipsatpro.com:8000/live/Yakup/Yakup/1043.ts
-#EXTINF:-1,ES: Teleticino
-http://ipsatpro.com:8000/live/Yakup/Yakup/1008.ts
-#EXTINF:-1,ES: National Geographic
-http://ipsatpro.com:8000/live/Yakup/Yakup/1057.ts
-#EXTINF:-1,ES: National Geographic Wild
-http://ipsatpro.com:8000/live/Yakup/Yakup/1055.ts
-#EXTINF:-1,ES: Disney Chaneel
-http://ipsatpro.com:8000/live/Yakup/Yakup/1040.ts
-#EXTINF:-1,ES: Disney XD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1038.ts
-#EXTINF:-1,ES: TNT
-http://ipsatpro.com:8000/live/Yakup/Yakup/1032.ts
-#EXTINF:-1,ES: TVN Chile HD
-http://ipsatpro.com:8000/live/Yakup/Yakup/1006.ts
-#EXTINF:-1,ES: CHILE La Red
-http://ipsatpro.com:8000/live/Yakup/Yakup/1052.ts
-#EXTINF:-1,ES: ITV HD Chile
-http://ipsatpro.com:8000/live/Yakup/Yakup/1044.ts
-#EXTINF:-1,------- Spanish LISTA2---------
-#EXTINF:-1,Spain&PT_TV ///
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2165.ts
-#EXTINF:-1,Es-LA 1
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2558.ts
-#EXTINF:-1,ES-LA2
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2599.ts
-#EXTINF:-1,ES-TV3
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/1558.ts
-#EXTINF:-1,es-Antenna 3
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2007.ts
-#EXTINF:-1,ES-CALLE 13
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2595.ts
-#EXTINF:-1,Es-C  XTRA HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2563.ts
-#EXTINF:-1,Es-C  LIGA HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2567.ts
-#EXTINF:-1,Es-C  FUTBOL HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2570.ts
-#EXTINF:-1,Es-C  ESTRENOS HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2571.ts
-#EXTINF:-1,Es-C  DEPORTES HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2572.ts
-#EXTINF:-1,Es-C  DCINE HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2574.ts
-#EXTINF:-1,ES-Canal Acction
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2606.ts
-#EXTINF:-1,Es-La Sexta
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2576.ts
-#EXTINF:-1,Es-EuroNews
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2569.ts
-#EXTINF:-1,Es-Travel tv
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2573.ts
-#EXTINF:-1,Es-RT es
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2564.ts
-#EXTINF:-1,Es-EiTB
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2565.ts
-#EXTINF:-1,Es-BEIN SPORTS
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2579.ts
-#EXTINF:-1,Es-C estrenos
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2582.ts
-#EXTINF:-1,ES-REAL MADRID TV
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2589.ts
-#EXTINF:-1,ES-Canal.Costa
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2601.ts
-#EXTINF:-1,ES-Fox Life
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2598.ts
-#EXTINF:-1,ES-FOX HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2590.ts
-#EXTINF:-1,Es-Anime
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2566.ts
-#EXTINF:-1,ES-Disney.Channel
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2592.ts
-#EXTINF:-1,ES-DISNEY XD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2593.ts
-#EXTINF:-1,ES-DISNEY JUNIOR
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2594.ts
-#EXTINF:-1,ES-Canal_Toros
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2591.ts
-#EXTINF:-1,ES-AXN HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2597.ts
-#EXTINF:-1,ES-moviestar.Comedia
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2596.ts
-#EXTINF:-1,Es-TELECINCO HD
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2556.ts
-#EXTINF:-1,Es-Nat.Geo
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2557.ts
-#EXTINF:-1,es-Hollywood
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2003.ts
-#EXTINF:-1,es-Europe News
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2011.ts
+#EXTINF:-1,---------- MOVISTAR+ ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/149.ts
+#EXTINF:-1,La1_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/1.ts
+#EXTINF:-1,La2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/2.ts
+#EXTINF:-1,Antena3_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/6.ts
+#EXTINF:-1,Cuatro_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/4.ts
+#EXTINF:-1,Telecinco_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/5.ts
+#EXTINF:-1,LaSexta_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/7.ts
+#EXTINF:-1,CANAL_SUR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/189.ts
+#EXTINF:-1,Nova
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/10.ts
+#EXTINF:-1,Neox
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/9.ts
+#EXTINF:-1,----------M+ Cine ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/74.ts
+#EXTINF:-1,#0_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/24.ts
+#EXTINF:-1,M.ESTRENOS_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/30.ts
+#EXTINF:-1,M.DCINE_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/31.ts
+#EXTINF:-1,M.ACCI©N_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/26.ts
+#EXTINF:-1,M.COMEDIA_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/27.ts
+#EXTINF:-1,M.Cine_Español
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/182.ts
+#EXTINF:-1,HOLLYWOOD_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/17.ts
+#EXTINF:-1,TCM_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/22.ts
+#EXTINF:-1,M.XTRA_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/25.ts
+#EXTINF:-1,TNT_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/19.ts
+#EXTINF:-1,AMC_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/21.ts
+#EXTINF:-1,---------- M+ SERIES ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/79.ts
+#EXTINF:-1,M.SERIES_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/28.ts
+#EXTINF:-1,M.SeriesXtra_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/29.ts
+#EXTINF:-1,AXN_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/15.ts
+#EXTINF:-1,AXNWHITE_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/16.ts
+#EXTINF:-1,FOX_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/13.ts
+#EXTINF:-1,FOXLIFE_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/14.ts
+#EXTINF:-1,CALLE13_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/18.ts
+#EXTINF:-1,SYFY_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/20.ts
+#EXTINF:-1,COMEDYCENTRAL_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/23.ts
+#EXTINF:-1,PARAMOUNT_ES
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/443.ts
+#EXTINF:-1,---------- M+ DEPORTES----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/77.ts
+#EXTINF:-1,BEIN_LALIGA_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/32.ts
+#EXTINF:-1,BEIN_SPORTS_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/33.ts
+#EXTINF:-1,LALIGATV_BAR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/181.ts
+#EXTINF:-1,EUROSPORT1_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/199.ts
+#EXTINF:-1,M.DEP1_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/34.ts
+#EXTINF:-1,M.DEP2_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/35.ts
+#EXTINF:-1,M.FUTBOL_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/36.ts
+#EXTINF:-1,M.MOTOGP_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/37.ts
+#EXTINF:-1,M.FORMULA1_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/38.ts
+#EXTINF:-1,GOL_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/185.ts
+#EXTINF:-1,Teledeporte
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/11.ts
+#EXTINF:-1,Barca_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/311.ts
+#EXTINF:-1,Real_Madrid
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/313.ts
+#EXTINF:-1,MOVISTAR_GOLF
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/382.ts
+#EXTINF:-1,----------M+ Documentales ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/75.ts
+#EXTINF:-1,CAZAYPESCA_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/193.ts
+#EXTINF:-1,VIAJAR_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/40.ts
+#EXTINF:-1,NGWILD_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/39.ts
+#EXTINF:-1,HISTORIA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/184.ts
+#EXTINF:-1,Mega
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/8.ts
+#EXTINF:-1,COSMO
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/392.ts
+#EXTINF:-1,ENERGY
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/186.ts
+#EXTINF:-1,DIVINITY
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/187.ts
+#EXTINF:-1,CANAL_ODISEA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/188.ts
+#EXTINF:-1,CANAL_DECASA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/195.ts
+#EXTINF:-1,CANAL_COCINA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/196.ts
+#EXTINF:-1,C&I
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/430.ts
+#EXTINF:-1,A&E
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/393.ts
+#EXTINF:-1,---------- M+ INFANTILES ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/78.ts
+#EXTINF:-1,BOING_Español
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/197.ts
+#EXTINF:-1,CANAL_PANDA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/194.ts
+#EXTINF:-1,DISNEYCH_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/42.ts
+#EXTINF:-1,Disney_XD_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/432.ts
+#EXTINF:-1,NICKELODEON_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/41.ts
+#EXTINF:-1,NICK_JUNIOR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/431.ts
+#EXTINF:-1,BABY_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/444.ts
+#EXTINF:-1,---------- M+ MUSICA ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/76.ts
+#EXTINF:-1,LOS_40
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/180.ts
+#EXTINF:-1,-------- C. AUTONÓMIA -----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/80.ts
+#EXTINF:-1,ETB
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/73.ts
+#EXTINF:-1,TV3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/3.ts
+#EXTINF:-1,MalagaTV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/12.ts
+#EXTINF:-1,------&#62; bEIN MOVIES <------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/301.ts
+#EXTINF:-1,beIN_MOVIES_1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/293.ts
+#EXTINF:-1,bEIN_MOVIES_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/294.ts
+#EXTINF:-1,beIN_MOVIES_3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/295.ts
+#EXTINF:-1,beIN_MOVIES_4
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/296.ts
+#EXTINF:-1,------&#62; bEINSPORT <------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/302.ts
+#EXTINF:-1,BEINSPORT_1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/43.ts
+#EXTINF:-1,BEINSPORT_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/44.ts
+#EXTINF:-1,BEINSPORT_3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/45.ts
+#EXTINF:-1,BEINSPORT_4
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/46.ts
+#EXTINF:-1,BEINSPORT_5
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/47.ts
+#EXTINF:-1,BEINSPORT_6
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/48.ts
+#EXTINF:-1,BEINSPORT_7
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/49.ts
+#EXTINF:-1,BEINSPORT_8
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/50.ts
+#EXTINF:-1,BEINSPORT_9
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/51.ts
+#EXTINF:-1,BEINSPORT_10
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/52.ts
+#EXTINF:-1,BEINSPORT_11
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/297.ts
+#EXTINF:-1,BEINSPORT_12
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/298.ts
+#EXTINF:-1,BEINSPORT_13
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/299.ts
+#EXTINF:-1,BEINSPORT_14
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/300.ts
+#EXTINF:-1,AD_Sports_1HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/407.ts
+#EXTINF:-1,AD_Sports_2HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/408.ts
+#EXTINF:-1,AD_Sports_3HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/409.ts
+#EXTINF:-1,--------- CANALSAT_FRANCE ---------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/150.ts
+#EXTINF:-1,TF1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/96.ts
+#EXTINF:-1,FRANCE_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/145.ts
+#EXTINF:-1,FRANCE_3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/146.ts
+#EXTINF:-1,FRANCE_4
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/100.ts
+#EXTINF:-1,FRANCE_5
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/147.ts
+#EXTINF:-1,FRANCE_O
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/101.ts
+#EXTINF:-1,M6
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/97.ts
+#EXTINF:-1,Arte
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/108.ts
+#EXTINF:-1,HD1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/98.ts
+#EXTINF:-1,TMC
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/110.ts
+#EXTINF:-1,Paris-Premiere
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/259.ts
+#EXTINF:-1,Syfy
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/121.ts
+#EXTINF:-1,6TER
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/99.ts
+#EXTINF:-1,RTS_Un_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/102.ts
+#EXTINF:-1,RTS_Deux_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/103.ts
+#EXTINF:-1,La-Deux
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/104.ts
+#EXTINF:-1,La-Trois
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/105.ts
+#EXTINF:-1,Plug-RTL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/106.ts
+#EXTINF:-1,---------- Information ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/275.ts
+#EXTINF:-1,TV5_Monde
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/308.ts
+#EXTINF:-1,FRANCEINFO
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/227.ts
+#EXTINF:-1,BFM-TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/253.ts
+#EXTINF:-1,---------- Cinéma ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/269.ts
+#EXTINF:-1,CANAL+
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/81.ts
+#EXTINF:-1,CANAL+CINEMA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/82.ts
+#EXTINF:-1,CANAL+FAMILY
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/84.ts
+#EXTINF:-1,CINEMA_EMOTION
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/88.ts
+#EXTINF:-1,CANAL+SERIES
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/83.ts
+#EXTINF:-1,CINE+PREMIER
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/85.ts
+#EXTINF:-1,CINE+FRISSON
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/86.ts
+#EXTINF:-1,CINE-FAMIZ-HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/264.ts
+#EXTINF:-1,CINE_Polar
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/289.ts
+#EXTINF:-1,CINE-CLASIC
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/265.ts
+#EXTINF:-1,OCS_MAX_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/87.ts
+#EXTINF:-1,OCS_CHOC_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/116.ts
+#EXTINF:-1,OCS_City_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/114.ts
+#EXTINF:-1,OCS_GEANT_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/115.ts
+#EXTINF:-1,PARAMOUNT
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/291.ts
+#EXTINF:-1,---------- Divertissement ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/270.ts
+#EXTINF:-1,13eme_Rue
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/122.ts
+#EXTINF:-1,NUMERO_23
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/226.ts
+#EXTINF:-1,Canal_DECALE
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/266.ts
+#EXTINF:-1,RTL9-HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/258.ts
+#EXTINF:-1,D8
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/254.ts
+#EXTINF:-1,D17
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/255.ts
+#EXTINF:-1,W9
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/109.ts
+#EXTINF:-1,Teva
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/119.ts
+#EXTINF:-1,LCI
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/112.ts
+#EXTINF:-1,LEQUIPE21
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/125.ts
+#EXTINF:-1,I_TELE
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/111.ts
+#EXTINF:-1,Action
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/117.ts
+#EXTINF:-1,Comedie
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/118.ts
+#EXTINF:-1,GULLI
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/139.ts
+#EXTINF:-1,MANGAS
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/142.ts
+#EXTINF:-1,SERIE_CLUB_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/120.ts
+#EXTINF:-1,NT1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/310.ts
+#EXTINF:-1,June
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/261.ts
+#EXTINF:-1,---------- Musique ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/273.ts
+#EXTINF:-1,M6_Music
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/143.ts
+#EXTINF:-1,NRJ_12
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/144.ts
+#EXTINF:-1,Club-RTL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/107.ts
+#EXTINF:-1,Music_FR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/365.ts
+#EXTINF:-1,---------- Enfnats ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/274.ts
+#EXTINF:-1,BOOMERANG
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/137.ts
+#EXTINF:-1,PIWI+
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/140.ts
+#EXTINF:-1,Disney_xd
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/134.ts
+#EXTINF:-1,CANAL+J_Kids
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/292.ts
+#EXTINF:-1,DISNEY_CHANNEL_FR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/138.ts
+#EXTINF:-1,Disney_Cinema
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/135.ts
+#EXTINF:-1,Cartoon_Network
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/136.ts
+#EXTINF:-1,TeleToon
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/309.ts
+#EXTINF:-1,NICKELODEON_Junior
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/369.ts
+#EXTINF:-1,Boing
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/141.ts
+#EXTINF:-1,Tiji
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/257.ts
+#EXTINF:-1,---------- Sport ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/271.ts
+#EXTINF:-1,INFOSPORT+
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/113.ts
+#EXTINF:-1,CANAL+SPORT
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/91.ts
+#EXTINF:-1,BEINSPORT-1-FR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/92.ts
+#EXTINF:-1,BEINSPORT-2-FR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/93.ts
+#EXTINF:-1,BEINSPORT-3-FR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/94.ts
+#EXTINF:-1,SFR_SPORT1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/366.ts
+#EXTINF:-1,SFR_SPORT2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/367.ts
+#EXTINF:-1,SFR_SPORT3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/368.ts
+#EXTINF:-1,Eurosport_1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/123.ts
+#EXTINF:-1,Eurosport_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/124.ts
+#EXTINF:-1,FOOT-24
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/262.ts
+#EXTINF:-1,L'EQUIPE21
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/260.ts
+#EXTINF:-1,OL_Tv
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/330.ts
+#EXTINF:-1,EQUIDIA_LIVE
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/126.ts
+#EXTINF:-1,AB1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/331.ts
+#EXTINF:-1,AB-Moteurs
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/332.ts
+#EXTINF:-1,---------- Culture ----------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/272.ts
+#EXTINF:-1,NATIONAL_GEO
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/129.ts
+#EXTINF:-1,NAT_GEO_WILD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/148.ts
+#EXTINF:-1,USHUAIA_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/133.ts
+#EXTINF:-1,Animaux
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/128.ts
+#EXTINF:-1,VOYAGE
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/130.ts
+#EXTINF:-1,DISCOVERY
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/89.ts
+#EXTINF:-1,DISCOVERY_SCIENCE
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/90.ts
+#EXTINF:-1,PLANETE+CI
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/132.ts
+#EXTINF:-1,PLANETE+
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/131.ts
+#EXTINF:-1,ANIMEAUX
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/267.ts
+#EXTINF:-1,Toute L'histoire
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/400.ts
+#EXTINF:-1,SEASONS
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/399.ts
+#EXTINF:-1,Chasse&Peche_HD
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/127.ts
+#EXTINF:-1,science&vie
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/290.ts
+#EXTINF:-1,CHERIE_25
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/256.ts
+#EXTINF:-1,----- News/الأخبار -----
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/389.ts
+#EXTINF:-1,Al_Jazeera
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/151.ts
+#EXTINF:-1,Al_Jazeera_Mubash
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/178.ts
+#EXTINF:-1,Al_Arabiya
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/173.ts
+#EXTINF:-1,France24_Arabic
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/175.ts
+#EXTINF:-1,euronews_arabic
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/174.ts
+#EXTINF:-1,Nabaa
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/316.ts
+#EXTINF:-1,BBC_Arabic
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/201.ts
+#EXTINF:-1,DW_Arabic
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/315.ts
+#EXTINF:-1,----- Cartoon/رسوم -----
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/390.ts
+#EXTINF:-1,Toyor_AlJanah
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/312.ts
+#EXTINF:-1,Toyor_Baby
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/377.ts
+#EXTINF:-1,SPACETOON
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/376.ts
+#EXTINF:-1,BARAEM
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/375.ts
+#EXTINF:-1,sat7_kids
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/327.ts
+#EXTINF:-1,JEEM_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/374.ts
+#EXTINF:-1,----- Nilsat/نايل سات -----
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/388.ts
+#EXTINF:-1,Medi1_Tv
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/157.ts
+#EXTINF:-1,Al_AOULA_Inter
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/159.ts
+#EXTINF:-1,2M_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/158.ts
+#EXTINF:-1,Assadissa
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/161.ts
+#EXTINF:-1,Arriadia
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/445.ts
+#EXTINF:-1,Arrabiaa
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/160.ts
+#EXTINF:-1,MBC_1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/152.ts
+#EXTINF:-1,MBC_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/153.ts
+#EXTINF:-1,MBC_3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/154.ts
+#EXTINF:-1,MBC_4
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/155.ts
+#EXTINF:-1,MBC_Action
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/156.ts
+#EXTINF:-1,MBC_DRAMA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/167.ts
+#EXTINF:-1,MBC_bollywood
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/168.ts
+#EXTINF:-1,Zee_Alwan
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/164.ts
+#EXTINF:-1,ZEE_AFLAM
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/165.ts
+#EXTINF:-1,ZWEINA_BALADNA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/162.ts
+#EXTINF:-1,ART_Aflam_1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/303.ts
+#EXTINF:-1,ART_AFLAM_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/304.ts
+#EXTINF:-1,ART_CINEMA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/307.ts
+#EXTINF:-1,ART_Hekayat
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/305.ts
+#EXTINF:-1,ART_Hekayat_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/306.ts
+#EXTINF:-1,ZITOUNA_HEDAYA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/163.ts
+#EXTINF:-1,Zahra
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/166.ts
+#EXTINF:-1,SAMIRA_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/183.ts
+#EXTINF:-1,Rotana_Masriya
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/169.ts
+#EXTINF:-1,Rotana_Khalijiah
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/170.ts
+#EXTINF:-1,Rotana_Clip
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/171.ts
+#EXTINF:-1,Rotana_Classic
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/172.ts
+#EXTINF:-1,Sama_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/228.ts
+#EXTINF:-1,Rotana_Cinema
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/234.ts
+#EXTINF:-1,Nessma_Tunisia
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/237.ts
+#EXTINF:-1,MBC_MAX
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/229.ts
+#EXTINF:-1,MBC_MASR_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/231.ts
+#EXTINF:-1,MBC_MASR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/230.ts
+#EXTINF:-1,hannibal_Tunisia
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/242.ts
+#EXTINF:-1,Future_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/243.ts
+#EXTINF:-1,Dubai_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/244.ts
+#EXTINF:-1,Dubai_sama
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/245.ts
+#EXTINF:-1,dubai_one
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/246.ts
+#EXTINF:-1,Dubai_Noor
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/247.ts
+#EXTINF:-1,CIMA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/251.ts
+#EXTINF:-1,ABU_DHABI_NATGEO
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/232.ts
+#EXTINF:-1,Qatar_TV
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/236.ts
+#EXTINF:-1,DHABI_SPORT2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/250.ts
+#EXTINF:-1,DHABI_SPORT1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/249.ts
+#EXTINF:-1,MBC_Pro_Sports_1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/238.ts
+#EXTINF:-1,MBC_Pro_Sports_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/239.ts
+#EXTINF:-1,MBC_Pro_Sports_3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/240.ts
+#EXTINF:-1,MBC_Pro_Sports_4
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/241.ts
+#EXTINF:-1,Sharjah_Sport
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/320.ts
+#EXTINF:-1,Sharjah
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/319.ts
+#EXTINF:-1,SAUDI_TAQAFIYA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/324.ts
+#EXTINF:-1,SAUDI_SUNNA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/326.ts
+#EXTINF:-1,Saudi_Quran
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/371.ts
+#EXTINF:-1,SAUDI_MEKKA
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/325.ts
+#EXTINF:-1,SAUDI_AJIAL_KIDS
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/323.ts
+#EXTINF:-1,SAUDI_2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/322.ts
+#EXTINF:-1,SAUDI
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/321.ts
+#EXTINF:-1,Iqraa
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/372.ts
+#EXTINF:-1,Dubai_Sports
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/317.ts
+#EXTINF:-1,DUBAI_RACING
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/318.ts
+#EXTINF:-1,Al_Basira
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/373.ts
+#EXTINF:-1,Alrahma
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/370.ts
+#EXTINF:-1,ALJAZEERA_ DOCUMENT
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/314.ts
+#EXTINF:-1,Spectral
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/451.mkv
+#EXTINF:-1,Sicarivs
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/455.mkv
+#EXTINF:-1,Secuestro
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/446.mkv
+#EXTINF:-1,Peter_Y_El_Dragon
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/456.mkv
+#EXTINF:-1,Mercenario
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/448.mkv
+#EXTINF:-1,La_Vispera_De_Halloween
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/457.mkv
+#EXTINF:-1,La_Familia_Fang
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/449.mkv
+#EXTINF:-1,La_Casa_De_Seguridad
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/447.mkv
+#EXTINF:-1,Hombres_De_Elite
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/452.mkv
+#EXTINF:-1,El_Planeta_De_Los_Tiburones
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/454.mkv
+#EXTINF:-1,El_Caso_Fischer
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/450.mkv
+#EXTINF:-1,Al_Final_Del_Tunel
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/453.mkv
+#EXTINF:-1,Deadpool
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/211.mkv
+#EXTINF:-1,Infiltrados En Miami
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/208.mkv
+#EXTINF:-1,Asia Connection
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/207.mkv
+#EXTINF:-1,WARCRAFT EL ORIGEN 2016
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/71.mkv
+#EXTINF:-1,LA SERIE DIVERGENTE LEAL
+http://serverip.dyndns.info:8000/movie/COBRA/COBRA/72.mkv
+#EXTINF:-1,------------- CANAL_DIGITAL_NL -------------
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/387.ts
+#EXTINF:-1,NPO-1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/276.ts
+#EXTINF:-1,NPO-2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/277.ts
+#EXTINF:-1,NPO-3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/278.ts
+#EXTINF:-1,HBO-1
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/286.ts
+#EXTINF:-1,HBO-2
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/287.ts
+#EXTINF:-1,HBO-3
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/288.ts
+#EXTINF:-1,SBS-6
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/280.ts
+#EXTINF:-1,SBS9
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/279.ts
+#EXTINF:-1,NET5
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/378.ts
+#EXTINF:-1,RTL-4
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/285.ts
+#EXTINF:-1,RTL-5
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/284.ts
+#EXTINF:-1,RTL-8
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/282.ts
+#EXTINF:-1,RTL-7
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/283.ts
+#EXTINF:-1,RTL_Z
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/437.ts
+#EXTINF:-1,RTL_NLUNGE
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/438.ts
+#EXTINF:-1,RTL_Crime
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/439.ts
+#EXTINF:-1,RTL-Telekids
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/281.ts
+#EXTINF:-1,Fox_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/379.ts
+#EXTINF:-1,Film1_SUNDANCE_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/380.ts
+#EXTINF:-1,Film1_Premiere_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/425.ts
+#EXTINF:-1,FILM1_ACTION_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/436.ts
+#EXTINF:-1,COMEDY_CENTRAL_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/435.ts
+#EXTINF:-1,Disney-Channel_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/362.ts
+#EXTINF:-1,National_Geographic_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/440.ts
+#EXTINF:-1,Investigation_Discovery_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/441.ts
+#EXTINF:-1,HISTORY_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/442.ts
+#EXTINF:-1,Fox-Sports_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/364.ts
+#EXTINF:-1,FOX_SPORT1_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/383.ts
+#EXTINF:-1,FOX_SPORT2_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/384.ts
+#EXTINF:-1,FOX_SPORT3_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/385.ts
+#EXTINF:-1,FOX_SPORT4_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/386.ts
+#EXTINF:-1,FOX_SPORT5_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/433.ts
+#EXTINF:-1,FOX_SPORT6_NL
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/434.ts
+#EXTINF:-1,VIER
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/405.ts
+#EXTINF:-1,DISNEY_JUNIOR
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/403.ts
+#EXTINF:-1,AT-5
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/404.ts
+#EXTINF:-1,2BE
+http://serverip.dyndns.info:8000/live/COBRA/COBRA/402.ts
