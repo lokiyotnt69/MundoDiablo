@@ -1249,8 +1249,798 @@ rtmp://edge2.everyon.tv/etv2sb/phd499  pageUrl=http://nowwatchtvlive.me/channel-
 
 
 
-#EXTINF:-1,[COLOR skyblue][I][B]------------------Spain-----------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR skyblue][I][B]-----------------ITALIA---------------------------[/B][/I][/COLOR]
 
+#EXTINF:-1,IT: Rai 1 HD
+http://163.172.6.8:8000/live/779/779/693.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://163.172.6.8:8000/live/779/779/692.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://163.172.6.8:8000/live/779/779/691.ts
+#EXTINF:-1,IT: Rai 4 HD
+http://163.172.6.8:8000/live/779/779/690.ts
+#EXTINF:-1,IT: Rai 5 HD
+http://163.172.6.8:8000/live/779/779/563.ts
+#EXTINF:-1,IT: Rai yoyo
+http://163.172.6.8:8000/live/779/779/553.ts
+#EXTINF:-1,IT: Rai Gulp
+http://163.172.6.8:8000/live/779/779/552.ts
+#EXTINF:-1,IT: Rai Movie
+http://163.172.6.8:8000/live/779/779/584.ts
+#EXTINF:-1,IT: Rai Premium
+http://163.172.6.8:8000/live/779/779/583.ts
+#EXTINF:-1,IT: Rai News 24
+http://163.172.6.8:8000/live/779/779/689.ts
+#EXTINF:-1,IT: Rete 4
+http://163.172.6.8:8000/live/779/779/1848.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://163.172.6.8:8000/live/779/779/688.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://163.172.6.8:8000/live/779/779/687.ts
+#EXTINF:-1,IT: Telearena
+http://163.172.6.8:8000/live/779/779/561.ts
+#EXTINF:-1,IT: Telepavia
+http://163.172.6.8:8000/live/779/779/1843.ts
+#EXTINF:-1,IT: Telemilano
+http://163.172.6.8:8000/live/779/779/1842.ts
+#EXTINF:-1,IT: TRM TV
+http://163.172.6.8:8000/live/779/779/555.ts
+#EXTINF:-1,IT: videocalabria
+http://163.172.6.8:8000/live/779/779/569.ts
+#EXTINF:-1,IT: Tele 8
+http://163.172.6.8:8000/live/779/779/1845.ts
+#EXTINF:-1,IT: RTV San Marino
+http://163.172.6.8:8000/live/779/779/1841.ts
+#EXTINF:-1,IT: Euroneww Italia
+http://163.172.6.8:8000/live/779/779/1844.ts
+#EXTINF:-1,IT: Canale 7
+http://163.172.6.8:8000/live/779/779/1846.ts
+#EXTINF:-1,IT: TVM 1 Dvr
+http://163.172.6.8:8000/live/779/779/571.ts
+#EXTINF:-1,IT: TVM 2 Dvr
+http://163.172.6.8:8000/live/779/779/570.ts
+#EXTINF:-1,IT: Cartoonito
+http://163.172.6.8:8000/live/779/779/554.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://163.172.6.8:8000/live/779/779/685.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://163.172.6.8:8000/live/779/779/686.ts
+#EXTINF:-1,IT: Real Time
+http://163.172.6.8:8000/live/779/779/684.ts
+#EXTINF:-1,IT: Dmax
+http://163.172.6.8:8000/live/779/779/657.ts
+#EXTINF:-1,IT: Sardegnauno
+http://163.172.6.8:8000/live/779/779/585.ts
+#EXTINF:-1,IT: La 5
+http://163.172.6.8:8000/live/779/779/556.ts
+#EXTINF:-1,IT: La7
+http://163.172.6.8:8000/live/779/779/683.ts
+#EXTINF:-1,---------- Cinma ----------
+http://163.172.6.8:8000/live/779/779/682.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://163.172.6.8:8000/live/779/779/681.ts
+#EXTINF:-1,IT: Sky Cinema +1 HD
+http://163.172.6.8:8000/live/779/779/680.ts
+#EXTINF:-1,IT: Sky Cinema +24 HD
+http://163.172.6.8:8000/live/779/779/679.ts
+#EXTINF:-1,IT: Sky Cinema Hits HD
+http://163.172.6.8:8000/live/779/779/675.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://163.172.6.8:8000/live/779/779/672.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://163.172.6.8:8000/live/779/779/677.ts
+#EXTINF:-1,IT: Sky Cinema +Max HD
+http://163.172.6.8:8000/live/779/779/673.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://163.172.6.8:8000/live/779/779/678.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://163.172.6.8:8000/live/779/779/671.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://163.172.6.8:8000/live/779/779/670.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://163.172.6.8:8000/live/779/779/674.ts
+#EXTINF:-1,------ Intrattenimento ----
+http://163.172.6.8:8000/live/779/779/669.ts
+#EXTINF:-1,IT: Fm italia
+http://163.172.6.8:8000/live/779/779/663.ts
+#EXTINF:-1,IT: Mtv Music
+http://163.172.6.8:8000/live/779/779/668.ts
+#EXTINF:-1,IT: Giallo
+http://163.172.6.8:8000/live/779/779/1850.ts
+#EXTINF:-1,IT: Cielo
+http://163.172.6.8:8000/live/779/779/658.ts
+#EXTINF:-1,IT: Boing
+http://163.172.6.8:8000/live/779/779/659.ts
+#EXTINF:-1,IT: Super!
+http://163.172.6.8:8000/live/779/779/558.ts
+#EXTINF:-1,IT: k2
+http://163.172.6.8:8000/live/779/779/557.ts
+#EXTINF:-1,IT: E! Ent
+http://163.172.6.8:8000/live/779/779/664.ts
+#EXTINF:-1,IT: Iris
+http://163.172.6.8:8000/live/779/779/676.ts
+#EXTINF:-1,IT: Alice HD
+http://163.172.6.8:8000/live/779/779/665.ts
+#EXTINF:-1,IT: Sat 2000
+http://163.172.6.8:8000/live/779/779/662.ts
+#EXTINF:-1,IT: Onda tv
+http://163.172.6.8:8000/live/779/779/1849.ts
+#EXTINF:-1,IT: TV 8
+http://163.172.6.8:8000/live/779/779/1851.ts
+#EXTINF:-1,IT: Paramount
+http://163.172.6.8:8000/live/779/779/1852.ts
+#EXTINF:-1,IT: Frisbee
+http://163.172.6.8:8000/live/779/779/1857.ts
+#EXTINF:-1,IT: Fine Living
+http://163.172.6.8:8000/live/779/779/1853.ts
+#EXTINF:-1,IT: Deejay TV
+http://163.172.6.8:8000/live/779/779/1854.ts
+#EXTINF:-1,IT: Classica HD
+http://163.172.6.8:8000/live/779/779/1856.ts
+#EXTINF:-1,IT: Class Horse TV
+http://163.172.6.8:8000/live/779/779/1855.ts
+#EXTINF:-1,IT: Sky Top Crime
+http://163.172.6.8:8000/live/779/779/559.ts
+#EXTINF:-1,IT: Sky Sienatv
+http://163.172.6.8:8000/live/779/779/666.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://163.172.6.8:8000/live/779/779/667.ts
+#EXTINF:-1,IT: Sky Focus
+http://163.172.6.8:8000/live/779/779/660.ts
+#EXTINF:-1,IT: Sky Mediaset Extra
+http://163.172.6.8:8000/live/779/779/603.ts
+#EXTINF:-1,IT: Sky Mediaset Italia 2
+http://163.172.6.8:8000/live/779/779/661.ts
+#EXTINF:-1,---------- sport ----------
+http://163.172.6.8:8000/live/779/779/656.ts
+#EXTINF:-1,IT: Sky Fox Sport HD
+http://163.172.6.8:8000/live/779/779/650.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://163.172.6.8:8000/live/779/779/655.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://163.172.6.8:8000/live/779/779/654.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://163.172.6.8:8000/live/779/779/653.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://163.172.6.8:8000/live/779/779/652.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://163.172.6.8:8000/live/779/779/651.ts
+#EXTINF:-1,IT: Sky Moto GP HD
+http://163.172.6.8:8000/live/779/779/646.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://163.172.6.8:8000/live/779/779/645.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://163.172.6.8:8000/live/779/779/639.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://163.172.6.8:8000/live/779/779/560.ts
+#EXTINF:-1,IT: SportTitalia
+http://163.172.6.8:8000/live/779/779/638.ts
+#EXTINF:-1,IT: Rete Sport
+http://163.172.6.8:8000/live/779/779/1840.ts
+#EXTINF:-1,IT: Sky Eurosport
+http://163.172.6.8:8000/live/779/779/637.ts
+#EXTINF:-1,IT: Sky Eurosport 2
+http://163.172.6.8:8000/live/779/779/636.ts
+#EXTINF:-1,---------- Calcio -----------
+http://163.172.6.8:8000/live/779/779/644.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://163.172.6.8:8000/live/779/779/643.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://163.172.6.8:8000/live/779/779/642.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://163.172.6.8:8000/live/779/779/641.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://163.172.6.8:8000/live/779/779/640.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://163.172.6.8:8000/live/779/779/568.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://163.172.6.8:8000/live/779/779/567.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://163.172.6.8:8000/live/779/779/566.ts
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://163.172.6.8:8000/live/779/779/565.ts
+#EXTINF:-1,IT: Sky Calcio 8 HD
+http://163.172.6.8:8000/live/779/779/564.ts
+#EXTINF:-1,--------- Cultura ----------
+http://163.172.6.8:8000/live/779/779/635.ts
+#EXTINF:-1,IT: Sky TG 24
+http://163.172.6.8:8000/live/779/779/629.ts
+#EXTINF:-1,IT: Discovery HD
+http://163.172.6.8:8000/live/779/779/630.ts
+#EXTINF:-1,IT: Discovery T&L
+http://163.172.6.8:8000/live/779/779/1859.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://163.172.6.8:8000/live/779/779/1858.ts
+#EXTINF:-1,IT: Sky History HD
+http://163.172.6.8:8000/live/779/779/634.ts
+#EXTINF:-1,IT: National Geo HD
+http://163.172.6.8:8000/live/779/779/633.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://163.172.6.8:8000/live/779/779/632.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://163.172.6.8:8000/live/779/779/631.ts
+#EXTINF:-1,IT: Sky Animal Planet
+http://163.172.6.8:8000/live/779/779/604.ts
+#EXTINF:-1,----MwdiaEst Premium ----
+http://163.172.6.8:8000/live/779/779/628.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://163.172.6.8:8000/live/779/779/627.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://163.172.6.8:8000/live/779/779/609.ts
+#EXTINF:-1,IT: Premium Cinema +24
+http://163.172.6.8:8000/live/779/779/612.ts
+#EXTINF:-1,IT: Premium Crime
+http://163.172.6.8:8000/live/779/779/621.ts
+#EXTINF:-1,IT: Premium Crime +24
+http://163.172.6.8:8000/live/779/779/611.ts
+#EXTINF:-1,IT: Premium Action HD
+http://163.172.6.8:8000/live/779/779/626.ts
+#EXTINF:-1,IT: Premium Action +24 HD
+http://163.172.6.8:8000/live/779/779/618.ts
+#EXTINF:-1,IT: Premium Stories
+http://163.172.6.8:8000/live/779/779/625.ts
+#EXTINF:-1,IT: Premium Stories +24
+http://163.172.6.8:8000/live/779/779/614.ts
+#EXTINF:-1,IT: Premium Joy
+http://163.172.6.8:8000/live/779/779/624.ts
+#EXTINF:-1,IT: Premium Comedy
+http://163.172.6.8:8000/live/779/779/620.ts
+#EXTINF:-1,IT: Premium Energy
+http://163.172.6.8:8000/live/779/779/623.ts
+#EXTINF:-1,IT: Premium Emotion
+http://163.172.6.8:8000/live/779/779/622.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://163.172.6.8:8000/live/779/779/619.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://163.172.6.8:8000/live/779/779/617.ts
+#EXTINF:-1,IT: Premium Disney Channel
+http://163.172.6.8:8000/live/779/779/616.ts
+#EXTINF:-1,IT: Premium Cartoon Network
+http://163.172.6.8:8000/live/779/779/613.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://163.172.6.8:8000/live/779/779/608.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://163.172.6.8:8000/live/779/779/610.ts
+#EXTINF:-1,IT: Premium Sport 1 HD
+http://163.172.6.8:8000/live/779/779/606.ts
+#EXTINF:-1,IT: Premium Sport 2 HD
+http://163.172.6.8:8000/live/779/779/605.ts
+#EXTINF:-1,IT: Premium Sport
+http://163.172.6.8:8000/live/779/779/615.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://163.172.6.8:8000/live/779/779/562.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://163.172.6.8:8000/live/779/779/607.ts
+#EXTINF:-1,---------- Primrafila ---------
+http://163.172.6.8:8000/live/779/779/602.ts
+#EXTINF:-1,IT: Sky Prima fila 1 HD
+http://163.172.6.8:8000/live/779/779/601.ts
+#EXTINF:-1,IT: Sky Prima fila 2 HD
+http://163.172.6.8:8000/live/779/779/600.ts
+#EXTINF:-1,IT: Sky Prima fila 3 HD
+http://163.172.6.8:8000/live/779/779/599.ts
+#EXTINF:-1,IT: Sky Prima fila 4 HD
+http://163.172.6.8:8000/live/779/779/598.ts
+#EXTINF:-1,IT: Sky Prima fila 5 HD
+http://163.172.6.8:8000/live/779/779/597.ts
+#EXTINF:-1,IT: Sky Prima fila 6 HD
+http://163.172.6.8:8000/live/779/779/596.ts
+#EXTINF:-1,IT: Sky Prima fila 7 HD
+http://163.172.6.8:8000/live/779/779/595.ts
+#EXTINF:-1,IT: Sky Prima fila 8 HD
+http://163.172.6.8:8000/live/779/779/594.ts
+#EXTINF:-1,IT: Sky Prima fila 9 HD
+http://163.172.6.8:8000/live/779/779/593.ts
+#EXTINF:-1,IT: Sky Prima fila 10 HD
+http://163.172.6.8:8000/live/779/779/592.ts
+#EXTINF:-1,IT: Sky Prima fila 11 HD
+http://163.172.6.8:8000/live/779/779/591.ts
+#EXTINF:-1,IT: Sky Prima fila 12 HD
+http://163.172.6.8:8000/live/779/779/590.ts
+#EXTINF:-1,IT: Sky Prima fila 13 HD
+http://163.172.6.8:8000/live/779/779/589.ts
+#EXTINF:-1,IT: Sky Prima fila 14 HD
+http://163.172.6.8:8000/live/779/779/588.ts
+#EXTINF:-1,IT: Sky Prima fila 15 HD
+http://163.172.6.8:8000/live/779/779/587.ts
+#EXTINF:-1,IT: Sky Prima Fila WWE HD
+http://163.172.6.8:8000/live/779/779/586.ts
+#EXTINF:-1,----------- Sky Uk -----------
+http://163.172.6.8:8000/live/779/779/551.ts
+#EXTINF:-1,UK: Sky News HD
+http://163.172.6.8:8000/live/779/779/550.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://163.172.6.8:8000/live/779/779/549.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://163.172.6.8:8000/live/779/779/548.ts
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://163.172.6.8:8000/live/779/779/533.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://163.172.6.8:8000/live/779/779/547.ts
+#EXTINF:-1,UK: Sky Sport 2 SD
+http://163.172.6.8:8000/live/779/779/532.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://163.172.6.8:8000/live/779/779/546.ts
+#EXTINF:-1,UK: Sky Sport 3 SD
+http://163.172.6.8:8000/live/779/779/531.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://163.172.6.8:8000/live/779/779/545.ts
+#EXTINF:-1,UK: Sky Sport 4 SD
+http://163.172.6.8:8000/live/779/779/530.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://163.172.6.8:8000/live/779/779/544.ts
+#EXTINF:-1,UK: Sky Sport 5 SD
+http://163.172.6.8:8000/live/779/779/529.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://163.172.6.8:8000/live/779/779/539.ts
+#EXTINF:-1,UK: Sky Premier Sports HD
+http://163.172.6.8:8000/live/779/779/513.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://163.172.6.8:8000/live/779/779/484.ts
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://163.172.6.8:8000/live/779/779/541.ts
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://163.172.6.8:8000/live/779/779/540.ts
+#EXTINF:-1,UK: Sky BT Sport 1
+http://163.172.6.8:8000/live/779/779/543.ts
+#EXTINF:-1,UK: Sky BT Sport 2
+http://163.172.6.8:8000/live/779/779/542.ts
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://163.172.6.8:8000/live/779/779/528.ts
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://163.172.6.8:8000/live/779/779/527.ts
+#EXTINF:-1,UK: Sky BT Sport Europe
+http://163.172.6.8:8000/live/779/779/453.ts
+#EXTINF:-1,UK: Sky BT Sport Extra
+http://163.172.6.8:8000/live/779/779/479.ts
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://163.172.6.8:8000/live/779/779/536.ts
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://163.172.6.8:8000/live/779/779/537.ts
+#EXTINF:-1,UK: Sky MUTV
+http://163.172.6.8:8000/live/779/779/535.ts
+#EXTINF:-1,Uk: Sky At the Races
+http://163.172.6.8:8000/live/779/779/461.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://163.172.6.8:8000/live/779/779/519.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://163.172.6.8:8000/live/779/779/516.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://163.172.6.8:8000/live/779/779/517.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://163.172.6.8:8000/live/779/779/511.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://163.172.6.8:8000/live/779/779/518.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://163.172.6.8:8000/live/779/779/520.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://163.172.6.8:8000/live/779/779/521.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://163.172.6.8:8000/live/779/779/524.ts
+#EXTINF:-1,UK: Sky Movies Crime
+http://163.172.6.8:8000/live/779/779/512.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi+
+http://163.172.6.8:8000/live/779/779/515.ts
+#EXTINF:-1,UK: Sky Movies 24
+http://163.172.6.8:8000/live/779/779/523.ts
+#EXTINF:-1,UK: Sky True Movies 1
+http://163.172.6.8:8000/live/779/779/472.ts
+#EXTINF:-1,UK: Sky True Movies 2
+http://163.172.6.8:8000/live/779/779/534.ts
+#EXTINF:-1,UK: Sky More 4 HD
+http://163.172.6.8:8000/live/779/779/504.ts
+#EXTINF:-1,UK: Sky Film 4 HD
+http://163.172.6.8:8000/live/779/779/505.ts
+#EXTINF:-1,UK: Sky ITV 1
+http://163.172.6.8:8000/live/779/779/471.ts
+#EXTINF:-1,UK: Sky ITV 2
+http://163.172.6.8:8000/live/779/779/470.ts
+#EXTINF:-1,UK: Sky ITV 3
+http://163.172.6.8:8000/live/779/779/469.ts
+#EXTINF:-1,UK: Sky ITV 4
+http://163.172.6.8:8000/live/779/779/468.ts
+#EXTINF:-1,UK: Sky ITV Encore
+http://163.172.6.8:8000/live/779/779/467.ts
+#EXTINF:-1,UK: Sky Cbs Drama
+http://163.172.6.8:8000/live/779/779/482.ts
+#EXTINF:-1,UK: Sky Cbs Action
+http://163.172.6.8:8000/live/779/779/481.ts
+#EXTINF:-1,UK: Sky CBS Reality
+http://163.172.6.8:8000/live/779/779/510.ts
+#EXTINF:-1,UK: Sky BBC One HD
+http://163.172.6.8:8000/live/779/779/488.ts
+#EXTINF:-1,UK: Sky BBC Two HD
+http://163.172.6.8:8000/live/779/779/487.ts
+#EXTINF:-1,UK: Sky BBC Three HD
+http://163.172.6.8:8000/live/779/779/486.ts
+#EXTINF:-1,UK: Sky BBC Four HD
+http://163.172.6.8:8000/live/779/779/485.ts
+#EXTINF:-1,UK: Sky Comedy Central
+http://163.172.6.8:8000/live/779/779/463.ts
+#EXTINF:-1,UK: Sky Comedy Central Ex
+http://163.172.6.8:8000/live/779/779/462.ts
+#EXTINF:-1,UK: Sky Food Network
+http://163.172.6.8:8000/live/779/779/495.ts
+#EXTINF:-1,UK: Sky Good Food HD
+http://163.172.6.8:8000/live/779/779/501.ts
+#EXTINF:-1,UK: Sky Bloomberg HD
+http://163.172.6.8:8000/live/779/779/457.ts
+#EXTINF:-1,UK: Sky Boomerang
+http://163.172.6.8:8000/live/779/779/444.ts
+#EXTINF:-1,UK: Sky Nickelodeon
+http://163.172.6.8:8000/live/779/779/503.ts
+#EXTINF:-1,UK: Sky Cartoon Network
+http://163.172.6.8:8000/live/779/779/522.ts
+#EXTINF:-1,UK: Sky NickToons
+http://163.172.6.8:8000/live/779/779/446.ts
+#EXTINF:-1,UK: Sky Disney XD HD
+http://163.172.6.8:8000/live/779/779/493.ts
+#EXTINF:-1,UK: Sky Disney Junior HD
+http://163.172.6.8:8000/live/779/779/494.ts
+#EXTINF:-1,UK: Sky Disney Chaneel HD
+http://163.172.6.8:8000/live/779/779/492.ts
+#EXTINF:-1,UK: Sky Discovery Science
+http://163.172.6.8:8000/live/779/779/526.ts
+#EXTINF:-1,UK: Sky Discovery History
+http://163.172.6.8:8000/live/779/779/491.ts
+#EXTINF:-1,UK: Sky Discovery Turbo
+http://163.172.6.8:8000/live/779/779/465.ts
+#EXTINF:-1,UK: Sky Discovery Shed
+http://163.172.6.8:8000/live/779/779/445.ts
+#EXTINF:-1,UK: Sky Discovery
+http://163.172.6.8:8000/live/779/779/464.ts
+#EXTINF:-1,UK: Sky National Geographic HD
+http://163.172.6.8:8000/live/779/779/499.ts
+#EXTINF:-1,UK: Sky Nat Geo Wild HD
+http://163.172.6.8:8000/live/779/779/498.ts
+#EXTINF:-1,UK: Sky Animal Planet HD
+http://163.172.6.8:8000/live/779/779/497.ts
+#EXTINF:-1,UK: Sky History HD
+http://163.172.6.8:8000/live/779/779/496.ts
+#EXTINF:-1,UK: Sky History 2
+http://163.172.6.8:8000/live/779/779/452.ts
+#EXTINF:-1,UK: Sky Ci
+http://163.172.6.8:8000/live/779/779/514.ts
+#EXTINF:-1,UK: Sky 1
+http://163.172.6.8:8000/live/779/779/475.ts
+#EXTINF:-1,UK: Sky 2
+http://163.172.6.8:8000/live/779/779/507.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://163.172.6.8:8000/live/779/779/483.ts
+#EXTINF:-1,UK: Sky E!
+http://163.172.6.8:8000/live/779/779/447.ts
+#EXTINF:-1,UK: Sky VH1
+http://163.172.6.8:8000/live/779/779/449.ts
+#EXTINF:-1,UK: Sky E4
+http://163.172.6.8:8000/live/779/779/451.ts
+#EXTINF:-1,UK: Sky Syfy
+http://163.172.6.8:8000/live/779/779/538.ts
+#EXTINF:-1,UK: Sky CNBC
+http://163.172.6.8:8000/live/779/779/466.ts
+#EXTINF:-1,UK: Sky Dave HD
+http://163.172.6.8:8000/live/779/779/506.ts
+#EXTINF:-1,UK: Sky RTE One
+http://163.172.6.8:8000/live/779/779/474.ts
+#EXTINF:-1,UK: Sky RTE Two
+http://163.172.6.8:8000/live/779/779/478.ts
+#EXTINF:-1,UK: SKY Fox
+http://163.172.6.8:8000/live/779/779/460.ts
+#EXTINF:-1,UK: Sky Five
+http://163.172.6.8:8000/live/779/779/473.ts
+#EXTINF:-1,UK: Sky Arts 1 HD
+http://163.172.6.8:8000/live/779/779/489.ts
+#EXTINF:-1,UK: Sky Alibi
+http://163.172.6.8:8000/live/779/779/509.ts
+#EXTINF:-1,UK: Sky Living HD
+http://163.172.6.8:8000/live/779/779/502.ts
+#EXTINF:-1,UK: Sky BoxNation
+http://163.172.6.8:8000/live/779/779/490.ts
+#EXTINF:-1,UK: Sky Racing
+http://163.172.6.8:8000/live/779/779/458.ts
+#EXTINF:-1,UK: Sky Gold
+http://163.172.6.8:8000/live/779/779/508.ts
+#EXTINF:-1,UK: Sky 5 USA
+http://163.172.6.8:8000/live/779/779/480.ts
+#EXTINF:-1,UK: Sky 5 star
+http://163.172.6.8:8000/live/779/779/477.ts
+#EXTINF:-1,UK: Sky life Time
+http://163.172.6.8:8000/live/779/779/476.ts
+#EXTINF:-1,UK: Sky E4+1
+http://163.172.6.8:8000/live/779/779/525.ts
+#EXTINF:-1,UK: Sky TCM
+http://163.172.6.8:8000/live/779/779/459.ts
+#EXTINF:-1,UK: Sky CNN
+http://163.172.6.8:8000/live/779/779/454.ts
+#EXTINF:-1,UK: Sky Dmax
+http://163.172.6.8:8000/live/779/779/456.ts
+#EXTINF:-1,UK: Sky TLC
+http://163.172.6.8:8000/live/779/779/455.ts
+#EXTINF:-1,UK: Sky STV
+http://163.172.6.8:8000/live/779/779/448.ts
+#EXTINF:-1,UK: Sky MTV Rocks
+http://163.172.6.8:8000/live/779/779/450.ts
+#EXTINF:-1,UK: Sky MTV Rocks HD
+http://163.172.6.8:8000/live/779/779/442.ts
+#EXTINF:-1,UK: Sky MTV Hits HD
+http://163.172.6.8:8000/live/779/779/443.ts
+#EXTINF:-1,UK: Sky MTV Dance HD
+http://163.172.6.8:8000/live/779/779/441.ts
+#EXTINF:-1,UK: Sky MTV Live HD
+http://163.172.6.8:8000/live/779/779/439.ts
+#EXTINF:-1,UK: Sky MTV Classic
+http://163.172.6.8:8000/live/779/779/500.ts
+#EXTINF:-1,UK: Sky MTV Base
+http://163.172.6.8:8000/live/779/779/440.ts
+#EXTINF:-1,US: Famly HD
+http://163.172.6.8:8000/live/779/779/1161.ts
+#EXTINF:-1,US: Sport Pag TV
+http://163.172.6.8:8000/live/779/779/1442.ts
+#EXTINF:-1,US: Sport Network
+http://163.172.6.8:8000/live/779/779/1172.ts
+#EXTINF:-1,US: Sports Versus HD
+http://163.172.6.8:8000/live/779/779/1431.ts
+#EXTINF:-1,US: World Fashion TV
+http://163.172.6.8:8000/live/779/779/1432.ts
+#EXTINF:-1,US: Sports NFL Now HD
+http://163.172.6.8:8000/live/779/779/1434.ts
+#EXTINF:-1,US: HBO 1
+http://163.172.6.8:8000/live/779/779/1433.ts
+#EXTINF:-1,US: Sports MLS Soccer
+http://163.172.6.8:8000/live/779/779/1151.ts
+#EXTINF:-1,US: Sports Tonight
+http://163.172.6.8:8000/live/779/779/1158.ts
+#EXTINF:-1,US: Sports Fight Sports
+http://163.172.6.8:8000/live/779/779/1436.ts
+#EXTINF:-1,US: FOX 1
+http://163.172.6.8:8000/live/779/779/1435.ts
+#EXTINF:-1,US: Sport LTVE HD
+http://163.172.6.8:8000/live/779/779/1153.ts
+#EXTINF:-1,US: Starz Edge
+http://163.172.6.8:8000/live/779/779/1451.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://163.172.6.8:8000/live/779/779/1148.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://163.172.6.8:8000/live/779/779/1160.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://163.172.6.8:8000/live/779/779/1162.ts
+#EXTINF:-1,US: Sport TSN 1
+http://163.172.6.8:8000/live/779/779/1177.ts
+#EXTINF:-1,US: Sport TSN 2
+http://163.172.6.8:8000/live/779/779/1438.ts
+#EXTINF:-1,US: Sport TSN 3
+http://163.172.6.8:8000/live/779/779/1169.ts
+#EXTINF:-1,US: Sport TSN 4
+http://163.172.6.8:8000/live/779/779/1175.ts
+#EXTINF:-1,US: Sport TSN 5
+http://163.172.6.8:8000/live/779/779/1176.ts
+#EXTINF:-1,US: Sport Snet 360
+http://163.172.6.8:8000/live/779/779/1441.ts
+#EXTINF:-1,US: NHL Network HD
+http://163.172.6.8:8000/live/779/779/1429.ts
+#EXTINF:-1,US: Sport Snet Central
+http://163.172.6.8:8000/live/779/779/1430.ts
+#EXTINF:-1,US: Espn Sport
+http://163.172.6.8:8000/live/779/779/1164.ts
+#EXTINF:-1,US: AFN Movies HD
+http://163.172.6.8:8000/live/779/779/1146.ts
+#EXTINF:-1,US: Thai CH8
+http://163.172.6.8:8000/live/779/779/1168.ts
+#EXTINF:-1,US: AMC
+http://163.172.6.8:8000/live/779/779/1157.ts
+#EXTINF:-1,US: Fox Movies
+http://163.172.6.8:8000/live/779/779/1447.ts
+#EXTINF:-1,US: Fox Action
+http://163.172.6.8:8000/live/779/779/1448.ts
+#EXTINF:-1,US: Amazing Music
+http://163.172.6.8:8000/live/779/779/1446.ts
+#EXTINF:-1,US: TBS Channle
+http://163.172.6.8:8000/live/779/779/1449.ts
+#EXTINF:-1,US: Starz East
+http://163.172.6.8:8000/live/779/779/1450.ts
+#EXTINF:-1,US: NFL Live HD
+http://163.172.6.8:8000/live/779/779/1178.ts
+#EXTINF:-1,US: ShowTime HD
+http://163.172.6.8:8000/live/779/779/1439.ts
+#EXTINF:-1,US: A&E Network
+http://163.172.6.8:8000/live/779/779/1173.ts
+#EXTINF:-1,US: BeIN Sports US
+http://163.172.6.8:8000/live/779/779/1166.ts
+#EXTINF:-1,US: SYFY HD
+http://163.172.6.8:8000/live/779/779/1154.ts
+#EXTINF:-1,US: Bravo
+http://163.172.6.8:8000/live/779/779/1165.ts
+#EXTINF:-1,US: Fox Clasic
+http://163.172.6.8:8000/live/779/779/1443.ts
+#EXTINF:-1,US: Disccovery HD
+http://163.172.6.8:8000/live/779/779/1150.ts
+#EXTINF:-1,US: FX HD
+http://163.172.6.8:8000/live/779/779/1149.ts
+#EXTINF:-1,US: TMN 1 Moves
+http://163.172.6.8:8000/live/779/779/1152.ts
+#EXTINF:-1,US: AMG Entertainment
+http://163.172.6.8:8000/live/779/779/1437.ts
+#EXTINF:-1,US: Daystart
+http://163.172.6.8:8000/live/779/779/1145.ts
+#EXTINF:-1,US: Hallmark HD
+http://163.172.6.8:8000/live/779/779/1159.ts
+#EXTINF:-1,US: HSN
+http://163.172.6.8:8000/live/779/779/1170.ts
+#EXTINF:-1,US: Cinemax
+http://163.172.6.8:8000/live/779/779/1163.ts
+#EXTINF:-1,US: TNT
+http://163.172.6.8:8000/live/779/779/1156.ts
+#EXTINF:-1,US: NBA TV
+http://163.172.6.8:8000/live/779/779/1174.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://163.172.6.8:8000/live/779/779/1179.ts
+#EXTINF:-1,US: Poker Central
+http://163.172.6.8:8000/live/779/779/1155.ts
+#EXTINF:-1,US: California TV
+http://163.172.6.8:8000/live/779/779/1171.ts
+#EXTINF:-1,US: Bloomberg
+http://163.172.6.8:8000/live/779/779/1180.ts
+#EXTINF:-1,US: Amazing Discoveries
+http://163.172.6.8:8000/live/779/779/1181.ts
+#EXTINF:-1,US: BYU
+http://163.172.6.8:8000/live/779/779/1147.ts
+#EXTINF:-1,------ SKY German -------
+http://163.172.6.8:8000/live/779/779/830.ts
+#EXTINF:-1,DE: Sky Sport News
+http://163.172.6.8:8000/live/779/779/759.ts
+#EXTINF:-1,DE: Sky Sport +1
+http://163.172.6.8:8000/live/779/779/761.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://163.172.6.8:8000/live/779/779/829.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://163.172.6.8:8000/live/779/779/826.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://163.172.6.8:8000/live/779/779/827.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://163.172.6.8:8000/live/779/779/828.ts
+#EXTINF:-1,DE: Sky Eurosport
+http://163.172.6.8:8000/live/779/779/809.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+http://163.172.6.8:8000/live/779/779/810.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://163.172.6.8:8000/live/779/779/807.ts
+#EXTINF:-1,DE: Sky Select 1
+http://163.172.6.8:8000/live/779/779/825.ts
+#EXTINF:-1,DE: Sky Select 2
+http://163.172.6.8:8000/live/779/779/824.ts
+#EXTINF:-1,DE: Sky Select 3
+http://163.172.6.8:8000/live/779/779/823.ts
+#EXTINF:-1,DE: Sky Select 4
+http://163.172.6.8:8000/live/779/779/822.ts
+#EXTINF:-1,DE: Sky Select 5
+http://163.172.6.8:8000/live/779/779/821.ts
+#EXTINF:-1,DE: Sky Select 6
+http://163.172.6.8:8000/live/779/779/820.ts
+#EXTINF:-1,DE: Sky Select 7
+http://163.172.6.8:8000/live/779/779/819.ts
+#EXTINF:-1,DE: Sky Select 8
+http://163.172.6.8:8000/live/779/779/818.ts
+#EXTINF:-1,DE: Sky Action
+http://163.172.6.8:8000/live/779/779/804.ts
+#EXTINF:-1,DE: Sky Cinema
+http://163.172.6.8:8000/live/779/779/808.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://163.172.6.8:8000/live/779/779/806.ts
+#EXTINF:-1,DE: Sky Cinema +24
+http://163.172.6.8:8000/live/779/779/805.ts
+#EXTINF:-1,DE: Sky Emotion
+http://163.172.6.8:8000/live/779/779/801.ts
+#EXTINF:-1,DE: Sky Comedy
+http://163.172.6.8:8000/live/779/779/799.ts
+#EXTINF:-1,DE: Sky HITS
+http://163.172.6.8:8000/live/779/779/802.ts
+#EXTINF:-1,DE: Sky Comedy Central
+http://163.172.6.8:8000/live/779/779/786.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 1
+http://163.172.6.8:8000/live/779/779/751.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 2
+http://163.172.6.8:8000/live/779/779/750.ts
+#EXTINF:-1,DE: Sky Teleclub Sport 3
+http://163.172.6.8:8000/live/779/779/749.ts
+#EXTINF:-1,DE: Sky Teleclub Crime
+http://163.172.6.8:8000/live/779/779/748.ts
+#EXTINF:-1,DE: Sky Teleclub Cinema
+http://163.172.6.8:8000/live/779/779/747.ts
+#EXTINF:-1,DE: Sky Teleclub Star
+http://163.172.6.8:8000/live/779/779/746.ts
+#EXTINF:-1,DE: Sky RTL
+http://163.172.6.8:8000/live/779/779/779.ts
+#EXTINF:-1,DE: Sky RTL 2
+http://163.172.6.8:8000/live/779/779/778.ts
+#EXTINF:-1,DE: Sky RTL Crime
+http://163.172.6.8:8000/live/779/779/752.ts
+#EXTINF:-1,DE: Sky RTL Nitro
+http://163.172.6.8:8000/live/779/779/776.ts
+#EXTINF:-1,DE: Sky RTL Super
+http://163.172.6.8:8000/live/779/779/800.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://163.172.6.8:8000/live/779/779/784.ts
+#EXTINF:-1,DE: Sky Sat1 Gold
+http://163.172.6.8:8000/live/779/779/777.ts
+#EXTINF:-1,DE: ZEE Deutschland
+http://163.172.6.8:8000/live/779/779/791.ts
+#EXTINF:-1,DE: Sky ZDF Info
+http://163.172.6.8:8000/live/779/779/790.ts
+#EXTINF:-1,DE: Sky SRF 1
+http://163.172.6.8:8000/live/779/779/783.ts
+#EXTINF:-1,DE: Sky SRF 2
+http://163.172.6.8:8000/live/779/779/782.ts
+#EXTINF:-1,DE: Sky ORF 2
+http://163.172.6.8:8000/live/779/779/772.ts
+#EXTINF:-1,DE: Sky ORF Enis
+http://163.172.6.8:8000/live/779/779/771.ts
+#EXTINF:-1,DE: Sky VOX
+http://163.172.6.8:8000/live/779/779/788.ts
+#EXTINF:-1,DE: Sky FOX
+http://163.172.6.8:8000/live/779/779/787.ts
+#EXTINF:-1,DE: Sky Austria 24 TV
+http://163.172.6.8:8000/live/779/779/796.ts
+#EXTINF:-1,DE: Sky HR HD
+http://163.172.6.8:8000/live/779/779/754.ts
+#EXTINF:-1,DE: Sky RTL You
+http://163.172.6.8:8000/live/779/779/753.ts
+#EXTINF:-1,DE: Sky Disney Channel
+http://163.172.6.8:8000/live/779/779/795.ts
+#EXTINF:-1,DE: Sky TNT Comedy HD
+http://163.172.6.8:8000/live/779/779/811.ts
+#EXTINF:-1,DE: Sky TNT Serie
+http://163.172.6.8:8000/live/779/779/794.ts
+#EXTINF:-1,DE: Sky TNT Film
+http://163.172.6.8:8000/live/779/779/758.ts
+#EXTINF:-1,DE: Sky Nickelodeon
+http://163.172.6.8:8000/live/779/779/797.ts
+#EXTINF:-1,DE: Sky National Geographic
+http://163.172.6.8:8000/live/779/779/792.ts
+#EXTINF:-1,DE: Sky Nat Geo wild
+http://163.172.6.8:8000/live/779/779/793.ts
+#EXTINF:-1,DE: Sky History
+http://163.172.6.8:8000/live/779/779/762.ts
+#EXTINF:-1,DE: Sky AXN HD
+http://163.172.6.8:8000/live/779/779/760.ts
+#EXTINF:-1,DE: Sky 13th Street
+http://163.172.6.8:8000/live/779/779/780.ts
+#EXTINF:-1,DE: Sky BR
+http://163.172.6.8:8000/live/779/779/774.ts
+#EXTINF:-1,DE: Sky RBB Berlin
+http://163.172.6.8:8000/live/779/779/775.ts
+#EXTINF:-1,DE: Sky Phoenix
+http://163.172.6.8:8000/live/779/779/769.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://163.172.6.8:8000/live/779/779/798.ts
+#EXTINF:-1,DE: Sky Wdr
+http://163.172.6.8:8000/live/779/779/789.ts
+#EXTINF:-1,DE: Sky Sixx
+http://163.172.6.8:8000/live/779/779/785.ts
+#EXTINF:-1,DE: Sky Pro 7
+http://163.172.6.8:8000/live/779/779/773.ts
+#EXTINF:-1,DE: Sky NDR HD
+http://163.172.6.8:8000/live/779/779/768.ts
+#EXTINF:-1,DE: Sky N24
+http://163.172.6.8:8000/live/779/779/767.ts
+#EXTINF:-1,DE: Sky N-TV
+http://163.172.6.8:8000/live/779/779/766.ts
+#EXTINF:-1,DE: Sky MDR
+http://163.172.6.8:8000/live/779/779/765.ts
+#EXTINF:-1,DE: Sky Krimi
+http://163.172.6.8:8000/live/779/779/803.ts
+#EXTINF:-1,DE: Sky Kika
+http://163.172.6.8:8000/live/779/779/764.ts
+#EXTINF:-1,DE: Sky Kabel 1
+http://163.172.6.8:8000/live/779/779/763.ts
+#EXTINF:-1,DE: Sky Dmax
+http://163.172.6.8:8000/live/779/779/770.ts
+#EXTINF:-1,DE: Sky Pro 7 Max
+http://163.172.6.8:8000/live/779/779/757.ts
+#EXTINF:-1,DE: Sky Arte
+http://163.172.6.8:8000/live/779/779/756.ts
+#EXTINF:-1,DE: Sky ARD
+http://163.172.6.8:8000/live/779/779/755.ts
+#EXTINF:-1,DE: Sky 3sat
+http://163.172.6.8:8000/live/779/779/781.ts
 
 #EXTINF:-1,[COLOR skyblue][I][B]------------------Spain-----------------------------[/B][/I][/COLOR]
 
