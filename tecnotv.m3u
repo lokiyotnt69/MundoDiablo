@@ -1,13 +1,6 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,HD MEDIA 3D
-rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
-#EXTINF:-1,PLANET 3D
-http://95.67.10.42:8080
-#EXTINF:-1,Sky 3D
-http://iptvsat.homelinux.com:2021/Sky%203D?u=celadomin2&p=domicela2s:Sky%203D
-#EXTINF:-1,Sky 3D HD
-http://iptvsat.homelinux.com:2021/Sky%203D%20HD?u=celadomin2&p=domicela2s:Sky%203D%20HD
+
 
 
 #EXTINF:-1,[COLOR red][I][B]-----------------------ARABIA------------------------------[/B][/I][/COLOR]
@@ -2042,141 +2035,6 @@ http://163.172.6.8:8000/live/779/779/755.ts
 #EXTINF:-1,DE: Sky 3sat
 http://163.172.6.8:8000/live/779/779/781.ts
 
-#EXTINF:-1,[COLOR skyblue][I][B]------------------Spain-----------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ES: LA 1
-http://163.172.217.71:8085/live/dorin/dorin/7101.ts
-#EXTINF:-1,ES: LA 2
-http://163.172.217.71:8085/live/dorin/dorin/7102.ts
-#EXTINF:-1,ES: TV3
-http://163.172.217.71:8085/live/dorin/dorin/9243.ts
-#EXTINF:-1,ES: La Sexta
-http://163.172.217.71:8085/live/dorin/dorin/7887.ts
-#EXTINF:-1,ES: RT Español
-http://163.172.217.71:8085/live/dorin/dorin/9225.ts
-#EXTINF:-1,ES: Los 40TV
-http://163.172.217.71:8085/live/dorin/dorin/9230.ts
-#EXTINF:-1,ES: Antena3
-http://163.172.217.71:8085/live/dorin/dorin/7900.ts
-#EXTINF:-1,ES: 24 Horas
-http://163.172.217.71:8085/live/dorin/dorin/9226.ts
-#EXTINF:-1,ES: Andalucía TV
-http://163.172.217.71:8085/live/dorin/dorin/9247.ts
-#EXTINF:-1,ES: Alfa TV
-http://163.172.217.71:8085/live/dorin/dorin/9242.ts
-#EXTINF:-1,ES: 8TV Catalunha
-http://163.172.217.71:8085/live/dorin/dorin/8215.ts
-#EXTINF:-1,ES: Galicia TV
-http://163.172.217.71:8085/live/dorin/dorin/8216.ts
-#EXTINF:-1,ES: Canal Sur Andalucía
-http://163.172.217.71:8085/live/dorin/dorin/8214.ts
-#EXTINF:-1,ES: #0
-http://163.172.217.71:8085/live/dorin/dorin/9223.ts
-#EXTINF:-1,ES: Movistar+ Accion
-http://163.172.217.71:8085/live/dorin/dorin/8868.ts
-#EXTINF:-1,ES: Movistar+ Comedia
-http://163.172.217.71:8085/live/dorin/dorin/9258.ts
-#EXTINF:-1,ES: Movistar+ Xtra
-http://163.172.217.71:8085/live/dorin/dorin/9244.ts
-#EXTINF:-1,ES: Canal+ DCine
-http://163.172.217.71:8085/live/dorin/dorin/9257.ts
-#EXTINF:-1,ES: Odisea
-http://163.172.217.71:8085/live/dorin/dorin/9248.ts
-#EXTINF:-1,ES: DeCasa
-http://163.172.217.71:8085/live/dorin/dorin/9249.ts
-#EXTINF:-1,ES: Canal Cocina
-http://163.172.217.71:8085/live/dorin/dorin/7892.ts
-#EXTINF:-1,ES: Calle 13
-http://163.172.217.71:8085/live/dorin/dorin/9232.ts
-#EXTINF:-1,ES: SyFy
-http://163.172.217.71:8085/live/dorin/dorin/9227.ts
-#EXTINF:-1,ES: AXN White
-http://163.172.217.71:8085/live/dorin/dorin/9253.ts
-#EXTINF:-1,ES: AXN HD
-http://163.172.217.71:8085/live/dorin/dorin/9252.ts
-#EXTINF:-1,ES: A&E
-http://163.172.217.71:8085/live/dorin/dorin/9224.ts
-#EXTINF:-1,ES: Hollywood
-http://163.172.217.71:8085/live/dorin/dorin/9256.ts
-#EXTINF:-1,ES: AMC HD
-http://163.172.217.71:8085/live/dorin/dorin/9485.ts
-#EXTINF:-1,ES: FoxLife
-http://163.172.217.71:8085/live/dorin/dorin/9255.ts
-#EXTINF:-1,ES: Fox
-http://163.172.217.71:8085/live/dorin/dorin/9254.ts
-#EXTINF:-1,ES: Nat Geo HD
-http://163.172.217.71:8085/live/dorin/dorin/9239.ts
-#EXTINF:-1,ES: Historia
-http://163.172.217.71:8085/live/dorin/dorin/9240.ts
-#EXTINF:-1,ES: DiscoveryChannel
-http://163.172.217.71:8085/live/dorin/dorin/9238.ts
-#EXTINF:-1,ES: Crimen + Investigación
-http://163.172.217.71:8085/live/dorin/dorin/9236.ts
-#EXTINF:-1,ES: Caza Y Pesca
-http://163.172.217.71:8085/live/dorin/dorin/8869.ts
-#EXTINF:-1,ES: Nova
-http://163.172.217.71:8085/live/dorin/dorin/9229.ts
-#EXTINF:-1,ES: NonStop People
-http://163.172.217.71:8085/live/dorin/dorin/9237.ts
-#EXTINF:-1,ES: TNT
-http://163.172.217.71:8085/live/dorin/dorin/10197.ts
-#EXTINF:-1,ES: Movistar+ Series
-http://163.172.217.71:8085/live/dorin/dorin/10201.ts
-#EXTINF:-1,ES: Paramount
-http://163.172.217.71:8085/live/dorin/dorin/10198.ts
-#EXTINF:-1,ES: Canal Panda
-http://163.172.217.71:8085/live/dorin/dorin/10199.ts
-#EXTINF:-1,ES: National Geographic Wild
-http://163.172.217.71:8085/live/dorin/dorin/10200.ts
-#EXTINF:-1,ES: Cosmopolitan HD
-http://163.172.217.71:8085/live/dorin/dorin/9228.ts
-#EXTINF:-1,ES: Boing
-http://163.172.217.71:8085/live/dorin/dorin/9233.ts
-#EXTINF:-1,ES: Disney XD
-http://163.172.217.71:8085/live/dorin/dorin/9241.ts
-#EXTINF:-1,ES: DisneyJr
-http://163.172.217.71:8085/live/dorin/dorin/9231.ts
-#EXTINF:-1,ES: Real Madrid TV
-http://163.172.217.71:8085/live/dorin/dorin/9246.ts
-#EXTINF:-1,ES: TeleDeporte
-http://163.172.217.71:8085/live/dorin/dorin/9251.ts
-#EXTINF:-1,ES:  Movistar+ Moto GP
-http://163.172.217.71:8085/live/dorin/dorin/9262.ts
-#EXTINF:-1,ES: Canal+ Liga
-http://163.172.217.71:8085/live/dorin/dorin/8207.ts
-#EXTINF:-1,ES: Movistar+ Futbol
-http://163.172.217.71:8085/live/dorin/dorin/8206.ts
-#EXTINF:-1,ES: Movistar+ Deportes
-http://163.172.217.71:8085/live/dorin/dorin/8861.ts
-#EXTINF:-1,ES: Movistar+ Deportes2
-http://163.172.217.71:8085/live/dorin/dorin/9629.ts
-#EXTINF:-1,ES: Canal+ Toros
-http://163.172.217.71:8085/live/dorin/dorin/9260.ts
-#EXTINF:-1,ES: CANAL+ GOLF HD
-http://163.172.217.71:8085/live/dorin/dorin/9259.ts
-#EXTINF:-1,ES: BeIN Deportes
-http://163.172.217.71:8085/live/dorin/dorin/8789.ts
-#EXTINF:-1,ES: Barca TV
-http://163.172.217.71:8085/live/dorin/dorin/9245.ts
-#EXTINF:-1,ES: Taquilla 1
-http://163.172.217.71:8085/live/dorin/dorin/9447.ts
-#EXTINF:-1,ES: Taquilla 2
-http://163.172.217.71:8085/live/dorin/dorin/9446.ts
-#EXTINF:-1,ES: Taquilla 3
-http://163.172.217.71:8085/live/dorin/dorin/9445.ts
-#EXTINF:-1,ES: Taquilla 4
-http://163.172.217.71:8085/live/dorin/dorin/9444.ts
-#EXTINF:-1,ES: Taquilla 5
-http://163.172.217.71:8085/live/dorin/dorin/9443.ts
-#EXTINF:-1,ES: Taquilla 6
-http://163.172.217.71:8085/live/dorin/dorin/9442.ts
-#EXTINF:-1,ES: Taquilla 7
-http://163.172.217.71:8085/live/dorin/dorin/9441.ts
-#EXTINF:-1,ES: Taquilla 8
-http://163.172.217.71:8085/live/dorin/dorin/9440.ts
-#EXTINF:-1,ES: Taquilla 9
-http://163.172.217.71:8085/live/dorin/dorin/9439.ts
-#EXTINF:-1,ES: Taquilla 10
-http://163.172.217.71:8085/live/dorin/dorin/9438.ts
 
 
 
@@ -2700,6 +2558,69 @@ plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander
 
 
 #EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,ESP:TELECINCO-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3927.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:LA-SEXTA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3928.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:CALLE-13-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3929.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-SERIES-XTRA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3930.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-LIGA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3931.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-LIGA-2-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3932.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-GOLF-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3933.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-ESTRENOS-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3934.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-DEPORTES-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3935.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-DEPORTES-2-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3936.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-DCINE-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3937.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-COMEDIA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3938.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-ACCION-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3939.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:C-XTRA-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3940.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:BEIN-SPORTS
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3941.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:AXN-WHITE-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3942.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP:ANTENA-3-HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3943.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESP: #0 HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3944.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:FOX
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/465.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:C-COMEDIA
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/464.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-8
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/462.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-7
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/461.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-6
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/460.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-5
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/459.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-4
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/458.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-3
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/457.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-2
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/456.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Taquilla-1
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/455.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:LA_SEXTA_HD
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/463.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Canal_Estrenos
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/610.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ES:Canal_Dcine
+plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/608.ts&amp;streamtype=TSDOWNLOADER
+
 
 
 
