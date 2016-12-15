@@ -1,0 +1,546 @@
+#EXTM3U
+#EXTINF:-1,---☛★PORTUGAL★☚---
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2531.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: RTP 1 LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5906.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2373.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 1 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2372.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: RTP 2 LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5911.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2375.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 2 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5521.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SIC LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5907.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2377.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2376.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: TVI LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5910.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2378.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2379.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI REALITY
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2380.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Q CANAL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5523.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2390.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP MADEIRA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2389.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP INTER
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2388.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2387.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC RADICAL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2386.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC MULHER
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2385.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC CARAS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5524.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV GALICIA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2396.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI FICCAO
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2382.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TCV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2397.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,★●•★●•★●•DESPORTO★●•★●•★●•
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2532.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MCS EXTREME
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5530.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBA HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5534.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2430.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5527.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2429.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BTV 1 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2427.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BTV 1
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2426.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT NEWS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2433.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EUROSPORT HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2428.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ABOLA TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2432.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2440.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTING TV HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2434.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTING TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2435.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV +
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2861.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 1 LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5570.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 1 HD LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/4300.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 1
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2421.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/4533.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SPORTV 2 LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5902.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 2
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2422.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 2 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2418.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SPORTV 3 LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5903.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 3
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2423.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 3 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2419.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SPORTV 4 LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5904.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2424.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 4 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/3703.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PT: SPORTV 5 LOW
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5905.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 5
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2425.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTTV 5 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FIGTH NETWORK
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5533.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,KOMBAT SPORTS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5532.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,POKER CENTRAL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5529.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,★●•★●•★●•NOTICIAS★●•★●•★●•
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2540.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PORTO CANAL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2436.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVI24
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2403.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2402.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2401.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RECORD NEWS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2410.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EURONEWS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2409.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2411.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CMTV HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2405.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CMTV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2406.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bloomberg
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2412.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC NEWS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2413.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BBC ENTERTAINMENT
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2479.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ALJAZEERA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2414.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,★●•★●•★●•KIDS★●•★●•★●•
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2534.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PANDA BIGGS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2488.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2487.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2486.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2485.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2484.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2483.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SIC KIDS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2489.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2482.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2481.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BABY FIRST
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5535.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,★●•★●•★●•FILMES & SERIES★●•★●•★●•
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2539.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2477.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2478.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOV HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2476.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2475.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2474.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2473.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2472.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2468.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX CRIME HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2471.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX CRIME
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2470.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX COMEDY
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2469.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CINEMUNDO
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2467.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,A & E
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2502.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2461.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2465.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2466.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2462.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN BLACK HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2463.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN BLACK
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2464.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVC SERIES HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2452.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV SERIES
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2451.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 1 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2454.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 1
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2453.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 2 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2456.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 2
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2455.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 3 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2458.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 3
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2457.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 4 HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2460.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TVCINE 4
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2459.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,★●•★●•★●•DOCUMENTARIOS★●•★●•★●•
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2535.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2498.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FUEL TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2443.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2494.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOTORVISION
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2442.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2496.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NAT GEO HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2495.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2499.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2447.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2501.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2492.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DISCOVERY
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2491.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CAÇAVISION
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2449.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CAÇA E PESCA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2448.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ODISSEIA
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2497.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,24KITCHEN HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2505.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MCS LIFESTYLE
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5538.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOOD NETWORK
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5540.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CBS REALITY
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5539.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ARTV Parlamento
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5526.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,★●•★●•★●•MUSICA★●•★●•★●•
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2538.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,1HD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2849.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Tigo Music
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2855.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SLAM TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2858.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Power T
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2845.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,One 0
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2836.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIRGIN TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/712.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TRACE URBAN
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2511.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VH1 CLASSIC
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2516.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2517.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2512.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MCM POP
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2510.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AFRO MUSIC
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2518.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,★●•★●•★●•BRAZIL★●•★●•★●•
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2541.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SBT RECIFE
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/1374.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SBT PE
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/1371.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV Jornal Recife
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/1404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV Jornal Caruaru
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/1403.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV ABERTA SP
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/1421.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV ALL SPORTS
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/715.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,REDE TV
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2395.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GLOBO PORTUGAL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,GLOBO BRASIL
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2394.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TV RECORD
+plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2398.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow]GENERALISTAS [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-name="rtp1.pt" audio-track="pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png",[I][B]RTP 1[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-name="rtp2.pt" audio-track="pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/qpxxwq1438185552.png",[I][B]RTP 2[/B][/I]  
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png",[I][B]RTP ACORES[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtpacores
+
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png",[I][B]RTP AFRICA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtpafrica swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png",[I][B]RTP MADEIRA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15
+
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?url=http://i67.tinypic.com/2n2hzb.jpg",[I][B]RTP MEMORIA[/B][/I]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?url=http://i65.tinypic.com/2552sjl.jpg",[I][B]RTP INTERNACIONAL[/B][/I] [COLOR orange][I][B](1 jogo por semana Liga NOS)[/B][/I][/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15
+
+#EXTINF:-1 tvg-name="sic.pt" audio-track="pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png",[I][B]SIC [/B][/I]
+plugin://plugin.video.f4mTester/?url=http://213.13.26.11:1935/live/sic/livestream.m3u8
+
+#EXTINF:-1 tvg-name="tvi.pt" audio-track="pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png",[I][B]TVI (HQ)[/B][/I]
+plugin://plugin.video.f4mTester/?url=http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="plugin://plugin.video.f4mTester/?url=http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg",[I][B]TV CABO VERDE[/B][/I]
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=plugin://plugin.video.f4mTester/?url=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=plugin://plugin.video.f4mTester/?url=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=plugin://plugin.video.f4mTester/?url=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
+ 
+#EXTINF:0 tvg-id="TPA" tvg-logo="plugin://plugin.video.f4mTester/?url=http://www.thelogodb.com/images/media/logo/rsxstu1436845265.png",[I][B]TPA Internacional [SD][/B][/I]
+rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=plugin://plugin.video.f4mTester/?url=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.tpai.tv/live
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow] DOCUMENTARIOS [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://0.0.0.0:1234
+
+#EXTINF:0,Mute TV
+plugin://plugin.video.f4mTester/?url=http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+
+#EXTINF:0,Mute TV 3D
+plugin://plugin.video.f4mTester/?url=http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="plugin://plugin.video.f4mTester/?url=http://channelpear.com/images/media/3807.jpg", [I][B]NASA TV[/B][/I]
+plugin://plugin.video.f4mTester/?url=http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow] RADIOS PORTUGUESAS [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://0.0.0.0:1234
+
+#EXTINF:-1,Mais Kizomba
+plugin://plugin.video.f4mTester/?url=http://109.71.41.250:8123/
+
+#EXTINF:-1,RFM CLUBBING
+plugin://plugin.video.f4mTester/?url=http://7719.live.streamtheworld.com:80/RFMCLUBBINGAAC_SC
+
+#EXTINF:-1,M80
+plugin://plugin.video.f4mTester/?url=http://7719.live.streamtheworld.com:80/GR80SRFMAAC_SC
+
+#EXTINF:-1,NOVA ERA
+plugin://plugin.video.f4mTester/?url=http://stream.radio.com.pt:9478/stream
+
+#EXTINF:-1,94 FM
+plugin://plugin.video.f4mTester/?url=http://195.8.58.150:35022/;stream.nsv
+
+#EXTINF:-1,SUPER FM
+plugin://plugin.video.f4mTester/?url=http://94.23.76.235:9956/
+
+#EXTINF:-1,HIPER FM
+plugin://plugin.video.f4mTester/?url=http://85.25.73.243:10460/
+
+#EXTINF:0,Radio Antena 1
+mms://195.245.168.21/antena1
+ 
+#EXTINF:0,Radio Antena 2
+mms://195.245.168.21/antena2
+ 
+#EXTINF:0,Radio Antena3
+mms://195.245.168.21/antena3
+ 
+#EXTINF:0,Radio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=plugin://plugin.video.f4mTester/?url=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+ 
+#EXTINF:0,Radio RFM
+plugin://plugin.video.f4mTester/?url=http://7719.live.streamtheworld.com/RFM_SC
+
+#EXTINF:0,Radio Orbital
+mms://stream.radio.com.pt/ROLI-ENC-401
+ 
+#EXTINF:0, Radio Cidade FM
+mms://195.23.102.196/cidadecbr96
+ 
+#EXTINF:0, Radio Renascença
+plugin://plugin.video.f4mTester/?url=http://7709.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC?.wma
+ 
+#EXTINF:0, Radio MegaFM
+plugin://plugin.video.f4mTester/?url=http://7719.live.streamtheworld.com:3690/MEGA_HITS_SC?.wma
+ 
+#EXTINF:0, Radio TSF
+mmsh://emdirecto.m3u8f.pt/tsfdirecto?MSWMExt=.asf
+ 
+#EXTINF:0, Radio Vodafone FM
+rtmp://195.23.102.206/autometadata5/ playpath=vodafone.sdp swfUrl=plugin://plugin.video.f4mTester/?url=http://www.vodafone.fm/flash/soundmanager2_flash9.swf?.m3u8=1425470563156 live=1 pageUrl=plugin://plugin.video.f4mTester/?url=http://www.vodafone.fm/
+
+
+#EXTINF:-1,[COLOR red][I][B]-------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[COLOR yellow] PRAIAS DE PORTUGAL [/COLOR] [COLOR green][Atualizado][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://0.0.0.0:1234
+
+#EXTINF:-1, PRAIA DO NORTE 
+rtmp://213.13.26.12/live playpath=norte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/oCjzVigYoFkJHSjgTbkl/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DE CARCAVELOS 
+rtmp://213.13.26.43/live playpath=carcavelos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/N1ZOaY48idM6hNTjL7qC/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO CARVALHAL
+rtmp://213.13.26.43/live playpath=carvalhal.stream swfUrl=https://js.sapo.pt/Projects/Video/150825R1/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/C612sSyb7aOKWFjSF0m4/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, LAGIDE E BAIA - PENICHE 
+rtmp://213.13.26.41/live playpath=peniche.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/gf8BDWe7fWzQO92jHbBk/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA BARRA
+rtmp://213.13.26.13/live playpath=aveiro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/FbTjYSaI4blfYhgTprsl/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA LUZ - ALGARVE 
+rtmp://213.13.26.43/live playpath=luz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/TH7M3zfHJ32rqRpZnV2l/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/luz.stream
+
+#EXTINF:-1, DUNA BEACH 
+rtmp://213.13.26.43/live playpath=meiapraia.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zaAQDbEMWBsCP0TZAubG/mov/24&autoStart=1
+
+#EXTINF:-1, LECA DA PALMEIRA 
+rtmp://213.13.26.41/live playpath=leca.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/OF4ntVhaeSihG8JIWV8n/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, JARDIM DO MAR - MADEIRA 
+rtmp://213.13.26.41/live playpath=jardim.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zpUGwd4ZUrfvFIDb0Vco/mov/24&autoStart=1&showlogo=false&showShare=false&live=rtmp://{$hostname}/live/bordeira.stream
+
+#EXTINF:-1, PRAIA DA ERICEIRA 
+rtmp://213.13.26.43/live playpath=ericeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/DTlId9ym9TZc7rOhKECF/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA COSTA DE CAPARICA 
+rtmp://213.13.26.13/live playpath=costa.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/mQFYGs9wRn2H30nvzQbd/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA COSTA DE CAPARICA - SAO JOAO
+rtmp://213.13.26.13/live playpath=costasjoao.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/vh8yWLHqVjIDPEz9fuwF/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DE ESPINHO 
+rtmp://213.13.26.13/live playpath=espinho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/MkomIV8Fr0pEGnMRJCr1/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DE SAO TORPES 
+rtmp://213.13.26.13/live playpath=saotorpes.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/zzodtq8OUtUfIeLHTjvC/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO GUINCHO DO SUL
+rtmp://213.13.26.41/live playpath=guincho.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/lhla7bAtgyT97RZYZrER/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DO GUINCHO DO NORTE
+rtmp://213.13.26.13/live playpath=guinchonorte.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/IFi2dpFlqJvt7hElSgFM/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DO EVARISTO
+rtmp://213.13.26.13/live playpath=evaristo.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/igGN5w5wQ9MZayZneSEq/mov/24&autoStart=1
+
+#EXTINF:-1, PRAIA DE SAO PEDRO 
+rtmp://213.13.26.12/live playpath=saopedro.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/jenFJoJ9B0cZqIEylUvI/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA MATOSINHOS 
+rtmp://213.13.26.13/live playpath=matosinhos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/es8j5Fy9uPz4IHG0jDsb/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, RIBEIRA D Ilhas
+rtmp://213.13.26.13/live playpath=ribeira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/JBVNouMY9PAovZa1dpLU/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA SAO PEDRO E BAFUREIRA 
+plugin://plugin.video.f4mTester/?url=http://213.13.26.12:1936/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1, PRAIA GRANDE 
+rtmp://213.13.26.13/live playpath=grande.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/grfBgAQdvMI3zCGZzPrF/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA SUPER TUBOS 
+rtmp://213.13.26.41/live playpath=supertubos.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cj18gCcQce1w7DBykbof/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, PRAIA DA TORREIRA
+rtmp://213.13.26.13/live playpath=torreira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/o2CeOrbYOwlPRcPa0SdW/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, FONTE DA TELHA
+rtmp://213.13.26.13/live playpath=fontetelha.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/QLSeZzJddnWp7KSNs63n/mov/24&relatedVideos=none&autoStart=1
+
+#EXTINF:-1, SANTA CRUZ
+rtmp://213.13.26.13/live playpath=santacruz.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/2qs77WWaNsGO8kC47ArQ/mov/24&autoStart=1&showlogo=false&showShare=false
+
+#EXTINF:-1, SAO PEDRO DO ESTORIL
+rtmp://213.13.26.13:1936/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1, VAGUEIRA 
+rtmp://213.13.26.41/live playpath=vagueira.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/cZokTZuTANNQ2vC57fnS/mov/24&autoStart=1
+
+#EXTINF:-1, VILAMOURA
+rtmp://213.13.26.43/live playpath=vilamoura.stream swfUrl=https://js.sapo.pt/Projects/Video/150129_PATCHED_R2/flash/videojs.swf live=1 pageUrl=https://rd3.videos.sapo.pt/playhtml?file=https://rd3.videos.sapo.pt/Pfow3TrYaVCoyND8bjGL/mov/24&autoStart=1
