@@ -1,0 +1,350 @@
+#EXTM3U
+#EXTINF:-1,++++ SPORTS ++++
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1548.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEIN SPORTS HD1
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/17.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEIN SPORTS HD2
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/18.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEIN SPORTS HD3
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/19.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEINSPORT_MAX4
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/559.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEINSPORT_MAX5
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/558.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEINSPORT_MAX6
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/554.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEINSPORT_MAX7
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1706.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BEINSPORT_MAX8
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1707.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: TREK HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/2059.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  FOOT +
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/63.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: AB Moteur HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/2056.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  InfoSport
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/227.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  L'EQUIPE 21
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/21.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | MA CHAINE SPORT
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/120.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  EUROSPORT HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/64.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/125.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | EUROSPORT2
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/229.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | CANAL SPORT HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/562.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  OL TV
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/111.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL  SPORT HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/34.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,++++ FILMS ++++
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1538.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC OCS GEANT HD F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/769.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC OCS CHOC HD F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/770.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC CINE PREMIER HD F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/775.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | LOC Cine  Emotion H -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/774.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC Canal  Family HD F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/771.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | LOC Canal  cinema HD H -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/773.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A.LA.CARTE.10
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/552.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A.LA.CARTE.9
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/551.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A LA CARTE 8 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/702.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A LA CARTE 7 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/701.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A.LA.CARTE.5
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/550.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A.LA.CARTE.4
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/549.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A.LA.CARTE.3
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/548.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A.LA.CARTE.2
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/547.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  A.LA.CARTE.1
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/546.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANALPLAY-9
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/561.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANALPLAY-5
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/557.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANALPLAY-4
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/556.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANALPLAY-3
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/555.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANALPLAY-1
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/553.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  HD 1
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/472.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | ACTION
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/104.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE EMOTION
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/39.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  SERIE CLUB HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/47.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  SYFY
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/225.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  cherie25
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/530.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  OCS MAX HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/50.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  OCS GEANT HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/51.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  OCS CITY HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/112.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE + FRISSON
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/40.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | Comedie Plus HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/130.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: CINE FX HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/2058.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | comedie HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/606.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE PLUS PREMIER HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/148.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE PLUS FRISSON HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/149.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE PLUS EMOTION HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/151.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE CLASSIC HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/132.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE POLAR
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/44.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Canal-Serie
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/232.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL FAMILY HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/36.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL SERIES HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/563.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  SYFY HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/54.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL CINEMA HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/38.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL PLUS FAMILY
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/147.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CINE FAMIZ HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/593.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,++++ CULTURE ++++
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1539.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Chasse&Peche
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/590.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  WEO
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/96.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Animaux
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/231.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  NATIONAL.GEO.WILD.HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/572.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC Serie Club F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/764.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  June HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/92.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  W9 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/28.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Ushuaia HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/66.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  USHUAIA
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/97.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Discovery
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/573.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FR: VOYAGE TV HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/605.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  ScienceetVieTV
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/105.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  PLANET PLUS HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/108.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  PLANET PLUS CI
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/109.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Planete Plus AE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/110.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  PLANETE +
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/70.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Teva HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/93.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/71.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  NAT GEO WILD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/114.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  NATIONAL GEO
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/68.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  NAT GEO HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/115.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  HISTOIRE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/122.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  DISCOVERY-HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/230.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  RMC
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/107.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CHASSE & PECHE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/136.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  ANIMAUX HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/144.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/604.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,++++ ENFANTS ++++
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1537.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  DISNEY CINEMA
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/568.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  GULLI
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/592.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TeleToon Plus
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/102.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TeleToon
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/103.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LA UNE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/761.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LA DEUX
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/762.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TCM
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/94.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TIJI
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/101.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  DISNEY CINE MAGIC
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/567.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/569.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  PIWI
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/565.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/566.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  MANGAS
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/119.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | CANAL J
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/139.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  DISNEY CINE  MAGIC F
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/128.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH | Disney Channel
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/129.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CARTOON NETWORK
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/137.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BOOMERANG
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/140.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BOING
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/141.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,++++ EVENEMENT ++++
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1536.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TV5 MONDE  HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/98.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TV5
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/99.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TMC HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/100.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC TF1 HD F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/763.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  TF1 hd
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/303.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  France 0
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/145.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC M6 HD F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/766.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  LOC Canal  Decale HD F -
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/772.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  RTL9
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  RTL 9 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/106.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Paris Premiere
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/55.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  NT1
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/722.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  NRJ 12 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/113.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  MCM POP
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/118.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  M6 Music HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/121.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  M6
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/26.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  E!
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/95.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  D8
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/29.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  D17
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/721.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  FRANCE 24 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/124.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  France 2 HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/280.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  France2-HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/228.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  FRANCE 2
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/22.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  FRANCE 3
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/23.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  France 4
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/24.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  FRANCE 5
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL DECAL HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/37.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  EURONEWS
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/126.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  Enorme TV HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/127.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  ENORME HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/57.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL PLUS HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/138.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  CANAL+
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/33.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BFM TV
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/142.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  BFM BUSINESS HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/143.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  ARTE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/27.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  6TER HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/30.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  13EME RUE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/53.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTS_2
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/529.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RTS_1
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/528.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,+++++ MUSIC +++++
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1709.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  MTV MUSIC
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1708.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  MTV HITS
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/117.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FRENCH |  MTV DANCE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/116.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,â€¢â—â˜…---- Belgium ----â˜…â—â€¢
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1592.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  TV LUX
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1601.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  TELEVESDRE TV
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1602.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  TELE MB
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1593.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  TELE BRUXELLES
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1594.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  PLUG RTL
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1595.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  NOTELE
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1596.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  LA UNE HD
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1597.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  LA TROIS
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1598.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  LA DEUX
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1599.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  CLUB RTL
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1600.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  CANAL C
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1603.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BELGIUM |  ANTENNE CENTRE TELEVISION
+plugin://plugin.video.f4mTester/?url=http://boxiptv.mountservers.com:9998/live/Diamchoutis/Kzulr8nAA0/1604.ts&amp;streamtype=TSDOWNLOADER
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
