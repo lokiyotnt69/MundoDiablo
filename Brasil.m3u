@@ -1,0 +1,765 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canais BR" tvg-logo="https://lut.im/PFyHGKW1Zi/6XASjzxXuCMhecVB.png", SBT HD
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream4/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="http://pescanapraia.com/wp-content/uploads/2014/02/logo-fishtv-blog1-770x439_c.jpg",FISH TV
+http://gbbrlive2.sambatech.com.br:80/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/esporte-interativo/images/logo-ei-square.png" group-title="Canais BR", ESPORTE INTERATIVO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-PVD6exmC8MI/VdNm9i6im2I/AAAAAAAAFK8/olLbVHjiPSo/s1600/123.jpg" group-title="Canais BR", EI MAXX
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://clarohdtv.claro.com.br/image/Get/4392" group-title="Canais BR", EI MAXX 2
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="https://media.lovemondays.com.br/logos/566dad/globo-1-original.png",GLOBO
+http://31.204.128.117:8081/live/sptv/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png",BAND
+http://31.204.128.117:8081/live/band/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/logo-bandsports-1388520419349_956x500.jpg",BAND SPORTS
+http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/7AfBkC" group-title="Canais BR" tvg-name="SBT", SBT HD
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="https://lh5.googleusercontent.com/-j8OSNQd7lpk/VQT8T-Y9ixI/AAAAAAAAAJY/7rIbbSfmToc/s80/recordnews.png" ,RECORD NEWS
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/Abkdmv" group-title="Canais BR" tvg-name="REDE TV", REDETV!
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_novocanal_programacao.jpg" group-title="Canais BR" ,NOVO CANAL MS
+http://srvvenus.canaldoboi.com.br:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/sUUeGc" group-title="Canais BR", TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/xcQp6f" group-title="Canais BR" tvg-name="CANAL DO BOI", CANAL DO BOI
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/Dp5LJ7" group-title="Canais BR" tvg-name="REDE BRASIL", REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/7AfBkC" group-title="Canais BR" tvg-name="SBT", SBT
+http://ns.tvaratu.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/Q8lOAx" group-title="Canais BR" ,TV CAMARA
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/ev8214" group-title="Canais BR", Tv Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Tvescolalogo2014.jpg/160px-Tvescolalogo2014.jpg",TV ESCOLA
+http://liveabr.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvsenado.png",TV SENADO
+http://www.tvmpf.mpf.mp.br:1935/event426/event426.stream_480p/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="http://www.redengt.com.br/projetos/redengt/css/images/logo-rodape.png",NGT
+http://iphone-streaming.ustream.tv:80/uhls/14419615/streams/live/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais BR" tvg-logo="http://3.bp.blogspot.com/-1aQ3_qag0cw/T-NgmcNj_vI/AAAAAAAACBs/NTplrbwLabk/s1600/LOGO_RECORDNEWS.jpg",RECORD NEWS TO
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8?Compartilhandolink
+################################################################VARIEDADES##################################################################################
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",AllSports
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8?Compartilhandolink
+#EXTINF:1 tvg-logo="http://i.imgur.com/SOlq1O6.png" group-title="Canais de Variedades",Milk TV BR
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png",CARTOON NETWORK
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png",DISCOVERY KIDS
+http://31.204.128.117:8081/live/discoverykids/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="http://latam.lum.dolimg.com/v1/images/open-uri20160811-32147-g4tm4_61fae1fe.png?region=0%2C0%2C750%2C334",DISNEY CHANNEL
+http://31.204.128.117:8081/live/disney/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",TV A CRÍTICA
+http://kalseglive-a.akamaihd.net:80/dc-0/m/pa-live-publish4/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",TV FÁTIMA
+http://stmv2.euroti.com.br:1935/tvfatimatb/tvfatimatb/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",BH NEWS
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8?Compartilhandolink
+#EXTINF:1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/03/logo.png" group-title="Canais de Variedades",GV NEWS
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="https://lut.im/e72onG9WKf/4QzLhjr6jmTkY7yw.png", TV CULTURA HD
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ti92NFZ.png" group-title="Canais de Variedades", FILMES E SERIES DUB
+http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/h13uy0" group-title="Canais de Variedades" ,TVE MS
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",VIA MORENA
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/5QsFh6" group-title="Canais de Variedades",TV PANTANAL
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/Ww8ID5" group-title="Canais de Variedades",mkk
+http://wsemedia.com:1935/marcoaurelio84/marcoaurelio84/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais de Variedades",CANAL RICOS
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://tvwebcidade.net/wp-content/uploads/2015/01/logo1.png" group-title="Canais de Variedades",TV WEB Cidade
+http://stmv1.srvstm.com/tvwebcidade/tvwebcidade/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/Jdcnin" group-title="Canais de Variedades" ,CONEXÃO BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/uIS4VR" group-title="Canais de Variedades" ,CWB TV
+http://38.96.175.108:1935/cwbtv/cwbtv/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/u4HtY5" group-title="Canais de Variedades",REDE CORREIO TV
+http://flash1.crossdigital.com.br:1935/491/491/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/bST2TJ" group-title="Canais de Variedades",Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/0ST7fS" group-title="Canais de Variedades",JORNADA NAS ESTRELAS
+http://wse5.player.tv.br:1935/tvjornadanasestrelas/tvjornadanasestrelas/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais de Variedades" , TV ONLINE
+http://painelvj.com.br:1935/tvonline/tvonline.sdp/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais de Variedades" ,TVCADM
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="Canais de Variedades" ,AGRO CANAL MS
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/MhrZCG" group-title="Canais de Variedades" ,TV Ultrafarma 
+http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",TV GERAL BA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",BOAS NOVAS
+http://streaming57.sitehosting.com.br:1935/boas/boas/live.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",SHOPTIME
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_lld8saie_all.smil/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",TV CLIPES
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8?Compartilhandolink
+################################################################RELIGIOSO###################################################################################
+#EXTINF:-1 tvg-logo="http://goo.gl/AH1NNU" group-title="Canais Religiosos" tvg-name="TV APARECIDA", TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/lMvge1" group-title="Canais Religiosos" ,VEM & VÊ TV
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://esculturasanjose.com/tienda/img/p/232-808-thickbox.png" group-title="Canais Religiosos" ,IMPD TV SP
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://farm6.staticflickr.com/5741/22040008049_6d9db9d9a5_m.jpg" group-title="Canais Religiosos" ,TV ANTARES PR
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/745612740404842500/3WGEaPqq.jpg" group-title="Canais Religiosos" ,TV A CAMINHO DA LUZ SP
+http://streaming50.sitehosting.com.br:1935/angra/angra_source/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/3K3xlU" group-title="Canais Religiosos" tvg-name="REDE VIDA",  Rede Vida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://esculturasanjose.com/tienda/img/p/232-808-thickbox.png" group-title="Canais Religiosos" , PORTAL GOSPEL
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/fvafJr" group-title="Canais Religiosos" , Rit tv
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/9M2t28" group-title="Canais Religiosos" ,TV Cristo Vive
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://esculturasanjose.com/tienda/img/p/232-808-thickbox.png" group-title="Canais Religiosos" ,TV MISSÕES
+http://wse5.player.tv.br:1935/tvmissoes/tvmissoes/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/6s23FT" group-title="Canais Religiosos" , TV MUNDIAL SP
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/Hmc5K9" group-title="Canais Religiosos" ,Rede Gospel
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/NFPTyP" group-title="Canais Religiosos" ,REDE FAMILIA 
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1944129457_b600000.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/YeXEic" group-title="Canais Religiosos" , TV JESUS
+http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8?Compartilhandolink
+################################################################PORTUGUES###################################################################################
+#EXTINF:-1 tvg-logo="http://pt.live-tv-channels.net/pt-data/uploads/logo/tv_mana_mz.png" group-title="Canais PT" ,  TV MANÁ
+http://195.22.19.189:1935/tvbr/tvbrasil2/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://goo.gl/P1wheJ" group-title="Canais PT" ,IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline1/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/JPB0Ah" group-title="Canais PT" tvg-name="EURONEWS",EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_pt.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/C2VQqq" group-title="Canais PT" tvg-name="TVI 24",TVI24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais PT",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais PT",RTP 1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 group-title="Canais PT",RTP 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 group-title="Canais PT",SIC
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:-1 group-title="Canais PT",SIC NOTICIAS
+http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+#EXTINF:-1 group-title="Canais PT",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/livestream.m3u8
+#EXTINF:-1 group-title="Canais PT",TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+#EXTINF:-1 group-title="Canais PT",EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1 group-title="Canais PT",ECONOMICA TV
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+################################################################INTERNACIONAL###############################################################################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif" group-title="Canais Internacionais" ,CityTV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",KTBS 3.3 24-HourNews - 28 DT - Shreveport - LA Louisiana
+http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tateti.png" group-title="Canais Internacionais", TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_628_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Fox sports 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",OnceTV
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Espn
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 5 HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais" ,DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://goo.gl/47J6XL" group-title="Canais Internacionais" , Virgintv
+http://wow01.105.net/live/virgin1/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe_400x400.png" group-title="Canais Internacionais", CANAL 2 HD
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no/photo.jpg" group-title="Canais Internacionais", Telpin Canal 2 HD Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.arax.md/assets/channels/226.png" group-title="Canais Internacionais", CANAL 3 HD
+http://74.63.97.188:1935/gpacifico1/videogpacifico1/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/LOGO-VEPLUSTV.jpg/150px-LOGO-VEPLUSTV.jpg" group-title="Canais Internacionais", Ve plus tv
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://serveis.egv.es/noticies/img/324.png" group-title="Canais Internacionais",TV3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:324_web/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png" group-title="Canais Internacionais",TV AGRO
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://static.azteca.com/imagenes/2013/43/honduras-1791821.png" group-title="Canais Internacionais",TV AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/index_1_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/100px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Canais Internacionais",TV GALICIA EUROPA
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://televisionadventista.org/wp-content/thesis/skins/tvadventista/images/canal-tv-nuevo-tiempo.png" group-title="Canais Internacionais",TV NUEVO TIEMPO
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.smil/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",VALLE TV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.ljudmila.org/subkulturni-azil/front/img/admin/image/logo-razni/sitv.600x470.png" group-title="Canais Internacionais", SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.srhome.co.th/backend/data-file/subgroups/subgroups82_1.png" group-title="Canais Internacionais", HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.kolombiaestereo.com/511px-Telemedellin_svg.png" group-title="Canais Internacionais", TELEMEDELLIN
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1280px-Television_de_Galicia.svg.png" group-title="Canais Internacionais", TV GALICIA ESPANHA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/C5N.png" group-title="Canais Internacionais", C5N (ARG)
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sx4r2Lkmu-o/Vrn3v2flh7I/AAAAAAABD-c/dSRS9Qj92mw/s1600/final-ann7-logo-2015.png" group-title="Canais Internacionais", ANN7 SOUTH AFRICA
+rtmp://46.4.25.213/live-ann7/ann7-mid.stream
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Y6fva6jaqoI/AAAAAAAAAAI/AAAAAAAAABQ/k3an-NsanJY/s120-c/photo.jpg" group-title="Canais Internacionais", REDE ADVENIR
+rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b3/Sky_tg24.png/revision/latest?cb=20111120132542" group-title="Canais Internacionais", SKY TG24 (ITA)
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8?Compartilhandolinka
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/528251048255713280/c3d-y0ac_400x400.png" group-title="Canais Internacionais",NUEVO TIEMPO
+http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/chunklist_w644017105_b512000_slspa.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d1bcb564c8f746211e222aee76848e33.png" group-title="Canais Internacionais",E TV MARCHE
+http://live.Kronopress.com:1935/etvmarche_live/etvmarche/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/8fm-tv.jpg" group-title="Canais Internacionais",OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/D3_94MisC3Cz_Npmwvt3C8dguMZ_TkIbCzb9V8H7FUu1nDcaoe_bo9VGASCpzwGZVg=w300" group-title="Canais Internacionais",PADRE PIO TV
+http://teleradiopadrepio.it.flash.glb.ipercast.net:1935/teleradiopadrepio.it-live/live/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.radioszene.de/wp-content/uploads/2010/03/Radio-105-Logo.png" group-title="Canais Internacionais",RADIO 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9RnvMbPlbDTVdAg4wn3jIC-zaKAMNjExcq58RfnZTmRgzsb6nplX3KapyPR253JCWa4=w300" group-title="Canais Internacionais",MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/radionorba-tv.gif" group-title="Canais Internacionais",RADIO NORBA TV
+http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.rainews.it/dl/rainews/images/logo_news.png" group-title="Canais Internacionais",RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.raiscuola.rai.it/images/logo.png" group-title="Canais Internacionais",RAI SCUOLA
+http://originstream6.rai.it:80/italy/raiscuola_android.smil/chunklist_b900000.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png" group-title="Canais Internacionais",RETE 55
+http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://cdn.sintonizate.net/r/70553.png" group-title="Canais Internacionais",RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.livefromnaija.com/wp-content/uploads/2015/06/Tv-Continental.jpg" group-title="Canais Internacionais" , TV CONTINENTAL NIGERIA
+http://77.92.76.135:1935/tvce/livestream/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://actv.tv/wp-content/uploads/images-3.jpeg" group-title="Canais Internacionais" , TVC News NIGERIA
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://livity.bm/wp-content/uploads/2014/01/TVC-News-logo.png" group-title="Canais Internacionais", TVC NEWS AFRICA
+rtmp://77.92.76.135:1935/tvcnews/livestream
+#EXTINF:-1 tvg-logo="http://wtvpc.com/wp-content/uploads/2016/03/RevelationTVlogo_129-150x120.png" group-title="Canais Internacionais",REVELATION TV
+http://dwun498y9o8lf.cloudfront.net/coder5/coder.channels.channel11/hls/3/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1703743100/JCTV_LOGO_in_3D.png" group-title="Canais Internacionais",JCTV
+rtmp://204.11.235.249/live_transcoder/_definst_/mp4:jctv.stream_480p
+#EXTINF:-1 tvg-logo="https://www.thematv.com/medias/channels/gospel-music-tv/logo-gospel-music-tv.png" group-title="Canais Internacionais",GOSPEL TV
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-gospelsc/_definst_/live/stream2.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://akronadventist.com/wp-content/uploads/hope_channel.png" group-title="Canais Internacionais",HOPE CHANNEL
+http://bcliveuniv-lh.akamaihd.net/i/HopeChannel_1@182961/index_1192_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/6i_wcabqn8ZM05x8iN28ZqUk3oJ9i4Y69KvgKgps1ODIppWyXMIzp5zu4mgp4ReTIw=w300" group-title="Canais Internacionais",DAYSTAR 
+http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_720p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/588172164186120192/iAz_u6jH.png" group-title="Canais Internacionais",EBENEZER
+rtmp://hds4.worldkast.com/ebenezertv2/_definst_/mp4:ebenezertv2_source
+#EXTINF:-1 tvg-logo="http://emmanuel.tv/images/Emmanueltv.jpeg" group-title="Canais Internacionais",EMMANUEL TV
+http://118965-lh.akamaihd.net/i/etv_live@74820/index_500_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.seenondemand.com/wp-content/uploads/2014/10/Capture238.png" group-title="Canais Internacionais",CTN INTERNACIONAL 
+http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w81175447_b1556000_slesp.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="Canais Internacionais",BBC NEWS
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1 tvg-logo="http://livetvland.com/images/logo/cbn_news.jpg" group-title="Canais Internacionais",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://a3.mzstatic.com/us/r30/Purple69/v4/2c/e2/08/2ce2084a-b914-df28-4a6d-2f1eb961efc7/icon175x175.png" group-title="Canais Internacionais",DREAM TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/2000px-RAI_Premium_2010_neu_Logo.svg.png" group-title="Canais Internacionais",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/2000px-RAI_YoYo_2010_Logo.svg.png" group-title="Canais Internacionais",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RAI_News_logo_(2010).svg/510px-RAI_News_logo_(2010).svg.png" group-title="Canais Internacionais",Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Trm H24
+http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Canais Internacionais" tvg-name="NASA TV", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Antena 3(ESP)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antena_3.svg/2000px-Antena_3.svg.png" group-title="Canais Internacionais",Antena 3 Internacional(ESP)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/2000px-Canal_de_las_Estrellas_logo.svg.png" group-title="Canais Internacionais",CANAL DE LAS ESTRELLAS
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://television-envivo.net/wp-content/uploads/proyecto-40-en-vivo2.png" group-title="Canais Internacionais",PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://jumptv.typepad.com/latinamerica/images/logo_canal_7_1.jpg" group-title="Canais Internacionais", CANAL 7 MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais", RIC (ALE)
+http://83.169.58.38/live/3fb1c9c9-09c8-404a-8c0f-56b27617ab89/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="Canais Internacionais", HR (ALE)
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XN351iNlKQI/VcSu1I-KCXI/AAAAAAAAALU/ZKjHHmQ4NmE/s506/iconocanalorbe.png" group-title="Canais Internacionais", ORBE 21 (ARG)
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/5e6bc7a24ef8c9634b3b054aef5b401a-320x180.jpeg" group-title="Canais Internacionais",3ABN (EUA)
+http://moiptvus-lh.akamaihd.net/i/3abnlive_1@328342/index_800_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/f6/Logo_TVAhd.png/revision/latest?cb=20141025122630" group-title="Canais Internacionais", TVA (CAN)
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png" group-title="Canais Internacionais", ABC NEWS
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/2000px-Bloomberg_Television_logo.svg.png" group-title="Canais Internacionais", BLOOMBERG TV
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M24K.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/BYUtv_2010_logo.svg/1280px-BYUtv_2010_logo.svg.png" group-title="Canais Internacionais", BYU TV
+http://byuhd2-lh.akamaihd.net:80/i/byutvhd2_live@103136/index_840_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" group-title="Canais Internacionais", FRANCE 24
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?Compartilhandolink
+#EXTINF:-1  tvg-logo="http://content.altfonts.com:88/img/K/A/Kanit.png" group-title="Canais Internacionais", KANIT TURKEY
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/200px-Teletica.png" group-title="Canais Internacionais", CANAL 7 HD
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png" group-title="Canais Internacionais", CANAL 26 HD Argentina
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://roku.hondutv.com/channels/ebenezer-tv.png" group-title="Canais Internacionais", EBENEZER TV HD
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://television-envivo.net/wp-content/uploads/proyecto-40-en-vivo2.png" group-title="Canais Internacionais", PROYECTO 40 HD
+http://urtmpkal-f.akamaihd.net:80/i/05i15qzql_1@149710/index_3_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://club2.fft.fr/denain/wta2009/images/sponsor7/weo-248.png" group-title="Canais Internacionais", WEO FRANCE
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-QHgiazw_awI/VST4bNaZw8I/AAAAAAAAEZo/hCToyYLvHSU/s1600/Mirabelle_TV_logo.png" group-title="Canais Internacionais", MIRABELLE TV FRANCE
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/viva-nicaragua.png" group-title="Canais Internacionais", VIVA NICARAGUA 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/logotipi/WAWA-TV-Polska_o.jpg",Wawa Tv
+rtmp://stream.cdn.smcloud.net/wawa-t/wawa_480p
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/Stations/Eska-TV_o.jpg",Eska Tv
+rtmp://stream.cdn.smcloud.net/eskatv-t/eskatv_480p
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/Stations/Eska-Best-Music-TV_o.jpg",Eska Best Music Tv
+rtmp://stream.cdn.smcloud.net/best-t/best_480p
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg",Eska Party Tv
+rtmp://stream.cdn.smcloud.net/eska_party-t/eska_party_480p
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Vox-Music-TV-Polska_o.jpg",Music Vox Tv
+rtmp://stream.cdn.smcloud.net:1935/vox2-p/stream1
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Vox-Olds-Cool-TV_o.jpg",Music Vox Old's Cool Tv
+rtmp://stream.cdn.smcloud.net/vox-t/vox_480p
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/Stations/Eska-Rock-TV_o.jpg",Eska Rock Tv
+rtmp://stream.cdn.smcloud.net/eska_rock-t/eska_rock_480p
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Polo-TV-PL_o.jpg",Eska Polo TV Music
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Polo-Party-TV-PL_o.jpg",Polo Party Tv
+rtmp://stream.cdn.smcloud.net/polo_party-t/polo_party_480p
+#EXTINF:-1 group-title="Canais Internacionais" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Hip-Hop-TV-Poland_o.jpg",Hip Hop Tv
+rtmp://stream.cdn.smcloud.net/hiphoptv-p/stream1
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",8 Tv
+rtmp://stream.cdn.smcloud.net/8tv2-t/8tv_480p
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",One.By UHD
+http://rtmp.one.by:1400
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",One.by Russia HD
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",NR1 HD
+rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",NR1 Turk
+rtmp://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Atomic HD
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Radiou.TV
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Radio 105 TV
+rtmp://tv.105.net:1935/live/105Test1
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Radio Montecarlo TV
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",M6 Music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",UTV
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:radioutv1/chunklist_w1182659521.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Si Tv
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",MFM Tv
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Heavy Metal Television
+rtmp://70.166.98.130:1935/hmtv/myStream
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Visual Radio Tv
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",1HD Music
+http://80.250.191.10:1935/live/livestream3/chunklist_w1976863113.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Tv Capital
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",m2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",ALB Music HD
+http://188.138.17.8:1935/albuk/albmus.stream/chunklist_w384202210.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",PowerTurk TV
+http://powertv.cdnturk.com/powertv/_definst_/powerturktv.smil/chunklist_w1842242684_b1928000.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Power TV
+http://powertv.cdnturk.com/powertv/_definst_/powertv.smil/chunklist_w2074869262_b1928000.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",UFC NETWORK OPC 1
+http://190.57.234.164/V0/6/1.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",UFC NETWORK OPC 2
+http://190.57.234.164/V0/6/2.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",UFC Network OPC 3
+http://190.57.234.164/V3/6/1.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",UFC Network OPC 4
+http://190.57.234.164/V3/6/2.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 4
+http://221.181.100.24:8088/envivo_x/SD/cctv4/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 10
+http://221.181.100.24:8088/envivo_x/SD/cctv10/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 12
+http://221.181.100.24:8088/envivo_x/SD/cctv12/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV doc
+http://221.181.100.24:8088/envivo_v/SD/cctv/doc/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 14
+http://221.181.100.24:8088/envivo_x/SD/cctv14/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 15
+http://221.181.100.24:8088/envivo_x/SD/cctv15/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV NEWS
+http://221.181.100.24:8088/envivo_x/SD/cctvnews/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 3
+http://221.181.100.24:8088/ws_w/cctv3/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 9
+http://221.181.100.24:8088/ws_w/cctv9/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 6
+http://221.181.100.24:8088/ws_w/cctv6/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV 8
+http://221.181.100.24:8088/ws_w/cctv8/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV-
+http://221.181.100.24:8088/ws_v/ysjp/ysjp711/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV
+http://221.181.100.24:8088/ws_v/nxss/nxss711/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV
+http://221.181.100.24:8088/ws_v/dszn/dszn711/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV
+http://221.181.100.24:8088/ws_v/sjdl/sjdl711/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV-云音
+http://221.181.100.24:8088/ws_v/fyyy/fyyy711/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV-云足球
+http://221.181.100.24:8088/ws_v/fyzq/fyzq711/711/01.m3u8?Compartilhandolink
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",CCTV-央台球
+http://221.181.100.24:8088/ws_v/ystq/ystq711/711/01.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno", + 18
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",  +18
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",  +18
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",  +18
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",Ramdomly live
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-foi-daquele-jeito-Frente-542.jpg" group-title="FILMES PORNO",Foi Daquele Jeito CENA 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena1.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-foi-daquele-jeito-Frente-542.jpg" group-title="FILMES PORNO",Foi Daquele Jeito CENA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena2.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-foi-daquele-jeito-Frente-542.jpg" group-title="FILMES PORNO",Foi Daquele Jeito CENA 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena3.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-foi-daquele-jeito-Frente-542.jpg" group-title="FILMES PORNO",Foi Daquele Jeito CENA4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena4.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-comendo-anita-Frente-493.jpg" group-title="FILMES PORNO",Comendo Anita CENA1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena1.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-comendo-anita-Frente-493.jpg" group-title="FILMES PORNO",Comendo Anita CENA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena2.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-comendo-anita-Frente-493.jpg" group-title="FILMES PORNO",Comendo Anita CENA 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena3.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-comendo-anita-Frente-493.jpg" group-title="FILMES PORNO",Comendo Anita CENA 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena4.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-comendo-anita-Frente-493.jpg" group-title="FILMES PORNO",Comendo Anita CENA 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena5.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-comendo-anita-Frente-493.jpg" group-title="FILMES PORNO",Comendo Anita CENA 6
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ComendoAnita/Low/ComendoAnita_cena6.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-paraiso-do-anal-Frente-526.jpg" group-title="FILMES PORNO",Paraiso Do Anal CENA 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena1.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-paraiso-do-anal-Frente-526.jpg" group-title="FILMES PORNO",Paraiso Do Anal CENA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena2.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-paraiso-do-anal-Frente-526.jpg" group-title="FILMES PORNO",Paraiso Do Anal CENA 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena3.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-paraiso-do-anal-Frente-526.jpg" group-title="FILMES PORNO",Paraiso Do Anal CENA 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena4.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-paraiso-do-anal-Frente-526.jpg" group-title="FILMES PORNO",Paraiso Do Anal CENA 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/ParaisoDoAnal/Low/ParaisoDoAnal_cena5.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-ligacao-ardente-Frente-481.jpg" group-title="FILMES PORNO",Ligação Ardente CENA 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena1.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-ligacao-ardente-Frente-481.jpg" group-title="FILMES PORNO",Ligação Ardente CENA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena2.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-ligacao-ardente-Frente-481.jpg" group-title="FILMES PORNO",Ligação Ardente CENA 3
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena3.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-ligacao-ardente-Frente-481.jpg" group-title="FILMES PORNO",Ligação Ardente CENA 4
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena4.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-ligacao-ardente-Frente-481.jpg" group-title="FILMES PORNO",Ligação Ardente CENA 5
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena5.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-homem-para-mulheres-Frente-451.jpg" group-title="FILMES PORNO",1 Homem para 10 Mulheres CENA 1
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/1HomemPara10Mulheres/Low/1HomemPara10Mulheres_cena1.mp4
+#EXTINF:-1 tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-homem-para-mulheres-Frente-451.jpg" group-title="FILMES PORNO",1 Homem para 10 Mulheres CENA 2
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/1HomemPara10Mulheres/Low/1HomemPara10Mulheres_cena2.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 1
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 10
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 11
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 12
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 14
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 15
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 16
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 17
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 18
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 2
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 20
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 4
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 5
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 6
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 7
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 8
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+#EXTINF:-1 tvg-logo="http://goo.gl/opwwNi" group-title="FILMES PORNO",XXX-Babes 9
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",1
+http://ru-porn.Tv/videofile?id=11750&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",2
+http://ru-porn.Tv/videofile?id=14686&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",3
+http://ru-porn.Tv/videofile?id=12826&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",4
+http://ru-porn.Tv/videofile?id=13284&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",5
+http://ru-porn.tv/videofile?id=14660&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",6
+http://ru-porn.tv/videofile?id=14625&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",7
+http://ru-porn.tv/videofile?id=14336&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",8
+http://ru-porn.tv/videofile?id=14553&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",9
+http://ru-porn.tv/videofile?id=14585&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",10
+http://ru-porn.tv/videofile?id=14434&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",11
+http://ru-porn.tv/videofile?id=14556&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",12
+http://ru-porn.tv/videofile?id=14458&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",13
+http://ru-porn.tv/videofile?id=14527&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",14
+http://ru-porn.tv/videofile?id=14382&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",15
+http://ru-porn.tv/videofile?id=14441&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",16
+http://ru-porn.tv/videofile?id=14390&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",17
+http://ru-porn.tv/videofile?id=13709&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",18
+http://ru-porn.tv/videofile?id=14517&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",19
+http://ru-porn.tv/videofile?id=14345&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",20
+http://ru-porn.tv/videofile?id=14283&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",21
+http://ru-porn.tv/videofile?id=14398&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",22
+http://ru-porn.tv/videofile?id=14266&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",23
+http://ru-porn.tv/videofile?id=91&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",24
+http://ru-porn.tv/videofile?id=2359&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",25
+http://ru-porn.tv/videofile?id=2384&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",26
+http://ru-porn.tv/videofile?id=10743&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",27
+http://ru-porn.tv/videofile?id=10766&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",28
+http://ru-porn.tv/videofile?id=10789&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",29
+http://ru-porn.tv/videofile?id=10792&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",30
+http://ru-porn.tv/videofile?id=10800&hq=low&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",31
+http://ru-porn.tv/videofile?id=10777&hq=low&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",32
+http://ru-porn.tv/videofile?id=10785&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",33
+http://ru-porn.tv/videofile?id=10711&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",34
+http://ru-porn.tv/videofile?id=10696&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",35
+http://ru-porn.tv/videofile?id=10695&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",36
+http://ru-porn.tv/videofile?id=10704&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",37
+http://ru-porn.tv/videofile?id=10703&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",38
+http://ru-porn.tv/videofile?id=10668&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",39
+http://ru-porn.tv/videofile?id=10639&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",40
+http://ru-porn.tv/videofile?id=10630&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",41
+http://ru-porn.tv/videofile?id=10641&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",42
+http://ru-porn.tv/videofile?id=10660&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",43
+http://ru-porn.tv/videofile?id=10616&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",44
+http://ru-porn.tv/videofile?id=10608&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",45
+http://ru-porn.tv/videofile?id=10607&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",46
+http://ru-porn.tv/videofile?id=10598&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",47
+http://ru-porn.tv/videofile?id=10591&hq=medium&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",48
+http://ru-porn.tv/videofile?id=11174&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",49
+http://ru-porn.tv/videofile?id=11188&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",50
+http://ru-porn.tv/videofile?id=11182&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",51
+http://rusporn.tv/videofile?id=15237&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",52
+http://rusporn.tv/videofile?id=15236&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",53
+http://rusporn.tv/videofile?id=15226&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",54
+http://rusporn.tv/videofile?id=15224&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",55
+http://rusporn.tv/videofile?id=15222&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",56
+http://rusporn.tv/videofile?id=15241&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",57
+http://rusporn.tv/videofile?id=15235&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",58
+http://rusporn.tv/videofile?id=15225&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",59
+http://rusporn.tv/videofile?id=15216&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",60
+http://rusporn.tv/videofile?id=15197&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",61
+http://rusporn.tv/videofile?id=15219&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",62
+http://rusporn.tv/videofile?id=15215&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",63
+http://rusporn.tv/videofile?id=15231&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",64
+http://rusporn.tv/videofile?id=15218&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",65
+http://rusporn.tv/videofile?id=15230&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",66
+http://rusporn.tv/videofile?id=15221&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",67
+http://rusporn.tv/videofile?id=15223&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",68
+http://rusporn.tv/videofile?id=15227&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",69
+http://rusporn.tv/videofile?id=15233&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",70
+http://rusporn.tv/videofile?id=15228&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",71
+http://rusporn.tv/videofile?id=15239&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",72
+http://rusporn.tv/videofile?id=15212&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",73
+http://rusporn.tv/videofile?id=15214&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",74
+http://rusporn.tv/videofile?id=15206&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",75
+http://rusporn.tv/videofile?id=15213&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",76
+http://rusporn.tv/videofile?id=15205&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",77
+http://rusporn.tv/videofile?id=15193&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",78
+http://rusporn.tv/videofile?id=15200&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",79
+http://rusporn.tv/videofile?id=15196&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",80
+http://rusporn.tv/videofile?id=15202&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",81
+http://rusporn.tv/videofile?id=15181&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",82
+http://rusporn.tv/videofile?id=15180&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",83
+http://rusporn.tv/videofile?id=15114&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",84
+http://rusporn.tv/videofile?id=15195&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W3svkPj.png" group-title="RU PORN",85
+http://rusporn.tv/videofile?id=15168&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.rusporn.tv/15/22/15224/640x480/0000000001.jpg" group-title="RU PORN",86
+http://rusporn.tv/videofile?id=15224&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.rusporn.tv/15/22/15222/640x480/0000000005.jpg" group-title="RU PORN",87
+http://rusporn.tv/videofile?id=15222&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.rusporn.tv/15/23/15239/640x480/0000000023.jpg" group-title="RU PORN",88
+http://rusporn.tv/videofile?id=15239&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.rusporn.tv/15/24/15241/640x480/0000000019.jpg" group-title="RU PORN",89
+http://rusporn.tv/videofile?id=15241&hq=high&ex=mp4
+#EXTINF:-1 tvg-logo="http://i.rusporn.tv/15/22/15225/640x480/0000000016.jpg" group-title="RU PORN",90
+http://rusporn.tv/videofile?id=15225&hq=high&ex=mp4
+
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn7/thumbs/743/Zuzana-Zeleznovova-fucked-deep-in-both-holes-Zuzana-Zeleznovova-fucked-deep-in-both-holes-360p-TAvSjELCd16.jpg" group-title="Porneq",Porneq 01
+http://porneq.com/media/porn7/videos/743/Zuzana-Zeleznovova-fucked-deep-in-both-holes-Zuzana-Zeleznovova-fucked-deep-in-both-holes-360p-TAvSjELCd16.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn7/thumbs/891/MyDadsHotGirlfriend-Kimmy-Fabel-04-02-16-rq-360p-aa2eTBQqyLB.jpg" group-title="Porneq",Porneq 02
+http://porneq.com/media/porn7/videos/891/MyDadsHotGirlfriend-Kimmy-Fabel-04-02-16-rq-360p-aa2eTBQqyLB.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn7/thumbs/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.jpg" group-title="Porneq",Porneq 03
+http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn4/thumbs/445/Turbo-Sluts-Scene-01-08-30-2015-Mylove-360p-FM9TyF3A1zs.jpg" group-title="Porneq",Porneq 04
+http://porneq.com/media/porn4/videos/445/Turbo-Sluts-Scene-01-08-30-2015-Mylove-360p-FM9TyF3A1zs.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn5/thumbs/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.jpg" group-title="Porneq",Porneq 05
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn2/thumbs/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.jpg" group-title="Porneq",Porneq 06
+http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn7/thumbs/98/MonstersOfCock-Riley-Reid-Riley-Reid-loves-Black-Dick-06-08-13-360p-UWm6iieGjsM.jpg" group-title="Porneq",Porneq 07
+http://porneq.com/media/porn7/videos/98/MonstersOfCock-Riley-Reid-Riley-Reid-loves-Black-Dick-06-08-13-360p-UWm6iieGjsM.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn7/thumbs/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.jpg" group-title="Porneq",Porneq 09
+http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
+#EXTINF:-1 tvg-logo="http://porneq.com/media/porn/thumbs/16/completed-PASSION-POTION-360p-fqqpa2wLfll.jpg" group-title="Porneq",Porneq 10
+http://porneq.com/media/porn/videos/16/completed-PASSION-POTION-360p-fqqpa2wLfll.mp4
