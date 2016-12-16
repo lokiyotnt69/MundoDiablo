@@ -351,7 +351,7 @@ rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-river-live-16x9-HD?ref=www.gemonli
 #EXTINF:-1,GEM RUBIX
 rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
 #EXTINF:-1,GEM Travel
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-travel-live-25f-16x9-SD?ref=www.gemonline.tv&USER=0-100
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-travel-live-25f-16x9-SD?ref=www.gemonline.tv&USER=1,-100
 #EXTINF:-1,GEM TV
 rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gemtv-live-25f-16x9-SDq?ref=www.gemonline.tv&USER=GEM+TV
 #EXTINF:-1,GEM_KURD
@@ -731,10 +731,10 @@ rtmp://200.136.27.12/livepkgr/tvcultura4  pageUrl=http://www.hipertela.com/searc
 http://200.189.113.201/hls/tve.m3u8
  
 #EXTINF:-1  tvg-id="itpvbrasil - TV Gazeta" tvg-logo="gazeta" tvg-logo="http://www.marcotuliojs.qlix.com.br/gazeta.jpg" group-title="TV ABERTA", TV Gazeta
-http://livestream-f.akamaihd.net/5381476_2395418_f6f9b628_1_678@141252?v=3.6.0&fp=WIN%2017,0,0,134&r=YKFDH&g=YOJXQDLGBAMG
+http://livestream-f.akamaihd.net/5381476_2395418_f6f9b628_1_678@141252?v=3.6.1,&fp=WIN%2017,1,,1,,134&r=YKFDH&g=YOJXQDLGBAMG
 
 #EXTINF:-1  tvg-id="itpvbrasil - TV Gazeta" tvg-logo="gazeta" tvg-logo="http://www.marcotuliojs.qlix.com.br/gazeta.jpg" group-title="TV ABERTA", TV Gazeta HD
-http://livestream-f.akamaihd.net/5381476_2395418_4ee427f4_1_678@141252?v=3.6.0&fp=WIN%2017,0,0,134&r=OUVZK&g=ERPGMKOJSWRA
+http://livestream-f.akamaihd.net/5381476_2395418_4ee427f4_1_678@141252?v=3.6.1,&fp=WIN%2017,1,,1,,134&r=OUVZK&g=ERPGMKOJSWRA
 
 #EXTINF:-1 tvg-id="itpvbrasil - Rede TV" tvg-logo="redetv" tvg-logo="http://www.marcotuliojs.qlix.com.br/redetv.jpg" group-title="TV ABERTA", Rede TV
 rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1 pageUrl=http://www.redetv.uol.com.br/aovivo/
@@ -830,20 +830,20 @@ rtmp://109.200.202.124/live/mgm pageUrl=http://tv-msn.com/mgm.html
 #EXTINF:-1 tvg-id="itpvbrasil - MTV" tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Brasil
 rtmp://109.200.202.124/live/hbohd pageUrl=http://tv-msn.com/mtv.html
 
-#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Hits
+#EXTINF:1,, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Hits
 http://92.50.181.6/tv/1278/index.m3u8
 
-#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES",MTV Rocks
+#EXTINF:1,, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES",MTV Rocks
 http://92.50.181.6/tv/1279/index.m3u8
 
-#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Dance
+#EXTINF:1,, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", MTV Dance
 http://92.50.181.6/tv/1280/index.m3u8
 
 
-#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", Vhr 1 classic
+#EXTINF:1,, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES", Vhr 1 classic
 http://92.50.181.6/tv/1282/index.m3u8
 
-#EXTINF:0, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES",MTV russ
+#EXTINF:1,, tvg-logo="mtv" tvg-logo="http://www.marcotuliojs.qlix.com.br/mtv.jpg" group-title="VARIEDADES",MTV russ
 http://92.50.181.6/tv/1284/index.m3u8
 
 #EXTINF:-1 tvg-id="itpvbrasil - National Geographic" tvg-logo="nat" tvg-logo="http://www.marcotuliojs.qlix.com.br/nat.jpg" group-title="VARIEDADES", NatGeograpic
@@ -1061,10 +1061,10 @@ rtmp://62.210.88.244:1935/liverepeat/fut09 pageUrl=http://www.ppcast.net/embedP/
 #################################################################################################################################### ESPORTES INTERNACIONAS
 
 
-#EXTINF:0  tvg-logo="RAISports1" tvg-logo="http://www.marcotuliojs.qlix.com.br/RAISports1.jpg" group-title="ESPORTES INTERNACIONAS", RAI SPORT 1
+#EXTINF:1,  tvg-logo="RAISports1" tvg-logo="http://www.marcotuliojs.qlix.com.br/RAISports1.jpg" group-title="ESPORTES INTERNACIONAS", RAI SPORT 1
 http://81.92.105.135:5555/pl.m3u8?channel=534&key=dFju0KcAG30UnrgV7vZZy1mNbbYHpD&client=DEVICE_MAC
 
-#EXTINF:0  tvg-logo="RAISports2" tvg-logo="http://www.marcotuliojs.qlix.com.br/RAISports2.jpg" group-title="ESPORTES INTERNACIONAS",RAI SPORT 2
+#EXTINF:1,  tvg-logo="RAISports2" tvg-logo="http://www.marcotuliojs.qlix.com.br/RAISports2.jpg" group-title="ESPORTES INTERNACIONAS",RAI SPORT 2
 http://81.92.105.135:5555/pl.m3u8?channel=535&key=dFju0KcAG30UnrgV7vZZy1mNbbYHpD&client=DEVICE_MAC
 
 #EXTINF:-1  tvg-logo="foxs" tvg-logo="http://www.marcotuliojs.qlix.com.br/foxs.jpg" group-title="ESPORTES INTERNACIONAS", FOX SPORTS HD
@@ -2131,11 +2131,11 @@ plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander
 plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11366.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,LTC
 plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/11372.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,#0
+#EXTINF:-1,#1,
 plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/74.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,#0 HD
+#EXTINF:-1,#1, HD
 plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/415.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,#0 HD 1080
+#EXTINF:-1,#1, HD 1080
 plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/6697.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Movistar+ Series
 plugin://plugin.video.f4mTester/?url=http://5.196.84.104:8000/live/lander/lander/37.ts&amp;streamtype=TSDOWNLOADER
@@ -2592,45 +2592,741 @@ plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadan
 plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3942.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ESP:ANTENA-3-HD
 plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3943.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: #0 HD
+#EXTINF:-1,ESP: #1, HD
 plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3944.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES:FOX
 plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/465.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,ES:C-COMEDIA
 plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/464.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-8
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/462.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-7
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/461.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-6
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/460.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-5
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/459.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-4
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/458.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-3
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/457.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-2
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/456.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-1
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/455.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:LA_SEXTA_HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/463.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Canal_Estrenos
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/610.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Canal_Dcine
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/608.ts&amp;streamtype=TSDOWNLOADER
 
 
 
 
+#EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
 
-
-
-
-
-
-
-
-
-
+#EXTINF:1,[COLOR cyan][I][B]TVE 1 [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+#EXTINF:1,[COLOR cyan][I][B]ANTENA 3 [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:1,[COLOR cyan][I][B]LA SEXTA [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:1,[COLOR cyan][I][B]INTERECONOMIA [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:1,[COLOR cyan][I][B]CANAL SUR [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:1,[COLOR cyan][I][B]GALIZA TV EUROPA [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:1,[COLOR cyan][I][B]GALIZA TV AMERICA [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:1,[COLOR cyan][I][B]RTP ASTURIAS [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:1,[COLOR cyan][I][B]ANDORRA TV [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:1,[COLOR cyan][I][B]TRAVEL TV [/B][/I][/COLOR]
+#EXTGRP:unsorted
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:1,[COLOR cyan][I][B]ANIME TV [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
+#EXTINF:1,[COLOR cyan][I][B]EURONEWS [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:1,[COLOR cyan][I][B]RT EN ESPAÑOL HD [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://rt.ashttp14.visionip.tv:1935/live/RT_en_Espanol-HD/livestream.m3u8
+#EXTINF:1,[COLOR cyan][I][B]ONDA AZUL MALAGA [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:1,[COLOR cyan][I][B]3/24[/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:1,[COLOR cyan][I][B]VIAJAR [/B][/I][/COLOR]
+#EXTGRP:unsorted
+http://comunidadiptv.org/online/estable/?sintonizador=Viajar
+#EXTINF:1,1 EUROSPORT1
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-406?stream.m3u8
+#EXTINF:1,Euronews Español
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-94?stream.m3u8
+#EXTINF:1,Espn
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-315?stream.m3u8
+#EXTINF:1,ONCE TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-316?stream.m3u8
+#EXTINF:1,FOX SPORT 3
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-317?stream.m3u8
+#EXTINF:1,Exa tv
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-318?stream.m3u8
+#EXTINF:1,VPLUS TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-405?stream.m3u8
+#EXTINF:1,Virgin Radio
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-404?stream.m3u8
+#EXTINF:1,WIN SPORTS
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-403?stream.m3u8
+#EXTINF:1,TELE MÚSICA
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-401?stream.m3u8
+#EXTINF:1,Los Simpsons (24/7 HD)
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-422?stream.mp4
+#EXTINF:1,ANIME TV 24/7
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-46?stream.m3u8
+#EXTINF:1,SERIES TV 24/7
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-45?stream.m3u8
+#EXTINF:1,CNN INTERNACIONAL
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-44?stream.m3u8
+#EXTINF:1,univicio
+#EXTGRP:unsorted
+http://q.gs:80/14608897/protegido-cp-1?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Cinema TVPlay (SD)
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-49?stream.m3u8
+#EXTINF:1,RT ESPAÑOL
+#EXTGRP:unsorted
+https://www.youtube.com/watch?v=OALyNX4IbBI&app=desktop?.m3u8
+#EXTINF:1,Sky News Live
+#EXTGRP:unsorted
+https://www.youtube.com/watch?v=y60wDzZt8yg&app=desktop?.m3u8
+#EXTINF:1,H2 USA FULL HD (HISTORY 2)
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-43?stream.m3u8
+#EXTINF:1,TELECANAL
+#EXTGRP:unsorted
+http://q.gs:80/14608897/nuevo-20?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,ITV HD (TV DIGITAL CHILE)
+#EXTGRP:unsorted
+http://q.gs:80/14608897/nuevo-21?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Euronews Español
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-94?stream.m3u8
+#EXTINF:1,WIN SPORTS HD LA
+#EXTGRP:unsorted
+http://q.gs:80/14608897/canal-4?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,DW LATINOAMERICA
+#EXTGRP:unsorted
+http://q.gs:80/14608897/canal-5?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,discovery
+#EXTGRP:unsorted
+http://q.gs:80/14608897/canal-6?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,TSN
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-431?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,TSN2
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-432?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Super Sport 2
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-433?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Super Sport 3
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-434?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Super Sport 4
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-435?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Red Bull TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-436?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Todo Deportes Argentina
+#EXTGRP:unsorted
+http://q.gs:80/14608897/power-by-juan-canal-39?stream.m3u8
+#EXTINF:1,DXTV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-16?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Win Sports
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-18?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,COS Deportes
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-19?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Real Madrid TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-20?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,BT Sports 1 HD
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-23?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,TSM SPORTS
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-26?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Eurosport Uk
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-27?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Versus
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-30?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Poker Channel
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-33?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Pac-12 Washington
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-260?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Poker Central (USA)
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-258?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Real Madrid TV (España)
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-259?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Cinema Tv Play
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-192?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,360 TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-348?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,C5N
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-349?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,C5N Opción 2
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-350?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Canal 4 Jujuy
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-351?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Canal 4 Rosario
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-352?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Canal 9 Salta
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-353?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Canal 10 Mar de Plata
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-354?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Canal 26
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-355?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Canal de la Ciudad
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-356?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Construir TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-357?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,DeporTV (DXTV)
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-358?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,One TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-359?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Orbe 21
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-360?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Qm TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-361?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Tec TV
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-363?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,Telemax Arg
+#EXTGRP:unsorted
+http://q.gs:80/14608897/qcanal-364?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:1,#=======España=======#
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2330.m3u8
+#EXTINF:1,#0_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2475.m3u8
+#EXTINF:1,LA_1_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/44.m3u8
+#EXTINF:1,ANTENA_3_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/95.m3u8
+#EXTINF:1,CUATRO_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/49.m3u8
+#EXTINF:1,TELECINCO_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/46.m3u8
+#EXTINF:1,LA_SEXTA_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/47.m3u8
+#EXTINF:1,FOX+HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/365.m3u8
+#EXTINF:1,FOX_LIFE_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2538.m3u8
+#EXTINF:1,AXN_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/764.m3u8
+#EXTINF:1,AXN_WHITE_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/763.m3u8
+#EXTINF:1,M._XTRAHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/51.m3u8
+#EXTINF:1,M.ACCI©N_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2542.m3u8
+#EXTINF:1,M.COMEDIAHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2541.m3u8
+#EXTINF:1,M.SERIES_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/376.m3u8
+#EXTINF:1,M.SeriesXtraHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/362.m3u8
+#EXTINF:1,M.ESTRENOSHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/363.m3u8
+#EXTINF:1,M.DCINE_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3728.m3u8
+#EXTINF:1,HOLLYWOODHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/48.m3u8
+#EXTINF:1,CALLE_13_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/761.m3u8
+#EXTINF:1,TNT_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2489.m3u8
+#EXTINF:1,SYFY_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/73.m3u8
+#EXTINF:1,AMC_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2495.m3u8
+#EXTINF:1,TCM_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/358.m3u8
+#EXTINF:1,COMEDYCENTRALHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3714.m3u8
+#EXTINF:1,BEIN_LALIGA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/75.m3u8
+#EXTINF:1,BEIN_SPORTS
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3186.m3u8
+#EXTINF:1,LALIGA_TV_BAR_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5408.m3u8
+#EXTINF:1,MOVISTAR__PARTIDAZO_LIVE_SESSION
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5409.m3u8
+#EXTINF:1,M._F.TBOL_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/76.m3u8
+#EXTINF:1,M._DEP_2_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/93.m3u8
+#EXTINF:1,M._DEP_1_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/77.m3u8
+#EXTINF:1,M.GOLF_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2398.m3u8
+#EXTINF:1,M.FORMULA1HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5226.m3u8
+#EXTINF:1,M.MOTOGPHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2496.m3u8
+#EXTINF:1,EUROSPORT1HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3713.m3u8
+#EXTINF:1,NG_WILD_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5225.m3u8
+#EXTINF:1,VIAJAR_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3711.m3u8
+#EXTINF:1,CAZA_Y_PESCA_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5410.m3u8
+#EXTINF:1,NAT_GEO_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/74.m3u8
+#EXTINF:1,NICKELODEONHD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3733.m3u8
+#EXTINF:1,DISNEY_CH_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3712.m3u8
+#EXTINF:1,TOROS
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5439.m3u8
+#EXTINF:1,TELEDEPORTE
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5412.m3u8
+#EXTINF:1,PARAMOUNT
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5416.m3u8
+#EXTINF:1,NONSTOPEOPLE
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5426.m3u8
+#EXTINF:1,NEOX
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5413.m3u8
+#EXTINF:1,MTV_ESPA¹A
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5427.m3u8
+#EXTINF:1,M._Cine_Espaæol
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5414.m3u8
+#EXTINF:1,LOS_40
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5418.m3u8
+#EXTINF:1,LA_2
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5442.m3u8
+#EXTINF:1,HISTORIA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5428.m3u8
+#EXTINF:1,GOL_TV
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5411.m3u8
+#EXTINF:1,EUROSPORT_2
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5445.m3u8
+#EXTINF:1,ENERGY
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5446.m3u8
+#EXTINF:1,DIVINITY
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5429.m3u8
+#EXTINF:1,DISNEY_XD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5430.m3u8
+#EXTINF:1,DISCOVERY
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5431.m3u8
+#EXTINF:1,CRIMEN_INVES
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5432.m3u8
+#EXTINF:1,CLASSICA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5433.m3u8
+#EXTINF:1,CASTILLA_LA_MANCHA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5420.m3u8
+#EXTINF:1,CANAL_SUR_A.
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5434.m3u8
+#EXTINF:1,CANAL_PANDA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5435.m3u8
+#EXTINF:1,CANAL_ODISEA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5422.m3u8
+#EXTINF:1,Canal_Extremadura_SAT
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5423.m3u8
+#EXTINF:1,CANAL_DECASA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5424.m3u8
+#EXTINF:1,CANAL_COCINA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5425.m3u8
+#EXTINF:1,C&I
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5443.m3u8
+#EXTINF:1,BOING
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5436.m3u8
+#EXTINF:1,ARAGON_TV
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5437.m3u8
+#EXTINF:1,A&E
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5438.m3u8
+#EXTINF:1,TAQUILLA_1_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3440.m3u8
+#EXTINF:1,TAQUILLA_2_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3441.m3u8
+#EXTINF:1,TAQUILLA_3_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3442.m3u8
+#EXTINF:1,TAQUILLA_4_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3443.m3u8
+#EXTINF:1,TAQUILLA_5_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3444.m3u8
+#EXTINF:1,TAQUILLA_6_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3445.m3u8
+#EXTINF:1,TAQUILLA_7_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3446.m3u8
+#EXTINF:1,TAQUILLA_8_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3447.m3u8
+#EXTINF:1,TAQUILLA_9_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3448.m3u8
+#EXTINF:1,TAQUILLA_10_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3449.m3u8
+#EXTINF:1,TAQUILLA_11_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3450.m3u8
+#EXTINF:1,TAQUILLA_12_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3451.m3u8
+#EXTINF:1,TAQUILLA_13_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3452.m3u8
+#EXTINF:1,TAQUILLA_14_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3453.m3u8
+#EXTINF:1,TAQUILLA_15_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3454.m3u8
+#EXTINF:1,TAQUILLA_16_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3455.m3u8
+#EXTINF:1,TAQUILLA_17_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3456.m3u8
+#EXTINF:1,#=======Bein sports=======#
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2327.m3u8
+#EXTINF:1,BEINSPORT_1
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/57.m3u8
+#EXTINF:1,BEINSPORT_2
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/58.m3u8
+#EXTINF:1,BEINSPORT_3
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/250.m3u8
+#EXTINF:1,BEINSPORT_4
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/251.m3u8
+#EXTINF:1,BEINSPORT_5
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/252.m3u8
+#EXTINF:1,BEINSPORT_6
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/304.m3u8
+#EXTINF:1,BEINSPORT_7
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/305.m3u8
+#EXTINF:1,BEINSPORT_8
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/306.m3u8
+#EXTINF:1,BEINSPORT_9
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/802.m3u8
+#EXTINF:1,BEINSPORT_10
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/1169.m3u8
+#EXTINF:1,BEINSPORT_11
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/1177.m3u8
+#EXTINF:1,BEINSPORT_12
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/1178.m3u8
+#EXTINF:1,BEINSPORT_13
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2213.m3u8
+#EXTINF:1,BEINSPORT_14
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2214.m3u8
+#EXTINF:1,BEINSPORT_15
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/2215.m3u8
+#EXTINF:1,BEINSPORT_1H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/860.m3u8
+#EXTINF:1,BEINSPORT_2H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3188.m3u8
+#EXTINF:1,BEINSPORT_3H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3189.m3u8
+#EXTINF:1,BEINSPORT_4H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3190.m3u8
+#EXTINF:1,BEINSPORT_5H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3191.m3u8
+#EXTINF:1,BEINSPORT_6H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3192.m3u8
+#EXTINF:1,BEINSPORT_7H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3193.m3u8
+#EXTINF:1,BEINSPORT_8H265
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3194.m3u8
+#EXTINF:1,#=======Sky Italia=======#
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/3924.m3u8
+#EXTINF:1,SKY_Sport_1_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4991.m3u8
+#EXTINF:1,SKY_Sport_2_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4992.m3u8
+#EXTINF:1,Sky_Sport_3_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4993.m3u8
+#EXTINF:1,SKY_TG_24
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4994.m3u8
+#EXTINF:1,SKY_Disney_XD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4995.m3u8
+#EXTINF:1,Sky_Cinema__1_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4996.m3u8
+#EXTINF:1,RAI_YOYO
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4997.m3u8
+#EXTINF:1,RAI_SPORT_1_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4998.m3u8
+#EXTINF:1,RAI_SCUOLA
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/4999.m3u8
+#EXTINF:1,RAI_PREMIUM
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5000.m3u8
+#EXTINF:1,RAI_MOVIE
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5001.m3u8
+#EXTINF:1,RAI_1_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5005.m3u8
+#EXTINF:1,RAI_2_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5004.m3u8
+#EXTINF:1,RAI_3_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5003.m3u8
+#EXTINF:1,RAI_4_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5002.m3u8
+#EXTINF:1,Premium_Stories
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5006.m3u8
+#EXTINF:1,Premium_Sport_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5007.m3u8
+#EXTINF:1,Premium_Joy
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5008.m3u8
+#EXTINF:1,Premium_Disney_Junior_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5009.m3u8
+#EXTINF:1,Premium_Crime___24
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5010.m3u8
+#EXTINF:1,Premium_Cinema_2_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5012.m3u8
+#EXTINF:1,Premium_Cinema_2___24
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5011.m3u8
+#EXTINF:1,Premium_Cartoon_Network
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5013.m3u8
+#EXTINF:1,Premium_Calcio_1
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5014.m3u8
+#EXTINF:1,Premium_Action___24
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5015.m3u8
+#EXTINF:1,MONTE_CARLO_TV
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5016.m3u8
+#EXTINF:1,Mediaset_Italia_2
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5017.m3u8
+#EXTINF:1,Mediaset_Extra
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5018.m3u8
+#EXTINF:1,Italia_1
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5019.m3u8
+#EXTINF:1,IT:Sky.Discovery.Channel.HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5027.m3u8
+#EXTINF:1,IT:Sky_Uno_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5020.m3u8
+#EXTINF:1,IT:Sky_Supercalcio_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5021.m3u8
+#EXTINF:1,IT:Sky_Fox_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5022.m3u8
+#EXTINF:1,IT:Sky_Cinema_Hits_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5023.m3u8
+#EXTINF:1,IT:Sky_Cinema_Comedy_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5024.m3u8
+#EXTINF:1,IT:Sky_Cinema_1
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5025.m3u8
+#EXTINF:1,IT:Sky_Cielo_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5026.m3u8
+#EXTINF:1,IT:Premium.Emotion
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5034.m3u8
+#EXTINF:1,IT:PREMIUM-EMOTION
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5035.m3u8
+#EXTINF:1,IT:PREMIUM-CRIME_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5036.m3u8
+#EXTINF:1,IT:PREMIUM-COMEDY
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5037.m3u8
+#EXTINF:1,IT:PREMIUM-ACTION
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5038.m3u8
+#EXTINF:1,IT:Premium_Studio_Universal_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5028.m3u8
+#EXTINF:1,IT:Premium_Energy_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5029.m3u8
+#EXTINF:1,IT:Premium_Emotion_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5030.m3u8
+#EXTINF:1,IT:Premium_Disney_Channel
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5031.m3u8
+#EXTINF:1,IT:Premium_Crime_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5032.m3u8
+#EXTINF:1,IT:Premium_Carton_Network_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5033.m3u8
+#EXTINF:1,IT:fox.Crime
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5039.m3u8
+#EXTINF:1,IT-NAT_GEO_PEOPLE_HD
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5040.m3u8
+#EXTINF:1,Canale_5
+#EXTGRP:unsorted
+http://service1.astrovida.tv:8000/live/testapp/testapp/5045.m3u8
+#EXTINF:1,Univisión Op2
+#EXTGRP:unsorted
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
