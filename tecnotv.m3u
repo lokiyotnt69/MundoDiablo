@@ -2605,37 +2605,26 @@ plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadan
 #EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
 
 #EXTINF:1,[COLOR cyan][I][B]TVE 1 [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
 #EXTINF:1,[COLOR cyan][I][B]ANTENA 3 [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:1,[COLOR cyan][I][B]LA SEXTA [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:1,[COLOR cyan][I][B]INTERECONOMIA [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://edge3.adnstream.com:81/hls/intereconomia.m3u8
 #EXTINF:1,[COLOR cyan][I][B]CANAL SUR [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 #EXTINF:1,[COLOR cyan][I][B]GALIZA TV EUROPA [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://media3.crtvg.es/live/tvge/vcx7.m3u8
 #EXTINF:1,[COLOR cyan][I][B]GALIZA TV AMERICA [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
 #EXTINF:1,[COLOR cyan][I][B]RTP ASTURIAS [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
 #EXTINF:1,[COLOR cyan][I][B]ANDORRA TV [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://194.158.80.31:443/live/rtva/playlist.m3u8
 #EXTINF:1,[COLOR cyan][I][B]TRAVEL TV [/B][/I][/COLOR]
-#EXTGRP:unsorted
 rtmp://87.106.219.140/live/myStream_2
 #EXTINF:1,[COLOR cyan][I][B]ANIME TV [/B][/I][/COLOR]
-#EXTGRP:unsorted
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?
 #EXTINF:1,[COLOR cyan][I][B]EURONEWS [/B][/I][/COLOR]
 #EXTGRP:unsorted
