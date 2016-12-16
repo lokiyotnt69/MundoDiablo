@@ -2612,19 +2612,14 @@ http://q.gs:80/14608897/power-by-juan-canal-422?stream.mp4
 http://q.gs:80/14608897/power-by-juan-canal-46?stream.m3u8
 #EXTINF:1,SERIES TV 24/7
 http://q.gs:80/14608897/power-by-juan-canal-45?stream.m3u8
-
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
 #EXTINF:1,[COLOR cyan][I][B]ANTENA 3 [/B][/I][/COLOR]
-
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:1,[COLOR cyan][I][B]LA SEXTA [/B][/I][/COLOR]
-
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:1,[COLOR cyan][I][B]INTERECONOMIA [/B][/I][/COLOR]
-
 http://edge3.adnstream.com:81/hls/intereconomia.m3u8
 #EXTINF:1,[COLOR cyan][I][B]CANAL SUR [/B][/I][/COLOR]
-
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
 http://media3.crtvg.es/live/tvge/vcx7.m3u8
@@ -2840,7 +2835,6 @@ http://service1.astrovida.tv:8000/live/testapp/testapp/2475.m3u8
 #EXTINF:1,LA_1_HD
 http://service1.astrovida.tv:8000/live/testapp/testapp/44.m3u8
 #EXTINF:1,ANTENA_3_HD
-#EXTGRP:unsorted
 http://service1.astrovida.tv:8000/live/testapp/testapp/95.m3u8
 #EXTINF:1,CUATRO_HD
 http://service1.astrovida.tv:8000/live/testapp/testapp/49.m3u8
@@ -2855,19 +2849,14 @@ http://service1.astrovida.tv:8000/live/testapp/testapp/2538.m3u8
 #EXTINF:1,AXN_HD
 http://service1.astrovida.tv:8000/live/testapp/testapp/764.m3u8
 #EXTINF:1,AXN_WHITE_HD
-#EXTGRP:unsorted
 http://service1.astrovida.tv:8000/live/testapp/testapp/763.m3u8
 #EXTINF:1,M._XTRAHD
-#EXTGRP:unsorted
 http://service1.astrovida.tv:8000/live/testapp/testapp/51.m3u8
 #EXTINF:1,M.ACCI©N_HD
-#EXTGRP:unsorted
 http://service1.astrovida.tv:8000/live/testapp/testapp/2542.m3u8
 #EXTINF:1,M.COMEDIAHD
-#EXTGRP:unsorted
 http://service1.astrovida.tv:8000/live/testapp/testapp/2541.m3u8
 #EXTINF:1,M.SERIES_HD
-#EXTGRP:unsorted
 http://service1.astrovida.tv:8000/live/testapp/testapp/376.m3u8
 #EXTINF:1,M.SeriesXtraHD
 #EXTGRP:unsorted
