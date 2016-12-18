@@ -16,123 +16,287 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/182
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------Lista Fase 1 OFF-------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ES: CanalToros
-http://151.80.22.45:9900/live/525/525/20319.m3u
-#EXTINF:-1,ES: CanalSeries
-http://151.80.22.45:9900/live/525/525/20321.m3u
-#EXTINF:-1,Es: CanalFutbol
-http://151.80.22.45:9900/live/525/525/20323.ts
-#EXTINF:-1,ES: CanalComedia
-http://151.80.22.45:9900/live/525/525/20325.ts
-#EXTINF:-1,ES: CanalAccion
-http://151.80.22.45:9900/live/525/525/20326.ts
-#EXTINF:-1,ES-TOROS  HD
-http://151.80.22.45:9900/live/525/525/19479.ts
-#EXTINF:-1,ES-TOROS
-http://151.80.22.45:9900/live/525/525/19521.ts
-#EXTINF:-1,ES-TNT
-http://151.80.22.45:9900/live/525/525/19506.ts
-#EXTINF:-1,ES-Telesur
-http://151.80.22.45:9900/live/525/525/19507.ts
-#EXTINF:-1,ES-SYFY
-http://151.80.22.45:9900/live/525/525/19522.ts
-#EXTINF:-1,ES-SKY TG24
-http://151.80.22.45:9900/live/525/525/19480.ts
-#EXTINF:-1,ES-RT DOC
-http://151.80.22.45:9900/live/525/525/19481.ts
-#EXTINF:-1,ES-REAL MADRID TV
-http://151.80.22.45:9900/live/525/525/19508.ts
-#EXTINF:-1,ES-RAI NEWS24
-http://151.80.22.45:9900/live/525/525/19482.ts
-#EXTINF:-1,ES-QUATRO
-http://151.80.22.45:9900/live/525/525/19509.ts
-#EXTINF:-1,ES-Parlamento
-http://151.80.22.45:9900/live/525/525/19510.ts
-#EXTINF:-1,ES-PANDA
-http://151.80.22.45:9900/live/525/525/19523.ts
-#EXTINF:-1,ES-NICK JR
-http://151.80.22.45:9900/live/525/525/19483.ts
-#EXTINF:-1,ES-MULTIDEPORTE
-http://151.80.22.45:9900/live/525/525/19484.ts
-#EXTINF:-1,ES-LALIGA TV BAR HD
-http://151.80.22.45:9900/live/525/525/19512.ts
-#EXTINF:-1,ES-LALIGA TV BAR
-http://151.80.22.45:9900/live/525/525/19513.ts
-#EXTINF:-1,ES-IBERALIA TV
-http://151.80.22.45:9900/live/525/525/19525.ts
-#EXTINF:-1,ES-HOLLYWOOD
-http://151.80.22.45:9900/live/525/525/19526.ts
-#EXTINF:-1,ES-HISTORY
-http://151.80.22.45:9900/live/525/525/19485.ts
-#EXTINF:-1,ES-GolTV
-http://151.80.22.45:9900/live/525/525/19486.ts
-#EXTINF:-1,ES-FOX NEWS
-http://151.80.22.45:9900/live/525/525/19487.ts
-#EXTINF:-1,ES-FDF
-http://151.80.22.45:9900/live/525/525/19488.ts
-#EXTINF:-1,ES-eurosport hd
-http://151.80.22.45:9900/live/525/525/19489.ts
-#EXTINF:-1,ES-ESTRELAS
-http://151.80.22.45:9900/live/525/525/19514.ts
-#EXTINF:-1,ES-DISNEY CHANNEL HD
-http://151.80.22.45:9900/live/525/525/19490.ts
-#EXTINF:-1,ES-DISCOVERY CHANNEL
-http://151.80.22.45:9900/live/525/525/19491.ts
-#EXTINF:-1,ES-CUATRO
-http://151.80.22.45:9900/live/525/525/19492.ts
-#EXTINF:-1,ES-COMEDY CENTRAL HD
-http://151.80.22.45:9900/live/525/525/19515.ts
-#EXTINF:-1,ES-CLASSICA
-http://151.80.22.45:9900/live/525/525/19493.ts
-#EXTINF:-1,ES-CLAN TVE
-http://151.80.22.45:9900/live/525/525/19494.ts
-#EXTINF:-1,ES-CAZA Y PESCA HD
-http://151.80.22.45:9900/live/525/525/19516.ts
-#EXTINF:-1,ES-CASTILLA LA MANCHA
-http://151.80.22.45:9900/live/525/525/19495.ts
-#EXTINF:-1,ES-CANAL DECASA
-http://151.80.22.45:9900/live/525/525/19528.ts
-#EXTINF:-1,ES-CALLE 13 HD
-http://151.80.22.45:9900/live/525/525/19496.ts
-#EXTINF:-1,ES-C XTRA
-http://151.80.22.45:9900/live/525/525/19529.ts
-#EXTINF:-1,ES-C & I
-http://151.80.22.45:9900/live/525/525/19497.ts
-#EXTINF:-1,ES-C  COMEDIA
-http://151.80.22.45:9900/live/525/525/19530.ts
-#EXTINF:-1,ES-BLOOMBERG TV
-http://151.80.22.45:9900/live/525/525/19498.ts
-#EXTINF:-1,ES-BEIN SPORT HD
-http://151.80.22.45:9900/live/525/525/19499.ts
-#EXTINF:-1,ES-BEIN SPORT
-http://151.80.22.45:9900/live/525/525/19500.ts
-#EXTINF:-1,ES-BEIN LALIGA HD
-http://151.80.22.45:9900/live/525/525/19518.ts
-#EXTINF:-1,ES-BEIN LALIGA
-http://151.80.22.45:9900/live/525/525/19519.ts
-#EXTINF:-1,ES-Bar?a TV
-http://151.80.22.45:9900/live/525/525/19501.ts
-#EXTINF:-1,ES-AXN WHITE HD
-http://151.80.22.45:9900/live/525/525/19502.ts
-#EXTINF:-1,ES-ARIRANG WORLD
-http://151.80.22.45:9900/live/525/525/19503.ts
-#EXTINF:-1,ES-AMC
-http://151.80.22.45:9900/live/525/525/19520.ts
-#EXTINF:-1,ES-Al Jazeera
-http://151.80.22.45:9900/live/525/525/19504.ts
-#EXTINF:-1,ES-#0 HD
-http://151.80.22.45:9900/live/525/525/19505.ts
-#EXTINF:-1,ES-TNT HD
-http://151.80.22.45:9900/live/525/525/8185.ts
-#EXTINF:-1,ES-TELECINCO HD
-http://151.80.22.45:9900/live/525/525/8188.ts
-#EXTINF:-1,ES-TELECINCO
-http://151.80.22.45:9900/live/525/525/8189.ts
 
+
+#EXTINF:-1,ESP_La_1
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/353.ts
+#EXTINF:-1,ESP_LA_2
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/352.ts
+#EXTINF:-1,ESP_Antena_3_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/412.ts
+#EXTINF:-1,ESP_Cuatro_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/369.ts
+#EXTINF:-1,ESP_Telecinco.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/333.ts
+#EXTINF:-1,ESP_La__Sexta_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/354.ts
+#EXTINF:-1,ESP_Liga_Bar.3
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/391.ts
+#EXTINF:-1,ESP_#0
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/392.ts
+#EXTINF:-1,ESP_M_Xtra_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/376.ts
+#EXTINF:-1,ESP_M _DCINE_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/386.ts
+#EXTINF:-1,ESP_CANAL _ESTRENOS_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/383.ts
+#EXTINF:-1,ESP_M _ACCIÓN_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/387.ts
+#EXTINF:-1,ESP_Hollywood.HD_1080
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/399.ts
+#EXTINF:-1,ESP_M _COMEDIA_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/397.ts
+#EXTINF:-1,ESP_M _Series_Xtra_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/377.ts
+#EXTINF:-1,ESP_M_Series_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/378.ts
+#EXTINF:-1,ESP_ATRESERIES_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/410.ts
+#EXTINF:-1,ESP_AXN_White_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/408.ts
+#EXTINF:-1,ESP_AXN_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/409.ts
+#EXTINF:-1,ESP_Hollywood_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/357.ts
+#EXTINF:-1,ESP_HBO
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/360.ts
+#EXTINF:-1,ESP_Fox_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/361.ts
+#EXTINF:-1,ESP_TCM_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/334.ts
+#EXTINF:-1,ESP_Syfy_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/335.ts
+#EXTINF:-1,ESP_TNT_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/331.ts
+#EXTINF:-1,ESP_Calle_13_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/398.ts
+#EXTINF:-1,ESP_CANAL.SUR
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/393.ts
+#EXTINF:-1,ESP_Comedy_central_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/374.ts
+#EXTINF:-1,ESP_Comedy_central
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/373.ts
+#EXTINF:-1,ESP_Cosmopolitan_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/371.ts
+#EXTINF:-1,ESP_CLAN
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/372.ts
+#EXTINF:-1,ESP_Teledeporte_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/332.ts
+#EXTINF:-1,ESP-LA_LIGA.TV_BAR.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/519.ts
+#EXTINF:-1,ESP-BeinSport.ES
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/627.ts
+#EXTINF:-1,ESP_BEIN_SPORTS_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/403.ts
+#EXTINF:-1,ESP_Bein. LA_LIGA.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/402.ts
+#EXTINF:-1,ESP_C _Futbol_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/396.ts
+#EXTINF:-1,ESP_M _DEP.1_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/385.ts
+#EXTINF:-1,ESP_M_ DEP_2_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/400.ts
+#EXTINF:-1,ESP_3/24 .cat
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/384.ts
+#EXTINF:-1,ESP_Liga_Bar.4
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/380.ts
+#EXTINF:-1,ESP_A&E
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/379.ts
+#EXTINF:-1,ESP_Liga.Bar.2
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/390.ts
+#EXTINF:-1,ESP_La_Liga
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/351.ts
+#EXTINF:-1,ESP_LIGA.BAR.1
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/395.ts
+#EXTINF:-1,ESP_C+PARTIDAZO.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/584.ts
+#EXTINF:-1,ESP_Real_Madrid.Tv
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/362.ts
+#EXTINF:-1,ESP_BARÇA.TV
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/406.ts
+#EXTINF:-1,ESP_GALICIA
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/405.ts
+#EXTINF:-1,ESP_Movistar.F1.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/348.ts
+#EXTINF:-1,ESP_Movistar_Moto_Gp_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/347.ts
+#EXTINF:-1,ESP_Eurosport_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/364.ts
+#EXTINF:-1,ESP_M _GOLF_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/382.ts
+#EXTINF:-1,ESP_Toros_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/394.ts
+#EXTINF:-1,ESP_Sport_3_cat_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/337.ts
+#EXTINF:-1,ESP_Panda
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/338.ts
+#EXTINF:-1,ESP_Super3_/_33_cat
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/336.ts
+#EXTINF:-1,ESP_Odisea.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/447.ts
+#EXTINF:-1,ESP_Viajar_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/330.ts
+#EXTINF:-1,ESP_MULTIFUT.1HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/345.ts
+#EXTINF:-1,ESP_MULTIFUT.2HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/342.ts
+#EXTINF:-1,ESP_National_Geographic
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/343.ts
+#EXTINF:-1,ESP_NatGeo_Wild_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/344.ts
+#EXTINF:-1,ESP_MEGA
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/349.ts
+#EXTINF:-1,ESP_Historia_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/359.ts
+#EXTINF:-1,ESP_FOX.LIFE.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/358.ts
+#EXTINF:-1,ESP_Discovery_Max
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/366.ts
+#EXTINF:-1,ESP_Discovery_C.I
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/367.ts
+#EXTINF:-1,ESP_TV8.cat
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/368.ts
+#EXTINF:-1,ESP_DISCOVERY.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/404.ts
+#EXTINF:-1,ESP_Caza_y_Pesca
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/375.ts
+#EXTINF:-1,ESP_Canal_Cocina
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/389.ts
+#EXTINF:-1,ESP_DISNEY_CHANNEL
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/365.ts
+#EXTINF:-1,ESP_Nickelodeon_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/340.ts
+#EXTINF:-1,ESP_Boing
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/401.ts
+#EXTINF:-1,ESP_Baby_TV
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/407.ts
+#EXTINF:-1,ESP_Non_Stop.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/413.ts
+#EXTINF:-1,ESP_Neox_Kidz
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/341.ts
+#EXTINF:-1,ESP_GOL_TV
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/350.ts
+#EXTINF:-1,ESP_IB3.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/356.ts
+#EXTINF:-1,ESP_Iberalia_TV
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/355.ts
+#EXTINF:-1,ESP_Eurosport.2.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/363.ts
+#EXTINF:-1,ESP_Cristovision
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/370.ts
+#EXTINF:-1,ESP_FUEL_TV
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/388.ts
+#EXTINF:-1,ESP_M.Cine_Español
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/411.ts
+#EXTINF:-1,ESP_AMC_HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/414.ts
+#EXTINF:-1,ESP_MTV
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/346.ts
+#EXTINF:-1,ESP_VIRGIN_TV_
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/329.ts
+#EXTINF:-1,ESP_Solo_Musica
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/339.ts
+#EXTINF:-1,ESP_40.TV
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/415.ts
+#EXTINF:-1,ESP_TV3.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/416.ts
+#EXTINF:-1,PT-TVCine.1.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/589.ts
+#EXTINF:-1,PT-TVCine.2.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/588.ts
+#EXTINF:-1,PT-TVCine.3.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/587.ts
+#EXTINF:-1,PT-TVCine.4.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/586.ts
+#EXTINF:-1,PT_SporTV.5
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/535.ts
+#EXTINF:-1,PT_SporTV.4
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/534.ts
+#EXTINF:-1,PT_SporTV.3
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/533.ts
+#EXTINF:-1,PT_SporTV.2
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/532.ts
+#EXTINF:-1,PT_Sporting.TV.HD
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/536.ts
+#EXTINF:-1,PT_Spor.tv.1
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/531.ts
+#EXTINF:-1,PT_Benfica.TV.2
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/537.ts
+#EXTINF:-1,PT_Benfica.TV.1
+http://fastiptv.doomdns.org:8000/live/Bbaker/Bbaker/538.ts
+#EXTINF:-1,ES: A&E
+http://137.74.94.161:8000/live/obrien/obrien/10204.ts
+#EXTINF:-1,ES: AXN
+http://137.74.94.161:8000/live/obrien/obrien/10205.ts
+#EXTINF:-1,ES: AXN White
+http://137.74.94.161:8000/live/obrien/obrien/10206.ts
+#EXTINF:-1,ES: BARCA TV
+http://137.74.94.161:8000/live/obrien/obrien/10218.ts
+#EXTINF:-1,ES: Bein Sports HD
+http://137.74.94.161:8000/live/obrien/obrien/10207.ts
+#EXTINF:-1,ES: Canal   Golf
+http://137.74.94.161:8000/live/obrien/obrien/10208.ts
+#EXTINF:-1,ES: CANAL  FUTBOL
+http://137.74.94.161:8000/live/obrien/obrien/10225.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://137.74.94.161:8000/live/obrien/obrien/10231.ts
+#EXTINF:-1,ES: CANAL LIGA HD
+http://137.74.94.161:8000/live/obrien/obrien/10226.ts
+#EXTINF:-1,ES: CANAL TOROS
+http://137.74.94.161:8000/live/obrien/obrien/10227.ts
+#EXTINF:-1,ES: Disney Channel
+http://137.74.94.161:8000/live/obrien/obrien/10209.ts
+#EXTINF:-1,ES: Eurosport 2
+http://137.74.94.161:8000/live/obrien/obrien/10210.ts
+#EXTINF:-1,ES: Fox Spain
+http://137.74.94.161:8000/live/obrien/obrien/10211.ts
+#EXTINF:-1,ES: History
+http://137.74.94.161:8000/live/obrien/obrien/10212.ts
+#EXTINF:-1,ES: Hollywood
+http://137.74.94.161:8000/live/obrien/obrien/10213.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://137.74.94.161:8000/live/obrien/obrien/10232.ts
+#EXTINF:-1,ES: National Geographic
+http://137.74.94.161:8000/live/obrien/obrien/10214.ts
+#EXTINF:-1,ES: Odisea HD
+http://137.74.94.161:8000/live/obrien/obrien/10215.ts
+#EXTINF:-1,ES: TV3 Cat
+http://137.74.94.161:8000/live/obrien/obrien/10216.ts
+#EXTINF:-1,ES: TVE La 2HD
+http://137.74.94.161:8000/live/obrien/obrien/10217.ts
+#EXTINF:-1,ES_CALLE_13
+http://137.74.94.161:8000/live/obrien/obrien/10219.ts
+#EXTINF:-1,ES_CANAL _1
+http://137.74.94.161:8000/live/obrien/obrien/10220.ts
+#EXTINF:-1,ES_CANAL _COMEDIA
+http://137.74.94.161:8000/live/obrien/obrien/10221.ts
+#EXTINF:-1,ES_CANAL _DCINE
+http://137.74.94.161:8000/live/obrien/obrien/10222.ts
+#EXTINF:-1,ES_CANAL _DEPORTES
+http://137.74.94.161:8000/live/obrien/obrien/10223.ts
+#EXTINF:-1,ES_CANAL _Estrenos HD
+http://137.74.94.161:8000/live/obrien/obrien/10224.ts
+#EXTINF:-1,ES_CANAL_2
+http://137.74.94.161:8000/live/obrien/obrien/10228.ts
+#EXTINF:-1,ES_CANAL_ACTION
+http://137.74.94.161:8000/live/obrien/obrien/10229.ts
+#EXTINF:-1,ES_CANAL_COCINA
+http://137.74.94.161:8000/live/obrien/obrien/10230.ts
+#EXTINF:-1,ES_MOVIESTAR_MOTOGP
+http://137.74.94.161:8000/live/obrien/obrien/10233.ts
+#EXTINF:-1,ES_REAL_MADRID_TV
+http://137.74.94.161:8000/live/obrien/obrien/10234.ts
+#EXTINF:-1,ES_TELECINCO
+http://137.74.94.161:8000/live/obrien/obrien/10235.ts
 
 
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+
 
 #EXTINF:-1,[COLOR red][I][B]--------------------------------------------------[/B][/I][/COLOR]
 
