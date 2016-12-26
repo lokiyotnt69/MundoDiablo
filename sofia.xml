@@ -2,24 +2,423 @@
 
 
 
-<item>
-<title>-[COLOR red] 1 [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/ess123/ess123/1620.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:#0</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+  <streamingInfos>
+ 
+          <item> 
+            <title>SP:BEINSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 4 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 5 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 6 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 7 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 8 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 9 HD</link> 
+        </item> 
+          <item> 
+            <title>SP:BEINSPORT 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:BEINSPORT 10 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4213.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 1</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4214.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 2</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4215.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 3</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4216.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 4</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4217.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 5</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4218.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 6</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4219.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 7</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4220.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 8</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4221.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 9</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4222.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 10</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4223.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 11</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4224.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 12</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4225.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 13</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4226.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 14</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4227.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 15</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT HD 16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4228.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT HD 16</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 1 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4229.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 1 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 2 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4230.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 2 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 3 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4231.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 3 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 4 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4232.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 4 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 5 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4233.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 5 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 6 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4234.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 6 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 7 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4235.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 7 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 8 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4236.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 8 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 9 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4237.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 9 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 10 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4238.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 10 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 11 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4239.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 11 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 12 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4240.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 12 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 13 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4241.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 13 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 14 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4242.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 14 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 15 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4243.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 15 sd</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORT 16 sd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/4244.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORT 16 sd</link> 
+        </item> 
+          <item> 
+            <title>AR:  BEIN SPORTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR:  BEIN SPORTS HD</link> 
+        </item> 
+          <item> 
+            <title>AR:  BEIN SPORTS NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR:  BEIN SPORTS NEWS</link> 
+        </item> 
+          <item> 
+            <title>FR: BEINSPOR1FRHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPOR1FRHD</link> 
+        </item> 
+          <item> 
+            <title>FR: BEINSPOR2FRHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPOR2FRHD</link> 
+        </item> 
+          <item> 
+            <title>FR: BEINSPOR3FRHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPOR3FRHD</link> 
+        </item> 
+          <item> 
+            <title>ES:BEINSPHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BEINSPHD</link> 
+        </item> 
+          <item> 
+            <title>ES:BARCATV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BARCATV</link> 
+        </item> 
+          <item> 
+            <title>FR:  SFR1 SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/3710.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  SFR1 SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>FR:  SFR2 SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/1234/1234/3711.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  SFR2 SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9902.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 2</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9901.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 3</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9900.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport 4</link> 
+        </item> 
+          <item> 
+            <title>AL: Super Sport4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9899.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: Super Sport4</link> 
+        </item> 
+          <item> 
+            <title>AL: SuperSport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9898.ts&amp;streamtype=TSDOWNLOADER&amp;name=AL: SuperSport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 1 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9889.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 1 HR</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 1 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9888.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 1 SRB</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 2 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9891.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 2 HR</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 2 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9890.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 2 SRB</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 3 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9893.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 3 HR</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 3 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9892.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 3 SRB</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 4 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9895.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 4 HR</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 4 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9894.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 4 SRB</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 5 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9897.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 5 HR</link> 
+        </item> 
+          <item> 
+            <title>Arena Sport 5 SRB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9896.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena Sport 5 SRB</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9883.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9884.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>DE Sport1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9882.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sport1 HD</link> 
+        </item> 
+          <item> 
+            <title>DIGITV ROMANIA:Digi_Sport_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9878.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIGITV ROMANIA:Digi_Sport_1</link> 
+        </item> 
+          <item> 
+            <title>DIGITV ROMANIA:Digi_Sport_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9879.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIGITV ROMANIA:Digi_Sport_2</link> 
+        </item> 
+          <item> 
+            <title>DIGITV ROMANIA:Digi_Sport_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9880.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIGITV ROMANIA:Digi_Sport_3</link> 
+        </item> 
+          <item> 
+            <title>DIGITV ROMANIA:Digi_Sport_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9881.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIGITV ROMANIA:Digi_Sport_4</link> 
+        </item> 
+          <item> 
+            <title>FR: Bein Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9885.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FR: Bein Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9886.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FR: Bein Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9887.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FR: Canal  Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport HD</link> 
+        </item> 
+          <item> 
+            <title>IL: Sport 2 HD IL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9875.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: Sport 2 HD IL</link> 
+        </item> 
+          <item> 
+            <title>IL: Sport 5 HD IL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9876.ts&amp;streamtype=TSDOWNLOADER&amp;name=IL: Sport 5 HD IL</link> 
+        </item> 
+          <item> 
+            <title>IN: Ten-2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9872.ts&amp;streamtype=TSDOWNLOADER&amp;name=IN: Ten-2 HD</link> 
+        </item> 
+          <item> 
+            <title>IN: Ten-3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9873.ts&amp;streamtype=TSDOWNLOADER&amp;name=IN: Ten-3 HD</link> 
+        </item> 
+          <item> 
+            <title>IN: Ten-Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9874.ts&amp;streamtype=TSDOWNLOADER&amp;name=IN: Ten-Golf</link> 
+        </item> 
+          <item> 
+            <title>IT Euro Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9870.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT Euro Sport 1</link> 
+        </item> 
+          <item> 
+            <title>IT Euro Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9871.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT Euro Sport 2</link> 
+        </item> 
+          <item> 
+            <title>IT Sky Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9867.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT Sky Sport 1</link> 
+        </item> 
+          <item> 
+            <title>IT Sky Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9868.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT Sky Sport 2</link> 
+        </item> 
+          <item> 
+            <title>IT Sky Sport 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9866.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT Sky Sport 24 HD</link> 
+        </item> 
+          <item> 
+            <title>IT Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9869.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT Sky Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>NL:FOX SPORT 1  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9861.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX SPORT 1  HD</link> 
+        </item> 
+          <item> 
+            <title>NL:FOX SPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9862.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX SPORT 2</link> 
+        </item> 
+          <item> 
+            <title>NL:FOX SPORT 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9863.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX SPORT 3</link> 
+        </item> 
+          <item> 
+            <title>NL:FOX SPORT 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9864.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX SPORT 4</link> 
+        </item> 
+          <item> 
+            <title>NL:FOX SPORT 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9865.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL:FOX SPORT 5</link> 
+        </item> 
+          <item> 
+            <title>PORTUGAL:SPORTTV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9839.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORTTV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PORTUGAL:SPORTTV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9840.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORTTV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PORTUGAL:SPORTTV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9841.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORTTV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PORTUGAL:SPORTTV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9842.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORTTV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>PORTUGAL:SPORTTV 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9843.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:SPORTTV 5 HD</link> 
+        </item> 
+          <item> 
+            <title>SRB: SPORT KLUB 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9858.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRB: SPORT KLUB 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SRB: SPORT KLUB 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9859.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRB: SPORT KLUB 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SRB: SPORT KLUB 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/pak/pak/9860.ts&amp;streamtype=TSDOWNLOADER&amp;name=SRB: SPORT KLUB 3 HD</link> 
+        </item> 
+  
 
-<item>
-<title>-[COLOR red] taquilla1 [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/ess123/ess123/1917.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:Taquilla_1</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
-<item>
-<title>-[COLOR red] [/COLOR]</title>
-<link> </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
+
