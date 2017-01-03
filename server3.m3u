@@ -1,65 +1,408 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ESP:TELECINCO-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3927.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:LA-SEXTA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3928.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:CALLE-13-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3929.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-SERIES-XTRA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3930.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-LIGA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3931.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-LIGA-2-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3932.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-GOLF-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3933.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-ESTRENOS-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3934.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-DEPORTES-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3935.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-DEPORTES-2-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3936.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-DCINE-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3937.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-COMEDIA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3938.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-ACCION-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3939.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:C-XTRA-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3940.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:BEIN-SPORTS
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3941.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:AXN-WHITE-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3942.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP:ANTENA-3-HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3943.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ESP: #0 HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/3944.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:FOX
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/465.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:C-COMEDIA
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/464.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-8
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/462.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-7
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/461.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-6
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/460.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-5
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/459.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-4
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/458.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-3
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/457.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-2
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/456.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Taquilla-1
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/455.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:LA_SEXTA_HD
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/463.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Canal_Estrenos
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/610.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,ES:Canal_Dcine
-plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/hamadane/hamadane/608.ts&amp;streamtype=TSDOWNLOADER
-
+#EXTINF:-1,DE_Sky_Select_1HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6344.ts
+#EXTINF:-1,DE_Sky_Select_2HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6345.ts
+#EXTINF:-1,DE_Sky_Select_3HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6346.ts
+#EXTINF:-1,DE_Sky_Select_4HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6347.ts
+#EXTINF:-1,DE_Sky_Select_5HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6348.ts
+#EXTINF:-1,DE: 13STREET HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6329.ts
+#EXTINF:-1,DE: 13th Street
+http://cms.tvhd4k.com:19500/live/fred/fred/6349.ts
+#EXTINF:-1,DE: A&E
+http://cms.tvhd4k.com:19500/live/fred/fred/6350.ts
+#EXTINF:-1,DE: ARD
+http://cms.tvhd4k.com:19500/live/fred/fred/6351.ts
+#EXTINF:-1,DE: Cartoon Network
+http://cms.tvhd4k.com:19500/live/fred/fred/6352.ts
+#EXTINF:-1,DE: Discovery Channel
+http://cms.tvhd4k.com:19500/live/fred/fred/6353.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://cms.tvhd4k.com:19500/live/fred/fred/6354.ts
+#EXTINF:-1,DE: Disney Junior
+http://cms.tvhd4k.com:19500/live/fred/fred/6355.ts
+#EXTINF:-1,DE: Disney XD
+http://cms.tvhd4k.com:19500/live/fred/fred/6356.ts
+#EXTINF:-1,DE: E! Entertainm. HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6357.ts
+#EXTINF:-1,DE: Eurosport 2HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6358.ts
+#EXTINF:-1,DE: Fox HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6359.ts
+#EXTINF:-1,DE: Fox Serie
+http://cms.tvhd4k.com:19500/live/fred/fred/6360.ts
+#EXTINF:-1,DE: Jukebox
+http://cms.tvhd4k.com:19500/live/fred/fred/6361.ts
+#EXTINF:-1,DE: Junior
+http://cms.tvhd4k.com:19500/live/fred/fred/6362.ts
+#EXTINF:-1,DE: MGM
+http://cms.tvhd4k.com:19500/live/fred/fred/6363.ts
+#EXTINF:-1,DE: Motorvision TV
+http://cms.tvhd4k.com:19500/live/fred/fred/6364.ts
+#EXTINF:-1,DE: n-tv
+http://cms.tvhd4k.com:19500/live/fred/fred/6365.ts
+#EXTINF:-1,DE: N24
+http://cms.tvhd4k.com:19500/live/fred/fred/6366.ts
+#EXTINF:-1,DE: NatGeo Wild
+http://cms.tvhd4k.com:19500/live/fred/fred/6367.ts
+#EXTINF:-1,DE: National Geographic
+http://cms.tvhd4k.com:19500/live/fred/fred/6368.ts
+#EXTINF:-1,DE: Pro 7
+http://cms.tvhd4k.com:19500/live/fred/fred/6327.ts
+#EXTINF:-1,DE: ProSieben
+http://cms.tvhd4k.com:19500/live/fred/fred/6369.ts
+#EXTINF:-1,DE: Romance TV
+http://cms.tvhd4k.com:19500/live/fred/fred/6370.ts
+#EXTINF:-1,DE: RTL Crime
+http://cms.tvhd4k.com:19500/live/fred/fred/6371.ts
+#EXTINF:-1,DE: RTL Passion
+http://cms.tvhd4k.com:19500/live/fred/fred/6372.ts
+#EXTINF:-1,DE: RTL Television
+http://cms.tvhd4k.com:19500/live/fred/fred/6373.ts
+#EXTINF:-1,DE: RTL2
+http://cms.tvhd4k.com:19500/live/fred/fred/6374.ts
+#EXTINF:-1,DE: RTLNITRO
+http://cms.tvhd4k.com:19500/live/fred/fred/6375.ts
+#EXTINF:-1,DE: RTLplus
+http://cms.tvhd4k.com:19500/live/fred/fred/6376.ts
+#EXTINF:-1,DE: SAT.1
+http://cms.tvhd4k.com:19500/live/fred/fred/6377.ts
+#EXTINF:-1,DE: Sky Arts HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6378.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://cms.tvhd4k.com:19500/live/fred/fred/6379.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6341.ts
+#EXTINF:-1,DE: Sky Cinema
+http://cms.tvhd4k.com:19500/live/fred/fred/6380.ts
+#EXTINF:-1,DE: Sky cinema   1
+http://cms.tvhd4k.com:19500/live/fred/fred/6381.ts
+#EXTINF:-1,DE: Sky Cinema   24
+http://cms.tvhd4k.com:19500/live/fred/fred/6382.ts
+#EXTINF:-1,DE: Sky Cinema Action
+http://cms.tvhd4k.com:19500/live/fred/fred/6383.ts
+#EXTINF:-1,DE: Sky Cinema Comedy
+http://cms.tvhd4k.com:19500/live/fred/fred/6384.ts
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://cms.tvhd4k.com:19500/live/fred/fred/6385.ts
+#EXTINF:-1,DE: Sky cinema Family
+http://cms.tvhd4k.com:19500/live/fred/fred/6386.ts
+#EXTINF:-1,DE: Sky Cinema Hits
+http://cms.tvhd4k.com:19500/live/fred/fred/6387.ts
+#EXTINF:-1,DE: Sky Krimi
+http://cms.tvhd4k.com:19500/live/fred/fred/6388.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://cms.tvhd4k.com:19500/live/fred/fred/6389.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://cms.tvhd4k.com:19500/live/fred/fred/6390.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://cms.tvhd4k.com:19500/live/fred/fred/6391.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1
+http://cms.tvhd4k.com:19500/live/fred/fred/6392.ts
+#EXTINF:-1,DE: Sky Sport News
+http://cms.tvhd4k.com:19500/live/fred/fred/6393.ts
+#EXTINF:-1,DE: Syfy
+http://cms.tvhd4k.com:19500/live/fred/fred/6395.ts
+#EXTINF:-1,DE: TNT Comedy HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6396.ts
+#EXTINF:-1,DE: TOGGO plus
+http://cms.tvhd4k.com:19500/live/fred/fred/6397.ts
+#EXTINF:-1,DE: Universal HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6398.ts
+#EXTINF:-1,DE: VOX
+http://cms.tvhd4k.com:19500/live/fred/fred/6399.ts
+#EXTINF:-1,ES:CANALOdesia
+http://cms.tvhd4k.com:19500/live/fred/fred/5845.ts
+#EXTINF:-1,ES:TELECINCO
+http://cms.tvhd4k.com:19500/live/fred/fred/5844.ts
+#EXTINF:-1,ESP:24H
+http://cms.tvhd4k.com:19500/live/fred/fred/5843.ts
+#EXTINF:-1,ESP:A&E
+http://cms.tvhd4k.com:19500/live/fred/fred/5842.ts
+#EXTINF:-1,ESP:ANDALUCIA
+http://cms.tvhd4k.com:19500/live/fred/fred/5841.ts
+#EXTINF:-1,ESP:Antena3
+http://cms.tvhd4k.com:19500/live/fred/fred/5840.ts
+#EXTINF:-1,ESP:AXN
+http://cms.tvhd4k.com:19500/live/fred/fred/5839.ts
+#EXTINF:-1,ESP:AXN_WHITE
+http://cms.tvhd4k.com:19500/live/fred/fred/5838.ts
+#EXTINF:-1,ESP:BARCA
+http://cms.tvhd4k.com:19500/live/fred/fred/5837.ts
+#EXTINF:-1,ESP:C COMEDIA
+http://cms.tvhd4k.com:19500/live/fred/fred/5836.ts
+#EXTINF:-1,ESP:C DEPORTES
+http://cms.tvhd4k.com:19500/live/fred/fred/5835.ts
+#EXTINF:-1,ESP:C ESTRENOS
+http://cms.tvhd4k.com:19500/live/fred/fred/5834.ts
+#EXTINF:-1,ESP:C SERIES
+http://cms.tvhd4k.com:19500/live/fred/fred/5833.ts
+#EXTINF:-1,ESP:C SERIESXTRA
+http://cms.tvhd4k.com:19500/live/fred/fred/5832.ts
+#EXTINF:-1,ESP:CUATRO
+http://cms.tvhd4k.com:19500/live/fred/fred/5830.ts
+#EXTINF:-1,ESP:DISNEY_CHANNEL
+http://cms.tvhd4k.com:19500/live/fred/fred/5829.ts
+#EXTINF:-1,ESP:Energy
+http://cms.tvhd4k.com:19500/live/fred/fred/5828.ts
+#EXTINF:-1,ESP:FOX
+http://cms.tvhd4k.com:19500/live/fred/fred/5827.ts
+#EXTINF:-1,ESP:FOX_LIFE
+http://cms.tvhd4k.com:19500/live/fred/fred/5826.ts
+#EXTINF:-1,ESP:HISTORIA
+http://cms.tvhd4k.com:19500/live/fred/fred/5825.ts
+#EXTINF:-1,ESP:HOLLYWOOD
+http://cms.tvhd4k.com:19500/live/fred/fred/5824.ts
+#EXTINF:-1,ESP:La_Sexta
+http://cms.tvhd4k.com:19500/live/fred/fred/5823.ts
+#EXTINF:-1,ESP:MovieStar_F1
+http://cms.tvhd4k.com:19500/live/fred/fred/5822.ts
+#EXTINF:-1,ESP:Movistar Xtra
+http://cms.tvhd4k.com:19500/live/fred/fred/5820.ts
+#EXTINF:-1,ESP:NATGEO GEO
+http://cms.tvhd4k.com:19500/live/fred/fred/5819.ts
+#EXTINF:-1,ESP:NOVA
+http://cms.tvhd4k.com:19500/live/fred/fred/5818.ts
+#EXTINF:-1,ESP:RealMadrid
+http://cms.tvhd4k.com:19500/live/fred/fred/5817.ts
+#EXTINF:-1,ESP:TVE_LA1
+http://cms.tvhd4k.com:19500/live/fred/fred/5816.ts
+#EXTINF:-1,ESP:TVE_LA2
+http://cms.tvhd4k.com:19500/live/fred/fred/5815.ts
+#EXTINF:-1,ES: A&E Spain
+http://cms.tvhd4k.com:19500/live/fred/fred/6502.ts
+#EXTINF:-1,ES: AXN Spain
+http://cms.tvhd4k.com:19500/live/fred/fred/6503.ts
+#EXTINF:-1,ES: AXN White Spain
+http://cms.tvhd4k.com:19500/live/fred/fred/6504.ts
+#EXTINF:-1,ES: Canal   Dcine HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6505.ts
+#EXTINF:-1,ES: Canal   Futbol
+http://cms.tvhd4k.com:19500/live/fred/fred/6506.ts
+#EXTINF:-1,ES: Canal   Golf
+http://cms.tvhd4k.com:19500/live/fred/fred/6507.ts
+#EXTINF:-1,ES: Canal  Comedia HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6508.ts
+#EXTINF:-1,ES: National Geografic
+http://cms.tvhd4k.com:19500/live/fred/fred/6509.ts
+#EXTINF:-1,ES:CANAL  LA LIGA
+http://cms.tvhd4k.com:19500/live/fred/fred/6510.ts
+#EXTINF:-1,ES:CANAL Odesia HD
+http://cms.tvhd4k.com:19500/live/fred/fred/6501.ts
+#EXTINF:-1,ESP:TVE LA2
+http://cms.tvhd4k.com:19500/live/fred/fred/6500.ts
+#EXTINF:-1,IT: Premium Calcio 2 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1303.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1248.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1271.ts
+#EXTINF:-1,IT: Sky Supercalcio HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1283.ts
+#EXTINF:-1,IT: La5
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1274.ts
+#EXTINF:-1,IT: PREMIUM CINEMA JOY
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1275.ts
+#EXTINF:-1,IT: Italia 1
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1273.ts
+#EXTINF:-1,IT: Fox
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1266.ts
+#EXTINF:-1,IT:  SKY SPORT 3
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1270.ts
+#EXTINF:-1,IT: Fox Life
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1268.ts
+#EXTINF:-1,IT: Fox Crime
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1267.ts
+#EXTINF:-1,IT: Discovery HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1250.ts
+#EXTINF:-1,IT: Canale5
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1272.ts
+#EXTINF:-1,IT: Animal Planet HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1251.ts
+#EXTINF:-1,IT: Rai YoYo
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1260.ts
+#EXTINF:-1,IT: Rai Sport 2
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1263.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1262.ts
+#EXTINF:-1,IT:  Sky Sport 1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1279.ts
+#EXTINF:-1,IT:  Sky Sport 2 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1280.ts
+#EXTINF:-1,IT:  Sky Sport 3 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1281.ts
+#EXTINF:-1,IT: Super Tennis
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1277.ts
+#EXTINF:-1,IT: Sport Italia
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1278.ts
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1028.ts
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1027.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1284.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1282.ts
+#EXTINF:-1,IT: Sky Eurosport 2
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1287.ts
+#EXTINF:-1,IT: Premium sport 2 hd
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/917.ts
+#EXTINF:-1,IT: Sky PrimaFila 1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1289.ts
+#EXTINF:-1,IT: Sky PrimaFila 2 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1290.ts
+#EXTINF:-1,IT: Sky PrimaFila 3 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1291.ts
+#EXTINF:-1,IT: Sky PrimaFila 5 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1293.ts
+#EXTINF:-1,IT: Sky PrimaFila 4 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2721.ts
+#EXTINF:-1,IT: Sky PrimaFila 6 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1294.ts
+#EXTINF:-1,IT: Sky PrimaFila 7 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1295.ts
+#EXTINF:-1,IT: Sky PrimaFila 8 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1292.ts
+#EXTINF:-1,IT: Sky PrimaFila 9 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1297.ts
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1300.ts
+#EXTINF:-1,IT: Sky Cinema Classic
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1243.ts
+#EXTINF:-1,IT: Sky Uno
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1246.ts
+#EXTINF:-1,IT: Sky Cinema 24
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1241.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1264.ts
+#EXTINF:-1,IT: RSI La2 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1265.ts
+#EXTINF:-1,IT: Rai1
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1253.ts
+#EXTINF:-1,IT: Rai2
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1254.ts
+#EXTINF:-1,IT: Rai3
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1255.ts
+#EXTINF:-1,IT: Rai5
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1257.ts
+#EXTINF:-1,IT: Rai Premium
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1259.ts
+#EXTINF:-1,IT: Rai Movie
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1258.ts
+#EXTINF:-1,IT: Rai Gulp
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1261.ts
+#EXTINF:-1,IT: Premium CINEMA HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/879.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1301.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/881.ts
+#EXTINF:-1,IT: Sky_Cinema_Comedy
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/900.ts
+#EXTINF:-1,IT: Sky Cinema Max
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1240.ts
+#EXTINF:-1,IT: Sky Cinema 1
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1239.ts
+#EXTINF:-1,IT: National Geo HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1247.ts
+#EXTINF:-1,IT: Sky Cinema Hit HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/882.ts
+#EXTINF:-1,DE: Sky Cinema 1
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/905.ts
+#EXTINF:-1,IT: SKY CINEMA 1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/1025.ts
+#EXTINF:-1,IT: Sky Cinema  1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/901.ts
+#EXTINF:-1,DE:VIVA_COMEDY_CENTRAL
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2462.ts
+#EXTINF:-1,DE:SYFY
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2467.ts
+#EXTINF:-1,DE:SKY_SELECT_3_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2492.ts
+#EXTINF:-1,DE:SKY_HITS
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2496.ts
+#EXTINF:-1,DE: SKY ACTION
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2497.ts
+#EXTINF:-1,DE:SKY_CINEMA_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2501.ts
+#EXTINF:-1,DE:SKY_CINEMA_24_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2502.ts
+#EXTINF:-1,DE:SKY_CINEMA
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2503.ts
+#EXTINF:-1,DE:SKY_BUNDESLIGA_1
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2505.ts
+#EXTINF:-1,DE:SKY_ATLANTIC_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2506.ts
+#EXTINF:-1,DE:ROMANCE_TV
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2517.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2518.ts
+#EXTINF:-1,DE:PRO_7_MAX
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2519.ts
+#EXTINF:-1,DE:ORF2
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2522.ts
+#EXTINF:-1,DE:MGM_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2529.ts
+#EXTINF:-1,DE: TNT FILM
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2530.ts
+#EXTINF:-1,DE:HISTORY_CHANNEL
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2534.ts
+#EXTINF:-1,DE:HALLE_TV
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2535.ts
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2537.ts
+#EXTINF:-1,DE :DISNEY_CHANNEL
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2545.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/963.ts
+#EXTINF:-1,DE: SKY Action HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/966.ts
+#EXTINF:-1,DE: VIVA_COMEDY_CENTRAL
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2420.ts
+#EXTINF:-1,DE: SKY_SELECT_3_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2455.ts
+#EXTINF:-1,DE: SYFY HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2445.ts
+#EXTINF:-1,DE: SKY_COMEDY_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2447.ts
+#EXTINF:-1,DE: SKY_CINEMA_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2449.ts
+#EXTINF:-1,DE: SKY_CINEMA_24_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2450.ts
+#EXTINF:-1,DE: SKY_ATLANTIC_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2452.ts
+#EXTINF:-1,DE: DISNEY_CHANNEL
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2439.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ ESPANA █ ▇ ▆ ▅ ▄ ▃
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/904.ts
+#EXTINF:-1,ES:BEIN_SPORTS
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2376.ts
+#EXTINF:-1,ES: C TOROS_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2374.ts
+#EXTINF:-1,ES: FOX
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2375.ts
+#EXTINF:-1,ES: C ESTRENOS_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2363.ts
+#EXTINF:-1,ES: Movistar Series.
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2370.ts
+#EXTINF:-1,ES: C COMEDIA_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2364.ts
+#EXTINF:-1,ES: REAL Madrid
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2371.ts
+#EXTINF:-1,ES: MOVISTAR-GP-HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2369.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2372.ts
+#EXTINF:-1,ES: CUATRO_H
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2368.ts
+#EXTINF:-1,ES: CUATRO_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2367.ts
+#EXTINF:-1,ES: C DCINE_HD
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2365.ts
+#EXTINF:-1,ES: BEIN_SPORTS
+http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2366.ts
