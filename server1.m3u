@@ -1,147 +1,299 @@
 #EXTM3U
+#EXTINF:-1,SP:CI
+http://skyeg.dyndns.org:8000/live/0881/0881/1626.ts
+#EXTINF:-1,SP:#0
+http://skyeg.dyndns.org:8000/live/0881/0881/1620.ts
+#EXTINF:-1,SP:40
+http://skyeg.dyndns.org:8000/live/0881/0881/2088.ts
+#EXTINF:-1,SP:Tdp
+http://skyeg.dyndns.org:8000/live/0881/0881/1914.ts
+#EXTINF:-1,SP:TNT
+http://skyeg.dyndns.org:8000/live/0881/0881/1103.ts
+#EXTINF:-1,SP:FDF
+http://skyeg.dyndns.org:8000/live/0881/0881/2083.ts
+#EXTINF:-1,SP:A&E
+http://skyeg.dyndns.org:8000/live/0881/0881/1621.ts
+#EXTINF:-1,SP:MTV
+http://skyeg.dyndns.org:8000/live/0881/0881/1623.ts
+#EXTINF:-1,SP:GOL
+http://skyeg.dyndns.org:8000/live/0881/0881/2092.ts
+#EXTINF:-1,SP:AMC
+http://skyeg.dyndns.org:8000/live/0881/0881/1105.ts
+#EXTINF:-1,SP:TCM
+http://skyeg.dyndns.org:8000/live/0881/0881/311.ts
+#EXTINF:-1,SP:Clan
+http://skyeg.dyndns.org:8000/live/0881/0881/1910.ts
+#EXTINF:-1,SP:Nova
+http://skyeg.dyndns.org:8000/live/0881/0881/617.ts
+#EXTINF:-1,SP:SYFY
+http://skyeg.dyndns.org:8000/live/0881/0881/616.ts
+#EXTINF:-1,SP:Neox
+http://skyeg.dyndns.org:8000/live/0881/0881/2085.ts
+#EXTINF:-1,SP:Mega
+http://skyeg.dyndns.org:8000/live/0881/0881/1632.ts
+#EXTINF:-1,SP:Toros
+http://skyeg.dyndns.org:8000/live/0881/0881/1912.ts
+#EXTINF:-1,SP:Barca
+http://skyeg.dyndns.org:8000/live/0881/0881/1106.ts
+#EXTINF:-1,SP:Laliga
+http://skyeg.dyndns.org:8000/live/0881/0881/1628.ts
+#EXTINF:-1,SP:Divinity
+http://skyeg.dyndns.org:8000/live/0881/0881/1911.ts
+#EXTINF:-1,SP:Odisea
+http://skyeg.dyndns.org:8000/live/0881/0881/1104.ts
+#EXTINF:-1,SP:Historia
+http://skyeg.dyndns.org:8000/live/0881/0881/991.ts
+#EXTINF:-1,SP:Baby_TV
+http://skyeg.dyndns.org:8000/live/0881/0881/1624.ts
+#EXTINF:-1,SP:CUATRO
+http://skyeg.dyndns.org:8000/live/0881/0881/1102.ts
+#EXTINF:-1,SP:ENERGY
+http://skyeg.dyndns.org:8000/live/0881/0881/1855.ts
+#EXTINF:-1,SP:Telecinco
+http://skyeg.dyndns.org:8000/live/0881/0881/1913.ts
+#EXTINF:-1,SP:Antena_3
+http://skyeg.dyndns.org:8000/live/0881/0881/1101.ts
+#EXTINF:-1,SP:Discovery
+http://skyeg.dyndns.org:8000/live/0881/0881/993.ts
+#EXTINF:-1,SP:Andalucia
+http://skyeg.dyndns.org:8000/live/0881/0881/1909.ts
+#EXTINF:-1,SP:Hollywood
+http://skyeg.dyndns.org:8000/live/0881/0881/523.ts
+#EXTINF:-1,SP:CALLE_13
+http://skyeg.dyndns.org:8000/live/0881/0881/562.ts
+#EXTINF:-1,SP:Bein_Laliga
+http://skyeg.dyndns.org:8000/live/0881/0881/1629.ts
+#EXTINF:-1,SP:CINE_Boing
+http://skyeg.dyndns.org:8000/live/0881/0881/1627.ts
+#EXTINF:-1,SP:Nickelodeon
+http://skyeg.dyndns.org:8000/live/0881/0881/387.ts
+#EXTINF:-1,SP:Real_Madrid
+http://skyeg.dyndns.org:8000/live/0881/0881/605.ts
+#EXTINF:-1,SP:Tele_Deporte
+http://skyeg.dyndns.org:8000/live/0881/0881/2084.ts
+#EXTINF:-1,SP:Caza_Y_ Pesca
+http://skyeg.dyndns.org:8000/live/0881/0881/1622.ts
+#EXTINF:-1,SP:Comedy_Central
+http://skyeg.dyndns.org:8000/live/0881/0881/1107.ts
+#EXTINF:-1,SP:Paramount_Channel
+http://skyeg.dyndns.org:8000/live/0881/0881/1630.ts
+#EXTINF:-1,SP:AXN
+http://skyeg.dyndns.org:8000/live/0881/0881/804.ts
+#EXTINF:-1,SP:AXN_White
+http://skyeg.dyndns.org:8000/live/0881/0881/370.ts
+#EXTINF:-1,SP:Disney_XD
+http://skyeg.dyndns.org:8000/live/0881/0881/1098.ts
+#EXTINF:-1,SP:Disney_Junior
+http://skyeg.dyndns.org:8000/live/0881/0881/1916.ts
+#EXTINF:-1,SP:Disney_Channel
+http://skyeg.dyndns.org:8000/live/0881/0881/992.ts
+#EXTINF:-1,SP:Fox
+http://skyeg.dyndns.org:8000/live/0881/0881/619.ts
+#EXTINF:-1,SP:Fox_Life
+http://skyeg.dyndns.org:8000/live/0881/0881/618.ts
+#EXTINF:-1,SP:La1
+http://skyeg.dyndns.org:8000/live/0881/0881/1633.ts
+#EXTINF:-1,SP:La2
+http://skyeg.dyndns.org:8000/live/0881/0881/1634.ts
+#EXTINF:-1,SP:LA_Sexta
+http://skyeg.dyndns.org:8000/live/0881/0881/1100.ts
+#EXTINF:-1,SP:Eurosport_1
+http://skyeg.dyndns.org:8000/live/0881/0881/2090.ts
+#EXTINF:-1,SP:Eurosport_2
+http://skyeg.dyndns.org:8000/live/0881/0881/2091.ts
+#EXTINF:-1,SP:Nat_Geo_Wild
+http://skyeg.dyndns.org:8000/live/0881/0881/1099.ts
+#EXTINF:-1,SP:National_Geographic
+http://skyeg.dyndns.org:8000/live/0881/0881/994.ts
+#EXTINF:-1,SP:MOVISTAR_Xtra
+http://skyeg.dyndns.org:8000/live/0881/0881/1631.ts
+#EXTINF:-1,SP:MOVISTAR_Golf
+http://skyeg.dyndns.org:8000/live/0881/0881/708.ts
+#EXTINF:-1,SP:MOVISTAR_Liga
+http://skyeg.dyndns.org:8000/live/0881/0881/622.ts
+#EXTINF:-1,SP:MOVISTAR_Toros
+http://skyeg.dyndns.org:8000/live/0881/0881/802.ts
+#EXTINF:-1,SP:MOVISTAR_Dcine
+http://skyeg.dyndns.org:8000/live/0881/0881/805.ts
+#EXTINF:-1,SP:MOVISTAR_Futbol
+http://skyeg.dyndns.org:8000/live/0881/0881/803.ts
+#EXTINF:-1,SP:MOVISTAR_Series
+http://skyeg.dyndns.org:8000/live/0881/0881/1109.ts
+#EXTINF:-1,SP:MOVISTAR_Series_Xtra
+http://skyeg.dyndns.org:8000/live/0881/0881/1110.ts
+#EXTINF:-1,SP:MOVISTAR_Accion
+http://skyeg.dyndns.org:8000/live/0881/0881/765.ts
+#EXTINF:-1,SP:MOVISTAR_Decasa
+http://skyeg.dyndns.org:8000/live/0881/0881/1625.ts
+#EXTINF:-1,SP:MOVISTAR_Estrenos
+http://skyeg.dyndns.org:8000/live/0881/0881/1108.ts
+#EXTINF:-1,SP:MOVISTAR_Comedia
+http://skyeg.dyndns.org:8000/live/0881/0881/690.ts
+#EXTINF:-1,SP:MOVISTAR_Formula_1
+http://skyeg.dyndns.org:8000/live/0881/0881/2089.ts
+#EXTINF:-1,SP:MOVISTAR_Deportes
+http://skyeg.dyndns.org:8000/live/0881/0881/577.ts
+#EXTINF:-1,SP:MOVISTAR_Deportes_2
+http://skyeg.dyndns.org:8000/live/0881/0881/1915.ts
+#EXTINF:-1,SP:Taquilla_1
+http://skyeg.dyndns.org:8000/live/0881/0881/1917.ts
+#EXTINF:-1,SP:Taquilla_2
+http://skyeg.dyndns.org:8000/live/0881/0881/1918.ts
+#EXTINF:-1,SP:Taquilla_3
+http://skyeg.dyndns.org:8000/live/0881/0881/1919.ts
+#EXTINF:-1,SP:Taquilla_4
+http://skyeg.dyndns.org:8000/live/0881/0881/1920.ts
+#EXTINF:-1,SP:Taquilla_5
+http://skyeg.dyndns.org:8000/live/0881/0881/1921.ts
+#EXTINF:-1,SP:Taquilla_6
+http://skyeg.dyndns.org:8000/live/0881/0881/1922.ts
+#EXTINF:-1,SP:Taquilla_7
+http://skyeg.dyndns.org:8000/live/0881/0881/1923.ts
+#EXTINF:-1,SP:Taquilla_8
+http://skyeg.dyndns.org:8000/live/0881/0881/1924.ts
+#EXTINF:-1,SP:Taquilla_9
+http://skyeg.dyndns.org:8000/live/0881/0881/1925.ts
+#EXTINF:-1,SP:Taquilla_10
+http://skyeg.dyndns.org:8000/live/0881/0881/1926.ts
 
-#EXTINF:-1,ES:BEIN_SPORTS
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2376.ts
-#EXTINF:-1,ES: C TOROS_HD
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2374.ts
-#EXTINF:-1,ES: FOX
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2375.ts
-#EXTINF:-1,ES: C ESTRENOS_HD
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2363.ts
-#EXTINF:-1,ES: Movistar Series.
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2370.ts
-#EXTINF:-1,ES: C COMEDIA_HD
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2364.ts
-#EXTINF:-1,ES: REAL Madrid
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2371.ts
-#EXTINF:-1,ES: MOVISTAR-GP-HD
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2369.ts
-#EXTINF:-1,ES: MOVISTAR GOLF
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2372.ts
-#EXTINF:-1,ES: CUATRO_H
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2368.ts
-#EXTINF:-1,ES: CUATRO_HD
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2367.ts
-#EXTINF:-1,ES: C DCINE_HD
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2365.ts
-#EXTINF:-1,ES: BEIN_SPORTS
-http://iptvmega.dyndns.tv:8040/live/haricot/haricot/2366.ts
 #EXTINF:-1,[COLOR red][I][B]-----------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,---- < SPAGNA > ---
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/14674.ts
-#EXTINF:-1,[ES] C MTV Espana
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21085.ts
-#EXTINF:-1,[ES] C LTC
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21086.ts
-#EXTINF:-1,[ES] C Estellas
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21087.ts
-#EXTINF:-1,[ES] C Energy TV
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21088.ts
-#EXTINF:-1,[ES] C Divinity
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21089.ts
-#EXTINF:-1,[ES] C Boing
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21090.ts
-#EXTINF:-1,[ES] C Barca TV
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21091.ts
-#EXTINF:-1,[ES] C Baby TV
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21092.ts
-#EXTINF:-1,[ES] C  Xtra
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20945.ts
-#EXTINF:-1,[ES] C  Viajar
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20946.ts
-#EXTINF:-1,[ES] C  TNT
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20947.ts
-#EXTINF:-1,[ES] C  Teledeporte
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20948.ts
-#EXTINF:-1,[ES] C  Telecinco
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20949.ts
-#EXTINF:-1,[ES] C  TCM
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20950.ts
-#EXTINF:-1,[ES] C  SyFy
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20951.ts
-#EXTINF:-1,[ES] C  Series Xtra
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20952.ts
-#EXTINF:-1,[ES] C  Nova
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20953.ts
-#EXTINF:-1,[ES] C  Nonstopeople
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20954.ts
-#EXTINF:-1,[ES] C  Nat Geo Wild
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20955.ts
-#EXTINF:-1,[ES] C  Nat Geo
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20956.ts
-#EXTINF:-1,[ES] C  Moviestar F1
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20957.ts
-#EXTINF:-1,[ES] C  Moto GP
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20958.ts
-#EXTINF:-1,[ES] C  Los40
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20959.ts
-#EXTINF:-1,[ES] C  La2
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20960.ts
-#EXTINF:-1,[ES] C  La1
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20961.ts
-#EXTINF:-1,[ES] C  La Sexta
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20962.ts
-#EXTINF:-1,[ES] C  Iberalia TV
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20963.ts
-#EXTINF:-1,[ES] C  Hollywood
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20964.ts
-#EXTINF:-1,[ES] C  Golf
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20965.ts
-#EXTINF:-1,[ES] C  Fox News
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20966.ts
-#EXTINF:-1,[ES] C  Fox Life
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20967.ts
-#EXTINF:-1,[ES] C  Fox HD
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20968.ts
-#EXTINF:-1,[ES] C  FDF
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20969.ts
-#EXTINF:-1,[ES] C  F.TBOL HD
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20970.ts
-#EXTINF:-1,[ES] C  Eurosport 1
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20971.ts
-#EXTINF:-1,[ES] C  Estrenos
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20972.ts
-#EXTINF:-1,[ES] C  Disney XD
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20973.ts
-#EXTINF:-1,[ES] C  Disney Junior
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20974.ts
-#EXTINF:-1,[ES] C  Disney Channel
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20975.ts
-#EXTINF:-1,[ES] C  Discovery
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20976.ts
-#EXTINF:-1,[ES] C  Deportes
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20977.ts
-#EXTINF:-1,[ES] C  Dcine HD
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20978.ts
-#EXTINF:-1,[ES] C  Dcine Espanol
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20979.ts
-#EXTINF:-1,[ES] C  Crimen Inves
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20980.ts
-#EXTINF:-1,[ES] C  Cosmo
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20981.ts
-#EXTINF:-1,[ES] C  Comedy Central
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20982.ts
-#EXTINF:-1,[ES] C  Comedia
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20983.ts
-#EXTINF:-1,[ES] C  Clan TVE
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20984.ts
-#EXTINF:-1,[ES] C  Caza & Pesca
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20985.ts
-#EXTINF:-1,[ES] C  Canal Odisea
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20986.ts
-#EXTINF:-1,[ES] C  Canal Decasa
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20987.ts
-#EXTINF:-1,[ES] C  Canal Cocina
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20988.ts
-#EXTINF:-1,[ES] C  AXN White
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20989.ts
-#EXTINF:-1,[ES] C  AXN
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20990.ts
-#EXTINF:-1,[ES] C  AMC
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20991.ts
-#EXTINF:-1,[ES] C  Accion HD
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20992.ts
-#EXTINF:-1,[ES] C  A&E
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20993.ts
-#EXTINF:-1,[ES] C  24 Horas
-http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/20994.ts
+#EXTINF:-1,SP:#0
+http://88.198.34.144:8000/live/usa13/usa13/1620.m3u8
+#EXTINF:-1,SP:A&E
+http://88.198.34.144:8000/live/usa13/usa13/1621.m3u8
+#EXTINF:-1,SP:AMC
+http://88.198.34.144:8000/live/usa13/usa13/1105.m3u8
+#EXTINF:-1,SP:Andalucia
+http://88.198.34.144:8000/live/usa13/usa13/1909.m3u8
+#EXTINF:-1,SP:Antena_3
+http://88.198.34.144:8000/live/usa13/usa13/1101.m3u8
+#EXTINF:-1,SP:AXN
+http://88.198.34.144:8000/live/usa13/usa13/804.m3u8
+#EXTINF:-1,SP:AXN_White
+http://88.198.34.144:8000/live/usa13/usa13/370.m3u8
+#EXTINF:-1,SP:Baby_TV
+http://88.198.34.144:8000/live/usa13/usa13/1624.m3u8
+#EXTINF:-1,SP:Barca
+http://88.198.34.144:8000/live/usa13/usa13/1106.m3u8
+#EXTINF:-1,SP:Bein_Laliga
+http://88.198.34.144:8000/live/usa13/usa13/1629.m3u8
+#EXTINF:-1,SP:Bein_Sport
+http://88.198.34.144:8000/live/usa13/usa13/1630.m3u8
+#EXTINF:-1,SP:CALLE_13
+http://88.198.34.144:8000/live/usa13/usa13/562.m3u8
+#EXTINF:-1,SP:Caza_Y_ Pesca
+http://88.198.34.144:8000/live/usa13/usa13/1622.m3u8
+#EXTINF:-1,SP:CI
+http://88.198.34.144:8000/live/usa13/usa13/1626.m3u8
+#EXTINF:-1,SP:CINE_Boing
+http://88.198.34.144:8000/live/usa13/usa13/1627.m3u8
+#EXTINF:-1,SP:Clan
+http://88.198.34.144:8000/live/usa13/usa13/1910.m3u8
+#EXTINF:-1,SP:Comedy_Central
+http://88.198.34.144:8000/live/usa13/usa13/1107.m3u8
+#EXTINF:-1,SP:Cosmo
+http://88.198.34.144:8000/live/usa13/usa13/1911.m3u8
+#EXTINF:-1,SP:CUATRO
+http://88.198.34.144:8000/live/usa13/usa13/1102.m3u8
+#EXTINF:-1,SP:Discovery
+http://88.198.34.144:8000/live/usa13/usa13/993.m3u8
+#EXTINF:-1,SP:Disney_Channel
+http://88.198.34.144:8000/live/usa13/usa13/992.m3u8
+#EXTINF:-1,SP:Disney_Junior
+http://88.198.34.144:8000/live/usa13/usa13/1916.m3u8
+#EXTINF:-1,SP:Disney_XD
+http://88.198.34.144:8000/live/usa13/usa13/1098.m3u8
+#EXTINF:-1,SP:ENERGY
+http://88.198.34.144:8000/live/usa13/usa13/1855.m3u8
+#EXTINF:-1,SP:Fox
+http://88.198.34.144:8000/live/usa13/usa13/619.m3u8
+#EXTINF:-1,SP:Fox_Life
+http://88.198.34.144:8000/live/usa13/usa13/618.m3u8
+#EXTINF:-1,SP:Historia
+http://88.198.34.144:8000/live/usa13/usa13/991.m3u8
+#EXTINF:-1,SP:Hollywood
+http://88.198.34.144:8000/live/usa13/usa13/523.m3u8
+#EXTINF:-1,SP:LA_***ta
+http://88.198.34.144:8000/live/usa13/usa13/1100.m3u8
+#EXTINF:-1,SP:La1
+http://88.198.34.144:8000/live/usa13/usa13/1633.m3u8
+#EXTINF:-1,SP:La2
+http://88.198.34.144:8000/live/usa13/usa13/1634.m3u8
+#EXTINF:-1,SP:Laliga
+http://88.198.34.144:8000/live/usa13/usa13/1628.m3u8
+#EXTINF:-1,SP:Mega
+http://88.198.34.144:8000/live/usa13/usa13/1632.m3u8
+#EXTINF:-1,SP:MOVISTAR_Accion
+http://88.198.34.144:8000/live/usa13/usa13/765.m3u8
+#EXTINF:-1,SP:MOVISTAR_Comedia
+http://88.198.34.144:8000/live/usa13/usa13/690.m3u8
+#EXTINF:-1,SP:MOVISTAR_Dcine
+http://88.198.34.144:8000/live/usa13/usa13/805.m3u8
+#EXTINF:-1,SP:MOVISTAR_Decasa
+http://88.198.34.144:8000/live/usa13/usa13/1625.m3u8
+#EXTINF:-1,SP:MOVISTAR_Deportes
+http://88.198.34.144:8000/live/usa13/usa13/577.m3u8
+#EXTINF:-1,SP:MOVISTAR_Deportes_2
+http://88.198.34.144:8000/live/usa13/usa13/1915.m3u8
+#EXTINF:-1,SP:MOVISTAR_Estrenos
+http://88.198.34.144:8000/live/usa13/usa13/1108.m3u8
+#EXTINF:-1,SP:MOVISTAR_Futbol
+http://88.198.34.144:8000/live/usa13/usa13/803.m3u8
+#EXTINF:-1,SP:MOVISTAR_Golf
+http://88.198.34.144:8000/live/usa13/usa13/708.m3u8
+#EXTINF:-1,SP:MOVISTAR_Liga
+http://88.198.34.144:8000/live/usa13/usa13/622.m3u8
+#EXTINF:-1,SP:MOVISTAR_Series
+http://88.198.34.144:8000/live/usa13/usa13/1109.m3u8
+#EXTINF:-1,SP:MOVISTAR_Series_Xtra
+http://88.198.34.144:8000/live/usa13/usa13/1110.m3u8
+#EXTINF:-1,SP:MOVISTAR_Toros
+http://88.198.34.144:8000/live/usa13/usa13/802.m3u8
+#EXTINF:-1,SP:MOVISTAR_Xtra
+http://88.198.34.144:8000/live/usa13/usa13/1631.m3u8
+#EXTINF:-1,SP:MTV
+http://88.198.34.144:8000/live/usa13/usa13/1623.m3u8
+#EXTINF:-1,SP:Nat_Geo_Wild
+http://88.198.34.144:8000/live/usa13/usa13/1099.m3u8
+#EXTINF:-1,SP:National_Geographic
+http://88.198.34.144:8000/live/usa13/usa13/994.m3u8
+#EXTINF:-1,SP:Nickelodeon
+http://88.198.34.144:8000/live/usa13/usa13/387.m3u8
+#EXTINF:-1,SP:Nova
+http://88.198.34.144:8000/live/usa13/usa13/617.m3u8
+#EXTINF:-1,SP:Odisea
+http://88.198.34.144:8000/live/usa13/usa13/1104.m3u8
+#EXTINF:-1,SP:Real_Madrid
+http://88.198.34.144:8000/live/usa13/usa13/605.m3u8
+#EXTINF:-1,SP:SYFY
+http://88.198.34.144:8000/live/usa13/usa13/616.m3u8
+#EXTINF:-1,SP:Taquilla_1
+http://88.198.34.144:8000/live/usa13/usa13/1917.m3u8
+#EXTINF:-1,SP:Taquilla_10
+http://88.198.34.144:8000/live/usa13/usa13/1926.m3u8
+#EXTINF:-1,SP:Taquilla_2
+http://88.198.34.144:8000/live/usa13/usa13/1918.m3u8
+#EXTINF:-1,SP:Taquilla_3
+http://88.198.34.144:8000/live/usa13/usa13/1919.m3u8
+#EXTINF:-1,SP:Taquilla_4
+http://88.198.34.144:8000/live/usa13/usa13/1920.m3u8
+#EXTINF:-1,SP:Taquilla_5
+http://88.198.34.144:8000/live/usa13/usa13/1921.m3u8
+#EXTINF:-1,SP:Taquilla_6
+http://88.198.34.144:8000/live/usa13/usa13/1922.m3u8
+#EXTINF:-1,SP:Taquilla_7
+http://88.198.34.144:8000/live/usa13/usa13/1923.m3u8
+#EXTINF:-1,SP:Taquilla_8
+http://88.198.34.144:8000/live/usa13/usa13/1924.m3u8
+#EXTINF:-1,SP:Taquilla_9
+http://88.198.34.144:8000/live/usa13/usa13/1925.m3u8
+#EXTINF:-1,SP:TCM
+http://88.198.34.144:8000/live/usa13/usa13/311.m3u8
+#EXTINF:-1,SP:Tdp
+http://88.198.34.144:8000/live/usa13/usa13/1914.m3u8
+#EXTINF:-1,SP:Telecinco
+http://88.198.34.144:8000/live/usa13/usa13/1913.m3u8
+#EXTINF:-1,SP:TNT
+http://88.198.34.144:8000/live/usa13/usa13/1103.m3u8
+#EXTINF:-1,SP:Toros
+http://88.198.34.144:8000/live/usa13/usa13/1912.m3u8
