@@ -15,7 +15,7 @@ plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/182
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1890.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SyFy_SPAIN
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1889.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Sol_Musica_SPAIN
+#EXTINF:-1,Bein SPAIN
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1888.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1827.ts&amp;streamtype=TSDOWNLOADER
