@@ -311,702 +311,287 @@
             <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/3658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 10</link> 
         </item> 
           <item> 
-            <title>ES: EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT</link> 
+            <title>***** SPAIN *****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2669.ts&amp;streamtype=TSDOWNLOADER&amp;name=***** SPAIN *****</link> 
         </item> 
           <item> 
-            <title>ES: Canal  Deportes</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2149.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Deportes</link> 
+            <title>SP | Taquilla7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla7</link> 
         </item> 
           <item> 
-            <title>ES: Bein Sport Espagne</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sport Espagne</link> 
+            <title>SP | CANAL  XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL  XTRA</link> 
         </item> 
           <item> 
-            <title>ES: Barca TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/4444/4444/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV</link> 
+            <title>SP | DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | DCINE</link> 
         </item> 
           <item> 
-            <title>[ES] C  24 Horas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10200.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  24 Horas</link> 
+            <title>SP | Taquilla3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla3</link> 
         </item> 
           <item> 
-            <title>[ES] C  A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10199.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  A&amp;E</link> 
+            <title>SP | CANAL SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL SERIES</link> 
         </item> 
           <item> 
-            <title>[ES] C  Accion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10198.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Accion HD</link> 
+            <title>SP | CANAL HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL HOLLYWOOD</link> 
         </item> 
           <item> 
-            <title>[ES] C  AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10197.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AMC</link> 
+            <title>SP | CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CUATRO</link> 
         </item> 
           <item> 
-            <title>[ES] C  AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10196.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AXN</link> 
+            <title>SP | TVE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2660.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | TVE 2 HD</link> 
         </item> 
           <item> 
-            <title>[ES] C  AXN White</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10195.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AXN White</link> 
+            <title>SP | Antena 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Antena 3 HD</link> 
         </item> 
           <item> 
-            <title>[ES] C  Canal Cocina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10194.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Cocina</link> 
+            <title>SP | Taquilla6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2664.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla6</link> 
         </item> 
           <item> 
-            <title>[ES] C  Canal Decasa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10193.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Decasa</link> 
+            <title>SP | Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Barca TV</link> 
         </item> 
           <item> 
-            <title>[ES] C  Canal Odisea</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10192.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Odisea</link> 
+            <title>SP | Taquilla2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla2</link> 
         </item> 
           <item> 
-            <title>[ES] C  Caza &amp; Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10191.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Caza &amp; Pesca</link> 
+            <title>SP | CANAL+ DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL+ DEPORTES</link> 
         </item> 
           <item> 
-            <title>[ES] C  Clan TVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10190.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Clan TVE</link> 
+            <title>SP | Real Madrid tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Real Madrid tv</link> 
         </item> 
           <item> 
-            <title>[ES] C  Comedia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10189.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Comedia</link> 
+            <title>SP | Taquilla1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla1</link> 
         </item> 
           <item> 
-            <title>[ES] C  Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10188.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Comedy Central</link> 
+            <title>SP | CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CAZA Y PESCA</link> 
         </item> 
           <item> 
-            <title>[ES] C  Cosmo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10187.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Cosmo</link> 
+            <title>SP | CANAL+ TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL+ TOROS</link> 
         </item> 
           <item> 
-            <title>[ES] C  Crimen Inves</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10186.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Crimen Inves</link> 
+            <title>SP | CANAL ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL ESTRENOS</link> 
         </item> 
           <item> 
-            <title>[ES] C  Dcine Espanol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10185.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Dcine Espanol</link> 
+            <title>SP | CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CALLE 13</link> 
         </item> 
           <item> 
-            <title>[ES] C  Dcine HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10184.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Dcine HD</link> 
+            <title>SP | CANAL+ FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2662.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL+ FUTBOL</link> 
         </item> 
           <item> 
-            <title>[ES] C  Deportes</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10183.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Deportes</link> 
+            <title>SP | CANAL+ COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2640.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL+ COMEDIA HD</link> 
         </item> 
           <item> 
-            <title>[ES] C  Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10182.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Discovery</link> 
+            <title>SP | NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2641.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | NEOX</link> 
         </item> 
           <item> 
-            <title>[ES] C  Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10181.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney Channel</link> 
+            <title>SP | NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | NOVA</link> 
         </item> 
           <item> 
-            <title>[ES] C  Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10180.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney Junior</link> 
+            <title>SP | BEIN SPORT ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | BEIN SPORT ES</link> 
         </item> 
           <item> 
-            <title>[ES] C  Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10179.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney XD</link> 
+            <title>SP | TVE LA1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | TVE LA1</link> 
         </item> 
           <item> 
-            <title>[ES] C  Estrenos</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10178.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Estrenos</link> 
+            <title>SP | A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2667.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | A&amp;E</link> 
         </item> 
           <item> 
-            <title>[ES] C  Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10177.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Eurosport 1</link> 
+            <title>SP | Canal+ Accion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Canal+ Accion HD</link> 
         </item> 
           <item> 
-            <title>[ES] C  F.TBOL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10176.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  F.TBOL HD</link> 
+            <title>SP | CANAL+ LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL+ LIGA HD</link> 
         </item> 
           <item> 
-            <title>[ES] C  FDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10175.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  FDF</link> 
+            <title>SP | Taquilla5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla5</link> 
         </item> 
           <item> 
-            <title>[ES] C  Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10174.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox HD</link> 
+            <title>SP | Taquilla4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.254.196.199:8080/live/testfast/hTwqA9/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla4</link> 
         </item> 
-          <item> 
-            <title>[ES] C  Fox Life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10173.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox Life</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Fox News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10172.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox News</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10171.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Golf</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10170.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Hollywood</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Iberalia TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10169.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Iberalia TV</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  La Sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10168.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La Sexta</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  La1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10167.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La1</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  La2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10166.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La2</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Los40</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10165.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Los40</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Moto GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10164.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moto GP</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Moviestar F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10163.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moviestar F1</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Nat Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10162.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nat Geo</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10161.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Nonstopeople</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10160.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nonstopeople</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10159.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nova</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Series Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10158.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Series Xtra</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10157.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  SyFy</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10156.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  TCM</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Telecinco</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10155.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Telecinco</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Teledeporte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10154.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Teledeporte</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10153.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  TNT</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Viajar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10152.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Viajar</link> 
-        </item> 
-          <item> 
-            <title>[ES] C  Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10151.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Xtra</link> 
-        </item> 
-          <item> 
-            <title>[ES] C TVE International</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.facileiptv.com:15000/live/LG4xetw2sq/dccL8NGKCB/10150.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C TVE International</link> 
-        </item> 
-		  <item> 
-            <title>ES: VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VH1</link> 
-        </item> 
-          <item> 
-            <title>ES: TVN Chile HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVN Chile HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TVI Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVI Reality</link> 
-        </item> 
-          <item> 
-            <title>ES: TVE LA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA 2</link> 
-        </item> 
-          <item> 
-            <title>ES: Tve 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Tve 24</link> 
-        </item> 
-          <item> 
-            <title>ES: TVE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TV Galicia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TV Galicia</link> 
-        </item> 
-          <item> 
-            <title>ES: Toros TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Toros TV</link> 
-        </item> 
-          <item> 
-            <title>ES: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
-        </item> 
-          <item> 
-            <title>ES: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2723.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TLC</link> 
-        </item> 
-          <item> 
-            <title>ES: TELEVISA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELEVISA HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Teleticino</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teleticino</link> 
-        </item> 
-          <item> 
-            <title>ES: Teledeporte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2692.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teledeporte</link> 
-        </item> 
-          <item> 
-            <title>ES: TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 9</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 8</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 7</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 6</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 5</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 4</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 3</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 2</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 10</link> 
-        </item> 
-          <item> 
-            <title>ES: Taquilla 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 1</link> 
-        </item> 
-          <item> 
-            <title>ES: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>ES: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
-        </item> 
-          <item> 
-            <title>ES: Sport CDO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2660.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Sport CDO HD</link> 
-        </item> 
-          <item> 
-            <title>ES: SEVILLA FC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SEVILLA FC</link> 
-        </item> 
-          <item> 
-            <title>ES: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>ES: NICK JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICK JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>ES: NATIONAL GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATIONAL GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>ES: MTV ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2700.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV ROCKS</link> 
-        </item> 
-          <item> 
-            <title>ES: Movies Star Moto Gp</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movies Star Moto Gp</link> 
-        </item> 
-          <item> 
-            <title>ES: Movie Star F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2662.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movie Star F1</link> 
-        </item> 
-          <item> 
-            <title>ES: CANAL SUR A.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL SUR A.</link> 
-        </item> 
-          <item> 
-            <title>ES: La Sexta HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2701.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta HD</link> 
-        </item> 
-          <item> 
-            <title>ES: LA SEXTA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2702.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA</link> 
-        </item> 
-          <item> 
-            <title>ES: ITV HD Chile</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ITV HD Chile</link> 
-        </item> 
-          <item> 
-            <title>ES: History HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2664.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: History HD</link> 
-        </item> 
-          <item> 
-            <title>ES: HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2703.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>ES: GOL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL TV</link> 
-        </item> 
-          <item> 
-            <title>ES: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE</link> 
-        </item> 
-          <item> 
-            <title>ES: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2705.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
-        </item> 
-          <item> 
-            <title>ES: #0</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2726.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #0</link> 
-        </item> 
-          <item> 
-            <title>ES: Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport</link> 
-        </item> 
-          <item> 
-            <title>ES: DISTRITO COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2684.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISTRITO COMEDIA</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2708.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>ES: DCINE ESPANOL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DCINE ESPANOL</link> 
-        </item> 
-          <item> 
-            <title>ES: COMEDY CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL</link> 
-        </item> 
-          <item> 
-            <title>ES: Chile La Red</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Chile La Red</link> 
-        </item> 
-          <item> 
-            <title>ES: CBN en Espaol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2666.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CBN en Espaol</link> 
-        </item> 
-          <item> 
-            <title>ES: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2667.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal Sevilla</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2668.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Sevilla</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal Musica</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2669.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Musica</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal Deportes HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2719.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Deportes HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal De Las Estrellas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2670.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal De Las Estrellas</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal Costa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2671.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Costa</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal Baby</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2672.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Baby</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2673.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal 7 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal 41 Mar Del</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2674.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal 41 Mar Del</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2675.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal 3 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal 2 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal 13</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal  Series Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Series Xtra</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal  Series HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Series HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal  Liga 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Liga 2 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: CANAL  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal  Estrenos</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Estrenos</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal  Deportes</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Deportes</link> 
-        </item> 
-          <item> 
-            <title>ES: CANAL  DCINE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2687.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  DCINE HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal  DCINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2685.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  DCINE</link> 
-        </item> 
-          <item> 
-            <title>ES: CANAL  1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2686.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  1</link> 
-        </item> 
-          <item> 
-            <title>ES: Blica Dominicana</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2678.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Blica Dominicana</link> 
-        </item> 
-          <item> 
-            <title>ES: Bein Sports HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,ES: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sports HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2679.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>ES:  NONSTOPEOPLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  NONSTOPEOPLE</link> 
-        </item> 
-          <item> 
-            <title>ES: Azteca Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca Noticias</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN HD</link> 
+		<item> 
+            <title>ES - Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4870.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Fox</link> 
         </item> 
           <item> 
-            <title>ES: Anime TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Anime TV</link> 
+            <title>ES - Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4871.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Fox Life</link> 
         </item> 
           <item> 
-            <title>ES: 360 TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 360 TV</link> 
+            <title>ES - AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4853.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - AXN White</link> 
         </item> 
           <item> 
-            <title>ES: 3/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 3/24</link> 
+            <title>ES - AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4852.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - AXN</link> 
         </item> 
           <item> 
-            <title>ESP-CANAL-ACCION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1371.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP-CANAL-ACCION</link> 
+            <title>ES - Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4861.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Comedy Central</link> 
         </item> 
           <item> 
-            <title>ES: Cosmo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1372.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cosmo HD</link> 
+            <title>ES - Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4869.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Hollywood</link> 
         </item> 
           <item> 
-            <title>ES: Real-Madrid-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real-Madrid-TV</link> 
+            <title>ES - National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4867.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - National Geographic</link> 
         </item> 
           <item> 
-            <title>ES: Nat-Geograph</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1374.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nat-Geograph</link> 
+            <title>ES - Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4866.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>ES: LA2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA2</link> 
+            <title>ES - Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4868.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Historia</link> 
         </item> 
           <item> 
-            <title>ES: CAZA Y PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1377.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CAZA Y PESCA</link> 
+            <title>ES - MEZZO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4878.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - MEZZO</link> 
         </item> 
           <item> 
-            <title>ES: Odisea</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1378.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Odisea</link> 
+            <title>ES - Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4874.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Discovery</link> 
         </item> 
           <item> 
-            <title>ES: Canal Cocina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1379.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Cocina</link> 
+            <title>ES - CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4860.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - CI</link> 
         </item> 
           <item> 
-            <title>ES: Canal Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Xtra</link> 
+            <title>ES - Caza Y Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4859.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Caza Y Pesca</link> 
         </item> 
           <item> 
-            <title>ES: Canal Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1382.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Golf</link> 
+            <title>ES - Canal Decasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4857.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal Decasa</link> 
         </item> 
           <item> 
-            <title>ES: Canal--Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal--Futbol</link> 
+            <title>ES - Canal Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4856.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal Cocina</link> 
         </item> 
           <item> 
-            <title>ES: Canal---COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1364.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal---COMEDIA</link> 
+            <title>ES - Calle 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4855.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Calle 13</link> 
         </item> 
           <item> 
-            <title>ES: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
+            <title>ES - C  Toros</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4863.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - C  Toros</link> 
         </item> 
           <item> 
-            <title>ES: -Hollywood-Spain-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1369.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: -Hollywood-Spain-HD</link> 
+            <title>ES - C  Series Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4850.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - C  Series Extra</link> 
         </item> 
           <item> 
-            <title>ES: -FOX-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1370.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: -FOX-HD</link> 
+            <title>ES - C  Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4849.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - C  Series</link> 
         </item> 
           <item> 
-            <title>ES: CANAL  LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  LIGA</link> 
+            <title>ES - C  Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4848.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - C  Estrenos</link> 
         </item> 
           <item> 
-            <title>ES:Lancelot</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Lancelot</link> 
+            <title>ES - C  Dcine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4847.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - C  Dcine</link> 
         </item> 
           <item> 
-            <title>ES:40 TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:40 TV</link> 
+            <title>ES - C  Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4846.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - C  Comedia</link> 
         </item> 
           <item> 
-            <title>ES: TVE LA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA 1</link> 
+            <title>ES - C  Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4845.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - C  Accion</link> 
         </item> 
           <item> 
-            <title>ES: TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO</link> 
+            <title>ES - Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4877.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Nickelodeon</link> 
         </item> 
           <item> 
-            <title>ES: NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+            <title>ES - Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Disney XD</link> 
         </item> 
           <item> 
-            <title>ES: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1347.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD</link> 
+            <title>ES - Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4875.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Disney Channel</link> 
         </item> 
           <item> 
-            <title>ES: LA Sexta OS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA Sexta OS</link> 
+            <title>ES - Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4858.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal Panda</link> 
         </item> 
           <item> 
-            <title>ES: Proyecto 40</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1346.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Proyecto 40</link> 
+            <title>ES - Boing Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4844.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Boing Tv</link> 
         </item> 
           <item> 
-            <title>ES: Fdf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fdf</link> 
+            <title>ES - Canal + Liga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal + Liga</link> 
         </item> 
           <item> 
-            <title>ES: Energy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Energy</link> 
+            <title>ES - Canal + Liga 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4862.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal + Liga 2</link> 
         </item> 
           <item> 
-            <title>ES: Discovery HD OS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1354.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Discovery HD OS</link> 
+            <title>ES - Canal + Deportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal + Deportes</link> 
         </item> 
           <item> 
-            <title>ES: CUATRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1337.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
+            <title>ES - Canal +  Deportes 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4851.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal +  Deportes 2</link> 
         </item> 
           <item> 
-            <title>ES: ANDALUCIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1349.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANDALUCIA TV</link> 
+            <title>ES - Canal + Fotball</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Canal + Fotball</link> 
         </item> 
           <item> 
-            <title>ES: Canal  Toros</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Toros</link> 
+            <title>ES - Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4879.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Real Madrid TV</link> 
         </item> 
           <item> 
-            <title>ES: CALLE 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13</link> 
+            <title>ES - BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4854.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - BARCA TV</link> 
         </item> 
           <item> 
-            <title>ES: Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Boing</link> 
+            <title>ES - Bein Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4843.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Bein Sport</link> 
         </item> 
           <item> 
-            <title>ES: Barca TV  DB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1358.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV  DB</link> 
+            <title>ES - Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4872.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Eurosport 1</link> 
         </item> 
           <item> 
-            <title>ES: ANTENA 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3</link> 
+            <title>ES - Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4873.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Eurosport 2</link> 
         </item> 
           <item> 
-            <title>ES: La 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1333.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 2</link> 
+            <title>ES - Moviestar MOTOGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4864.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Moviestar MOTOGP</link> 
         </item> 
           <item> 
-            <title>ES Canal Series CS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/eUfnTrzGhr/XWTm0aU4TW/1351.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES Canal Series CS</link> 
+            <title>ES - Moviestar F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4865.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES - Moviestar F1</link> 
         </item> 
+  
