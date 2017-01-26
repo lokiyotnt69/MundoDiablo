@@ -5,144 +5,1295 @@
   <streamingInfos>
   
   
-     <item> 
-            <title>---INGLESI---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=---INGLESI---</link> 
+        <item> 
+           <title>RTP-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP-1HD</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORT F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT F1 HD</link> 
+            <title>RTP-1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP-1</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT 1 HD</link> 
+            <title>RTP-2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP-2</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT 2 HD</link> 
+            <title>RTP-3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP-3</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORT 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT 3 HD</link> 
+            <title>RTP_Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP_Memoria</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORT 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT 4 HD</link> 
+            <title>RTP_Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1562.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP_Acores</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORT 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT 5 HD</link> 
+            <title>SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
         </item> 
           <item> 
-            <title>UK: Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV</link> 
+            <title>SIC-RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC-RADICAL</link> 
         </item> 
           <item> 
-            <title>Liverpool FC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=Liverpool FC</link> 
+            <title>SIC-MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC-MULHER</link> 
         </item> 
           <item> 
-            <title>UK: SKY MOVIES PREMIER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY MOVIES PREMIER</link> 
+            <title>SIC_CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC_CARAS</link> 
         </item> 
           <item> 
-            <title>UK: SKY MOVIES FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY MOVIES FAMILY</link> 
+            <title>SIC_Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC_Noticias</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Disney</link> 
+            <title>TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Crime &amp; Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Crime &amp; Thriller</link> 
+            <title>TVI_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI_HD</link> 
         </item> 
           <item> 
-            <title>UK: SKY MOVIES COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY MOVIES COMEDY</link> 
+            <title>TVI_FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI_FICCAO</link> 
         </item> 
           <item> 
-            <title>UK: RACING UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING UK</link> 
+            <title>TVI24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI24</link> 
         </item> 
           <item> 
-            <title>UK: Premier Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sport</link> 
+            <title>PORTO_CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO_CANAL</link> 
         </item> 
           <item> 
-            <title>UK: Nicktoons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nicktoons</link> 
+            <title>CM-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=CM-TV</link> 
         </item> 
           <item> 
-            <title>UK: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon</link> 
+            <title>RECORD_NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD_NEWS</link> 
         </item> 
           <item> 
-            <title>UK: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic</link> 
+            <title>----------Desporto----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Desporto----------</link> 
         </item> 
           <item> 
-            <title>UK: NATGEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NATGEO WILD</link> 
+            <title>SPORT_TV+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV+</link> 
         </item> 
           <item> 
-            <title>UK: MTV Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Music</link> 
+            <title>SPORT_TV-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV-1HD</link> 
         </item> 
           <item> 
-            <title>UK: MTV Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic</link> 
+            <title>SPORT-TV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT-TV1</link> 
         </item> 
           <item> 
-            <title>UK: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EUROSPORT 1</link> 
+            <title>SPORT-TV2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT-TV2-HD</link> 
         </item> 
           <item> 
-            <title>UK: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EUROSPORT 2</link> 
+            <title>SPORT-TV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT-TV2</link> 
         </item> 
           <item> 
-            <title>UK: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel</link> 
+            <title>SPORT-TV3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT-TV3HD</link> 
         </item> 
           <item> 
-            <title>UK: DISCOVERY SCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY SCI</link> 
+            <title>SPORT-TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT-TV3</link> 
         </item> 
           <item> 
-            <title>UK: Discovery Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Investigation</link> 
+            <title>SPORT_TV4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV4HD</link> 
         </item> 
           <item> 
-            <title>UK: Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History</link> 
+            <title>SPORT-TV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT-TV4</link> 
         </item> 
           <item> 
-            <title>UK: Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery</link> 
+            <title>SPORT_TV5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV5</link> 
         </item> 
           <item> 
-            <title>UK: BOXNATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOXNATION</link> 
+            <title>SPORT-TV5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT-TV5</link> 
         </item> 
           <item> 
-            <title>UK: BBC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1</link> 
+            <title>BENIFICA1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENIFICA1-HD</link> 
         </item> 
           <item> 
-            <title>UK: BBC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 2</link> 
+            <title>BENIFICA-TV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENIFICA-TV1</link> 
         </item> 
           <item> 
-            <title>UK: BBC 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 3</link> 
+            <title>SPORTING-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING-TV</link> 
         </item> 
           <item> 
-            <title>UK: BBC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4</link> 
+            <title>A-BOLA-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=A-BOLA-TV</link> 
         </item> 
           <item> 
-            <title>UK: ANIMAL PLANET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bossiptv.homepc.it:18659/live/seb1/Sebastiano2/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ANIMAL PLANET</link> 
+            <title>PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
         </item> 
-  
+          <item> 
+            <title>KOMBAT_SPORT_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT_SPORT_PT</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_PT</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT2_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT2_PT</link> 
+        </item> 
+          <item> 
+            <title>FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors_TV</link> 
+        </item> 
+          <item> 
+            <title>MOTORVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION</link> 
+        </item> 
+          <item> 
+            <title>TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS</link> 
+        </item> 
+          <item> 
+            <title>----------INFANTIL----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------INFANTIL----------</link> 
+        </item> 
+          <item> 
+            <title>JIM-JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM-JAM</link> 
+        </item> 
+          <item> 
+            <title>PT:BABY_FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY_FIRST</link> 
+        </item> 
+          <item> 
+            <title>PT:BABY_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY_TV</link> 
+        </item> 
+          <item> 
+            <title>CANAL_PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_PANDA</link> 
+        </item> 
+          <item> 
+            <title>PANDA_BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA_BIGGS</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON-PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON-PT</link> 
+        </item> 
+          <item> 
+            <title>DISNEY_JUNIOR_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_JUNIOR_PT</link> 
+        </item> 
+          <item> 
+            <title>DISNEY_CHANNEL_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL_PT</link> 
+        </item> 
+          <item> 
+            <title>CartoonNetwork_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=CartoonNetwork_PT</link> 
+        </item> 
+          <item> 
+            <title>SIC-K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/354.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC-K</link> 
+        </item> 
+          <item> 
+            <title>----------Filmes----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Filmes----------</link> 
+        </item> 
+          <item> 
+            <title>TVCine1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine1-HD</link> 
+        </item> 
+          <item> 
+            <title>TVCine2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine2</link> 
+        </item> 
+          <item> 
+            <title>TVCine3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine3</link> 
+        </item> 
+          <item> 
+            <title>TVCine4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine4</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/580.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD_PT</link> 
+        </item> 
+          <item> 
+            <title>MOV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV</link> 
+        </item> 
+          <item> 
+            <title>FOX_MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_MOVIES</link> 
+        </item> 
+          <item> 
+            <title>AMC_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC_PT</link> 
+        </item> 
+          <item> 
+            <title>CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>----------Cult-Por----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Cult-Por----------</link> 
+        </item> 
+          <item> 
+            <title>ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>NatGeo-Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo-Wild</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL_CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>CANAL_HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>CAÃ‡A-E-PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÃ‡A-E-PESCA</link> 
+        </item> 
+          <item> 
+            <title>PT: FOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOOD</link> 
+        </item> 
+          <item> 
+            <title>NatGeo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo</link> 
+        </item> 
+          <item> 
+            <title>CASAVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=CASAVISION</link> 
+        </item> 
+          <item> 
+            <title>----------Series----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Series----------</link> 
+        </item> 
+          <item> 
+            <title>GLOBO-PREM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO-PREM</link> 
+        </item> 
+          <item> 
+            <title>TV_GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_GLOBO</link> 
+        </item> 
+          <item> 
+            <title>TV_RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1005.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_RECORD</link> 
+        </item> 
+          <item> 
+            <title>FOX-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX-HD</link> 
+        </item> 
+          <item> 
+            <title>FOX-CRIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX-CRIME</link> 
+        </item> 
+          <item> 
+            <title>FOX-COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX-COMEDY</link> 
+        </item> 
+          <item> 
+            <title>FOX_LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_LIFE</link> 
+        </item> 
+          <item> 
+            <title>AXN-WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN-WHITE</link> 
+        </item> 
+          <item> 
+            <title>AXN-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN-HD</link> 
+        </item> 
+          <item> 
+            <title>AXN-Black</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN-Black</link> 
+        </item> 
+          <item> 
+            <title>Syfy_PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy_PT</link> 
+        </item> 
+          <item> 
+            <title>TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
+        </item> 
+          <item> 
+            <title>TV_SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_SERIES</link> 
+        </item> 
+          <item> 
+            <title>TVI_REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI_REALITY</link> 
+        </item> 
+          <item> 
+            <title>E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!</link> 
+        </item> 
+          <item> 
+            <title>A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>24_KITCHEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=24_KITCHEN</link> 
+        </item> 
+          <item> 
+            <title>-----------MÃºsic-----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=-----------MÃºsic-----------</link> 
+        </item> 
+          <item> 
+            <title>MTV-PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV-PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>AFRO-MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO-MUSIC</link> 
+        </item> 
+          <item> 
+            <title>►►►  Canais Tv Nacionais  ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►►  Canais Tv Nacionais  ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
+        </item> 
+          <item> 
+            <title>RTP 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD</link> 
+        </item> 
+          <item> 
+            <title>RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+        </item> 
+          <item> 
+            <title>RTP 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
+        </item> 
+          <item> 
+            <title>SIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD</link> 
+        </item> 
+          <item> 
+            <title>TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
+        </item> 
+          <item> 
+            <title>TVI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD</link> 
+        </item> 
+          <item> 
+            <title>TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
+        </item> 
+          <item> 
+            <title>TVI FICÇAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICÇAO</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY MOSAICO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY MOSAICO</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY CAMARA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY CAMARA 1</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY CAMARA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY CAMARA 2</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY CAMARA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY CAMARA 3</link> 
+        </item> 
+          <item> 
+            <title>TVI REALITY CAMARA 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY CAMARA 4</link> 
+        </item> 
+          <item> 
+            <title>SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>SIC NOTICIAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS HD</link> 
+        </item> 
+          <item> 
+            <title>SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
+        </item> 
+          <item> 
+            <title>SIC RADICAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL HD</link> 
+        </item> 
+          <item> 
+            <title>SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
+        </item> 
+          <item> 
+            <title>SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
+        </item> 
+          <item> 
+            <title>RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
+        </item> 
+          <item> 
+            <title>RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
+        </item> 
+          <item> 
+            <title>RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link> 
+        </item> 
+          <item> 
+            <title>RTP AÇORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AÇORES</link> 
+        </item> 
+          <item> 
+            <title>RTP ÃFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ÃFRICA</link> 
+        </item> 
+          <item> 
+            <title>CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
+        </item> 
+          <item> 
+            <title>CMTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2220.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV HD</link> 
+        </item> 
+          <item> 
+            <title>PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>CANAL Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q</link> 
+        </item> 
+          <item> 
+            <title>ECONOMICO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=ECONOMICO TV</link> 
+        </item> 
+          <item> 
+            <title>AR TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR TV</link> 
+        </item> 
+          <item> 
+            <title>LOCALVISAO TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1978.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCALVISAO TV HD</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Internacionais ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Internacionais ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>RECORD NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS</link> 
+        </item> 
+          <item> 
+            <title>TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link> 
+        </item> 
+          <item> 
+            <title>TV RECORD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD HD</link> 
+        </item> 
+          <item> 
+            <title>TV GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO PREMIUM</link> 
+        </item> 
+          <item> 
+            <title>TV GLOBO PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>SBT BRASIL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBT BRASIL</link> 
+        </item> 
+          <item> 
+            <title>REDE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDE TV</link> 
+        </item> 
+          <item> 
+            <title>TVE 24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE 24 HORAS</link> 
+        </item> 
+          <item> 
+            <title>TVE INTERNACIONAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE INTERNACIONAL</link> 
+        </item> 
+          <item> 
+            <title>TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA</link> 
+        </item> 
+          <item> 
+            <title>TCV INTERNACIONAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2012.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCV INTERNACIONAL</link> 
+        </item> 
+          <item> 
+            <title>SUPER RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPER RTL</link> 
+        </item> 
+          <item> 
+            <title>RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2015.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Series e Filmes ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Series e Filmes ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES</link> 
+        </item> 
+          <item> 
+            <title>TV SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>MOV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV</link> 
+        </item> 
+          <item> 
+            <title>MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item> 
+          <item> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
+        </item> 
+          <item> 
+            <title>SUNDANCE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE HD</link> 
+        </item> 
+          <item> 
+            <title>M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2016.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6</link> 
+        </item> 
+          <item> 
+            <title>FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX NEWS</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>FOX MOVIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES HD</link> 
+        </item> 
+          <item> 
+            <title>FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link> 
+        </item> 
+          <item> 
+            <title>FOX COMEDY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY HD</link> 
+        </item> 
+          <item> 
+            <title>FOX CRIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME</link> 
+        </item> 
+          <item> 
+            <title>FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN Black HD</link> 
+        </item> 
+          <item> 
+            <title>►►►  Canais Tv Desporto  ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►►  Canais Tv Desporto  ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>SPORTV +</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV +</link> 
+        </item> 
+          <item> 
+            <title>SPORTV + FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV + FHD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 1 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 1 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 2 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 3 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 4 FULL  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 4 FULL  HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTV 5 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 5 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>BTV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1</link> 
+        </item> 
+          <item> 
+            <title>BTV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>BTV 1 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 FULL HD</link> 
+        </item> 
+          <item> 
+            <title>SPORTING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV</link> 
+        </item> 
+          <item> 
+            <title>SPORTING HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING HD</link> 
+        </item> 
+          <item> 
+            <title>BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOLA TV</link> 
+        </item> 
+          <item> 
+            <title>PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
+        </item> 
+          <item> 
+            <title>REAL MADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID</link> 
+        </item> 
+          <item> 
+            <title>CHELSEA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHELSEA TV</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2 XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>MOTORVISION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION HD</link> 
+        </item> 
+          <item> 
+            <title>MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>NBA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA</link> 
+        </item> 
+          <item> 
+            <title>FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>FUEL TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV HD</link> 
+        </item> 
+          <item> 
+            <title>FIGHT NETWORK  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK  HD</link> 
+        </item> 
+          <item> 
+            <title>FINE LIVING NETWORK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=FINE LIVING NETWORK HD</link> 
+        </item> 
+          <item> 
+            <title>MCS EXTREME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
+        </item> 
+          <item> 
+            <title>KOMBAT SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT</link> 
+        </item> 
+          <item> 
+            <title>POKER CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=POKER CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>OUTDOOR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=OUTDOOR HD</link> 
+        </item> 
+          <item> 
+            <title>CAÇA E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA</link> 
+        </item> 
+          <item> 
+            <title>CAÇAVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇAVISION</link> 
+        </item> 
+          <item> 
+            <title>TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Documentarios ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Documentarios ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY HD SHOWCASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HD SHOWCASE</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>A &amp; E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=A &amp; E</link> 
+        </item> 
+          <item> 
+            <title>MCS LIFESTYLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE</link> 
+        </item> 
+          <item> 
+            <title>E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>CRIME INVESTIGATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME INVESTIGATION</link> 
+        </item> 
+          <item> 
+            <title>24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
+        </item> 
+          <item> 
+            <title>FOOD NETWORK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK HD</link> 
+        </item> 
+          <item> 
+            <title>DOG TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=DOG TV</link> 
+        </item> 
+          <item> 
+            <title>FTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=FTV</link> 
+        </item> 
+          <item> 
+            <title>FTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FTV HD</link> 
+        </item> 
+          <item> 
+            <title>BBC ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Kids ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Kids ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS</link> 
+        </item> 
+          <item> 
+            <title>SIC KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC KIDS</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item> 
+          <item> 
+            <title>BABY FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST</link> 
+        </item> 
+          <item> 
+            <title>JIMJAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIMJAM</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Musica ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Musica ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>AFRO MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC</link> 
+        </item> 
+          <item> 
+            <title>MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>MTV PORTUGAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL HD</link> 
+        </item> 
+          <item> 
+            <title>MTV DANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
+        </item> 
+          <item> 
+            <title>VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
+        </item> 
+          <item> 
+            <title>VH1 CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link> 
+        </item> 
+          <item> 
+            <title>MCM POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
+        </item> 
+          <item> 
+            <title>TRACE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV</link> 
+        </item> 
+          <item> 
+            <title>TRACE TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV HD</link> 
+        </item> 
+          <item> 
+            <title>C MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=C MUSIC</link> 
+        </item> 
+          <item> 
+            <title>ICONCERTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=ICONCERTS</link> 
+        </item> 
+          <item> 
+            <title>MEZZO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO</link> 
+        </item> 
+          <item> 
+            <title>MEZZO LIVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO LIVE HD</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Varios ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Varios ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>CANAL UM  EUROPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL UM  EUROPA</link> 
+        </item> 
+          <item> 
+            <title>1+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=1+1</link> 
+        </item> 
+          <item> 
+            <title>EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>KBS WORLD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=KBS WORLD HD</link> 
+        </item> 
+          <item> 
+            <title>BVN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=BVN</link> 
+        </item> 
+          <item> 
+            <title>CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN</link> 
+        </item> 
+          <item> 
+            <title>BLOOMBERG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=BLOOMBERG</link> 
+        </item> 
+          <item> 
+            <title>BBC WORLD NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/613.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD NEWS</link> 
+        </item> 
+          <item> 
+            <title>SKY NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY NEWS</link> 
+        </item> 
+          <item> 
+            <title>CANÇAO NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANÇAO NOVA</link> 
+        </item> 
+          <item> 
+            <title>CAPELINHA DAS APARIÇÕES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAPELINHA DAS APARIÇÕES</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Adultos ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Adultos ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>HOT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT</link> 
+        </item> 
+          <item> 
+            <title>HOT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT HD</link> 
+        </item> 
+          <item> 
+            <title>VENUS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=VENUS</link> 
+        </item> 
+          <item> 
+            <title>SEXTREME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEXTREME</link> 
+        </item> 
+          <item> 
+            <title>PLAYBOY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV</link> 
+        </item> 
+          <item> 
+            <title>PLAYBOY TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV HD</link> 
+        </item> 
+          <item> 
+            <title>PENTHOUSE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=PENTHOUSE HD</link> 
+        </item> 
+          <item> 
+            <title>REDLIGHT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDLIGHT HD</link> 
+        </item> 
+          <item> 
+            <title>HUSTLER HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=HUSTLER HD</link> 
+        </item> 
+          <item> 
+            <title>DORCEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=DORCEL HD</link> 
+        </item> 
+          <item> 
+            <title>ERO XXX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=ERO XXX HD</link> 
+        </item> 
+          <item> 
+            <title>JASMIN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=JASMIN TV</link> 
+        </item> 
+          <item> 
+            <title>XX- HotClub 01</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=XX- HotClub 01</link> 
+        </item> 
+          <item> 
+            <title>XX- HotClub 02</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=XX- HotClub 02</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Radios Portuguesas ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Radios Portuguesas ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>RADIO TSF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO TSF</link> 
+        </item> 
+          <item> 
+            <title>RÃDIO SMOOTH FM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÃDIO SMOOTH FM</link> 
+        </item> 
+          <item> 
+            <title>RADIO SIM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO SIM</link> 
+        </item> 
+          <item> 
+            <title>RÃDIO RENASCENCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÃDIO RENASCENCA</link> 
+        </item> 
+          <item> 
+            <title>RADIO ORBITAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO ORBITAL</link> 
+        </item> 
+          <item> 
+            <title>RADIO MEO MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO MEO MUSIC</link> 
+        </item> 
+          <item> 
+            <title>RÃDIO COMERCIAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/594.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÃDIO COMERCIAL</link> 
+        </item> 
+          <item> 
+            <title>RFM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=RFM</link> 
+        </item> 
+          <item> 
+            <title>RADIO RADAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO RADAR</link> 
+        </item> 
+          <item> 
+            <title>RADIO  SATURNO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO  SATURNO</link> 
+        </item> 
+          <item> 
+            <title>RADIO  MARGINAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO  MARGINAL</link> 
+        </item> 
+          <item> 
+            <title>RADIO  AMALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=RADIO  AMALIA</link> 
+        </item> 
+          <item> 
+            <title>RÃDIO CIDADE FM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=RÃDIO CIDADE FM</link> 
+        </item> 
+          <item> 
+            <title>►►► Canais Tv Suiça ◄◄◄</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2269.ts&amp;streamtype=TSDOWNLOADER&amp;name=►►► Canais Tv Suiça ◄◄◄</link> 
+        </item> 
+          <item> 
+            <title>CH: SRF 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2274.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: SRF 1 HD</link> 
+        </item> 
+          <item> 
+            <title>CH: SRF 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2273.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: SRF 2 HD</link> 
+        </item> 
+          <item> 
+            <title>CH: RSI La1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2277.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: RSI La1 HD</link> 
+        </item> 
+          <item> 
+            <title>CH: RSI La2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: RSI La2 HD</link> 
+        </item> 
+          <item> 
+            <title>CH: RTS Deux HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2275.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: RTS Deux HD</link> 
+        </item> 
+          <item> 
+            <title>CH: Teleclub Prime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2271.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: Teleclub Prime</link> 
+        </item> 
+          <item> 
+            <title>CH: Teleclub Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2272.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: Teleclub Cinema</link> 
+        </item> 
+          <item> 
+            <title>CH: Teleclub Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2270.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: Teleclub Sport 1</link> 
+        </item> 
