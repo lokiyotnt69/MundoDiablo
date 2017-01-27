@@ -4,4 +4,43 @@
 
   <streamingInfos>
   
-  
+  <item> 
+            <title>[COLOR red] LA LIGA BAR HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11698.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA BAR HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] La Liga BAR HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24771.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga BAR HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] LA LIGA BAR SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/27415.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA BAR SD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] beIN La Liga SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24723.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN La Liga SD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] BEIN LA LIGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11740.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Movistar  Deportes 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Deportes 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
