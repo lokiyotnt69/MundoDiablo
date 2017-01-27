@@ -5,43 +5,4 @@
   <streamingInfos>
   
   
-        <item> 
-            <title>[COLOR red] Disney Junior [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11714.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] DISNEY JUNIOR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/24743.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] Disney Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11715.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Nick Jr. [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr.</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] Nickelodeon [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11682.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Clan TVE [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11724.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] BABY TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15439.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] BOING [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/11738.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+        
