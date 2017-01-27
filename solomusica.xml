@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+  <streamingInfos>
+  
+  <item> 
+            <title>[COLOR red] SOL MUSICA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15445.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOL MUSICA</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] 40 TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15444.ts&amp;streamtype=TSDOWNLOADER&amp;name=40 TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] MTV ESPAÑA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15581.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPAÑA</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Djing HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Djing HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] ELECTROSOUND TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/6547.ts&amp;streamtype=TSDOWNLOADER&amp;name=ELECTROSOUND TV</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Kiss TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/15480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kiss TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
