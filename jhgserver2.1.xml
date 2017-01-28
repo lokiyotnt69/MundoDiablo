@@ -55,6 +55,86 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal+ Serie Xtra</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] Canal+ Cuatro [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Cuatro</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal+ Dcine Espanol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Dcine Espanol</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal+ Cocina [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Cocina</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal+ Toros [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Toros</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal Los40 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Los40</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal+ Fox HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1029.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Fox HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Bein Sport ES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sport ES HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MovisStar Moto Gp [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovisStar Moto Gp</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MoviStar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Comedy Central [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Clan TVE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Fox Life [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Hollywood [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Calle 13 Spain [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 Spain</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Caza Y Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
