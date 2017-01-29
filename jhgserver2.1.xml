@@ -8,19 +8,19 @@
 
 	<item> 
             <title>[COLOR yellow] Taquilla 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name= Taquilla 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/5grandiptv915/67863345/446.ts&amp;streamtype=TSDOWNLOADER&amp;name= Taquilla 1</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Taquilla 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/5grandiptv915/67863345/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Taquilla 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/5grandiptv915/67863345/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal+ Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/890520/890520/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Liga</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.135.50:8000/live/5grandiptv915/67863345/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Liga</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal+ Deportes HD [/COLOR]</title> 
@@ -172,43 +172,3 @@
 		
 		
 		
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
