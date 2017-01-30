@@ -6,16 +6,16 @@
   
   
         <item> 
-            <title>[COLOR red]ES: ES_TV_Galicia  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.36.109:8000/live/mahjoub1/nOUappspyi/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TV_Galicia</link> 
+            <title>[COLOR red]ES: ES_DISCOVERY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1054/1054/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_DISCOVERY</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] ES_TELEDEPORTE_HD[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.36.109:8000/live/mahjoub1/nOUappspyi/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TELEDEPORTE_HD</link> 
+            <title>[COLOR red] ES_ES_NATIONAL_GEO[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1054/1054/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NATIONAL_GEO</link> 
         </item>
 		<item> 
-            <title>[COLOR red] ES_TELECINCO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.36.109:8000/live/mahjoub1/nOUappspyi/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TELECINCO</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
