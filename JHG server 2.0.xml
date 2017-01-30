@@ -5,34 +5,22 @@
   <streamingInfos>
   
   
-       
-		<item> 
-            <title>[COLOR red] Moviestar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/4865.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moviestar F1</link> 
-        </item> 		
+       		
         <item> 
-            <title>[COLOR red] Moviestar MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/4864.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moviestar MOTOGP</link> 
+            <title>[COLOR red] LALIGA TV BAR HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/7241.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA TV BAR HD</link> 
         </item>
 		<item> 
-            <title>[COLOR red] MOVISTAR MOTO GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/7305.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTO GP</link> 
+            <title>[COLOR red] LALIGA TV BAR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/7240.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA TV BAR</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] IBERALIA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/7300.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA TV</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] ES_SYFY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.36.109:8000/live/mahjoub1/nOUappspyi/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_SYFY</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
