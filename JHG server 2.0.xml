@@ -5,25 +5,18 @@
   <streamingInfos>
   
   
-        <item> 
-            <title>[COLOR red]ES: ES_DISCOVERY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1054/1054/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_DISCOVERY</link> 
+       
+		<item> 
+            <title>[COLOR red] Moviestar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/4865.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moviestar F1</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] ES_ES_NATIONAL_GEO[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/1054/1054/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NATIONAL_GEO</link> 
+            <title>[COLOR red] Moviestar MOTOGP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/4864.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moviestar MOTOGP</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR MOTO GP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/7305.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR MOTO GP</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
