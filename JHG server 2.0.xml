@@ -17,11 +17,7 @@
 		<item> 
             <title>[COLOR red] SyFy_SPAIN [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy_SPAIN</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] CanalPlus Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/mustafa/mustafa/14876.ts&amp;streamtype=TSDOWNLOADER&amp;name=CanalPlus Liga</link> 
-        </item>
+        </item>         
 		<item> 
             <title>[COLOR red] Hollywood [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
@@ -55,28 +51,28 @@
             <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item>
 		<item> 
-            <title>[COLOR red] C + Estrellas [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=C + Estrellas</link> 
+            <title>[COLOR red] deportes 1[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes 1</link> 
         </item> 
 		 <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Fotbol HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fotbol HD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Deportes 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes 2</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Deportes [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1884.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Dcine HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1838.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dcine HD</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Accion [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Accion</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
