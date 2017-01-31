@@ -48,7 +48,19 @@
         </item>
 		<item> 
             <title>[COLOR red] C+Estrenos_SPAIN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=C+Estrenos_SPAIN</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+Estrenos_SPAIN</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] C + Estrellas [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=C + Estrellas</link> 
+        </item> 
+		 <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
@@ -59,17 +71,33 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR yellow]ES:-REAL-MADRID [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://koubaiptv.ddns.net:8000/live/testcup/testcup/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-REAL-MADRID</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR blue] SP TNT - SP TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP TNT - SP TNT</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] SP C  Liga - SP C  Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP C  Liga - SP C  Liga</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+       
+	   
+	   
+	   
+	   
+	   
+	   
+	   
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
