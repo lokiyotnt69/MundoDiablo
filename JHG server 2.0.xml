@@ -9,11 +9,7 @@
         <item> 
             <title>[COLOR red]  Liga [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA </link> 
-        </item>
-		<item> 
-            <title>[COLOR red] Bein Sports [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
-        </item> 		
+        </item>		 		
         <item> 
             <title>[COLOR red] TNT [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
@@ -23,8 +19,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy_SPAIN</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] D [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] CanalPlus Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/mustafa/mustafa/14876.ts&amp;streamtype=TSDOWNLOADER&amp;name=CanalPlus Liga</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
