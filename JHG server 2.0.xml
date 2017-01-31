@@ -7,24 +7,24 @@
   
        		
         <item> 
-            <title>[COLOR red] LALIGA TV BAR HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/7241.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA TV BAR HD</link> 
+            <title>[COLOR red]  Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA </link> 
         </item>
 		<item> 
-            <title>[COLOR red] LALIGA TV BAR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.59.222.49:8000/live/Richard.Castillo/uRws1RNGyB/7240.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA TV BAR</link> 
+            <title>[COLOR red] Bein Sports [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] SyFy_SPAIN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy_SPAIN</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] ES HOLLYWOOD HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://192.99.45.71:9900/live/jagdish/jagdish/25044.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HOLLYWOOD HD</link> 
+            <title>[COLOR red] D [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
