@@ -75,25 +75,29 @@
             <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Accion</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Caza Y Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] CAZA Y PESCA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/mustafa/mustafa/14874.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>	   
+		<item> 
+            <title>[COLOR yellow] Baby Tv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1844.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby Tv</link> 
         </item>
-       
-	   
-	   
-	   
-	   
-	   
-	   
-	   
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
