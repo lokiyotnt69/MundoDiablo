@@ -23,12 +23,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/mustafa/mustafa/14876.ts&amp;streamtype=TSDOWNLOADER&amp;name=CanalPlus Liga</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Hollywood [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Toros [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
