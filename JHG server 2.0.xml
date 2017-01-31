@@ -67,12 +67,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://koubaiptv.ddns.net:8000/live/testcup/testcup/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-REAL-MADRID</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] SP TNT - SP TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP TNT - SP TNT</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] SP C  Liga - SP C  Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP C  Liga - SP C  Liga</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
