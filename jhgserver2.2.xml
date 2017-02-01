@@ -4,188 +4,126 @@
 
   <streamingInfos>
 
-         <item> 
-            <title>########SPAIN######</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=########SPAIN######</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: SPORT Mania</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: SPORT Mania</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Nova Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Nova Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: National Geographic Wild Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: National Geographic Wild Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: National Geographic Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: National Geographic Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: MTV Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: MTV Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Hollywood Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Hollywood Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: History</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Fox Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Fox Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Fox Crime Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Fox Crime Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: FDF Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: FDF Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Energy Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Energy Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Disney XD</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Canal   Toros</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Canal   Toros</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Canal   Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Canal   Liga</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Canal   Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Canal   Golf</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Canal   Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Canal   Futbol</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Canal   Dcine</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Canal   Dcine</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Canal   Comedia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Canal   Comedia</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Canal   1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Canal   1</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Boing Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Boing Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: Barca TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: Barca TV</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: AXN White Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: AXN White Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: AXN Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: AXN Spain</link> 
-        </item> 
-          <item> 
-            <title>SPAIN: A&amp;E Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPAIN: A&amp;E Spain</link> 
-        </item> 
-       
-	   
-	   
-		
-		<item> 
-            <title>[COLOR yellow] Es-C  LIGA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-C  LIGA HD</link> 
+        
+        <item> 
+            <title>[COLOR red] SP:Baby_TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/voda/voda/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:Baby_TV</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Clan [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/voda/voda/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Es-LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2558.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-LA 1</link> 
+            <title>[COLOR red] GOL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/voda/voda/2092.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] ES-TV3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/1558.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-TV3</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Antenna 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2007.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antenna 3</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] ES-CALLE 13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2595.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-CALLE 13</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-C  XTRA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-C  XTRA HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-C  FUTBOL HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-C  FUTBOL HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-C  ESTRENOS HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-C  ESTRENOS HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-C  DEPORTES1 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2572.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-C  DEPORTES1 HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-C  DCINE HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2574.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-C  DCINE HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ES-Canal Acction [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2606.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-Canal Acction</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-La Sexta [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2576.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-La Sexta</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-BEIN SPORTS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-BEIN SPORTS</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ES-FOX HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-FOX HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Es-Anime [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es-Anime</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ES-Canal_Toros [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2591.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-Canal_Toros</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ES-AXN HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2597.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-AXN HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ES-movistar.Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2596.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-movistar.Comedia</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Hollywood [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/lgx1849/631841/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
