@@ -28,8 +28,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2687.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] LaLiga_TV_Bar.HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/1111/1111/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga_TV_Bar.HD</link> 
         </item>
 		
         <item> 
