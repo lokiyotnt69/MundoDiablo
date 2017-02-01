@@ -5,21 +5,10 @@
   <streamingInfos>
 
         
+        		
         <item> 
-            <title>[COLOR red] SP:Baby_TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/voda/voda/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:Baby_TV</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Clan [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/voda/voda/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] GOL [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://88.198.34.144:8000/live/voda/voda/2092.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] LA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
