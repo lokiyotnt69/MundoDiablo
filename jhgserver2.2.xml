@@ -18,27 +18,18 @@
 		<item> 
             <title>[COLOR red]  SYFY HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name= SYFY HD</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] SEVILLA FC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEVILLA FC</link> 
-        </item>
+        </item>         
 		<item> 
             <title>[COLOR red] NICKELODEON [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2687.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item>        		
+        <item> 
+            <title>[COLOR red] Moto Gp [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto Gp</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] LaLiga_TV_Bar.HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/1111/1111/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga_TV_Bar.HD</link> 
-        </item>
-		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Movistar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
