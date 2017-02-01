@@ -8,25 +8,9 @@
   
 
 		<item> 
-            <title>[COLOR yellow] SPANISH  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2890.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPANISH </link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15907.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  LA 1 FHD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7661.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA 1 FHD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Antena 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+            <title>[COLOR yellow] DEPORTES  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/2890.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES </link> 
+        </item>			
 		<item> 
             <title>[COLOR blue] La Liga TV Bar [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13006.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga TV Bar</link> 
@@ -34,35 +18,31 @@
 		<item> 
             <title>[COLOR blue] LA LIGA TV 1 SD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV 1 SD</link> 
-        </item>		
+        </item>			
 		<item> 
-            <title>[COLOR yellow] MULTIDEPORTES 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15461.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIDEPORTES 1</link> 
+            <title>[COLOR yellow]  M. MOTO GP HD  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15438.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. MOTO GP HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]   [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M. MotoGp [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MotoGp</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  Canal+ Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7715.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal+ Liga</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Gol TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol TV</link> 
         </item>
 		
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  M. Futbol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13008.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. Futbol</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M. GOLF [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/13010.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. GOLF</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
@@ -142,8 +122,8 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR blue] MTV ***[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/EdG1tDhbPR/n0TuboEJfM/21085.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
         </item>
 		  
 		  
