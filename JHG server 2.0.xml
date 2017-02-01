@@ -5,85 +5,60 @@
   <streamingInfos>
   
   
-       		
+       		 		
         <item> 
-            <title>[COLOR red]  Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA </link> 
-        </item>		 		
-        <item> 
-            <title>[COLOR red] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+            <title>[COLOR yellow] ====== CINE ====== [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12538.ts&amp;streamtype=TSDOWNLOADER&amp;name= CINE </link> 
+        </item>	   	
+		<item> 
+            <title>[COLOR yellow] M. ESTRENOS FHD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15414.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS FHD</link> 
         </item>
 		<item> 
-            <title>[COLOR red] SyFy_SPAIN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1889.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy_SPAIN</link> 
-        </item>         
-		<item> 
-            <title>[COLOR red] Hollywood [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Toros [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros</link> 
+            <title>[COLOR yellow] M.Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7703.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Moto GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto GP</link> 
-        </item> 		
+            <title>[COLOR yellow]  M. ACCION FHD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15415.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. ACCION FHD</link> 
+        </item>
+           	 		
         <item> 
-            <title>[COLOR red] Calle 13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1843.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13</link> 
+            <title>[COLOR yellow]  M. Accion [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7698.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. Accion</link> 
+        </item>	 		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Series Xtra  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1874.ts&amp;streamtype=TSDOWNLOADER&amp;name=Series Xtra </link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Series [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=Series</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red] C+Estrenos_SPAIN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1885.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+Estrenos_SPAIN</link> 
-        </item> 		
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			 		
         <item> 
-            <title>[COLOR red] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>	 		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red] deportes 1[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes 1</link> 
-        </item> 
-		 <item> 
-            <title>[COLOR red] Fotbol HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fotbol HD</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Deportes 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1883.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes 2</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Deportes [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1884.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Dcine HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1838.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dcine HD</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-		<item> 
-            <title>[COLOR red] Accion [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Accion</link> 
-        </item> 		
+			 		
         <item> 
-            <title>[COLOR red] Caza Y Pesca [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] CAZA Y PESCA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/mustafa/mustafa/14874.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>	   
 		<item> 
@@ -102,4 +77,3 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-           
