@@ -46,19 +46,11 @@
 		<item> 
             <title>[COLOR yellow] M. Deportes 2 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12545.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Deportes 2</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M. Formula 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Formula 1</link> 
-        </item>
+        </item>		
 		<item> 
             <title>[COLOR yellow] M. PARTIDAZO HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15431.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. PARTIDAZO HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Eurosport 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
-        </item>
+        </item>		
 		<item> 
             <title>[COLOR yellow]  Eurosport 2 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15475.ts&amp;streamtype=TSDOWNLOADER&amp;name= Eurosport 2</link> 
@@ -86,19 +78,7 @@
         </item>		
 		<item> 
             <title>[COLOR yellow] MULTIDEPORTES 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=MULTIDEPORTES 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] Canal+_Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.zizoiptv.com:8000/live/fathi_loh/0657/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+_Liga</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] CANAL-LIGA-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.zizoiptv.com:8000/live/fathi_loh/0657/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL-LIGA-HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] Canal_Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.zizoiptv.com:8000/live/fathi_loh/0657/2090.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Liga</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15461.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTIDEPORTES 1</link> 
         </item>
 		<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
