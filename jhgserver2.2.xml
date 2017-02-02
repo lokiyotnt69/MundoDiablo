@@ -6,79 +6,51 @@
 
         
         		
-        
-		<item> 
-            <title>[COLOR red] HOLLYWOOD HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
-        </item> 		
+     		
         <item> 
-            <title>[COLOR red] Teledeporte [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
+            <title>[COLOR red] INFANTILES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/12536.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFANTILES</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  SYFY HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name= SYFY HD</link> 
-        </item>         
-		<item> 
-            <title>[COLOR red] NICKELODEON [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2687.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item>        		
-        <item> 
-            <title>[COLOR red] Moto Gp [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto Gp</link> 
+            <title>[COLOR red] Disney Channel [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] Movistar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
+            <title>[COLOR red] Disney Jr. [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Jr.</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red]  Clan TVE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name= Clan TVE</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Boing [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7707.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red]  NICKELODEON FHD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7669.ts&amp;streamtype=TSDOWNLOADER&amp;name= NICKELODEON FHD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] EXTRA  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15476.ts&amp;streamtype=TSDOWNLOADER&amp;name=EXTRA </link> 
         </item>
 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] TOROS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15424.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS HD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red]  Toros Tv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name= Toros Tv</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Caza Y Pesca FHD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7688.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca FHD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] IBERALIA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15425.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA TV</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
