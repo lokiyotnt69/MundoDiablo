@@ -63,15 +63,15 @@
         </item>
 		<item> 
             <title>[COLOR red] RO Antena 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=RO Antena 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9484.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO Antena 3</link> 
         </item> 		
         <item> 
             <title>[COLOR red] RO AXN [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9486.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO AXN</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] RO Digi Animal World [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9492.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO Digi Animal World</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
