@@ -7,26 +7,6 @@
 
 
 		<item> 
-            <title>[COLOR yellow]RO Canal 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14654.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal 2</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] [RO] Digi Sport 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Sport 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Moldova Sport [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14664.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moldova Sport</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] TeleMoldovaPlus [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14674.ts&amp;streamtype=TSDOWNLOADER&amp;name=TeleMoldovaPlus</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
