@@ -1,0 +1,47 @@
+    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+
+  
+        <item> 
+            <title>[COLOR red] Romania [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14653.ts&amp;streamtype=TSDOWNLOADER&amp;name=Romania</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] [RO] Canal 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14654.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Canal 2</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] [RO] Canal 3 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14655.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Canal 3 HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] [RO] CT 24 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14656.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] CT 24</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] [RO] Digi Life [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14657.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Life</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] [RO] Digi Sport 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Sport 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] [RO] Digi-2-HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14659.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi-2-HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
