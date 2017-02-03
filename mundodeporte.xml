@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+  
+   <item> 
+            <title>BBC World News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC World News</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports News HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports Mix HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports Mix HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>BT Sport ESPN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport ESPN HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 1 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 1080p</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 2 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 1080p</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 3 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 1080p</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 4 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 1080p</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 5 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 1080p</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports F1 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 1080p</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 1 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 1080p</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 2 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2 1080p</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 3 1080p</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 3 1080p</link> 
+        </item> 
+          <item> 
+            <title>Premier Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=Premier Sports HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>British Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=British Eurosport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>British Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=British Eurosport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>MUTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUTV HD</link> 
+        </item> 
+          <item> 
+            <title>ITV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD</link> 
+        </item> 
+          <item> 
+            <title>BBC One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One HD</link> 
+        </item> 
+          <item> 
+            <title>BBC Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD</link> 
+        </item> 
+          <item> 
+            <title>Channel 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 HD</link> 
+        </item> 
+          <item> 
+            <title>Channel 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports News</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 1 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 2 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 3 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 4 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports 5 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports F1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 SD</link> 
+        </item> 
+          <item> 
+            <title>BT sport 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT sport 2 SD</link> 
+        </item> 
+          <item> 
+            <title>BT sport 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT sport 3 SD</link> 
+        </item> 
+          <item> 
+            <title>BT Sport Espn SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport Espn SD</link> 
+        </item> 
+          <item> 
+            <title>British Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=British Eurosport</link> 
+        </item> 
+          <item> 
+            <title>British Eurosport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=British Eurosport2</link> 
+        </item> 
+          <item> 
+            <title>Box Nation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=Box Nation</link> 
+        </item> 
+          <item> 
+            <title>Premier Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=Premier Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>eir Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=eir Sport 1</link> 
+        </item> 
+          <item> 
+            <title>eir Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=eir Sport 2</link> 
+        </item> 
+          <item> 
+            <title>LFC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=LFC TV</link> 
+        </item> 
+          <item> 
+            <title>Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chelsea TV</link> 
+        </item> 
+          <item> 
+            <title>MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUTV</link> 
+        </item> 
+          <item> 
+            <title>At The Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=At The Races</link> 
+        </item> 
+          <item> 
+            <title>Racing UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Racing UK</link> 
+        </item> 
+          <item> 
+            <title>Nick Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior</link> 
+        </item> 
+          <item> 
+            <title>Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Select</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Sci-Fi &amp; Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Sci-Fi &amp; Horror</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Premiere</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Drama &amp; Romance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Drama &amp; Romance</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Disney</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Crime &amp; Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Crime &amp; Thriller</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Action &amp; Adventure</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Action &amp; Adventure</link> 
+        </item> 
+          <item> 
+            <title>USA Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA Network HD</link> 
+        </item> 
+          <item> 
+            <title>Bein Sports USA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports USA HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>WWE Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=WWE Network HD</link> 
+        </item> 
+          <item> 
+            <title>TSN 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TSN 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TSN 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN 3 HD</link> 
+        </item> 
+          <item> 
+            <title>TSN 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN 4 HD</link> 
+        </item> 
+          <item> 
+            <title>TSN 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/192.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN 5 HD</link> 
+        </item> 
+          <item> 
+            <title>Sportsnet 360 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sportsnet 360 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sportsnet One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sportsnet One HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sportsnet Ontario HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sportsnet Ontario HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sportsnet World HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sportsnet World HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Willow Cricket HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Willow Cricket HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Bundesliga 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Bundesliga 1</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 1 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 2 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 3 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 4 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 5 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 6 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 7 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 8 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 9 HD</link> 
+        </item> 
+          <item> 
+            <title>BeIN Sport Arabia 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sport Arabia 10 HD</link> 
+        </item> 
+          <item> 
+            <title>Xtra 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Xtra 1</link> 
+        </item> 
+          <item> 
+            <title>Xtra 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Xtra 2</link> 
+        </item> 
+          <item> 
+            <title>Xtra 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=Xtra 3</link> 
+        </item> 
+          <item> 
+            <title>****Schedule Channel Listings @ spcentral.tv/schedule****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=****Schedule Channel Listings @ spcentral.tv/schedule****</link> 
+        </item> 
+          <item> 
+            <title>Channel 01:ESPNEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 01:ESPNEWS</link> 
+        </item> 
+          <item> 
+            <title>Channel 02:ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 02:ESPN</link> 
+        </item> 
+          <item> 
+            <title>Channel 03:ESPN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 03:ESPN 2</link> 
+        </item> 
+          <item> 
+            <title>Channel 04:ESPN U</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 04:ESPN U</link> 
+        </item> 
+          <item> 
+            <title>Channel 05:FS1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 05:FS1</link> 
+        </item> 
+          <item> 
+            <title>Channel 06:FS2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/400.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 06:FS2</link> 
+        </item> 
+          <item> 
+            <title>Channel 07:NFL NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 07:NFL NETWORK</link> 
+        </item> 
+          <item> 
+            <title>Channel 08:NBA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/402.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 08:NBA TV</link> 
+        </item> 
+          <item> 
+            <title>Channel 09:MLB NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 09:MLB NETWORK</link> 
+        </item> 
+          <item> 
+            <title>Channel 10:NHL NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 10:NHL NETWORK</link> 
+        </item> 
+          <item> 
+            <title>Channel 11:NBCSN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 11:NBCSN</link> 
+        </item> 
+          <item> 
+            <title>Channel 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/406.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 12</link> 
+        </item> 
+          <item> 
+            <title>Channel 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 13</link> 
+        </item> 
+          <item> 
+            <title>Channel 14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/408.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 14</link> 
+        </item> 
+          <item> 
+            <title>Channel 15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 15</link> 
+        </item> 
+          <item> 
+            <title>Channel 16: WWE Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 16: WWE Network</link> 
+        </item> 
+          <item> 
+            <title>Channel 17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 17</link> 
+        </item> 
+          <item> 
+            <title>Channel 18</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 18</link> 
+        </item> 
+          <item> 
+            <title>Channel 19</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 19</link> 
+        </item> 
+          <item> 
+            <title>Channel 20</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 20</link> 
+        </item> 
+          <item> 
+            <title>Channel 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 21</link> 
+        </item> 
+          <item> 
+            <title>Channel 22</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 22</link> 
+        </item> 
+          <item> 
+            <title>Channel 23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 23</link> 
+        </item> 
+          <item> 
+            <title>Channel 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 24</link> 
+        </item> 
+          <item> 
+            <title>Channel 25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 25</link> 
+        </item> 
+          <item> 
+            <title>Channel 26</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 26</link> 
+        </item> 
+          <item> 
+            <title>Channel 27</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 27</link> 
+        </item> 
+          <item> 
+            <title>Channel 28</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 28</link> 
+        </item> 
+          <item> 
+            <title>Channel 29</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 29</link> 
+        </item> 
+          <item> 
+            <title>Channel 30</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 30</link> 
+        </item> 
+          <item> 
+            <title>Channel 31</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 31</link> 
+        </item> 
+          <item> 
+            <title>Channel 32</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 32</link> 
+        </item> 
+          <item> 
+            <title>Channel 33</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 33</link> 
+        </item> 
+          <item> 
+            <title>Channel 34:NBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 34:NBC</link> 
+        </item> 
+          <item> 
+            <title>Channel 35:CBS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/429.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 35:CBS</link> 
+        </item> 
+          <item> 
+            <title>Channel 36:ABC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 36:ABC</link> 
+        </item> 
+          <item> 
+            <title>Channel 37:FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 37:FOX</link> 
+        </item> 
+          <item> 
+            <title>Channel 38</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 38</link> 
+        </item> 
+          <item> 
+            <title>Channel 39:CNBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 39:CNBC</link> 
+        </item> 
+          <item> 
+            <title>Channel 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 40</link> 
+        </item> 
+          <item> 
+            <title>Channel 41</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 41</link> 
+        </item> 
+          <item> 
+            <title>Channel 42</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 42</link> 
+        </item> 
+          <item> 
+            <title>Channel 43</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 43</link> 
+        </item> 
+          <item> 
+            <title>Channel 44:FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 44:FX</link> 
+        </item> 
+          <item> 
+            <title>Channel 45:FXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 45:FXX</link> 
+        </item> 
+          <item> 
+            <title>Channel 46:COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 46:COMEDY CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>Channel 47:AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 47:AMC</link> 
+        </item> 
+          <item> 
+            <title>Channel 48:HBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 48:HBO</link> 
+        </item> 
+          <item> 
+            <title>Channel 49:HBO COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 49:HBO COMEDY</link> 
+        </item> 
+          <item> 
+            <title>Channel 50:HBO SIGNATURE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 50:HBO SIGNATURE</link> 
+        </item> 
+          <item> 
+            <title>Channel 51:HBO ZONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 51:HBO ZONE</link> 
+        </item> 
+          <item> 
+            <title>Channel 52:SHOWTIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 52:SHOWTIME</link> 
+        </item> 
+          <item> 
+            <title>Channel 53</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 53</link> 
+        </item> 
+          <item> 
+            <title>Channel 54</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 54</link> 
+        </item> 
+          <item> 
+            <title>Channel 55</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 55</link> 
+        </item> 
+          <item> 
+            <title>Channel 56</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 56</link> 
+        </item> 
+          <item> 
+            <title>Channel 57</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 57</link> 
+        </item> 
+          <item> 
+            <title>Channel 58</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 58</link> 
+        </item> 
+          <item> 
+            <title>Channel 59</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 59</link> 
+        </item> 
+          <item> 
+            <title>Channel 60</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 60</link> 
+        </item> 
+          <item> 
+            <title>Channel 61</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 61</link> 
+        </item> 
+          <item> 
+            <title>Channel 62</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 62</link> 
+        </item> 
+          <item> 
+            <title>Channel 63</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 63</link> 
+        </item> 
+          <item> 
+            <title>Channel 64</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 64</link> 
+        </item> 
+          <item> 
+            <title>Channel 65</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 65</link> 
+        </item> 
+          <item> 
+            <title>Channel 66</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 66</link> 
+        </item> 
+          <item> 
+            <title>Channel 67</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 67</link> 
+        </item> 
+          <item> 
+            <title>Channel 68</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 68</link> 
+        </item> 
+          <item> 
+            <title>Channel 69</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 69</link> 
+        </item> 
+          <item> 
+            <title>Channel 70</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 70</link> 
+        </item> 
+          <item> 
+            <title>Channel 71</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 71</link> 
+        </item> 
+          <item> 
+            <title>Channel 72</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 72</link> 
+        </item> 
+          <item> 
+            <title>Channel 73</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 73</link> 
+        </item> 
+          <item> 
+            <title>Channel 74</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 74</link> 
+        </item> 
+          <item> 
+            <title>Channel 75</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 75</link> 
+        </item> 
+          <item> 
+            <title>Channel 76</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 76</link> 
+        </item> 
+          <item> 
+            <title>Channel 77</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 77</link> 
+        </item> 
+          <item> 
+            <title>Channel 78</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 78</link> 
+        </item> 
+          <item> 
+            <title>Channel 79</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 79</link> 
+        </item> 
+          <item> 
+            <title>Channel 80</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 80</link> 
+        </item> 
+          <item> 
+            <title>Channel 81</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 81</link> 
+        </item> 
+          <item> 
+            <title>Channel 82</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 82</link> 
+        </item> 
+          <item> 
+            <title>Channel 83</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 83</link> 
+        </item> 
+          <item> 
+            <title>Channel 84</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 84</link> 
+        </item> 
+          <item> 
+            <title>Channel 85</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 85</link> 
+        </item> 
+          <item> 
+            <title>Channel 86</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 86</link> 
+        </item> 
+          <item> 
+            <title>Channel 87</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 87</link> 
+        </item> 
+          <item> 
+            <title>Channel 88</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 88</link> 
+        </item> 
+          <item> 
+            <title>Channel 89</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 89</link> 
+        </item> 
+          <item> 
+            <title>Channel 90</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 90</link> 
+        </item> 
+          <item> 
+            <title>Channel 91</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 91</link> 
+        </item> 
+          <item> 
+            <title>Channel 92</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 92</link> 
+        </item> 
+          <item> 
+            <title>Channel 93</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 93</link> 
+        </item> 
+          <item> 
+            <title>Channel 94</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 94</link> 
+        </item> 
+          <item> 
+            <title>Channel 95</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 95</link> 
+        </item> 
+          <item> 
+            <title>Channel 96</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 96</link> 
+        </item> 
+          <item> 
+            <title>Channel 97</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 97</link> 
+        </item> 
+          <item> 
+            <title>Channel 98</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 98</link> 
+        </item> 
+          <item> 
+            <title>Channel 99</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 99</link> 
+        </item> 
+          <item> 
+            <title>Channel 100</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 100</link> 
+        </item> 
+          <item> 
+            <title>Channel 101</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 101</link> 
+        </item> 
+          <item> 
+            <title>Channel 102</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 102</link> 
+        </item> 
+          <item> 
+            <title>Channel 103</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 103</link> 
+        </item> 
+          <item> 
+            <title>Channel 104</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 104</link> 
+        </item> 
+          <item> 
+            <title>Channel 105</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 105</link> 
+        </item> 
+          <item> 
+            <title>Channel 106</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 106</link> 
+        </item> 
+          <item> 
+            <title>Channel 107</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.4.192:7070/live/bob/bob/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 107</link> 
+        </item> 
+          <item> 
+            <title>Boxing Carl Frampton vs Leo Santa Cruz Jan 28</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Boxing Carl Frampton vs Leo Santa Cruz Jan 28</link> 
+        </item> 
+  
