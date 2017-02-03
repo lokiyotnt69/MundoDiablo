@@ -58,16 +58,16 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] RO Acasa Gold TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9484.tshttp://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9480.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO Acasa Gold TV</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] RO Antena 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=RO Antena 3</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] RO AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9486.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO AXN</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
