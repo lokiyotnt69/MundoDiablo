@@ -8,74 +8,22 @@
         <item> 
             <title>[COLOR red] Romania [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14653.ts&amp;streamtype=TSDOWNLOADER&amp;name=Romania</link> 
-        </item> 		
-        <item> 
+        </item>        
+		<item> 
             <title>[COLOR red] [RO] Canal 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14654.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Canal 2</link> 
-        </item>
-		<item> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/14654.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Canal 2</link> 
+        </item> 		
+        <item> 
             <title>[COLOR red] [RO] Canal 3 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14655.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Canal 3 HD</link> 
-        </item> 		
-        <item> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/14655.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Canal 3 HD</link> 
+        </item>
+		<item> 
             <title>[COLOR red] [RO] CT 24 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14656.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] CT 24</link> 
-        </item>
-		<item> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/14656.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] CT 24</link> 
+        </item> 		
+        <item> 
             <title>[COLOR red] [RO] Digi Life [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14657.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Life</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] [RO] Digi Sport 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Sport 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] [RO] Digi-2-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14659.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi-2-HD</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] [RO] Digi-3-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14660.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi-3-HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] [RO] MBC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14663.tshttp://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14662.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] MBC</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] [RO] Moldova Sport [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14664.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Moldova Sport</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] [RO] Nat-Geo-Wild-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14665.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Nat-Geo-Wild-HD</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] [RO] Plus Barrandov [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14666.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Plus Barrandov</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR yellow] RO Acasa Gold TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9484.tshttp://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9480.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO Acasa Gold TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] RO Antena 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9484.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO Antena 3</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] RO AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9486.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO AXN</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] RO Digi Animal World [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://gameserver4.ddns.net/live/delio151116/8BcZVoqgPa/9492.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO Digi Animal World</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/14657.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Life</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
@@ -85,4 +33,77 @@
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           
 		
