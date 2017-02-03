@@ -40,6 +40,42 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Canal Odisea</link> 
         </item>
            <item> 
+            <title>[COLOR yellow] Caza & Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza & Pesca</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Clan TVE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10190.ts&amp;streamtype=TSDOWNLOADER&amp;name= Clan TVE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10189.ts&amp;streamtype=TSDOWNLOADER&amp;name= Comedia</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Comedy Central [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10188.ts&amp;streamtype=TSDOWNLOADER&amp;name= Comedy Central</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Cosmo [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10187.ts&amp;streamtype=TSDOWNLOADER&amp;name= Cosmo</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Crimen Inves [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crimen Inves</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Dcine Espanol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10185.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dcine Espanol</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Dcine HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/10184.ts&amp;streamtype=TSDOWNLOADER&amp;name= Dcine HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -51,3 +87,16 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		
