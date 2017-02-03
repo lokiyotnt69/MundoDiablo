@@ -34,6 +34,30 @@
             <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14659.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi-2-HD</link> 
         </item> 		
         <item> 
+            <title>[COLOR red] [RO] Digi-3-HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14660.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi-3-HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] [RO] MBC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14663.tshttp://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14662.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] MBC</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] [RO] Moldova Sport [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14664.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Moldova Sport</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] [RO] Nat-Geo-Wild-HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14665.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Nat-Geo-Wild-HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] [RO] Plus Barrandov [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/rszpnuvz/u8x0f5t1MN/14666.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Plus Barrandov</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -45,3 +69,20 @@
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		
