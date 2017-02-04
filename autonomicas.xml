@@ -51,12 +51,60 @@
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  Canal Cocina [/COLOR]</title> 
+            <title>[COLOR yellow] Canal Cocina [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal Cocina</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal Iberalia [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/7885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Iberalia</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Extremadura TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Extremadura TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Boing [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Disney Channel HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Neox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/10715.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Nick JR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick JR</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
