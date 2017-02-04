@@ -5,84 +5,76 @@
   <streamingInfos>
   
   
-  
-        <item> 
-            <title>[COLOR red]  LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15907.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA 1</link> 
+
+		<item> 
+            <title>[COLOR red] LA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  LA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7660.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA 2</link> 
+            <title>[COLOR red] LA 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item>
 		<item> 
             <title>[COLOR red] Antena 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] CUATRO FHD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15411.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO FHD</link> 
+            <title>[COLOR red] Cuatro [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
         </item>
 		<item> 
-            <title>[COLOR red] Cuatro. [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7686.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro.</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] TELECINCO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] La Sexta [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/15909.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Neox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/14970.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] NOVA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7668.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  Mega Tv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7713.ts&amp;streamtype=TSDOWNLOADER&amp;name= Mega Tv</link> 
-        </item>		
-        <item> 
-            <title>[COLOR red]  Fdf [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7679.ts&amp;streamtype=TSDOWNLOADER&amp;name= Fdf</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] DIVINITY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] Energy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7681.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  Andalucia TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/7640.ts&amp;streamtype=TSDOWNLOADER&amp;name= Andalucia TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Telecinco HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco HD</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
