@@ -26,8 +26,8 @@ plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alph
 plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1845.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1, AXN HD
 plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1853.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,  M SERIES 
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5153.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,MOVISTAR MOTO GP 
 plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16151.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1, MOVISTAR FORMULA 1
