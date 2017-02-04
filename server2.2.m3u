@@ -9,6 +9,46 @@ plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alph
 plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1822.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,SyFy_SPAIN
 plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1889.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,SP Moto GP
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1867.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,Hollywood
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1855.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, Toros
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1828.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,C+Estrenos_SPAIN
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1885.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,Dcine HD
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1838.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, Accion HD
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1831.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,Caza Y Pesca
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1845.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, AXN HD
+plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1853.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,MOVISTAR MOTO GP 
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16151.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, MOVISTAR FORMULA 1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16150.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,
