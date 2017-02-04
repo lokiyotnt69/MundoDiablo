@@ -8,7 +8,7 @@
 
 		<item> 
             <title>[COLOR red] LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item> 		
         <item> 
             <title>[COLOR red] LA 2 [/COLOR]</title> 
@@ -27,36 +27,36 @@
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco HD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] TV 3 Cat [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/16533.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV 3 Cat</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] 24 Horas [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/10714.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Horas</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Divinity [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/10716.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Energy [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/13176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Mega [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Nova [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  Canal Cocina [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal Cocina</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal Iberalia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jinbox.nl:1339/live/Erdogan/Erdogan/7885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Iberalia</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
