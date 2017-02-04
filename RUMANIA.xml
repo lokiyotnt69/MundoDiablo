@@ -73,5 +73,20 @@
             <title>[COLOR yellow] [RO] VH1 Classic [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/rszpnuvz/u8x0f5t1MN/14681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] VH1 Classic</link> 
         </item>
-	
+		<item> 
+            <title>[COLOR red] Realitatea Tv  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13397.ts&amp;streamtype=TSDOWNLOADER&amp;name=Realitatea Tv </link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Romania Tv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13396.ts&amp;streamtype=TSDOWNLOADER&amp;name=Romania Tv</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Kanal D [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/HIjTUOzY7X/B1M1klFCbY/13410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kanal D</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
 		
