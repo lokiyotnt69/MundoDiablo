@@ -17,6 +17,78 @@
             <link>plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOXNation HD</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] Canal+ Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Liga</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Canal+ Deportes HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Deportes HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal+ Futpol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Futpol</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal+ Golf [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Golf</link> 
+        </item>
+           	<item> 
+            <title>[COLOR yellow] Bein Sport ES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sport ES HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MovisStar Moto Gp [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovisStar Moto Gp</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]MoviStar F1  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/asso8/asso8/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
