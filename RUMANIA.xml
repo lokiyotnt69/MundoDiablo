@@ -3,26 +3,10 @@
    
   <streamingInfos>
 
-		 		
-        <item> 
-            <title>[COLOR red] RO: 1 Music Channel  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/4444/4444/5383.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO: 1 Music Channel</link> 
-        </item>
+		
 		<item> 
-            <title>[COLOR red] RO: AMC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/4444/4444/5384.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO: AMC</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] [RO] Digi Sport 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Sport 1</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
