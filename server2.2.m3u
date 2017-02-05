@@ -28,34 +28,32 @@ plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alph
 plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1853.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,  M SERIES 
 plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5153.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,MOVISTAR MOTO GP 
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16151.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1, MOVISTAR FORMULA 1
 plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16150.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,Movistar Estrenos
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15023.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, CANAL+ COMEDIA HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5156.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, CALLE 13
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5159.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, Movistar Comedia HD 
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15019.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16126.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,FOX 
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15007.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8567.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1, M ESTRENOS HD 
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5155.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] beIN Sports[/COLOR]
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11116.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] beIN LaLiga 1 [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10730.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]  Gol T[/COLOR]
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15010.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] MOVISTAR  FUTBOL  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16153.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,
