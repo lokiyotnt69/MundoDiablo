@@ -29,7 +29,7 @@ plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/dami
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2704.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP: CANAL ODISEA
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2664.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Musica
+#EXTINF:-1,SP: Canal 1
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2644.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP: Canal De Las Estrellas
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2645.ts&amp;streamtype=TSDOWNLOADER
@@ -37,8 +37,6 @@ plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/dami
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2646.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP: Canal Cocina
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2647.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,SP: Canal Baby
-plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2648.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP: NICKELODEON
 plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/2687.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP: NICK JUNIOR
