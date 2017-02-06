@@ -17,8 +17,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://system.fpiptv.com:8080/live/mojarraochenta/mojarraochenta/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOXNation HD</link> 
         </item>	
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CANAL-LIGA-HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL-LIGA-HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
