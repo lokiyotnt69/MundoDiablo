@@ -39,8 +39,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar moto gp</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Movistar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
