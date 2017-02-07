@@ -35,16 +35,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name= Movistar F1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCine</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MEGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Xtra HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Xtra HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
