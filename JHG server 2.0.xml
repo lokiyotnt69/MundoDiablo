@@ -5,47 +5,48 @@
   <streamingInfos>
   
   
-       		
+    		
         <item> 
-            <title>[COLOR red] MOVISTAR LA LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR LA LIGA</link> 
+            <title>[COLOR red] CAZA Y PESCA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  BEIN LA LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2516.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN LA LIGA</link> 
+            <title>[COLOR red] HOLLYWOOD HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] MOVISTAR TOROS HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR TOROS HD</link> 
+            <title>[COLOR red] LA SEXTA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
         </item>
 		<item> 
-            <title>[COLOR red] MOVISTAR DEPORTE [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DEPORTE</link> 
+            <title>[COLOR red] FOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  MOVISTAR DEPORTE 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name= MOVISTAR DEPORTE 2</link> 
-        </item>	
-		  <item> 
-            <title>[COLOR red] MOVISTAR FUTBOL [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR FUTBOL</link> 
-        </item> 		
+            <title>[COLOR red] DISCOVERY MAX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY MAX</link> 
+        </item>
+		
         <item> 
-            <title>[COLOR red] MOVISTAR ACCION [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR ACCION</link> 
+            <title>[COLOR red] AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item>
 		<item> 
-            <title>[COLOR red]Movistar Moto gp  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar moto gp</link> 
+            <title>[COLOR red] COMEDY CENTRAL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] Movistar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
+            <title>[COLOR red] CANAL COCINA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
