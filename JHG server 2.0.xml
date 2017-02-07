@@ -23,6 +23,46 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DEPORTE</link> 
         </item> 		
         <item> 
+            <title>[COLOR red]  MOVISTAR DEPORTE 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name= MOVISTAR DEPORTE 2</link> 
+        </item>	
+		  <item> 
+            <title>[COLOR red] MOVISTAR FUTBOL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR FUTBOL</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] MOVISTAR ACCION [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR ACCION</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]Movistar Moto gp  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar moto gp</link> 
+        </item> 		
+        <item> 
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>	
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
