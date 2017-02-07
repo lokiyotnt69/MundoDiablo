@@ -45,11 +45,131 @@
         </item> 		
         <item> 
             <title>[COLOR red] CANAL   SERIES [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= CANAL SERIES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL SERIES</link> 
         </item>
         <item> 
             <title>[COLOR red] Canal + Liga [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal + Liga</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] C  ACCION [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=C  ACCION</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] C  ESTRENOS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=C  ESTRENOS</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  SERIES EXTRA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name= SERIES EXTRA</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Es:Deporte [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Es:Deporte</link> 
+        </item>
+		  <item> 
+            <title>[COLOR red]  TNT HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2992.ts&amp;streamtype=TSDOWNLOADER&amp;name= TNT HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] ES: TeleCinco HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2971.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TeleCinco HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] ES: TCM HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2993.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  PARAMOUNT CHANNEL[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2995.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  Nat Geo Wild HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3010.ts&amp;streamtype=TSDOWNLOADER&amp;name= Nat Geo Wild HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] MTV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3012.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  Movistar F1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3014.ts&amp;streamtype=TSDOWNLOADER&amp;name= Movistar F1 HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] LTC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3015.ts&amp;streamtype=TSDOWNLOADER&amp;name=LTC</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Hollywood HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/2996.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Eurosport 1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3017.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link> 
+        </item>
+		  <item> 
+            <title>[COLOR red] Energy [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://qiptv.eu:88/live/PBVeqCE7Cy/AnGL3qJ5gt/3018.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		  <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
