@@ -15,12 +15,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2516.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN LA LIGA</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR TOROS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR TOROS HD</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR DEPORTE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro213.com/live/malek/malek1/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DEPORTE</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
