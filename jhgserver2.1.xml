@@ -115,12 +115,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4768.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Caza y Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/marisa/marisa/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  Movistar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/marisa/marisa/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name= Movistar F1</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
