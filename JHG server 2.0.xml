@@ -13,19 +13,19 @@
         </item> 		
         <item> 
             <title>[COLOR red] Series Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Series Xtra</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.54:15004/live/IPTV_02/SDCT32VBN/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Series Xtra</link> 
         </item>
 		<item> 
             <title>[COLOR red]  AXN White [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= AXN White</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/10195.ts&amp;streamtype=TSDOWNLOADER&amp;name= AXN White</link> 
         </item> 		
         <item> 
             <title>[COLOR red] Crimen Investigacion [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/10186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crimen Investigacion</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/10178.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
