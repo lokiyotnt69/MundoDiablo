@@ -40,16 +40,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] CANAL  COMEDIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  COMEDIA</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] CANAL   SERIES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= CANAL SERIES</link> 
         </item>
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Canal + Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/and/and/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal + Liga</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
