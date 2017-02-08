@@ -366,6 +366,80 @@
             <title>[COLOR yellow] GOL TV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13934.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow] M. PARTIDAZO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13649.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. PARTIDAZO HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M. PARTIDAZO SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/9190.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. PARTIDAZO SD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.  FUTBOL HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13596.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.  FUTBOL HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] M. FUTBOL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. FUTBOL</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DEPORTES 1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13600.ts&amp;streamtype=TSDOWNLOADER&amp;name= DEPORTES 1 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.  DEPORTES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.  DEPORTES</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  M. DEPORTES 2 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13627.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. DEPORTES 2 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DEPORTES 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7197.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES 2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M. F1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13642.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. F1 HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] M. F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/5963.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. F1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  M. MOTO GP HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13641.ts&amp;streamtype=TSDOWNLOADER&amp;name=  M. MOTO GP HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MOTO GP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Eurosport 1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13587.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] EUROSPORT 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           
+		   
            
            
            		
