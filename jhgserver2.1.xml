@@ -420,7 +420,55 @@
         </item>
 		<item> 
             <title>[COLOR yellow] EUROSPORT 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13668.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] EUROSPORT 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13670.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] BEIN SPORTS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/5983.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BEIN SPORTS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LA LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13914.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  LA LIGA TV 1 SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13700.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA LIGA TV 1 SD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LA LIGA TV 2 SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13699.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV 2 SD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LA LIGA TV 3 SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13698.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV 3 SD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] LA LIGA TV 4 SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13697.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV 4 SD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BEIN MAX 1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13646.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 1 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BEIN MAX 2 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13647.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 2 HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  BEIN MAX 3 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13648.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN MAX 3 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
@@ -438,6 +486,7 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+           
            
 		   
            
