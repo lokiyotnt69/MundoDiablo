@@ -5,125 +5,225 @@
   <streamingInfos>
 
 
-  
-       	<item> 
-            <title>[COLOR yellow]  TNT HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name= TNT HD</link> 
+  <item> 
+            <title>[COLOR yellow] ,==========Spain========== [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7231.ts&amp;streamtype=TSDOWNLOADER&amp;name=,==========Spain==========</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] -------- TDT ---------- [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13657.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------- TDT ----------</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] SP: LA1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13643.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA1 HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] SP: LA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] SP: LA 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] SP: ANTENA 3 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13640.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANTENA 3 HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] SP: ANTENA 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANTENA 3</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  CUATRO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13671.ts&amp;streamtype=TSDOWNLOADER&amp;name= CUATRO HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item>
+           <item> 
             <title>[COLOR yellow] TELECINCO HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7209.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  SyFy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name= SyFy</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  Odisea [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name= Odisea</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Nova [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar MotoGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar MotoGP</link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow]  Movistar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name= Movistar F1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCine</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] estrenos m+ [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESTRENOS M+</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Xtra HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Xtra HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M  Toros [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Toros</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M  Series Xtra HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Series Xtra HD</link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow] M  Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Comedia</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M  Accion [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Accion</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]ES: la liga tv HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: la liga tv HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] ES: FOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] EUROSPORT 1 HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  SyFy  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/casa/casa/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name= SyFy </link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow] FOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/casa/casa/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] la liga tv HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/casa/casa/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=la liga tv HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] COMEDY CENTRAL HD  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/casa/casa/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL HD </link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Antena 3  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/casa/casa/1144.tshttp://149.202.72.15:8000/live/casa/casa/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 </link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M  Xtra HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=M  Xtra HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Energy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow] Canal SUR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal SUR</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M  Accion  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/casa/casa/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Accion </link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] BEIN SPORTS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4768.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Caza y Pesca [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/marisa/marisa/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  Movistar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/marisa/marisa/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name= Movistar F1</link> 
+            <title>[COLOR yellow] TELECINCO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+        <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           		
+           		
+        
+           		
+        
 	   
