@@ -5,6 +5,57 @@
   <streamingInfos>
 
 
+		
+		
+		
+		 <item> 
+            <title>[COLOR red] M.Acción [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] M.comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.comedia</link> 
+        </item>		
+        <item> 
+            <title>[COLOR red] #0 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] #0 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] M.Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] ESP|M.CINE N [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP|M.CINE N</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
            
 		   
            
