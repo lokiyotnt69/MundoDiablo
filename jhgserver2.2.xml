@@ -6,7 +6,31 @@
 
   <streamingInfos>
 
-   
+   <item> 
+            <title>[COLOR yellow] Accion HD  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/10198.ts&amp;streamtype=TSDOWNLOADER&amp;name=Accion HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Caza & Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/10191.ts&amp;streamtype=TSDOWNLOADER&amp;name= Caza & Pesca</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           
          
 		 
   
