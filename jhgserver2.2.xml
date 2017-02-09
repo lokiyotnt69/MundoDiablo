@@ -21,11 +21,7 @@
             <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
         </item>	       
-		<item> 
-            <title>[COLOR yellow] M.DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.DCine</link> 
-        </item>
-           <item> 
+	    <item> 
             <title>[COLOR yellow] BEIN SPORTS HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS HD</link> 
         </item>
