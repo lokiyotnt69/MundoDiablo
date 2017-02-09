@@ -29,20 +29,20 @@
             <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] ESP|M.CINE N [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP|M.CINE N</link> 
+            <title>[COLOR red]  M.CINE  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.CINE </link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] M.DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.DCine</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] M.SERIES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.SERIES HD</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] M.Series Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Series Xtra</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
