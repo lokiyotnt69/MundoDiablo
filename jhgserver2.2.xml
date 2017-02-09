@@ -23,8 +23,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLigatv</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
