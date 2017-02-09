@@ -10,8 +10,8 @@
 		
 		
         <item> 
-            <title>[COLOR yellow] --|ESP DEPORTES|-- [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|ESP DEPORTES|--</link> 
+            <title>[COLOR yellow]  DEPORTES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name= DEPORTES</link> 
         </item>
 		  <item> 
             <title>[COLOR yellow] LaLigatv [/COLOR]</title> 
@@ -70,6 +70,7 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
            
+		   
 		
 		
 		
