@@ -45,15 +45,63 @@
             <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Series Xtra</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+            <title>[COLOR red] M.Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Xtra</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] Hollywood [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Fox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] SYFY HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Calle 13 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Comedy Central HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1820.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
            
