@@ -23,12 +23,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M.comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.comedia</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M.DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.DCine</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
