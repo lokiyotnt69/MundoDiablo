@@ -8,76 +8,628 @@
 
         
      <item> 
-            <title>[COLOR yellow] ------ TDT ------ [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/pioneer/pioneer/13657.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ TDT ------</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/pioneer/pioneer/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/pioneer/pioneer/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] MEGA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/pioneer/pioneer/7200.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA TV</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] MOTO GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/pioneer/pioneer/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           		
-        
+            <title>SP: LA1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13643.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA1 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1</link> 
+        </item> 
+          <item> 
+            <title>SP: LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 2</link> 
+        </item> 
+          <item> 
+            <title>SP: ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13640.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANTENA 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: ANTENA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANTENA 3</link> 
+        </item> 
+          <item> 
+            <title>SP: CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13671.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CUATRO</link> 
+        </item> 
+          <item> 
+            <title>SP: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7209.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>SP: LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/408.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA SEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA SEXTA</link> 
+        </item> 
+          <item> 
+            <title>SP: NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7194.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NEOX</link> 
+        </item> 
+          <item> 
+            <title>SP: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NOVA</link> 
+        </item> 
+          <item> 
+            <title>SP: MEGA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7200.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MEGA TV</link> 
+        </item> 
+          <item> 
+            <title>SP: FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FDF</link> 
+        </item> 
+          <item> 
+            <title>SP: DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7196.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>SP: ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ENERGY</link> 
+        </item> 
+          <item> 
+            <title>SP: ANDALUCIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7195.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANDALUCIA TV</link> 
+        </item> 
+          <item> 
+            <title>SP: TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TV GALICIA</link> 
+        </item> 
+          <item> 
+            <title>---------- MOVISTAR + ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13658.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- MOVISTAR + ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: #0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13606.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: #0 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: #0</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7262.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: #0</link> 
+        </item> 
+          <item> 
+            <title>---------- CINE ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13651.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- CINE ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: MULTICINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13916.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTICINE</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13603.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ACCION</link> 
+        </item> 
+          <item> 
+            <title>SP: M. COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7211.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. COMEDIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. COMEDIA</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7210.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE</link> 
+        </item> 
+          <item> 
+            <title>SP: M. XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13625.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA</link> 
+        </item> 
+          <item> 
+            <title>SP: M CINE ESPANOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7224.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M CINE ESPANOL</link> 
+        </item> 
+          <item> 
+            <title>---------- SERIES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13652.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- SERIES ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13605.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13628.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES XTRA</link> 
+        </item> 
+          <item> 
+            <title>SP: COMEDY CENTRAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13634.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COMEDY CENTRAL HD</link> 
+        </item> 
+          <item> 
+            <title>SP: COMEDIA CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7216.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COMEDIA CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>SP: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13593.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>SP: CANAL HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>SP: PARAMOUNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7212.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: PARAMOUNT</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13594.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13622.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>SP: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13702.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AMC HD</link> 
+        </item> 
+          <item> 
+            <title>SP: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13665.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AMC</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13589.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13624.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>SP: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13633.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>SP:  SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  SYFY</link> 
+        </item> 
+          <item> 
+            <title>SP: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13592.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT</link> 
+        </item> 
+          <item> 
+            <title>SP: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13604.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM</link> 
+        </item> 
+          <item> 
+            <title>SP: SUDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13691.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SUDANCE</link> 
+        </item> 
+          <item> 
+            <title>SP: CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13645.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>SP: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>---------- EXTRA ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13660.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- EXTRA ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: TOROS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13602.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TOROS HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TOROS</link> 
+        </item> 
+          <item> 
+            <title>SP: CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>SP: IBERALIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13936.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: IBERALIA TV</link> 
+        </item> 
+          <item> 
+            <title>---------- DOCUMENTALES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13654.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DOCUMENTALES ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>SP: CANAL ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7225.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL ODISEA</link> 
+        </item> 
+          <item> 
+            <title>SP: NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13590.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NAT GEO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>SP: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>SP: VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13623.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: VIAJAR HD</link> 
+        </item> 
+          <item> 
+            <title>SP: CRIME &amp; INVESTIGATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7226.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CRIME &amp; INVESTIGATION</link> 
+        </item> 
+          <item> 
+            <title>SP: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13692.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>SP: NON STOP PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13935.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NON STOP PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>---------- MUSICA ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13656.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- MUSICA ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: SOL MUSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SOL MUSICA</link> 
+        </item> 
+          <item> 
+            <title>SP: MEZZO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MEZZO</link> 
+        </item> 
+          <item> 
+            <title>SP: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: VH1</link> 
+        </item> 
+          <item> 
+            <title>SP: 40TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 40TV</link> 
+        </item> 
+          <item> 
+            <title>SP: LOS 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13915.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LOS 40</link> 
+        </item> 
+          <item> 
+            <title>SP: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13667.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MTV</link> 
+        </item> 
+          <item> 
+            <title>---------- ESTILO DE VIDA ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13659.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ESTILO DE VIDA ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13629.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COSMO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7201.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL COCINA</link> 
+        </item> 
+          <item> 
+            <title>SP: CANAL DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL DECASA</link> 
+        </item> 
+          <item> 
+            <title>SP: CANAL ORBE 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13937.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL ORBE 21</link> 
+        </item> 
+          <item> 
+            <title>SP: 24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13939.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 24 HORAS</link> 
+        </item> 
+          <item> 
+            <title>---------- INFANTILES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13655.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- INFANTILES ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>SP: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>SP: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>SP: NICK JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICK JR</link> 
+        </item> 
+          <item> 
+            <title>SP: CLAN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/413.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CLAN TV</link> 
+        </item> 
+          <item> 
+            <title>SP: BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BOING</link> 
+        </item> 
+          <item> 
+            <title>SP: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>SP: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BABY TV</link> 
+        </item> 
+          <item> 
+            <title>SP: CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>---------- DEPORTES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13653.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DEPORTES ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13932.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13933.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV BAR HD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV BAR SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV BAR SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA BAR TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13940.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA BAR TV 1</link> 
+        </item> 
+          <item> 
+            <title>SP: GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13934.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: GOL TV</link> 
+        </item> 
+          <item> 
+            <title>SP: M. PARTIDAZO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13649.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. PARTIDAZO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. PARTIDAZO SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/9190.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. PARTIDAZO SD</link> 
+        </item> 
+          <item> 
+            <title>SP: M.  FUTBOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13596.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.  FUTBOL HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. FUTBOL</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DEPORTES 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13600.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M.  DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.  DEPORTES</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13627.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7197.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 2</link> 
+        </item> 
+          <item> 
+            <title>SP: M. GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7202.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF</link> 
+        </item> 
+          <item> 
+            <title>SP: M. F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13642.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. F1 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/5963.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. F1</link> 
+        </item> 
+          <item> 
+            <title>SP:  M. MOTO GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13641.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  M. MOTO GP HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. MOTO GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. MOTO GP</link> 
+        </item> 
+          <item> 
+            <title>SP: Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13587.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: EUROSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>SP: EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13670.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/5983.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORTS HD</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORTS</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13914.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13700.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 1 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13699.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 2 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13698.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 3 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13697.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 4 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13696.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 5 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 6 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13695.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 6 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 7 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13694.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 7 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA LIGA TV 8 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13693.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 8 SD</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13646.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13647.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13648.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13948.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13947.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13946.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13945.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 4</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13944.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 5</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13943.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 6</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13942.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 7</link> 
+        </item> 
+          <item> 
+            <title>SP: BEIN MAX 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13941.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 8</link> 
+        </item> 
+          <item> 
+            <title>SP: MULTIDEPORTES 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/16837.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 1</link> 
+        </item> 
+          <item> 
+            <title>SP: MULTIDEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/16838.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 2</link> 
+        </item> 
+          <item> 
+            <title>SP: MULTIDEPORTES 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/16839.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 3</link> 
+        </item> 
+          <item> 
+            <title>SP: MULTIDEPORTES 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/16840.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 4</link> 
+        </item> 
+          <item> 
+            <title>SP: BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/7213.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>SP: REAL MADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: REAL MADRID</link> 
+        </item> 
+          <item> 
+            <title>SP: TELEDEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/13917.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELEDEPORTES</link> 
+        </item> 
+          <item> 
+            <title>SP: MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/ster/ster/14118.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MEGA</link> 
+        </item> 
+         
+  
