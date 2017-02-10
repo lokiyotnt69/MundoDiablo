@@ -4,7 +4,7 @@
 
 
 <item>
-<title>-[COLOR  yellow] PORTUGAL off[/COLOR]</title>
+<title>-[COLOR  yellow] PORTUGAL [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -34,7 +34,7 @@
 
 
 <item>
-<title>-[COLOR  red] USA off [/COLOR]</title>
+<title>-[COLOR  red] USA  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -54,9 +54,18 @@
 
 
 <item>
-<title>-[COLOR  red] Romania off [/COLOR]</title>
+<title>-[COLOR  red] Romania  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/MundoDiablo/master/RUMANIA.xml</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  yellow] HOLANDA [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
