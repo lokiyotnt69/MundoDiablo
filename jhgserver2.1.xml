@@ -173,24 +173,76 @@
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA TV</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] cuatro [/COLOR]</title> 
+            <title>[COLOR red] cuatro [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream02/info20/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=cuatro</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NAT GEO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NAT GEO WILD HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1509.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NOVA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  SYFY HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name= SYFY HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] TELECINCO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2588.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TELEDEPORTE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TNT HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] TV CANARIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CANARIA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] A&E [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CANAL COCINA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] CAZA Y PESCA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CLAN TVE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TVE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MOVISTAR+ SERIES XTRA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2602.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ SERIES XTRA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MOVISTAR+ XTRA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2604.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ XTRA HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] COMEDY CENTRAL HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TCM HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2608.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MOVISTAR+ SERIES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2600.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ SERIES HD</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 

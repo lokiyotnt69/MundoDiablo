@@ -70,6 +70,38 @@
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP HD</link> 
         </item>
            <item> 
+            <title>[COLOR yellow] MOVISTAR+ DEPORTES 2 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2616.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DEPORTES 2 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MOVISTAR+ DEPORTES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2614.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DEPORTES HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MOVISTAR+ ESTRENOS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] LALIGA TV BAR HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA TV BAR HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BEIN LALIGA 1 (DURING GAMES) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LALIGA 1 (DURING GAMES)</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow] DEPORTES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] EUROSPORT HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -93,6 +125,19 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           
            
 	
         
