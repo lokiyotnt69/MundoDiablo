@@ -76,19 +76,11 @@
 		<item> 
             <title>[COLOR yellow] MOVISTAR+ DEPORTES HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2614.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ DEPORTES HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] MOVISTAR+ ESTRENOS HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS HD</link> 
-        </item>
-           <item> 
+        </item>		
+        <item> 
             <title>[COLOR yellow] LALIGA TV BAR HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA TV BAR HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] BEIN LALIGA 1 (DURING GAMES) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LALIGA 1 (DURING GAMES)</link> 
-        </item>		
+        </item>			
 		<item> 
             <title>[COLOR yellow] DEPORTES HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES HD</link> 

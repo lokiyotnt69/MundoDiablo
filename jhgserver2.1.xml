@@ -171,16 +171,16 @@
            <item> 
             <title>[COLOR yellow] MEGA TV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] cuatro [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream02/info20/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=cuatro</link> 
-        </item>
+        </item>		
 		<item> 
             <title>[COLOR yellow] NAT GEO HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO HD</link> 
         </item>
-           <item> 
+		<item> 
+            <title>[COLOR yellow] MOVISTAR+ ESTRENOS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS HD</link> 
+        </item>
+        <item> 
             <title>[COLOR yellow] NAT GEO WILD HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://edge.xstreamers.net:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1509.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
         </item>
