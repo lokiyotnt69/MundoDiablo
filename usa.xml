@@ -5,1552 +5,995 @@
   <streamingInfos>
   
  <item> 
-            <title>[UK] BBC Alba</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5850.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Alba</link> 
+            <title>UK*:4music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6354.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:4music</link> 
         </item> 
           <item> 
-            <title>[UK] BBC Four HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5982.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Four HD</link> 
+            <title>UK*:bbcalba</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6364.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bbcalba</link> 
         </item> 
           <item> 
-            <title>[UK] BBC Four UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5846.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Four UK</link> 
+            <title>UK*:bbcfour</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6390.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bbcfour</link> 
         </item> 
           <item> 
-            <title>[UK] BBC News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5872.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC News</link> 
+            <title>UK*:bbcnews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6357.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bbcnews</link> 
         </item> 
           <item> 
-            <title>[UK] BBC News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5984.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC News HD</link> 
+            <title>UK*:bbcone</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6349.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bbcone</link> 
         </item> 
           <item> 
-            <title>[UK] BBC One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5979.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One HD</link> 
+            <title>UK*:bbcparliament</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6362.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bbcparliament</link> 
         </item> 
           <item> 
-            <title>[UK] BBC One London</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5840.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One London</link> 
+            <title>UK*:bbcredbutton</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6378.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bbcredbutton</link> 
         </item> 
           <item> 
-            <title>[UK] BBC One Northern Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5843.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One Northern Ireland</link> 
+            <title>UK*:bbctwo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6374.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bbctwo</link> 
         </item> 
           <item> 
-            <title>[UK] BBC One Scotland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5841.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One Scotland</link> 
+            <title>UK*:bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6382.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:bloomberg</link> 
         </item> 
           <item> 
-            <title>[UK] BBC One Wales</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5842.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One Wales</link> 
+            <title>UK*:capitaltv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:capitaltv</link> 
         </item> 
           <item> 
-            <title>[UK] BBC Parliament</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5849.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Parliament</link> 
+            <title>UK*:channelaka</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6406.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:channelaka</link> 
         </item> 
           <item> 
-            <title>[UK] BBC Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5980.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Two HD</link> 
+            <title>UK*:channels24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6400.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:channels24</link> 
         </item> 
           <item> 
-            <title>[UK] BBC Two Scotland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5845.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Two Scotland</link> 
+            <title>UK*:chilled</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6381.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:chilled</link> 
         </item> 
           <item> 
-            <title>[UK] BBC Two UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5844.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Two UK</link> 
+            <title>UK*:clubland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6356.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:clubland</link> 
         </item> 
           <item> 
-            <title>[UK] BBC World News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5883.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC World News</link> 
+            <title>UK*:cnninternationaleurope</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6365.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:cnninternationaleurope</link> 
         </item> 
           <item> 
-            <title>[UK] ITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5854.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV</link> 
+            <title>UK*:colors</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:colors</link> 
         </item> 
           <item> 
-            <title>[UK] ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5855.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV 2</link> 
+            <title>UK*:communitychannel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6389.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:communitychannel</link> 
         </item> 
           <item> 
-            <title>[UK] ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5856.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV 3</link> 
+            <title>UK*:dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6399.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:dave</link> 
         </item> 
           <item> 
-            <title>[UK] ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5857.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV 4</link> 
+            <title>UK*:davejavu</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6352.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:davejavu</link> 
         </item> 
           <item> 
-            <title>[UK] ITV Be</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5858.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV Be</link> 
+            <title>UK*:drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6361.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:drama</link> 
         </item> 
           <item> 
-            <title>[UK] ITV Choice</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5860.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV Choice</link> 
+            <title>UK*:euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:euronews</link> 
         </item> 
           <item> 
-            <title>[UK] ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5859.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV Encore</link> 
+            <title>UK*:fashiontv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6403.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:fashiontv</link> 
         </item> 
           <item> 
-            <title>[UK] ITV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5853.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV HD</link> 
+            <title>UK*:foodnetwork</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6404.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:foodnetwork</link> 
         </item> 
           <item> 
-            <title>[UK] 3e</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5866.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] 3e</link> 
+            <title>UK*:foodnetworkplus1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:foodnetworkplus1</link> 
         </item> 
           <item> 
-            <title>[UK] 5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5922.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] 5 USA</link> 
+            <title>UK*:forcestv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6385.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:forcestv</link> 
         </item> 
           <item> 
-            <title>[UK] ABC News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5886.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ABC News</link> 
+            <title>UK*:france24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6350.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:france24</link> 
         </item> 
           <item> 
-            <title>[UK] Al Jazeera News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5880.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Al Jazeera News HD</link> 
+            <title>UK*:heart</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6363.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:heart</link> 
         </item> 
           <item> 
-            <title>[UK] Alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5914.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Alibi</link> 
+            <title>UK*:heat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6376.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:heat</link> 
         </item> 
           <item> 
-            <title>[UK] Animal Planet HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5936.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Animal Planet HD</link> 
+            <title>UK*:home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6386.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:home</link> 
         </item> 
           <item> 
-            <title>[UK] At The Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5832.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] At The Races</link> 
+            <title>UK*:keepitcountry</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6383.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:keepitcountry</link> 
         </item> 
           <item> 
-            <title>[UK] Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5950.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Baby TV</link> 
+            <title>UK*:kiss</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6369.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:kiss</link> 
         </item> 
           <item> 
-            <title>[UK] Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5876.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Bloomberg</link> 
+            <title>UK*:magic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:magic</link> 
         </item> 
           <item> 
-            <title>[UK] Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5952.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Boomerang</link> 
+            <title>UK*:news18india</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6384.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:news18india</link> 
         </item> 
           <item> 
-            <title>[UK] Box Nation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5835.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Box Nation</link> 
+            <title>UK*:nhkworld</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6375.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:nhkworld</link> 
         </item> 
           <item> 
-            <title>[UK] British Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5828.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] British Eurosport</link> 
+            <title>UK*:nowthatswhaticallmusic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK*:nowthats&amp;streamtype=TSDOWNLOADER&amp;name=UK*:nowthatswhaticallmusic</link> 
         </item> 
           <item> 
-            <title>[UK] British Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5829.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] British Eurosport 2</link> 
+            <title>uk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6373.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>[UK] Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5956.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Cartoon Network</link> 
+            <title>UK*:quest</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6379.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:quest</link> 
         </item> 
           <item> 
-            <title>[UK] Cartoonito</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5957.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Cartoonito</link> 
+            <title>UK*:questplus1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6402.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:questplus1</link> 
         </item> 
           <item> 
-            <title>[UK] CBBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5848.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBBC</link> 
+            <title>UK*:qvc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:qvc</link> 
         </item> 
           <item> 
-            <title>[UK] CBBC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5981.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBBC HD</link> 
+            <title>UK*:qvcbeauty</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6387.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:qvcbeauty</link> 
         </item> 
           <item> 
-            <title>[UK] CBeebies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5847.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBeebies</link> 
+            <title>UK*:qvcextra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6380.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:qvcextra</link> 
         </item> 
           <item> 
-            <title>[UK] CBS Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5932.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS Action</link> 
+            <title>UK*:qvcplus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6360.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:qvcplus</link> 
         </item> 
           <item> 
-            <title>[UK] CBS Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5931.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS Drama</link> 
+            <title>UK*:qvcstyle</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6355.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:qvcstyle</link> 
         </item> 
           <item> 
-            <title>[UK] CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5930.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS Reality</link> 
+            <title>UK*:really</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:really</link> 
         </item> 
           <item> 
-            <title>[UK] CCTV News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5885.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CCTV News</link> 
+            <title>UK*:revelationtv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:revelationtv</link> 
         </item> 
           <item> 
-            <title>[UK] Challenge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5923.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Challenge</link> 
+            <title>UK*:rishtey</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:rishtey</link> 
         </item> 
           <item> 
-            <title>[UK] Channel 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5868.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 4</link> 
+            <title>UK*:russiatoday</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6394.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:russiatoday</link> 
         </item> 
           <item> 
-            <title>[UK] Channel 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6007.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 4 HD</link> 
+            <title>UK*:s4c</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:s4c</link> 
         </item> 
           <item> 
-            <title>[UK] Channel 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5867.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 5</link> 
+            <title>UK*:sino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6353.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:sino</link> 
         </item> 
           <item> 
-            <title>[UK] Channel 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5983.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 5 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5838.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Chelsea TV</link> 
-        </item> 
-          <item> 
-            <title>[UK] CITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5861.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CITV</link> 
-        </item> 
-          <item> 
-            <title>[UK] CNBC Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5884.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CNBC Europe</link> 
-        </item> 
-          <item> 
-            <title>[UK] CNN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6008.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CNN HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5926.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Comedy Central HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Comedy Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5925.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Comedy Extra</link> 
-        </item> 
-          <item> 
-            <title>[UK] Crime Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5948.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Crime Investigation</link> 
-        </item> 
-          <item> 
-            <title>[UK] Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5910.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Dave</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5938.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5940.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery History</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Home&amp;Health</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5941.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Home&amp;Health</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5939.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5943.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Shed</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5942.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>[UK] Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5955.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>[UK] Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5953.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Disney XD</link> 
-        </item> 
-          <item> 
-            <title>[UK] DisneyJunior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5954.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] DisneyJunior</link> 
-        </item> 
-          <item> 
-            <title>[UK] DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5937.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] DMAX</link> 
-        </item> 
-          <item> 
-            <title>[UK] Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5916.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Drama</link> 
-        </item> 
-          <item> 
-            <title>[UK] E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5913.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>[UK] E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5870.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] E4</link> 
-        </item> 
-          <item> 
-            <title>[UK] Eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5920.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Eden</link> 
-        </item> 
-          <item> 
-            <title>[UK] eir Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] eir Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] eir Sports 1</link> 
+            <title>UK*:smashhits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK*:smashhits&amp;streamtype=TSDOWNLOADER&amp;name=UK*:smashhits</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5830.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6401.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>[UK] eir Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] eir Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] eir Sports 2</link> 
+            <title>UK*:sonysab</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6359.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:sonysab</link> 
+        </item> 
+          <item> 
+            <title>UK*:thebox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6351.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:thebox</link> 
+        </item> 
+          <item> 
+            <title>UK*:travelchannel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6372.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:travelchannel</link> 
+        </item> 
+          <item> 
+            <title>UK*:travelchannelplus1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:travelchannelplus1</link> 
+        </item> 
+          <item> 
+            <title>UK*:trutv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:trutv</link> 
+        </item> 
+          <item> 
+            <title>UK*:wellbeing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6405.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:wellbeing</link> 
+        </item> 
+          <item> 
+            <title>UK*:yesterday</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6393.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:yesterday</link> 
+        </item> 
+          <item> 
+            <title>UK*:yesterdayplus1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6377.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:yesterdayplus1</link> 
+        </item> 
+          <item> 
+            <title>UK*:zing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6391.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK*:zing</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky_Movies_Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Select</link> 
+        </item> 
+          <item> 
+            <title>UK:NATIONAL-GEO-WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NATIONAL-GEO-WILD</link> 
+        </item> 
+          <item> 
+            <title>UK:DISNEY-CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISNEY-CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>UK:DISCOVERY-SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:DISCOVERY-SCIENCE</link> 
+        </item> 
+          <item> 
+            <title>UK:ANIMAL-PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ANIMAL-PLANET</link> 
+        </item> 
+          <item> 
+            <title>UUK:Yesterday</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4789.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Yesterday</link> 
+        </item> 
+          <item> 
+            <title>UUK:Eleven-103-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4790.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Eleven-103-HD</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKYMOVIES-MODERN-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4799.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKYMOVIES-MODERN-HD</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKYMOVIES-DRAMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4800.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKYMOVIES-DRAMA</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKYMOVIES-DISNEY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4801.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKYMOVIES-DISNEY</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKYMOVIES-COMEDY-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4802.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKYMOVIES-COMEDY-HD</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKYMOVIES-ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4803.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKYMOVIES-ACTION</link> 
+        </item> 
+          <item> 
+            <title>UUK:Sky-Sport-F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Sky-Sport-F1</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKY-MOVIES-THRILLER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4796.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKY-MOVIES-THRILLER</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKY-MOVIES-SCI-FI&amp;HORROR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4797.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKY-MOVIES-SCI-FI&amp;HORROR</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKY-MOVIES-PREMIERE-UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4798.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKY-MOVIES-PREMIERE-UK</link> 
+        </item> 
+          <item> 
+            <title>UUK:Sky-Movies-Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4793.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Sky-Movies-Premiere</link> 
+        </item> 
+          <item> 
+            <title>UUK:Sky-Movies-Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4792.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Sky-Movies-Family</link> 
+        </item> 
+          <item> 
+            <title>UUK:SKY-Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:SKY-Thriller</link> 
+        </item> 
+          <item> 
+            <title>UUK:Sky-Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4795.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Sky-Action</link> 
+        </item> 
+          <item> 
+            <title>UUK:NATIONAL-GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:NATIONAL-GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>UUK:Tiny-Pop</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4791.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Tiny-Pop</link> 
+        </item> 
+          <item> 
+            <title>UUK:Eurosport-1-ENG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:Eurosport-1-ENG</link> 
+        </item> 
+          <item> 
+            <title>UUK:BBC-4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4815.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:BBC-4HD</link> 
+        </item> 
+          <item> 
+            <title>UUK:BBC-3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4814.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:BBC-3HD</link> 
+        </item> 
+          <item> 
+            <title>UUK:BBC-2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:BBC-2HD</link> 
+        </item> 
+          <item> 
+            <title>UUK:BBC-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:BBC-1HD</link> 
+        </item> 
+          <item> 
+            <title>UUK:ANIMAL-PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/4805.ts&amp;streamtype=TSDOWNLOADER&amp;name=UUK:ANIMAL-PLANET</link> 
+        </item> 
+          <item> 
+            <title>***** UK *****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=***** UK *****</link> 
+        </item> 
+          <item> 
+            <title>UK | SkySportF1Uk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySportF1Uk</link> 
+        </item> 
+          <item> 
+            <title>UK | PremierSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | PremierSport</link> 
+        </item> 
+          <item> 
+            <title>UK | SetantaSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SetantaSport</link> 
+        </item> 
+          <item> 
+            <title>UK | Setanta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Setanta</link> 
+        </item> 
+          <item> 
+            <title>UK | BTSportESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportESPN</link> 
+        </item> 
+          <item> 
+            <title>UK | BTSport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSport2</link> 
+        </item> 
+          <item> 
+            <title>UK | BTSport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSport1</link> 
+        </item> 
+          <item> 
+            <title>UK | BTSportEurope</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BTSportEurope</link> 
+        </item> 
+          <item> 
+            <title>UK | SkysportNews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkysportNews</link> 
+        </item> 
+          <item> 
+            <title>UK | SkySportNewsUk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySportNewsUk</link> 
+        </item> 
+          <item> 
+            <title>UK | SkysportF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkysportF1</link> 
+        </item> 
+          <item> 
+            <title>UK | SkySport5 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport5 UK</link> 
+        </item> 
+          <item> 
+            <title>UK | SkySport4  UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport4  UK</link> 
+        </item> 
+          <item> 
+            <title>UK | SkySport3 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport3 UK</link> 
+        </item> 
+          <item> 
+            <title>UK | SkySport2 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport2 UK</link> 
+        </item> 
+          <item> 
+            <title>UK | SkySport1 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkySport1 UK</link> 
+        </item> 
+          <item> 
+            <title>UK | EUROSPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | EUROSPORT2</link> 
+        </item> 
+          <item> 
+            <title>UK | EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | EUROSPORT1</link> 
+        </item> 
+          <item> 
+            <title>UK | MotorsTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MotorsTV</link> 
+        </item> 
+          <item> 
+            <title>UK | CNBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNBC</link> 
+        </item> 
+          <item> 
+            <title>UK | CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNN</link> 
+        </item> 
+          <item> 
+            <title>UK | Dmax.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Dmax.</link> 
+        </item> 
+          <item> 
+            <title>UK | Yesterday</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Yesterday</link> 
+        </item> 
+          <item> 
+            <title>UK | RTE One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE One</link> 
+        </item> 
+          <item> 
+            <title>UK | Rte Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Rte Two</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Movies Premiere HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Premiere HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Movies Scifi / Horror HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Scifi / Horror HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Movies Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Family HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Movies Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Action</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK | SkyMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMTV</link> 
+        </item> 
+          <item> 
+            <title>UK | Movies 4Men</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Movies 4Men</link> 
+        </item> 
+          <item> 
+            <title>UK | More4+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | More4+1</link> 
+        </item> 
+          <item> 
+            <title>UK | SkyOne HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1113.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyOne HD</link> 
+        </item> 
+          <item> 
+            <title>UK | SkTrueMovies 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkTrueMovies 2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | True Movies1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | True Movies1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Racing</link> 
+        </item> 
+          <item> 
+            <title>UK | Watch Ireland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Watch Ireland</link> 
+        </item> 
+          <item> 
+            <title>UK | FOX News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX News</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC News</link> 
+        </item> 
+          <item> 
+            <title>UK | 5USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 5USA</link> 
+        </item> 
+          <item> 
+            <title>UK | SkyMoviesDrama HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMoviesDrama HD</link> 
+        </item> 
+          <item> 
+            <title>UK | SkyMoviesSelect HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMoviesSelect HD</link> 
+        </item> 
+          <item> 
+            <title>UK | SkyMoviesThriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SkyMoviesThriller</link> 
+        </item> 
+          <item> 
+            <title>UK | NationalGeographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | NationalGeographic</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Investigation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Investigation HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Turbo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Turbo HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1127.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Science HD</link> 
+        </item> 
+          <item> 
+            <title>UK | DiscoveryShed</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DiscoveryShed</link> 
+        </item> 
+          <item> 
+            <title>UK | DiscoveryHistory</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DiscoveryHistory</link> 
+        </item> 
+          <item> 
+            <title>UK | DiscoveryChannelHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DiscoveryChannelHD</link> 
+        </item> 
+          <item> 
+            <title>UK | DisneyChannel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyChannel</link> 
+        </item> 
+          <item> 
+            <title>UK | DisneyJunior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1132.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyJunior</link> 
+        </item> 
+          <item> 
+            <title>UK | ComedyCentral</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ComedyCentral</link> 
+        </item> 
+          <item> 
+            <title>UK | Channel5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel5</link> 
+        </item> 
+          <item> 
+            <title>UK | Channel4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1135.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel4</link> 
+        </item> 
+          <item> 
+            <title>UK | CBSAction</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1136.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBSAction</link> 
+        </item> 
+          <item> 
+            <title>UK | CBSDrama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1137.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBSDrama</link> 
+        </item> 
+          <item> 
+            <title>UK | CBSReality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBSReality</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC4</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1140.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC3</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1141.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC2</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1142.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC1</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV4</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV3</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV2</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV1</link> 
+        </item> 
+          <item> 
+            <title>—-|ANGLAIS|—-</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=—-|ANGLAIS|—-</link> 
+        </item> 
+          <item> 
+            <title>UK|RTÉ One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|RTÉ One</link> 
+        </item> 
+          <item> 
+            <title>UK|RTÉ Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|RTÉ Two</link> 
+        </item> 
+          <item> 
+            <title>UK|TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|TLC</link> 
+        </item> 
+          <item> 
+            <title>UK|BBC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC News</link> 
+        </item> 
+          <item> 
+            <title>UK|BBC One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC One HD</link> 
+        </item> 
+          <item> 
+            <title>UK|BBC Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Two HD</link> 
+        </item> 
+          <item> 
+            <title>UK|BBC Three HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Three HD</link> 
+        </item> 
+          <item> 
+            <title>UK|BBC Four</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Four</link> 
+        </item> 
+          <item> 
+            <title>UK|TG4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|TG4</link> 
+        </item> 
+          <item> 
+            <title>UK|ITV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV HD</link> 
+        </item> 
+          <item> 
+            <title>UK|ITV2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|ITV3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|ITV4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Cbs Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Reality</link> 
+        </item> 
+          <item> 
+            <title>UK|Cbs Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Drama</link> 
+        </item> 
+          <item> 
+            <title>UK|Cbs Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Action</link> 
+        </item> 
+          <item> 
+            <title>UK|London Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|London Live</link> 
+        </item> 
+          <item> 
+            <title>UK|Channel 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Channel 4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Channel 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Channel 5 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Home</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky News HD</link> 
+        </item> 
+          <item> 
+            <title>–|UK SPORT|–</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=–|UK SPORT|–</link> 
+        </item> 
+          <item> 
+            <title>UK|BT Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|BT Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|BT Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|BT Sport // ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport // ESPN</link> 
+        </item> 
+          <item> 
+            <title>UK|BT Sport EuroHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport EuroHD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title>uk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title>uk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title>uk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 4 HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5831.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>[UK] Eleven</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5993.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Eleven</link> 
+            <title>UK|Sky Sports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 5 HD</link> 
         </item> 
           <item> 
-            <title>[UK] Eleven Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Eleven Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Eleven Sports</link> 
+            <title>UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5994.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK|Sky Sports F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports F1 HD</link> 
         </item> 
           <item> 
-            <title>[UK] Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5882.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Euronews</link> 
+            <title>UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>[UK] Film 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5869.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Film 4</link> 
+            <title>UK|MU TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/3131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|MU TV</link> 
         </item> 
           <item> 
-            <title>[UK] Fine Living Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5924.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Fine Living Network</link> 
+            <title>UK|LFC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|LFC TV</link> 
         </item> 
           <item> 
-            <title>[UK] Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5928.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Food Network</link> 
+            <title>UK|Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Chelsea TV</link> 
         </item> 
           <item> 
-            <title>[UK] FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5919.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] FOX HD</link> 
+            <title>UK|BOX NATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BOX NATION</link> 
         </item> 
           <item> 
-            <title>[UK] Fox News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5875.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Fox News</link> 
+            <title>UK|Setanta Ireland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Setanta Ireland</link> 
         </item> 
           <item> 
-            <title>[UK] France 24 English</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5881.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] France 24 English</link> 
+            <title>UK|Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Racing</link> 
         </item> 
           <item> 
-            <title>[UK] Gold</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5918.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Gold</link> 
+            <title>UK|MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|MOTORS TV</link> 
         </item> 
           <item> 
-            <title>[UK] H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5935.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] H2</link> 
+            <title>–|UK CINEMA|–</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=–|UK CINEMA|–</link> 
         </item> 
           <item> 
-            <title>[UK] Heart TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Heart TV</link> 
+            <title>UK|Sky1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky1 HD</link> 
         </item> 
           <item> 
-            <title>[UK] History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5934.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] History</link> 
+            <title>UK|Sky2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky2</link> 
         </item> 
           <item> 
-            <title>[UK] Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5917.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Home</link> 
+            <title>UK|Film4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Film4 HD</link> 
         </item> 
           <item> 
-            <title>[UK] Horror Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5901.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Horror Channel</link> 
+            <title>UK|Sky Arts 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,UK|Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Arts 1</link> 
         </item> 
           <item> 
-            <title>[UK] ID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5947.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ID</link> 
+            <title>UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1254.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>[UK] LFC TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5836.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] LFC TV HD</link> 
+            <title>UK|Sky Select HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Select HD</link> 
         </item> 
           <item> 
-            <title>[UK] London Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5933.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] London Live</link> 
+            <title>UK|Sky Movies Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Premiere</link> 
         </item> 
           <item> 
-            <title>[UK] More 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5871.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] More 4</link> 
+            <title>UK|Sky Movies Great&amp;Modern</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Great&amp;Modern</link> 
         </item> 
           <item> 
-            <title>[UK] Motors</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5834.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Motors</link> 
+            <title>UK|Sky Movies Disney HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Disney HD</link> 
         </item> 
           <item> 
-            <title>[UK] mov4men</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5929.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] mov4men</link> 
+            <title>UK|Sky Movies Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Drama</link> 
         </item> 
           <item> 
-            <title>[UK] MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5837.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MUTV</link> 
+            <title>UK|DinsenyChannel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DinsenyChannel</link> 
         </item> 
           <item> 
-            <title>[UK] MUTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5978.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MUTV HD</link> 
+            <title>UK|Sky Disney HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Disney HD</link> 
         </item> 
           <item> 
-            <title>[UK] Nat Geo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5945.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nat Geo Wild HD</link> 
+            <title>UK|Sky Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Comedy</link> 
         </item> 
           <item> 
-            <title>[UK] National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5944.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] National Geographic HD</link> 
+            <title>UK|Sky Atlantic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Atlantic HD</link> 
         </item> 
           <item> 
-            <title>[UK] NHK News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5879.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] NHK News HD</link> 
+            <title>UK|Sky ScFi/HorHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky ScFi/HorHD</link> 
         </item> 
           <item> 
-            <title>[UK] Nick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5958.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick</link> 
+            <title>UK|Sky Movies Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Showcase</link> 
         </item> 
           <item> 
-            <title>[UK] Nick Jr Too</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5960.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick Jr Too</link> 
+            <title>UK|Sky Movies Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Family</link> 
         </item> 
           <item> 
-            <title>[UK] Nick Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5959.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick Junior</link> 
+            <title>UK|Sky Movies Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Action</link> 
         </item> 
           <item> 
-            <title>[UK] NickToons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5961.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] NickToons</link> 
+            <title>UK|Sky Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Living</link> 
         </item> 
           <item> 
-            <title>[UK] Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5921.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Pick</link> 
+            <title>UK|Sky Movies Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Thriller</link> 
         </item> 
           <item> 
-            <title>[UK] Quest</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5911.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Quest</link> 
+            <title>UK|Sky True Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky True Movies</link> 
         </item> 
           <item> 
-            <title>[UK] QVC Beauty</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5966.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC Beauty</link> 
+            <title>UK|Sky True Movies 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky True Movies 2</link> 
         </item> 
           <item> 
-            <title>[UK] QVC Christmas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5965.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC Christmas</link> 
+            <title>UK|Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Dave</link> 
         </item> 
           <item> 
-            <title>[UK] QVC Style</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5967.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC Style</link> 
+            <title>UK|Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Fox</link> 
         </item> 
           <item> 
-            <title>[UK] QVC U.K.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5964.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC U.K.</link> 
+            <title>UK|Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Syfy</link> 
         </item> 
           <item> 
-            <title>[UK] Racing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5833.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Racing</link> 
+            <title>UK|Good Food</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Good Food</link> 
         </item> 
           <item> 
-            <title>[UK] Real Lives</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5927.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Real Lives</link> 
+            <title>UK|Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Food Network</link> 
         </item> 
           <item> 
-            <title>[UK] RTE News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5878.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE News</link> 
+            <title>–|UK CULTURE|–</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=–|UK CULTURE|–</link> 
         </item> 
           <item> 
-            <title>[UK] RTE One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5851.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE One</link> 
+            <title>UK|NatGeoGraphic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|NatGeoGraphic</link> 
         </item> 
           <item> 
-            <title>[UK] RTE Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5852.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE Two</link> 
+            <title>UK|NationalGeography-Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|NationalGeography-Wild</link> 
         </item> 
           <item> 
-            <title>[UK] RTEjr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5951.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTEjr</link> 
+            <title>UK|DiscoverySc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoverySc</link> 
         </item> 
           <item> 
-            <title>[UK] Russia Today HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5877.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Russia Today HD</link> 
+            <title>UK|DiscoveryHistory</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryHistory</link> 
         </item> 
           <item> 
-            <title>[UK] S4C</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5862.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] S4C</link> 
+            <title>UK|Disc Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Disc Turbo</link> 
         </item> 
           <item> 
-            <title>[UK] Sky 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5904.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky 1 HD</link> 
+            <title>UK|DiscoveryCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryCI</link> 
         </item> 
           <item> 
-            <title>[UK] Sky 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5905.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky 2</link> 
+            <title>UK|Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Discovery HD</link> 
         </item> 
           <item> 
-            <title>[UK] Sky Action Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5893.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Action Movies</link> 
+            <title>UK|DiscoveryWorld</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryWorld</link> 
         </item> 
           <item> 
-            <title>[UK] Sky Arts HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Arts HD</link> 
+            <title>UK|AnimalPlanet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|AnimalPlanet</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5908.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>–|UK ENFANTS|–</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=–|UK ENFANTS|–</link> 
         </item> 
           <item> 
-            <title>[UK] Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5907.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Atlantic</link> 
+            <title>UK|Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Nick Jr</link> 
         </item> 
           <item> 
-            <title>[UK] Sky Comedy Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5892.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Comedy Movies</link> 
+            <title>UK|Sky Baby</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Baby</link> 
         </item> 
           <item> 
-            <title>[UK] Sky Family Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5890.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Family Movies</link> 
+            <title>UK|Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Nicktoons</link> 
         </item> 
           <item> 
-            <title>[UK] Sky Greats Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Greats&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Greats Movies</link> 
+            <title>UK|nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|nickelodeon</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5889.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK|Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Disney Junior</link> 
         </item> 
           <item> 
-            <title>[UK] Sky Living 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5906.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Living 1</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Christmas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5891.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Christmas</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5888.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Disney</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5873.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky News</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky News Arabia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5874.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky News Arabia</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5985.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY News HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Premiere Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5887.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Premiere Movies</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky ScFiHorror Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5896.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky ScFiHorror Movies</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Select Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5895.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Select Movies</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Thriller Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5894.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Thriller Movies</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sony Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5897.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sony Movies</link> 
-        </item> 
-          <item> 
-            <title>[UK] Spike</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5949.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Spike</link> 
-        </item> 
-          <item> 
-            <title>[UK] SyFy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5909.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SyFy HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5902.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] TCM</link> 
-        </item> 
-          <item> 
-            <title>[UK] TCM 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5903.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] TCM 1</link> 
-        </item> 
-          <item> 
-            <title>[UK] TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5865.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] TG4</link> 
-        </item> 
-          <item> 
-            <title>[UK] Travel Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5946.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Travel Channel</link> 
-        </item> 
-          <item> 
-            <title>[UK] True Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5900.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] True Entertainment</link> 
-        </item> 
-          <item> 
-            <title>[UK] True Movies 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5898.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] True Movies 1</link> 
-        </item> 
-          <item> 
-            <title>[UK] True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5899.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] True Movies 2</link> 
-        </item> 
-          <item> 
-            <title>[UK] TV3 IE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5864.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] TV3 IE</link> 
-        </item> 
-          <item> 
-            <title>[UK] UTV IE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5863.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] UTV IE</link> 
-        </item> 
-          <item> 
-            <title>[UK] Viasat Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5839.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Viasat Golf</link> 
-        </item> 
-          <item> 
-            <title>[UK] Yesterday 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5912.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Yesterday 1</link> 
-        </item> 
-          <item> 
-            <title>[UK] Vintage</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5963.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Vintage</link> 
-        </item> 
-          <item> 
-            <title>[UK] Watch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5915.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Watch</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sport News HQ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5821.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sport News HQ</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY SPORTS 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5968.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY SPORTS 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY SPORTS 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5969.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY SPORTS 2 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY SPORTS 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5970.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY SPORTS 3 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY SPORTS 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5971.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY SPORTS 4 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY SPORTS 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5972.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY SPORTS 5 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY SPORTS F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5973.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY SPORTS F1 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] PREMIER SPORTS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6006.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] PREMIER SPORTS HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Setanta/Premier Sports HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Setanta/Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Setanta/Premier Sports HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5974.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports Box Office PPV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports Box Office PPV</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5822.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports Mix</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports Mix</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5820.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] MIO Stadium 102</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5986.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MIO Stadium 102</link> 
-        </item> 
-          <item> 
-            <title>[UK] MIO Stadium 103 (Eleven Plus)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5987.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MIO Stadium 103 (Eleven Plus)</link> 
-        </item> 
-          <item> 
-            <title>[UK] MIO Stadium 104</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5988.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MIO Stadium 104</link> 
-        </item> 
-          <item> 
-            <title>[UK] MIO Stadium 105</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5989.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MIO Stadium 105</link> 
-        </item> 
-          <item> 
-            <title>[UK] MIO Stadium 106</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5990.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MIO Stadium 106</link> 
-        </item> 
-          <item> 
-            <title>[UK] MIO Stadium 107</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5991.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MIO Stadium 107</link> 
-        </item> 
-          <item> 
-            <title>[UK] MIO Stadium 108</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5992.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MIO Stadium 108</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5823.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5824.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sport 3 (Ex Europe)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5825.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sport 3 (Ex Europe)</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sport ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5826.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sport ESPN</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT SPORTS 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5975.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT SPORTS 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT SPORTS 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5976.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT SPORTS 2 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT SPORTS 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5977.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT SPORTS 3 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sports ESPN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sports ESPN HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6005.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sports Extra 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sports Extra 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/5827.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sports Extra 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sports Extra 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6009.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sports Extra 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sports Extra 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6010.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sports Extra 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sports Extra 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6011.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sports Extra 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sports Extra 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6012.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sportsnet 360 (EPL 3PM)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sportsnet 360 (EPL 3PM)</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6004.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sportsnet One (EPL 3PM)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sportsnet One (EPL 3PM)</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6003.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sportsnet Ontario (EPL 3PM)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sportsnet Ontario (EPL 3PM)</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6002.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sportsnet World (EPL 3PM)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sportsnet World (EPL 3PM)</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.192.132:8000/live/BiaGiu34/JuVeNTuS34/6001.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[USA]  ABS-CBN News Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14438.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA]  ABS-CBN News Channel</link> 
-        </item> 
-          <item> 
-            <title>[USA]  Fox Sports 506 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[USA]  Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=[USA]  Fox Sports 506 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14439.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[USA]  NBA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14440.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA]  NBA TV</link> 
-        </item> 
-          <item> 
-            <title>[USA]  NFL Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14441.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA]  NFL Network</link> 
-        </item> 
-          <item> 
-            <title>[USA] 5USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14442.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] 5USA</link> 
-        </item> 
-          <item> 
-            <title>[USA] AFN-SPORTS-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14443.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] AFN-SPORTS-2</link> 
-        </item> 
-          <item> 
-            <title>[USA] BET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14444.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] BET</link> 
-        </item> 
-          <item> 
-            <title>[USA] BOSTON-CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14445.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] BOSTON-CITY</link> 
-        </item> 
-          <item> 
-            <title>[USA] BYU-Sports_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[USA] BYU-Sports&amp;streamtype=TSDOWNLOADER&amp;name=[USA] BYU-Sports_HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14446.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[USA] CBS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14447.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] CBS HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] CBS-DRAMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14448.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] CBS-DRAMA</link> 
-        </item> 
-          <item> 
-            <title>[USA] CBS-NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14449.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] CBS-NEWS</link> 
-        </item> 
-          <item> 
-            <title>[USA] CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14450.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] CNN</link> 
-        </item> 
-          <item> 
-            <title>[USA] Discovery-Science_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14451.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Discovery-Science_HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] E4-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14452.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] E4-HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] ESPN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14453.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] ESPN HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] Fashion-One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14454.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Fashion-One</link> 
-        </item> 
-          <item> 
-            <title>[USA] FIGHT-NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14455.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] FIGHT-NETWORK</link> 
-        </item> 
-          <item> 
-            <title>[USA] FIGHT-SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14456.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] FIGHT-SPORT</link> 
-        </item> 
-          <item> 
-            <title>[USA] Food-Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14457.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Food-Network</link> 
-        </item> 
-          <item> 
-            <title>[USA] FOX-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14458.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] FOX-HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] FOX-NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14459.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] FOX-NEWS</link> 
-        </item> 
-          <item> 
-            <title>[USA] H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14460.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] H2</link> 
-        </item> 
-          <item> 
-            <title>[USA] HALLMARK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14461.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] HALLMARK</link> 
-        </item> 
-          <item> 
-            <title>[USA] HBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14462.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] HBO</link> 
-        </item> 
-          <item> 
-            <title>[USA] HBO-COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14463.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] HBO-COMEDY</link> 
-        </item> 
-          <item> 
-            <title>[USA] HBO-SIGNATURE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14464.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] HBO-SIGNATURE</link> 
-        </item> 
-          <item> 
-            <title>[USA] HBO-ZONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14465.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] HBO-ZONE</link> 
-        </item> 
-          <item> 
-            <title>[USA] HSN-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14466.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] HSN-1</link> 
-        </item> 
-          <item> 
-            <title>[USA] HSN-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14467.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] HSN-2</link> 
-        </item> 
-          <item> 
-            <title>[USA] MelloTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14468.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] MelloTV</link> 
-        </item> 
-          <item> 
-            <title>[USA] Nasa-TVHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14469.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Nasa-TVHD</link> 
-        </item> 
-          <item> 
-            <title>[USA] PAC12_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14470.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] PAC12_1_HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] PAG-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14471.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] PAG-HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] Pocker-Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14472.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Pocker-Central</link> 
-        </item> 
-          <item> 
-            <title>[USA] RT-America_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14473.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] RT-America_HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] showtime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14474.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] showtime</link> 
-        </item> 
-          <item> 
-            <title>[USA] Sports-Net</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[USA] Sports&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Sports-Net</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14475.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[USA] The-Florida-Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14476.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] The-Florida-Channel</link> 
-        </item> 
-          <item> 
-            <title>[USA] Travel-Channe_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14477.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Travel-Channe_HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] TSN-2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14478.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] TSN-2HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] TSN-3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14479.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] TSN-3HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] TSN-4HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14480.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] TSN-4HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] TSN-5HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14481.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] TSN-5HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] UC-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14482.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] UC-TV</link> 
-        </item> 
-          <item> 
-            <title>[USA] USA-Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14483.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] USA-Network</link> 
-        </item> 
-          <item> 
-            <title>[USA] Versus-NBA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14484.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] Versus-NBA_HD</link> 
-        </item> 
-          <item> 
-            <title>[USA] WWE-US</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/iqtbozef/10e8fBYwy1/14485.ts&amp;streamtype=TSDOWNLOADER&amp;name=[USA] WWE-US</link> 
-        </item> 
-          <item> 
-            <title>[UK]  DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14535.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]  DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>[UK]  SKY BT Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK]  SKY BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK]  SKY BT Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14536.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK]  Sky Movies Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14537.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]  Sky Movies Showcase</link> 
-        </item> 
-          <item> 
-            <title>[UK] 3E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14538.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] 3E</link> 
-        </item> 
-          <item> 
-            <title>[UK] 5 Usa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14539.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] 5 Usa</link> 
-        </item> 
-          <item> 
-            <title>[UK] Alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14540.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Alibi</link> 
-        </item> 
-          <item> 
-            <title>[UK] AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14541.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] AMC</link> 
-        </item> 
-          <item> 
-            <title>[UK] Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14542.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>[UK] At The Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14543.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] At The Races</link> 
-        </item> 
-          <item> 
-            <title>[UK] BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14544.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BABY TV</link> 
-        </item> 
-          <item> 
-            <title>[UK] BT Sports Extra 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BT Sports Extra 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14545.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] BTSport Europe HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14546.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BTSport Europe HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] BTSport//ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14547.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BTSport//ESPN</link> 
-        </item> 
-          <item> 
-            <title>[UK] BTSportExtra1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14548.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BTSportExtra1</link> 
-        </item> 
-          <item> 
-            <title>[UK] BTSportMosaic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14549.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BTSportMosaic</link> 
-        </item> 
-          <item> 
-            <title>[UK] CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14550.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>[UK] CBS DRAMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14551.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS DRAMA</link> 
-        </item> 
-          <item> 
-            <title>[UK] CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14552.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS REALITY</link> 
-        </item> 
-          <item> 
-            <title>[UK] Channel 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14553.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 4 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Channel 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14554.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 5</link> 
-        </item> 
-          <item> 
-            <title>[UK] CHELSEA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14555.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CHELSEA TV</link> 
-        </item> 
-          <item> 
-            <title>[UK] Dave HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14556.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Dave HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14557.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14558.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery History</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14559.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Investigation</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14560.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>[UK] Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14561.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>[UK] Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14562.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Drama</link> 
-        </item> 
-          <item> 
-            <title>[UK] E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14563.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>[UK] E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14564.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] E4</link> 
-        </item> 
-          <item> 
-            <title>[UK] ESPN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14565.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ESPN HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14566.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Eurosport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Eurosport2.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14567.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Eurosport2.HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14568.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] F1</link> 
-        </item> 
-          <item> 
-            <title>[UK] FILM 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14569.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] FILM 4</link> 
-        </item> 
-          <item> 
-            <title>[UK] Film 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14570.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Film 4 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Film 4 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14571.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Film 4 UK</link> 
-        </item> 
-          <item> 
-            <title>[UK] Food</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14572.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Food</link> 
-        </item> 
-          <item> 
-            <title>[UK] FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14573.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] FOOD NETWORK</link> 
-        </item> 
-          <item> 
-            <title>[UK] FOX SPORTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14574.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] FOX SPORTS</link> 
-        </item> 
-          <item> 
-            <title>[UK] Gold</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14575.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Gold</link> 
-        </item> 
-          <item> 
-            <title>[UK] HISTORY2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14576.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] HISTORY2</link> 
-        </item> 
-          <item> 
-            <title>[UK] Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14577.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Home</link> 
-        </item> 
-          <item> 
-            <title>[UK] ITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14578.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV</link> 
-        </item> 
-          <item> 
-            <title>[UK] ITV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14579.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV2</link> 
-        </item> 
-          <item> 
-            <title>[UK] ITV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14580.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV3</link> 
-        </item> 
-          <item> 
-            <title>[UK] ITV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14581.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV4</link> 
-        </item> 
-          <item> 
-            <title>[UK] ITVBE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14582.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITVBE</link> 
-        </item> 
-          <item> 
-            <title>[UK] MORE4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14583.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MORE4</link> 
-        </item> 
-          <item> 
-            <title>[UK] Mototrs TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14584.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Mototrs TV</link> 
-        </item> 
-          <item> 
-            <title>[UK] mov4men1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14585.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] mov4men1</link> 
-        </item> 
-          <item> 
-            <title>[UK] MTV  1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14586.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MTV  1</link> 
-        </item> 
-          <item> 
-            <title>[UK] MTV Base</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14587.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MTV Base</link> 
-        </item> 
-          <item> 
-            <title>[UK] MTV Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14588.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MTV Classic</link> 
-        </item> 
-          <item> 
-            <title>[UK] MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14589.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MUTV</link> 
-        </item> 
-          <item> 
-            <title>[UK] Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14590.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>[UK] Nat Geografic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14591.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nat Geografic</link> 
-        </item> 
-          <item> 
-            <title>[UK] National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14592.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] National Geographic</link> 
-        </item> 
-          <item> 
-            <title>[UK] Nick Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14593.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick Junior</link> 
-        </item> 
-          <item> 
-            <title>[UK] Nick-Jr-Too</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14594.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick-Jr-Too</link> 
-        </item> 
-          <item> 
-            <title>[UK] Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14595.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>[UK] Premier Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Premier Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14596.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Quest</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14597.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Quest</link> 
-        </item> 
-          <item> 
-            <title>[UK] RACING HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14598.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RACING HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] RTE1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14599.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE1</link> 
-        </item> 
-          <item> 
-            <title>[UK] RTE2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14600.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE2</link> 
-        </item> 
-          <item> 
-            <title>[UK] RTEjr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14601.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTEjr</link> 
-        </item> 
-          <item> 
-            <title>[UK] SetantaIreland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14602.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SetantaIreland</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Arts 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Arts 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14603.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14604.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY BT Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] SKY BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY BT Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14605.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] SKY LIVING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14606.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SKY LIVING</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14607.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Action HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Drama HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14608.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Drama HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14609.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Family</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Modern Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Movies Modern Greats&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Modern Greats</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14610.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14611.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Premiere</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Scifi / Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14612.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Scifi / Horror</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Select</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14613.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Select</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Select HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14614.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Select HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Movies Thriller HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14615.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Movies Thriller HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14616.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky News</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Setanta Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Setanta Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14617.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14618.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14619.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14620.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sport 3 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sport 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14621.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sport 4 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sport 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14622.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sport 5 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sport F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14623.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sport F1 HD</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14624.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14625.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14626.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14627.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14628.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports F1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14629.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Sports News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[UK] Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Sports News HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14630.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14631.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Syfy</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sky Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14632.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sky Thriller</link> 
-        </item> 
-          <item> 
-            <title>[UK] SkyScFi/Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14633.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SkyScFi/Horror</link> 
-        </item> 
-          <item> 
-            <title>[UK] SkySuperhero</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14634.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] SkySuperhero</link> 
-        </item> 
-          <item> 
-            <title>[UK] Sony TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14635.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Sony TV</link> 
-        </item> 
-          <item> 
-            <title>[UK] TCM 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14636.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] TCM 1</link> 
-        </item> 
-          <item> 
-            <title>[UK] TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14637.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] TG4</link> 
-        </item> 
-          <item> 
-            <title>[UK] TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14638.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] TLC</link> 
-        </item> 
-          <item> 
-            <title>[UK] True Movies 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14639.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] True Movies 1</link> 
-        </item> 
-          <item> 
-            <title>[UK] True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14640.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] True Movies 2</link> 
-        </item> 
-          <item> 
-            <title>[UK] VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14641.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] VH1</link> 
-        </item> 
-          <item> 
-            <title>[UK] Watch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14642.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Watch</link> 
-        </item> 
-          <item> 
-            <title>[UK] YESTERDAY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14643.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] YESTERDAY</link> 
-        </item> 
-          <item> 
-            <title>[UK]-|  TV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14644.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]-|  TV3</link> 
-        </item> 
-          <item> 
-            <title>[UK]BBC  News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14645.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]BBC  News</link> 
-        </item> 
-          <item> 
-            <title>[UK]BBC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14646.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]BBC 1</link> 
-        </item> 
-          <item> 
-            <title>[UK]BBC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14647.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]BBC 2</link> 
-        </item> 
-          <item> 
-            <title>[UK]BBC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14648.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]BBC 4</link> 
-        </item> 
-          <item> 
-            <title>[UK]BBC3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14649.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]BBC3</link> 
-        </item> 
-          <item> 
-            <title>[UK]Sky Movies Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14650.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]Sky Movies Comedy</link> 
-        </item> 
-          <item> 
-            <title>[UK]Sky Movies Premiere HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/lhtdhzdj/uU7p4oP3g3/14651.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK]Sky Movies Premiere HD</link> 
+            <title>UK|Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/holanda/holanda/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cartoon Network</link> 
         </item> 
   
-     
