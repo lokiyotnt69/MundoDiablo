@@ -41,41 +41,109 @@
 		<item> 
             <title>[COLOR yellow]  CANAL+ HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2594.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL+ HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] BEIN LA LIGA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA HD</link> 
-        </item>
+        </item>        
 		<item> 
             <title>[COLOR yellow]  CANAL+ TOROS [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL+ TOROS</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] COSMOPOLITAN  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMOPOLITAN</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  FDF [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2591.ts&amp;streamtype=TSDOWNLOADER&amp;name= FDF</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] FOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] FOX LIFE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] GALICIA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=GALICIA TV</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] HOLLYWOOD HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
+        </item>  
+        <item> 
+            <title>[COLOR red]  LA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2586.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA 1</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] LA 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2587.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] LA SEXTA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] MEGA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] MOVISTAR F1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1 HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] MOVISTAR+ MOTO GP HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] NAT GEO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO HD</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] NAT GEO WILD HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1509.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] NOVA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] SYFY HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TELECINCO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2588.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TELEDEPORTE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TNT HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TV CANARIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CANARIA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CANAL COCINA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-              
+            <title>[COLOR yellow] CANAL ODISEA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ODISEA</link> 
+        </item>  
+        <item> 
+            <title>[COLOR red] CAZA Y PESCA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.89.131:8000/live/MaxxFiber/68998Pe6KhNXC2SFJ77p/1511.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA HD</link> 
+        </item> 		
+		
+		
+		
+		
+		
