@@ -5,45 +5,107 @@
 
 		
 		<item> 
-            <title>[COLOR yellow] [RO] Digi Sport 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cdn01.iptvthebest.net:15000/live/tMf5XgjS69/Marco/14658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[RO] Digi Sport 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>	<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+            <title>RO:Digi_Sport_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6020.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_1</link> 
+        </item> 
+          <item> 
+            <title>RO:Digi_Sport_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6021.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_2</link> 
+        </item> 
+          <item> 
+            <title>RO:Digi_Sport_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6022.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_3</link> 
+        </item> 
+          <item> 
+            <title>RO:Digi_Sport_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6023.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_4</link> 
+        </item> 
+          <item> 
+            <title>RO:Discovery_channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6048.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Discovery_channel</link> 
+        </item> 
+          <item> 
+            <title>RO:Discovery_ID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6047.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Discovery_ID</link> 
+        </item> 
+          <item> 
+            <title>RO:Discovery_science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6046.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Discovery_science</link> 
+        </item> 
+          <item> 
+            <title>RO:Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6045.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>RO:Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6044.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Disney_Junior</link> 
+        </item> 
+          <item> 
+            <title>RO:DOLCE_SPORT2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6029.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:DOLCE_SPORT2_HD</link> 
+        </item> 
+          <item> 
+            <title>RO:Eurosport_1_HD_RO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6028.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Eurosport_1_HD_RO</link> 
+        </item> 
+          <item> 
+            <title>RO:Eurosport_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6027.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Eurosport_2</link> 
+        </item> 
+          <item> 
+            <title>RO:Eurosport_2_HD_RO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6026.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Eurosport_2_HD_RO</link> 
+        </item> 
+          <item> 
+            <title>RO:Extreme_Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,RO:Extreme_Sports&amp;streamtype=TSDOWNLOADER&amp;name=RO:Extreme_Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6025.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>RO:Film_Cafe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6034.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Film_Cafe</link> 
+        </item> 
+          <item> 
+            <title>RO:Food_Network_HD_RO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6043.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Food_Network_HD_RO</link> 
+        </item> 
+          <item> 
+            <title>RO:HBO_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6036.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:HBO_2</link> 
+        </item> 
+          <item> 
+            <title>RO:HBO_Romania</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6035.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:HBO_Romania</link> 
+        </item> 
+          <item> 
+            <title>RO:JimJam</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6042.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:JimJam</link> 
+        </item> 
+          <item> 
+            <title>RO:National_Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6041.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:National_Geographic</link> 
+        </item> 
+          <item> 
+            <title>RO:Nat_Geo_Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6040.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Nat_Geo_Wild</link> 
+        </item> 
+          <item> 
+            <title>RO:Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6039.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>RO:ProCinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6037.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:ProCinema</link> 
+        </item> 
+          <item> 
+            <title>RO:Sport_RO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6024.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Sport_RO_HD</link> 
+        </item> 
+          <item> 
+            <title>RO:Viasat_History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6038.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Viasat_History</link> 
+        </item> 
+  

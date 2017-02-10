@@ -8,96 +8,1068 @@
 
 
 
-	   <item> 
-            <title>TR:TRT_DIYANET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:TRT_DIYANET</link> 
+	    <item> 
+            <title>[TR]A2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45424.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]A2</link> 
         </item> 
           <item> 
-            <title>TR:TRT_SPOR_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:TRT_SPOR_HD</link> 
+            <title>[TR]COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45411.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]COCUK</link> 
         </item> 
           <item> 
-            <title>TR:TRT_TÃœRK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:TRT_TÃœRK</link> 
+            <title>[TR]FOX.CRIME.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45397.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]FOX.CRIME.TV</link> 
         </item> 
           <item> 
-            <title>TR:TV_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2407.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:TV_8</link> 
+            <title>[TR]FOX.LIFE.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45396.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]FOX.LIFE.TV</link> 
         </item> 
           <item> 
-            <title>TR:AHABER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:AHABER</link> 
+            <title>[TR]FOX.TV.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45395.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]FOX.TV.HD</link> 
         </item> 
           <item> 
-            <title>TR:ATV_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:ATV_HD</link> 
+            <title>[TR]HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45394.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]HABER</link> 
         </item> 
           <item> 
-            <title>TR:ATV_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:ATV_HD</link> 
+            <title>[TR]HISTORY.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45393.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]HISTORY.HD</link> 
         </item> 
           <item> 
-            <title>TR:A_SPOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:A_SPOR</link> 
+            <title>[TR]IDX-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45392.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]IDX-HD</link> 
         </item> 
           <item> 
-            <title>TR:CARTONNETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:CARTONNETWORK</link> 
+            <title>[TR]ISTANBULTV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45391.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]ISTANBULTV1</link> 
         </item> 
           <item> 
-            <title>TR:Cine_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:Cine_5</link> 
+            <title>[TR]IZ.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45390.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]IZ.TV</link> 
         </item> 
           <item> 
-            <title>TR:CNNTURK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2450.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:CNNTURK</link> 
+            <title>[TR]KANAL.24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45389.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]KANAL.24</link> 
         </item> 
           <item> 
-            <title>TR:DREAM_TURK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2449.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:DREAM_TURK</link> 
+            <title>[TR]KANAL.D.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45388.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]KANAL.D.HD</link> 
         </item> 
           <item> 
-            <title>TR:E2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2447.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:E2</link> 
+            <title>[TR]KANAL7.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45387.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]KANAL7.HD</link> 
         </item> 
           <item> 
-            <title>TR:Fox_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:Fox_HD</link> 
+            <title>[TR]KOY.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45386.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]KOY.TV</link> 
         </item> 
           <item> 
-            <title>TR:History_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2445.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:History_Channel</link> 
+            <title>[TR]MAVI.KARADENIZ.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45378.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]MAVI.KARADENIZ.TV</link> 
         </item> 
           <item> 
-            <title>TR:KANALTURK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2441.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:KANALTURK</link> 
+            <title>[TR]MINIKA.GO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45377.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]MINIKA.GO</link> 
         </item> 
           <item> 
-            <title>TR:KANAL_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:KANAL_7</link> 
+            <title>[TR]NASA.LIVE.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45371.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]NASA.LIVE.HD</link> 
         </item> 
           <item> 
-            <title>TR:Kanal_7HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:Kanal_7HD</link> 
+            <title>[TR]NATIONAL.GEO.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45370.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]NATIONAL.GEO.HD</link> 
         </item> 
           <item> 
-            <title>TR:Kanal_D</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:Kanal_D</link> 
+            <title>[TR]SALON-2.4K.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45369.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SALON-2.4K.HD</link> 
         </item> 
           <item> 
-            <title>TR:KANAL_D_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2442.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:KANAL_D_HD</link> 
+            <title>[TR]SHOWMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45368.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SHOWMAX</link> 
         </item> 
           <item> 
-            <title>TR:KRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2405.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:KRAL</link> 
+            <title>[TR]SINEMA.4K.TV.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45367.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SINEMA.4K.TV.HD</link> 
         </item> 
           <item> 
-            <title>TR:Ntv_Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:Ntv_Sport</link> 
+            <title>[TR]SINEMA.TV.1001</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45366.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SINEMA.TV.1001</link> 
         </item> 
           <item> 
-            <title>TR:TRT_1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/ateeq/ateeq/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR:TRT_1HD</link> 
+            <title>[TR]SINEMA.TV.2./.DIZI.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45365.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SINEMA.TV.2./.DIZI.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]SINEMA.TV.AILE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45364.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SINEMA.TV.AILE</link> 
+        </item> 
+          <item> 
+            <title>[TR]SINEMA.TV.AKSIYON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45363.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SINEMA.TV.AKSIYON</link> 
+        </item> 
+          <item> 
+            <title>[TR]SKY360</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45362.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]SKY360</link> 
+        </item> 
+          <item> 
+            <title>[TR]STAR.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45358.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]STAR.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]STAR.TV.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45357.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]STAR.TV.HD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TARIM.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45356.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TARIM.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]TARIMT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45355.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TARIMT</link> 
+        </item> 
+          <item> 
+            <title>[TR]TAY.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45354.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TAY.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]TGRT.BELGESEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45353.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TGRT.BELGESEL</link> 
+        </item> 
+          <item> 
+            <title>[TR]TJK.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45352.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TJK.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45351.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TLC</link> 
+        </item> 
+          <item> 
+            <title>[TR]TRT.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45350.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TRT.</link> 
+        </item> 
+          <item> 
+            <title>[TR]TRT.1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45349.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TRT.1.HD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TRT.BELGESEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45348.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TRT.BELGESEL</link> 
+        </item> 
+          <item> 
+            <title>[TR]TRT.HABER.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45347.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TRT.HABER.HD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TRT.M</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45346.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TRT.M</link> 
+        </item> 
+          <item> 
+            <title>[TR]TRT.SPOR.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45345.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TRT.SPOR.HD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TRT.WORLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45344.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TRT.WORLD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TURKWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45342.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TURKWOOD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TV.2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45341.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TV.2</link> 
+        </item> 
+          <item> 
+            <title>[TR]TV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45340.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TV4</link> 
+        </item> 
+          <item> 
+            <title>[TR]TV8.5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45339.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TV8.5</link> 
+        </item> 
+          <item> 
+            <title>[TR]TV8.5.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45338.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TV8.5.HD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TV8.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45337.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TV8.HD</link> 
+        </item> 
+          <item> 
+            <title>[TR]TVNET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45336.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]TVNET</link> 
+        </item> 
+          <item> 
+            <title>[TR]UCANKUS.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45335.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]UCANKUS.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]ULKE.TV.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45334.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]ULKE.TV.HD</link> 
+        </item> 
+          <item> 
+            <title>[TR]YABAN.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45332.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]YABAN.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]YAT.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45331.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]YAT.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]YOL.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45330.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]YOL.TV</link> 
+        </item> 
+          <item> 
+            <title>[TR]ZIRAAT.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.71.66.46:8000/live/aldogiamettan/E5QCcyHW5Q/45329.ts&amp;streamtype=TSDOWNLOADER&amp;name=[TR]ZIRAAT.TV</link> 
+        </item> 
+          <item> 
+            <title>***** TURKISH *****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3194.ts&amp;streamtype=TSDOWNLOADER&amp;name=***** TURKISH *****</link> 
+        </item> 
+          <item> 
+            <title>VIP | LIG TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LIG TV HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | LIGTV 1 H.265.HVEC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/2785.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LIGTV 1 H.265.HVEC</link> 
+        </item> 
+          <item> 
+            <title>VIP | LIG TV 1  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3150.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LIG TV 1  HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | LIGTV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LIGTV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | LIG TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LIG TV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | LIG TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LIG TV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART  SMART SPOR 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART  SMART SPOR 1</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART SMART SPOR 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART SMART SPOR 2</link> 
+        </item> 
+          <item> 
+            <title>VIP | LIGTV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LIGTV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | BEIN SPORT 1 HD-FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3195.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | BEIN SPORT 1 HD-FR</link> 
+        </item> 
+          <item> 
+            <title>VIP | BEIN SPORT 2 HD-FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3196.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | BEIN SPORT 2 HD-FR</link> 
+        </item> 
+          <item> 
+            <title>VIP | TIVIBU SPOR 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | TIVIBU SPOR 1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | TIVIBU SPOR 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | TIVIBU SPOR 3 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | TIVIBU SPOR 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | TIVIBU SPOR 4 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | TIVIBU SPOR HD 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | TIVIBU SPOR HD 2</link> 
+        </item> 
+          <item> 
+            <title>VIP  | TIVIBU SINE TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP  | TIVIBU SINE TV HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | LOCA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LOCA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | LOCA 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LOCA 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | LOCA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | LOCA 3 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | SALON 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | SALON 1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | SALON 2  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | SALON 2  HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | SALON 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | SALON 3 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | SALON 3D HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3108.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | SALON 3D HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | VIP CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | VIP CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | VIP CHANNEL 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | VIP CHANNEL 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | VIP CHANNEL TURK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | VIP CHANNEL TURK HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | FILBOX EUROSPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1824.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | FILBOX EUROSPORT HD</link> 
+        </item> 
+          <item> 
+            <title>VIP  | FILBOX SINEMA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1826.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP  | FILBOX SINEMA TV</link> 
+        </item> 
+          <item> 
+            <title>VIP | FILBOX Sinetivi Karnaval HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | FILBOX Sinetivi Karnaval HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART DIZISMART PLATIN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART DIZISMART PLATIN</link> 
+        </item> 
+          <item> 
+            <title>VIP  | D-SMART  DISCOVERY CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1825.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP  | D-SMART  DISCOVERY CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART MOVIE PREMIUM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1833.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART MOVIE PREMIUM HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART MOVIE PREMIUM 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART MOVIE PREMIUM 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART MOVIE GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1830.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART MOVIE GOLD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART MOVIE FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1829.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART MOVIE FAMILY</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART Movies Platin 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART Movies Platin 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART DIZI PREMIUM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART DIZI PREMIUM HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART BOOMERANG COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3105.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART BOOMERANG COCUK</link> 
+        </item> 
+          <item> 
+            <title>VIP  | D-SMART SMART COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3106.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP  | D-SMART SMART COCUK</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART DIZI TV HD FILBOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART DIZI TV HD FILBOX</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART EUROSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP I D-SMART 24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4673.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP I D-SMART 24 KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART FX DIZI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4674.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART FX DIZI</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART MOVIESMART TURK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART MOVIESMART TURK HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART BBC Earth HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART BBC Earth HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART MOVIE ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6320.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART MOVIE ACTION</link> 
+        </item> 
+          <item> 
+            <title>VIP I D-SMART FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4672.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP I D-SMART FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>VIP I DIGITURK DIZIMAX COMEDY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4269.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP I DIGITURK DIZIMAX COMEDY HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | DIGITURK ID Xtra Europe HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | DIGITURK ID Xtra Europe HD</link> 
+        </item> 
+          <item> 
+            <title>VIP I DIGITURK NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP I DIGITURK NAT GEO HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | DIGITURK DIZIMAX SCI-FI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1842.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | DIGITURK DIZIMAX SCI-FI</link> 
+        </item> 
+          <item> 
+            <title>VIP  | DIGITURK  IZ TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4259.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP  | DIGITURK  IZ TV</link> 
+        </item> 
+          <item> 
+            <title>VIP  I DIGITURK History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP  I DIGITURK History HD</link> 
+        </item> 
+          <item> 
+            <title>VIP I DIGITURK  NATIONAL GEOPRAFIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP I DIGITURK  NATIONAL GEOPRAFIC HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | FILBOX VIASAT NATURE/HISTORY CH HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | FILBOX VIASAT NATURE/HISTORY CH HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | SINETIVI ADRENALIN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6321.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | SINETIVI ADRENALIN HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | FILBOX SINEMATV AKSIYON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/2787.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | FILBOX SINEMATV AKSIYON HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | FILBOX SINEMA TV AILE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6325.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | FILBOX SINEMA TV AILE</link> 
+        </item> 
+          <item> 
+            <title>VIP | National Geographic Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1837.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | National Geographic Wild</link> 
+        </item> 
+          <item> 
+            <title>VIP | Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1836.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>VIP | ANIMASYON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | ANIMASYON HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | YESILCAM 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | YESILCAM 1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | YESILCAM 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | YESILCAM 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP I NAT GEO PEOPLE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP I NAT GEO PEOPLE HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | MOVIEMAX FAMILY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | MOVIEMAX FAMILY HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | MOVIEMAX PREMIER 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | MOVIEMAX PREMIER 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | MOVIEMAX PREMIER HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | MOVIEMAX PREMIER HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | MOVIEMAX TURK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | MOVIEMAX TURK HD</link> 
+        </item> 
+          <item> 
+            <title>VIP | MOVIE FEST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6322.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | MOVIE FEST</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT 1</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT 3 SPOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT 3 SPOR</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT BELGESEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT BELGESEL HD</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT COCUK</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT HABER</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT MUZIK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT MUZIK</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT KURDI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4264.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT KURDI</link> 
+        </item> 
+          <item> 
+            <title>TR | TRT SPOR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TRT SPOR HD</link> 
+        </item> 
+          <item> 
+            <title>TR | SHOW TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SHOW TV</link> 
+        </item> 
+          <item> 
+            <title>TR | SHOW TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SHOW TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR | STAR TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | STAR TV</link> 
+        </item> 
+          <item> 
+            <title>TR | STAR TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | STAR TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR | KANAL D</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KANAL D</link> 
+        </item> 
+          <item> 
+            <title>TR | KANAL D HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KANAL D HD</link> 
+        </item> 
+          <item> 
+            <title>TR | ATV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ATV</link> 
+        </item> 
+          <item> 
+            <title>TR | ATV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ATV HD</link> 
+        </item> 
+          <item> 
+            <title>TR | FOX TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | FOX TV</link> 
+        </item> 
+          <item> 
+            <title>TR | FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | FOX HD</link> 
+        </item> 
+          <item> 
+            <title>TR | TV8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TV8</link> 
+        </item> 
+          <item> 
+            <title>TR | TV8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TV8 HD</link> 
+        </item> 
+          <item> 
+            <title>TR | TV8.5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3107.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TV8.5</link> 
+        </item> 
+          <item> 
+            <title>TR | TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TLC</link> 
+        </item> 
+          <item> 
+            <title>TR | BEYAZ TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BEYAZ TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR | A HABER HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | A HABER HD</link> 
+        </item> 
+          <item> 
+            <title>TR | A SPOR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | A SPOR HD</link> 
+        </item> 
+          <item> 
+            <title>TR I A2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4268.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I A2 HD</link> 
+        </item> 
+          <item> 
+            <title>TR | TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TV 2</link> 
+        </item> 
+          <item> 
+            <title>TR | FLASH TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | FLASH TV</link> 
+        </item> 
+          <item> 
+            <title>TR | HALK TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | HALK TV</link> 
+        </item> 
+          <item> 
+            <title>TR | KANAL 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KANAL 7 HD</link> 
+        </item> 
+          <item> 
+            <title>TR | MINIKA COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | MINIKA COCUK</link> 
+        </item> 
+          <item> 
+            <title>TR | DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4671.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>TR | MINIKA GO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | MINIKA GO</link> 
+        </item> 
+          <item> 
+            <title>TR | BLOOMBERG TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BLOOMBERG TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR | CAY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | CAY TV</link> 
+        </item> 
+          <item> 
+            <title>TR | CNN TURK HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | CNN TURK HABER</link> 
+        </item> 
+          <item> 
+            <title>TR | HABER TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/2786.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | HABER TURK</link> 
+        </item> 
+          <item> 
+            <title>TR | EGE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | EGE TV</link> 
+        </item> 
+          <item> 
+            <title>TR | YABAN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | YABAN TV</link> 
+        </item> 
+          <item> 
+            <title>TR | VIVA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | VIVA TV</link> 
+        </item> 
+          <item> 
+            <title>TR | SPORTS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SPORTS TV</link> 
+        </item> 
+          <item> 
+            <title>TR | SEMERKAND TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1843.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SEMERKAND TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR | PLANET TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1844.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | PLANET TURK</link> 
+        </item> 
+          <item> 
+            <title>TR | PLANET PEMBE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | PLANET PEMBE</link> 
+        </item> 
+          <item> 
+            <title>TR | PLANET MUTFAK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1846.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | PLANET MUTFAK</link> 
+        </item> 
+          <item> 
+            <title>TR | PLANET COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1847.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | PLANET COCUK</link> 
+        </item> 
+          <item> 
+            <title>TR | GS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | GS TV</link> 
+        </item> 
+          <item> 
+            <title>VIP | D-SMART NBA TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP | D-SMART NBA TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR | NTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | NTV</link> 
+        </item> 
+          <item> 
+            <title>TR | NTV SPOR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | NTV SPOR HD</link> 
+        </item> 
+          <item> 
+            <title>TR | NUMBER ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | NUMBER ONE</link> 
+        </item> 
+          <item> 
+            <title>TR | POWERTURK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4657.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | POWERTURK HD</link> 
+        </item> 
+          <item> 
+            <title>TR | KRAL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4658.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KRAL TV</link> 
+        </item> 
+          <item> 
+            <title>TR | FB TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1835.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | FB TV</link> 
+        </item> 
+          <item> 
+            <title>TR | BJK TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/2775.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BJK TV</link> 
+        </item> 
+          <item> 
+            <title>TR | BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/1828.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BABY TV</link> 
+        </item> 
+          <item> 
+            <title>TR I FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4262.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>TR | KANAL 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/5729.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KANAL 24</link> 
+        </item> 
+          <item> 
+            <title>TR | TV 4 COCUK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/5730.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TV 4 COCUK</link> 
+        </item> 
+          <item> 
+            <title>TR | IP Mutfak</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4265.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | IP Mutfak</link> 
+        </item> 
+          <item> 
+            <title>TR | BURSASPOR  TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4260.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BURSASPOR  TV</link> 
+        </item> 
+          <item> 
+            <title>TR I CEM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4263.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I CEM TV</link> 
+        </item> 
+          <item> 
+            <title>TR I TBMM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4656.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I TBMM TV</link> 
+        </item> 
+          <item> 
+            <title>TR | BEIN GURME TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6284.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BEIN GURME TURK</link> 
+        </item> 
+          <item> 
+            <title>TR | DAVINCI LEARNING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6285.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | DAVINCI LEARNING</link> 
+        </item> 
+          <item> 
+            <title>TR | KANAL 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6282.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KANAL 7</link> 
+        </item> 
+          <item> 
+            <title>TR | SEYMEN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6289.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SEYMEN TV</link> 
+        </item> 
+          <item> 
+            <title>TR | TAY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6281.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TAY TV</link> 
+        </item> 
+          <item> 
+            <title>TR | ULKE TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6286.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ULKE TV HD</link> 
+        </item> 
+          <item> 
+            <title>TR| IP Belgesel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6280.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR| IP Belgesel</link> 
+        </item> 
+          <item> 
+            <title>TR I AKILLI TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6301.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I AKILLI TV</link> 
+        </item> 
+          <item> 
+            <title>TR I BRT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6297.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I BRT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TR I BRT 2 KKTC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6296.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I BRT 2 KKTC</link> 
+        </item> 
+          <item> 
+            <title>TR I DEUTSCHE WELLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6291.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DEUTSCHE WELLE</link> 
+        </item> 
+          <item> 
+            <title>TR I DISCOVERY-SHOWCASE-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6290.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DISCOVERY-SHOWCASE-HD</link> 
+        </item> 
+          <item> 
+            <title>TR I DISNEY JUNIOR CIZGI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6299.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DISNEY JUNIOR CIZGI</link> 
+        </item> 
+          <item> 
+            <title>TR I DIYALOG TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DIYALOG TV</link> 
+        </item> 
+          <item> 
+            <title>TR I DOCUBOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6319.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DOCUBOX HD</link> 
+        </item> 
+          <item> 
+            <title>TR I DREAM TURK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6303.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DREAM TURK</link> 
+        </item> 
+          <item> 
+            <title>TR I DREAM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6302.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DREAM TV</link> 
+        </item> 
+          <item> 
+            <title>TR I DUCK-TV CIZGI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6312.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I DUCK-TV CIZGI</link> 
+        </item> 
+          <item> 
+            <title>TR I ENGLISH CLUB TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6293.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I ENGLISH CLUB TV</link> 
+        </item> 
+          <item> 
+            <title>TR I EURONEWS HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6311.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I EURONEWS HABER</link> 
+        </item> 
+          <item> 
+            <title>TR I FASHION ONE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6308.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FASHION ONE TV</link> 
+        </item> 
+          <item> 
+            <title>TR I FASHIONBOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6310.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FASHIONBOX</link> 
+        </item> 
+          <item> 
+            <title>TR I FAST AND FUN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6294.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FAST AND FUN HD</link> 
+        </item> 
+          <item> 
+            <title>TR I FIGHTBOX-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6316.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FIGHTBOX-HD</link> 
+        </item> 
+          <item> 
+            <title>TR I FILMBOX ARTHOUSE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6318.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FILMBOX ARTHOUSE</link> 
+        </item> 
+          <item> 
+            <title>TR I FILMBOX-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6315.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FILMBOX-HD</link> 
+        </item> 
+          <item> 
+            <title>TR I FILTV-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6314.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I FILTV-HD</link> 
+        </item> 
+          <item> 
+            <title>TR I INGILTERE PREMIER LIGI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6309.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I INGILTERE PREMIER LIGI</link> 
+        </item> 
+          <item> 
+            <title>TR I KIBRIS GENC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6298.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I KIBRIS GENC TV</link> 
+        </item> 
+          <item> 
+            <title>TR I KIDZ/ANIMEZ CIZGI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6317.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I KIDZ/ANIMEZ CIZGI</link> 
+        </item> 
+          <item> 
+            <title>TR I KON TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6305.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I KON TV</link> 
+        </item> 
+          <item> 
+            <title>TR I LIFETIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6307.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I LIFETIME</link> 
+        </item> 
+          <item> 
+            <title>TR I MELTEM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6306.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I MELTEM TV</link> 
+        </item> 
+          <item> 
+            <title>TR I OLAY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6304.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I OLAY TV</link> 
+        </item> 
+          <item> 
+            <title>TR I TGRT HABER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6300.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I TGRT HABER</link> 
+        </item> 
+          <item> 
+            <title>TR I TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6313.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I TLC</link> 
+        </item> 
+          <item> 
+            <title>TR I UCANKUS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/6292.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I UCANKUS</link> 
+        </item> 
+          <item> 
+            <title>TR I SKY 360</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/4267.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR I SKY 360</link> 
+        </item> 
+          <item> 
+            <title>TR | ICERDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3123.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ICERDE</link> 
+        </item> 
+          <item> 
+            <title>TR | YETER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3131.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | YETER</link> 
+        </item> 
+          <item> 
+            <title>TR | BABAM VE AILESI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BABAM VE AILESI</link> 
+        </item> 
+          <item> 
+            <title>TR | TATLI INTIKAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3117.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | TATLI INTIKAM</link> 
+        </item> 
+          <item> 
+            <title>TR | BODRUM MASALI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3122.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BODRUM MASALI</link> 
+        </item> 
+          <item> 
+            <title>TR | SEVDA KUSUN KANADINDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3142.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SEVDA KUSUN KANADINDA</link> 
+        </item> 
+          <item> 
+            <title>TR | SEKSENLER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3124.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SEKSENLER</link> 
+        </item> 
+          <item> 
+            <title>TR | POYRAZ KARAYEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3135.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | POYRAZ KARAYEL</link> 
+        </item> 
+          <item> 
+            <title>TR | PARAMPARCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3111.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | PARAMPARCA</link> 
+        </item> 
+          <item> 
+            <title>TR | VATANIM SENS?N</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3112.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | VATANIM SENS?N</link> 
+        </item> 
+          <item> 
+            <title>TR | O SES TURKIYE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3137.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | O SES TURKIYE</link> 
+        </item> 
+          <item> 
+            <title>TR | O HAYAT BENIM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3125.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | O HAYAT BENIM</link> 
+        </item> 
+          <item> 
+            <title>TR | KARA SEVDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3138.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KARA SEVDA</link> 
+        </item> 
+          <item> 
+            <title>TR | MÜDÜR NE YAPTIN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3127.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | MÜDÜR NE YAPTIN</link> 
+        </item> 
+          <item> 
+            <title>TR | MUHTESEM YUZYIL KOSEM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3148.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | MUHTESEM YUZYIL KOSEM</link> 
+        </item> 
+          <item> 
+            <title>TR | KURTLAR VADISI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3144.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KURTLAR VADISI</link> 
+        </item> 
+          <item> 
+            <title>TR | KORDUGUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3129.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KORDUGUM</link> 
+        </item> 
+          <item> 
+            <title>TR | KIRGIN CICEKLER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3146.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KIRGIN CICEKLER</link> 
+        </item> 
+          <item> 
+            <title>TR | KIRALIK ASK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3109.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KIRALIK ASK</link> 
+        </item> 
+          <item> 
+            <title>TR | KERTENKELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3140.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KERTENKELE</link> 
+        </item> 
+          <item> 
+            <title>TR | YUZYILLIK MUHUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3139.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | YUZYILLIK MUHUR</link> 
+        </item> 
+          <item> 
+            <title>TR | KARAGUL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3132.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KARAGUL</link> 
+        </item> 
+          <item> 
+            <title>TR | ILISKI DURUMU EVLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3116.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ILISKI DURUMU EVLI</link> 
+        </item> 
+          <item> 
+            <title>TR | HAYAT SARKISI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3115.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | HAYAT SARKISI</link> 
+        </item> 
+          <item> 
+            <title>TR | GULUMSE YETER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3141.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | GULUMSE YETER</link> 
+        </item> 
+          <item> 
+            <title>TR | GULDUR GULDUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3133.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | GULDUR GULDUR</link> 
+        </item> 
+          <item> 
+            <title>TR | HAYATIMIN ASKI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3118.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | HAYATIMIN ASKI</link> 
+        </item> 
+          <item> 
+            <title>TR | YUKSEK SOSYETE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3121.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | YUKSEK SOSYETE</link> 
+        </item> 
+          <item> 
+            <title>TR | FAMILYA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3128.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | FAMILYA</link> 
+        </item> 
+          <item> 
+            <title>TR | ESKIYA DUNYAYA HUKUMDAR OLMAZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3143.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ESKIYA DUNYAYA HUKUMDAR OLMAZ</link> 
+        </item> 
+          <item> 
+            <title>TR | DIRILIS ERTUGRUL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3136.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | DIRILIS ERTUGRUL</link> 
+        </item> 
+          <item> 
+            <title>TR | ASK LAFTAN ANLAMAZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3149.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ASK LAFTAN ANLAMAZ</link> 
+        </item> 
+          <item> 
+            <title>TR | RUZGARIN KALBI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3126.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | RUZGARIN KALBI</link> 
+        </item> 
+          <item> 
+            <title>TR | SEVIYOR SEVMIYOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | SEVIYOR SEVMIYOR</link> 
+        </item> 
+          <item> 
+            <title>TR | CESUR YUREK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3134.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | CESUR YUREK</link> 
+        </item> 
+          <item> 
+            <title>TR | ASK YENIDEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3120.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ASK YENIDEN</link> 
+        </item> 
+          <item> 
+            <title>TR | ASK YALANI SEVER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3113.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ASK YALANI SEVER</link> 
+        </item> 
+          <item> 
+            <title>TR | ARKA SOKAKLAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3119.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | ARKA SOKAKLAR</link> 
+        </item> 
+          <item> 
+            <title>TR | KALBIMDE KI DENIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3145.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | KALBIMDE KI DENIZ</link> 
+        </item> 
+          <item> 
+            <title>TR | BABA CANDIR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3110.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR | BABA CANDIR</link> 
         </item> 
   
