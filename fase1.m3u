@@ -15,30 +15,30 @@ plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holand
 plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/912.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]  Cuatro [/COLOR]
 plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/817.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] TELECINCO  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/818.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] lasexta  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/527.tsamp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] Neox  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1002.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] Nova [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1003.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]  ENERGY [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1383.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]  MTV [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1865.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]  Mega [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/526.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]  Andalucia [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1377.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] BEIN SPORTS HD  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2213.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] Bein Sports  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1302.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] Bein LaLiga  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1410.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] LaLigatv  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/534.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]   [/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]   [/COLOR]
