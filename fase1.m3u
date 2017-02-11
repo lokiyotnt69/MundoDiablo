@@ -43,19 +43,21 @@ plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holand
 plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/535.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow] GOL TV  [/COLOR]
 plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2038.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] M.Deportes  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/536.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] M.Deportes 2  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1817.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]  Barça TV [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/542.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]  TELEDEPORTE [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1379.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] Eurosport1  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2504.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]   Movistar MotoGP [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1247.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow]Movistar F1   [/COLOR]
+plugin://plugin.video.f4mTester/?url=
+
+http://topiptv.net:5890/live/holanda/holanda/1246.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]   [/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
