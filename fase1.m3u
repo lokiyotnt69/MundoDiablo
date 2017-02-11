@@ -39,10 +39,10 @@ plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holand
 plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/1410.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow] LaLigatv  [/COLOR]
 plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/534.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]   [/COLOR]
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] M.Fútbol  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/535.ts&amp;streamtype=TSDOWNLOADER 
+#EXTINF:-1,[COLOR yellow] GOL TV  [/COLOR]
+plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/2038.ts&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]   [/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
 #EXTINF:-1,[COLOR yellow]   [/COLOR]
