@@ -193,6 +193,14 @@
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal  DCINE</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow]  Canal  Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal  Comedia</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal  ACCION [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Canal  ACCION</link> 
+        </item>
+           		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -200,6 +208,19 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		
            
            
            
