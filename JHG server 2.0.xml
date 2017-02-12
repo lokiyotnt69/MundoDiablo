@@ -49,6 +49,78 @@
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] NAT GEO WILD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] MTV ROCKS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS</link> 
+        </item>
+           		<item> 
+            <title>[COLOR yellow] MoviStar Moto Gp [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar Moto Gp</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  La Sexta HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name= La Sexta HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  LA SEXTA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA SEXTA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LA 1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2679.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] HISTORIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item>
+				<item> 
+            <title>[COLOR yellow] FOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] FOX HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] FOX LIFE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Fdf [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2697.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fdf</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Eurosport [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Energy [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2699.ts&amp;streamtype=TSDOWNLOADER&amp;name= Energy</link> 
+        </item>
+           		<item> 
+            <title>[COLOR yellow] DISTRITO COMEDIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2662.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISTRITO COMEDIA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DCINE ESPANOL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2703.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE ESPANOL</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2704.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -80,6 +152,31 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+           		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           
            
 		
 		
