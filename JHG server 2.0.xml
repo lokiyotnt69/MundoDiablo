@@ -181,16 +181,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal  Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal  Estrenos</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal  Deportes [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal  Deportes</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  Canal  DCINE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal  DCINE</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
