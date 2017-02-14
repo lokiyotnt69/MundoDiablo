@@ -7,20 +7,24 @@
 
 	
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Canal Deportes HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Deportes HD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] CANAL  LIGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  LIGA HD</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Canal  Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal  Liga</link> 
+        </item> 
+		<item> 
+            <title>[COLOR red]  Canal  Deportes [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal  Deportes</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Bein Sports HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports HD</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
