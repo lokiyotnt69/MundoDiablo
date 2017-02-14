@@ -10,47 +10,6 @@
   
   
   
-
-		<item> 
-            <title>[COLOR red] SP: Toros Tv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Toros Tv</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Canal+ Liga  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/7715.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal+ Liga</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  M. Futbol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/13008.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. Futbol</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] M. Deportes 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/13009.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Deportes 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] La Liga TV Bar [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/13006.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga TV Bar</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] M. Deportes 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/12545.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Deportes 2</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] beIN La Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN La Liga</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] M. Formula 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Formula 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] M. MotoGp [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MotoGp</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] Eurosport 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://185.2.83.253:6500/live/carter/b392BOIhdE/7680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
-        </item>
 		
 		
 		
