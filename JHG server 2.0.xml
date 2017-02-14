@@ -8,6 +8,279 @@
   
   
   
+ 
+          <item> 
+            <title>****// CH:SAPIN//***</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/3882.ts&amp;streamtype=TSDOWNLOADER&amp;name=****// CH:SAPIN//***</link> 
+        </item> 
+          <item> 
+            <title>ES:VIAJARHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:VIAJARHD</link> 
+        </item> 
+          <item> 
+            <title>ES:TOROSHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1638.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TOROSHD</link> 
+        </item> 
+          <item> 
+            <title>ES:TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TNT</link> 
+        </item> 
+          <item> 
+            <title>ES:TELEDEPORTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1626.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELEDEPORTE</link> 
+        </item> 
+          <item> 
+            <title>ES:TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1625.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>ES:TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TCM</link> 
+        </item> 
+          <item> 
+            <title>ES:SYFYHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:SYFYHD</link> 
+        </item> 
+          <item> 
+            <title>ES:SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:SYFY</link> 
+        </item> 
+          <item> 
+            <title>ES:SERIESXTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1605.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:SERIESXTRA</link> 
+        </item> 
+          <item> 
+            <title>ES:SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:SERIES</link> 
+        </item> 
+          <item> 
+            <title>ES:PLAYBOYTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:PLAYBOYTV</link> 
+        </item> 
+          <item> 
+            <title>ES:ORBE21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1608.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ORBE21</link> 
+        </item> 
+          <item> 
+            <title>ES:ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1593.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ODISEA</link> 
+        </item> 
+          <item> 
+            <title>ES:NGWILDHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NGWILDHD</link> 
+        </item> 
+          <item> 
+            <title>ES:NATGEOHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NATGEOHD</link> 
+        </item> 
+          <item> 
+            <title>ES:MTVESPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1591.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MTVESPA</link> 
+        </item> 
+          <item> 
+            <title>ES:LTC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1596.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LTC</link> 
+        </item> 
+          <item> 
+            <title>ES:LIGAHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1629.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LIGAHD</link> 
+        </item> 
+          <item> 
+            <title>ES:LASEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1623.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LASEXTA</link> 
+        </item> 
+          <item> 
+            <title>ES:LA2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1622.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA2</link> 
+        </item> 
+          <item> 
+            <title>ES:LA1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1621.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA1</link> 
+        </item> 
+          <item> 
+            <title>ES:HOLLYWOODHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HOLLYWOODHD</link> 
+        </item> 
+          <item> 
+            <title>ES:HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1620.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>ES:GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1590.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:GOLF</link> 
+        </item> 
+          <item> 
+            <title>ES:FOXNEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOXNEWS</link> 
+        </item> 
+          <item> 
+            <title>ES:FOTBOLHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1635.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOTBOLHD</link> 
+        </item> 
+          <item> 
+            <title>ES:FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FDF</link> 
+        </item> 
+          <item> 
+            <title>ES:EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EUROSPORT1</link> 
+        </item> 
+          <item> 
+            <title>ES:ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>ES:ESTRELLAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ESTRELLAS</link> 
+        </item> 
+          <item> 
+            <title>ES:DISNEYXD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEYXD</link> 
+        </item> 
+          <item> 
+            <title>ES:DISNEYCH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEYCH</link> 
+        </item> 
+          <item> 
+            <title>ES:DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>ES:DEPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DEPORT</link> 
+        </item> 
+          <item> 
+            <title>ES:DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1592.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DECASA</link> 
+        </item> 
+          <item> 
+            <title>ES:DCINESPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DCINESPA</link> 
+        </item> 
+          <item> 
+            <title>ES:DCINEHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1634.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DCINEHD</link> 
+        </item> 
+          <item> 
+            <title>ES:CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CUATRO</link> 
+        </item> 
+          <item> 
+            <title>ES:CRIMEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CRIMEN</link> 
+        </item> 
+          <item> 
+            <title>ES:COMEDYCENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1612.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:COMEDYCENTRAL</link> 
+        </item> 
+          <item> 
+            <title>ES:COMEDIAHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:COMEDIAHD</link> 
+        </item> 
+          <item> 
+            <title>ES:CLANTVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1611.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CLANTVE</link> 
+        </item> 
+          <item> 
+            <title>ES:CASAYPESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1610.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CASAYPESCA</link> 
+        </item> 
+          <item> 
+            <title>ES:CANALSUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1609.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANALSUR</link> 
+        </item> 
+          <item> 
+            <title>ES:CANALCOCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1607.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANALCOCINA</link> 
+        </item> 
+          <item> 
+            <title>ES:CALLE13HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CALLE13HD</link> 
+        </item> 
+          <item> 
+            <title>ES:CALLE13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CALLE13</link> 
+        </item> 
+          <item> 
+            <title>ES:BEINSPHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BEINSPHD</link> 
+        </item> 
+          <item> 
+            <title>ES:BARCATV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BARCATV</link> 
+        </item> 
+          <item> 
+            <title>ES:BABYTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BABYTV</link> 
+        </item> 
+          <item> 
+            <title>ES:AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AMC</link> 
+        </item> 
+          <item> 
+            <title>ES:AE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1600.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AE</link> 
+        </item> 
+          <item> 
+            <title>ES:ACCIONHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1628.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ACCIONHD</link> 
+        </item> 
+          <item> 
+            <title>ES:40TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:40TV</link> 
+        </item> 
+          <item> 
+            <title>ES:24HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/1598.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:24HORAS</link> 
+        </item> 
+          <item> 
+            <title>ES:  RMADRIDTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2090.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  RMADRIDTV</link> 
+        </item> 
+          <item> 
+            <title>ES:  PARAMOUNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2091.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  PARAMOUNT</link> 
+        </item> 
+          <item> 
+            <title>ES:  PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2085.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  PANDA</link> 
+        </item> 
+          <item> 
+            <title>ES:  NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2092.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES:  DISNEYJR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2087.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  DISNEYJR</link> 
+        </item> 
+          <item> 
+            <title>ES:  DEPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2084.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  DEPORT2</link> 
+        </item> 
+          <item> 
+            <title>ES:  CLASSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2086.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  CLASSICA</link> 
+        </item> 
+          <item> 
+            <title>ES:  CANALPLUS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2081.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  CANALPLUS</link> 
+        </item> 
+          <item> 
+            <title>ES:  BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2083.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  BOING</link> 
+        </item> 
+          <item> 
+            <title>ES:  BARCATV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2080.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  BARCATV</link> 
+        </item> 
+          <item> 
+            <title>ES:  AXNWHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2082.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  AXNWHITE</link> 
+        </item> 
+          <item> 
+            <title>ES:  ANTENA3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.203.121:7022/live/mama/mama/2079.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:  ANTENA3</link> 
+        </item> 
            
            
            
