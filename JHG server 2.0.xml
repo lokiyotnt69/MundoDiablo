@@ -6,7 +6,39 @@
   <streamingInfos>
   
   
-  
+ 
   
  
-          
+        
+		<item> 
+            <title>[COLOR red] TVE LA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE LA 1</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] Clan tv HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan tv HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] NICKELODEON [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2687.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] SYFY HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] NICK JUNIOR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2688.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JUNIOR</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red] NATIONAL GEOGRAPHIC CHANNEL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC CHANNEL</link> 
+        </item>
+		<item> 
+            <title>[COLOR red] LA SEXTA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
