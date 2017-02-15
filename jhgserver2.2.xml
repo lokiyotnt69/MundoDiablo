@@ -30,32 +30,43 @@
 		 <item> 
             <title>[COLOR red] Lista NueVa  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red] MOVISTAR+ MOTO GP SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3615.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP SD</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] MOVISTAR+ MOTO GP HD (720p) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4368.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP HD (720p)</link> 
-        </item>
-		 <item> 
-            <title>[COLOR red] MOVISTAR+ FORMULA 1 SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4367.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ FORMULA 1 SD</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red] MOVISTAR+ FORMULA 1 HD (720p) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3760.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ FORMULA 1 HD (720p)</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
         <item> 
-            <title>[COLOR red] BEIN SPORTS HD (720p) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3763.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS HD (720p)</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR red] BEIN SPORTS SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4265.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS SD</link> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 		
-    
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 		
+        <item> 
+            <title>[COLOR red]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
 		
 		
 		
