@@ -32,12 +32,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red]  BEIN LALIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/28876.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN LALIGA</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] BEIN SPORT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/28856.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN SPORT</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
