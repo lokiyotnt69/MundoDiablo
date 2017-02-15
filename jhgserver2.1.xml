@@ -8,12 +8,12 @@
  	
       
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR+ ESTRENOS HD (720p) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3619.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS HD (720p)</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR+ ESTRENOS SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4373.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS SD</link> 
         </item>
 		<item> 
             <title>[COLOR red]  [/COLOR]</title> 
