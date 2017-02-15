@@ -5,107 +5,274 @@
   <streamingInfos>
 
 
- 	
-      
-		<item> 
-            <title>[COLOR red] MOVISTAR+ ESTRENOS HD (720p) [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3619.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS HD (720p)</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] MOVISTAR+ ESTRENOS SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4373.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ ESTRENOS SD</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+ 	 <item> 
+            <title>ES: TVE LA1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA1</link> 
+        </item> 
+          <item> 
+            <title>ES: TVE LA2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA2</link> 
+        </item> 
+          <item> 
+            <title>ES: RealMadrid</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: RealMadrid</link> 
+        </item> 
+          <item> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2291.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES: NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
+        </item> 
+          <item> 
+            <title>ES: NATGEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATGEO WILD</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Accion</link> 
+        </item> 
+          <item> 
+            <title>ES: La Sexta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2292.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta</link> 
+        </item> 
+          <item> 
+            <title>ES: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>ES: GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GALICIA</link> 
+        </item> 
+          <item> 
+            <title>ES: Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Energy</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>ES: CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
+        </item> 
+          <item> 
+            <title>ES: Clan TVe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan TVe</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL DEPORTES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DEPORTES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DECASA</link> 
+        </item> 
+          <item> 
+            <title>ES: C+GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+GOLF</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ SERIES XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ SERIES XTRA</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2288.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2289.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena3</link> 
+        </item> 
+          <item> 
+            <title>ES: ANDALUCIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2290.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANDALUCIA</link> 
+        </item> 
+          <item> 
+            <title>ES: Tring Jolly HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Tring Jolly HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Tring History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1352.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Tring History</link> 
+        </item> 
+          <item> 
+            <title>ES: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>ES: TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal + Toros</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Toros</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ SERIES</link> 
+        </item> 
+          <item> 
+            <title>ES: BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Futbol</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal Liga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Liga</link> 
+        </item> 
+          <item> 
+            <title>ES: NATIONAL-GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATIONAL-GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>ES: HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX-LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX-LIFE</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY-JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY-JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>ES: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
+        </item> 
+          <item> 
+            <title>ES: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DCINE</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL COMEDIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL COMEDIA</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL ACCION</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL SERIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL SERIE</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL DEPORTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DEPORTE</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1470.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 1</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 3</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 4</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 5</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 6</link> 
+        </item> 
+          <item> 
+            <title>ES: Caza Y Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza Y Pesca</link> 
+        </item> 
+          <item> 
+            <title>ES: Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/joffrey/joffrey/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Baby TV</link> 
+        </item> 
+          <item> 
+            <title>ES=MoviesStar_Gp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1977.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES=MoviesStar_Gp</link> 
+        </item> 
+          <item> 
+            <title>ES:MOVISTAR+ DEPORTES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MOVISTAR+ DEPORTES HD</link> 
+        </item> 
+          <item> 
+            <title>ES:beIN Sport Ñ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1962.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:beIN Sport Ñ HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1907.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1901.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: REAL MADRID TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1899.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: REAL MADRID TV HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA SEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA</link> 
+        </item> 
+          <item> 
+            <title>ES: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1900.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>ES: COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1894.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C Estrenos HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1895.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C Series Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C Series Xtra HD</link> 
+        </item> 
 		   
 		   
 		
