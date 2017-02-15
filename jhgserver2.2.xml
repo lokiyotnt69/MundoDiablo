@@ -26,26 +26,14 @@
         <item> 
             <title>[COLOR red] Bein Sports HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports HD</link> 
-        </item>		 
+        </item>	         		
         <item> 
-            <title>[COLOR red] MoviStar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  BEIN LALIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/28876.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN LALIGA</link> 
+            <title>[COLOR red] MOVISTAR+ FORMULA 1 SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4367.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ FORMULA 1 SD</link> 
         </item>
 		<item> 
-            <title>[COLOR red] BEIN SPORT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/28856.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN SPORT</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR+ MOTO GP SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3615.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP SD</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
