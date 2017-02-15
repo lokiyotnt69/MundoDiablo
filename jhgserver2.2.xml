@@ -26,11 +26,7 @@
         <item> 
             <title>[COLOR red] Bein Sports HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports HD</link> 
-        </item>	         		
-        <item> 
-            <title>[COLOR red] MOVISTAR+ FORMULA 1 SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4367.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ FORMULA 1 SD</link> 
-        </item>
+        </item>	         
 		 <item> 
             <title>[COLOR red] Lista NueVa  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
@@ -42,6 +38,10 @@
         <item> 
             <title>[COLOR red] MOVISTAR+ MOTO GP HD (720p) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4368.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP HD (720p)</link> 
+        </item>
+		 <item> 
+            <title>[COLOR red] MOVISTAR+ FORMULA 1 SD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4367.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ FORMULA 1 SD</link> 
         </item>
 		<item> 
             <title>[COLOR red] MOVISTAR+ FORMULA 1 HD (720p) [/COLOR]</title> 
@@ -59,6 +59,7 @@
             <title>[COLOR red]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
+		
 		
 		
 		
