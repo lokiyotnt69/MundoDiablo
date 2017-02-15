@@ -56,8 +56,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4265.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS SD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] BEIN SPORTS HD 1080  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3176.ts&amp;streamtype=TSDOWNLOADER&amp;name= BEIN SPORTS HD</link> 
         </item> 
 		
 		
