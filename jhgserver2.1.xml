@@ -274,6 +274,10 @@
             <title>ES: C Series Xtra HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1892.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C Series Xtra HD</link> 
         </item> 
+		 <item> 
+            <title>ES:beIN Sport  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1962.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:beIN Sport  HD</link> 
+        </item>
 		   
 		   
 		
