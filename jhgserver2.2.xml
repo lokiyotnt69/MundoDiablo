@@ -26,14 +26,10 @@
         <item> 
             <title>[COLOR red] Bein Sports HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] MOTO GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1977.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
-        </item> 
+        </item>		 
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MoviStar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
