@@ -36,12 +36,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3615.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP SD</link> 
         </item> 		
         <item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR+ MOTO GP HD (720p) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/4368.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ MOTO GP HD (720p)</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] MOVISTAR+ FORMULA 1 HD (720p) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.171.207:8000/live/xavi/xavi/3760.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR+ FORMULA 1 HD (720p)</link> 
         </item> 		
         <item> 
             <title>[COLOR red]  [/COLOR]</title> 
