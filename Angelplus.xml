@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+  <streamingInfos>
+
+
+
+        <item> 
+            <title>[COLOR yellow] ***** SPAIN ***** [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2669.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CANAL  XTRA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  XTRA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] DCINE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CANAL SERIES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SERIES</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CANAL HOLLYWOOD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+        </item>		
+        <item> 
+            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Antena 3 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] CANAL+ DEPORTES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DEPORTES</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://owner-tv.tk:8080/live/fY0uBnCYze/BnuwEr1Ts3/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
