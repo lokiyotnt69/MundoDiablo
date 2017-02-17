@@ -35,6 +35,67 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2574.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE HD</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] Canal Acction [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2606.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Acction</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] La Sexta [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2576.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] COSMO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2573.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] FOX HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Disney.Channel [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2592.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney.Channel</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DISNEY XD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DISNEY JUNIOR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2594.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Canal_Toros  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2591.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Toros</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] AXN HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2597.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] movistar.Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2596.ts&amp;streamtype=TSDOWNLOADER&amp;name=movistar.Comedia</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] TELECINCO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2556.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
