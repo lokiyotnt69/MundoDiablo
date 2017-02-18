@@ -30,12 +30,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
         </item> 	
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Bein Sports [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/haj/haj/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Bein LaLiga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/haj/haj/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein LaLiga</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 

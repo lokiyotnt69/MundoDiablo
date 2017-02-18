@@ -5,73 +5,177 @@
   <streamingInfos>
 
 
+		<item> 
+            <title>=======   SPANISH   =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/0TzUnd1sh5/itDHAq3pyt/2890.ts&amp;streamtype=TSDOWNLOADER&amp;name========   SPANISH   =======</link> 
+        </item>     
+		<item> 
+            <title>[COLOR yellow] 40TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3976.ts&amp;streamtype=TSDOWNLOADER&amp;name=40TV</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] A&E [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3977.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E</link> 
+        </item>					
+		<item> 
+            <title>[COLOR yellow] AXN WHITE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3981.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BABY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3982.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY</link> 
+        </item>         
+		<item> 
+            <title>[COLOR yellow] BOING [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3985.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CALLE13 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3991.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE13</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Canal COCINA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4001.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal COCINA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal DE LA ESTRELLAS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3999.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal DE LA ESTRELLAS</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Canal DECASA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4002.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal DECASA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CANAL HISTORIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4018.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal ODISEA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal ODISEA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal PANDA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4000.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal PANDA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  CAZAYPESCA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4004.ts&amp;streamtype=TSDOWNLOADER&amp;name= CAZAYPESCA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] COMEDY CENTRAL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4006.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CRIMEN INVESTIGACIÓN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4008.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN INVESTIGACIÓN</link> 
+        </item>				
+		<item> 
+            <title>[COLOR yellow] DISCOVERY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4011.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DISNEY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4012.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] DIVINITY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] ENERGY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4014.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
+        </item>	
         <item> 
-            <title>[COLOR yellow]ES_LA1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA1</link> 
-        </item>
+            <title>[COLOR yellow] Movistar ESTRENOS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3996.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar ESTRENOS</link> 
+        </item>		
 		<item> 
-            <title>[COLOR yellow] LA2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2727.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA2</link> 
+            <title>[COLOR yellow] MOVISTAR CINE Ñ [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4010.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR CINE Ñ</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] CanalHD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2584.ts&amp;streamtype=TSDOWNLOADER&amp;name=CanalHD</link> 
+            <title>[COLOR yellow] Movistar SERIES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3997.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar SERIES HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Canal2HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal2HD</link> 
+            <title>[COLOR yellow] Movistar TOROS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3998.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar TOROS</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Canal-Accion [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Accion</link> 
+            <title>[COLOR yellow] MTV ESPANA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4027.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPANA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Canal-Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Comedia</link> 
+            <title>[COLOR yellow] Nickelodeon HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4032.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Canal-Dcine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Dcine</link> 
+            <title>[COLOR yellow] SYFY HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4037.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] Canal-Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Xtra</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] CanalFutbol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2247.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal-TOROS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-TOROS</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal_Deportes [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Deportes</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal-ESTRENO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2352.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-ESTRENO</link> 
+            <title>[COLOR yellow]  TCM [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/4038.ts&amp;streamtype=TSDOWNLOADER&amp;name= TCM</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] ES_Canal_LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2246.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal_LIGA</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] BeinLaLiga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2585.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinLaLiga</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] BeinLaLiga1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2767.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeinLaLiga1</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Calle13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2600.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle13</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Hollywood_Spain [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/2376970808/6443916/2384.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood_Spain</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
