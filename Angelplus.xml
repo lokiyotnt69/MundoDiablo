@@ -196,7 +196,7 @@
         </item>
 		<item> 
             <title>[COLOR yellow] Canal_SERIES_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Canal_SERIES_HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_SERIES_HD</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
