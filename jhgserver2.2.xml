@@ -28,41 +28,28 @@
 		<item> 
             <title>[COLOR red] BEIN SPORTS [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
-        </item> 	
+        </item> 			
 		<item> 
-            <title>[COLOR yellow] Bein Sports [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/haj/haj/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
+            <title>[COLOR yellow] Canal+ Deportes HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/123456789/987654321/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Deportes HD</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow] Canal+ Futbol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/123456789/987654321/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Futbol</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Canal+ Golf [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/123456789/987654321/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Golf</link> 
+        </item>		
            <item> 
-            <title>[COLOR yellow] Bein LaLiga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/haj/haj/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein LaLiga</link> 
+            <title>[COLOR yellow] Canal_FUTBOL_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_FUTBOL_HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal_DEPORTES_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_DEPORTES_HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal_DEPORTES 2_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_DEPORTES 2_HD</link> 
         </item>
