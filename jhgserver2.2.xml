@@ -15,10 +15,6 @@
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4557.ts&amp;streamtype=TSDOWNLOADER&amp;name=laliga</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] Deportes [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4271.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes</link> 
-        </item>
-		<item> 
             <title>[COLOR yellow] Eurosport-1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4267.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport-1</link> 
         </item>
@@ -35,6 +31,22 @@
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3187.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Liga</link> 
         </item>			
 		<item> 
+            <title>[COLOR yellow] Canal--DEPORTES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal--DEPORTES</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
