@@ -1,1155 +1,981 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
-
   <streamingInfos>
  
           <item> 
-            <title>DE: Sky Sport HD 1 Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1610.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 1 Germany</link> 
+            <title>------  Sky De ------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/4145.ts&amp;streamtype=TSDOWNLOADER&amp;name=------  Sky De ------</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport HD 2 Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1611.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 2 Germany</link> 
+            <title>[DE] Bundesliga 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6643.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Bundesliga 1 HD</link> 
         </item> 
           <item> 
-            <title>DE: Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 1 HD</link> 
+            <title>DE: Bundesliga 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Bundesliga 2</link> 
         </item> 
           <item> 
-            <title>DE: Eurosport 2 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 2 HD Germany</link> 
+            <title>DE: Bundesliga 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Bundesliga 3</link> 
         </item> 
           <item> 
-            <title>DE: Motorvision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision</link> 
+            <title>DE: Bundesliga 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Bundesliga 4</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1609.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News HD</link> 
+            <title>DE: Bundesliga 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Bundesliga 5</link> 
         </item> 
           <item> 
-            <title>DE: SKY SELECT-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-1</link> 
+            <title>DE: Bundesliga 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Bundesliga 6</link> 
         </item> 
           <item> 
-            <title>DE: SKY SELECT-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-2</link> 
+            <title>DE: Sky Select 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8625.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 1 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SELECT-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1712.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-3</link> 
+            <title>DE: Sky Select 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8624.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 2 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SELECT-4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-4</link> 
+            <title>DE: Sky Select 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8623.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 3 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SELECT-5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-5</link> 
+            <title>DE: SKY Select 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8622.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Select 4 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SELECT 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 6</link> 
+            <title>DE: SKY Select 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8621.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Select 5 HD</link> 
         </item> 
           <item> 
-            <title>DE: ZDF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link> 
+            <title>DE: Sky Select 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8620.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 6 HD</link> 
         </item> 
           <item> 
-            <title>DE: VOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1583.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD</link> 
+            <title>DE: Sky Select 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8619.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 7 HD</link> 
         </item> 
           <item> 
-            <title>DE: Universal HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1628.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal HD Germany</link> 
+            <title>DE: Sky Select 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/8618.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Select 8 HD</link> 
         </item> 
           <item> 
-            <title>DE: TNT Serie HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1625.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie HD</link> 
+            <title>[DE] 13TH Street</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6640.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] 13TH Street</link> 
         </item> 
           <item> 
-            <title>DE: TNT Film TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film TCM</link> 
+            <title>[DE] Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6641.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Action HD</link> 
         </item> 
           <item> 
-            <title>DE: TLC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC HD</link> 
+            <title>[DE] Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6642.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Boomerang</link> 
         </item> 
           <item> 
-            <title>DE: Tele 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tele 5 HD</link> 
+            <title>[DE] Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6644.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Cartoon Network</link> 
         </item> 
           <item> 
-            <title>DE: SyFy HD Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: SyFy HD Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SyFy HD Deutschland</link> 
+            <title>[DE] Das Herste</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6645.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Das Herste</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[DE] Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6646.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Discovery</link> 
         </item> 
           <item> 
-            <title>DE: Super RTL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL HD</link> 
+            <title>[DE] Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6647.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Discovery HD</link> 
         </item> 
           <item> 
-            <title>DE: Sport1 HD (Germany)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport1 HD (Germany)</link> 
+            <title>[DE] Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6648.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Disney Junior</link> 
         </item> 
           <item> 
-            <title>DE: Spiegel Geschichte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1606.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte HD</link> 
+            <title>[DE] Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6649.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Disney XD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Nostalgie Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1600.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie Germany</link> 
+            <title>[DE] Disneycinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6650.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Disneycinemagic</link> 
         </item> 
           <item> 
-            <title>DE: Sky Krimi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi</link> 
+            <title>[DE] E! Entertainm. HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6651.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] E! Entertainm. HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Hits HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits HD Germany</link> 
+            <title>[DE] Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6652.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Fox</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[DE] Heimakanal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6653.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Heimakanal</link> 
         </item> 
           <item> 
-            <title>DE: Sky Emotion Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion Germany</link> 
+            <title>[DE] Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6654.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Junior</link> 
         </item> 
           <item> 
-            <title>DE: Sky Comedy Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy Germany</link> 
+            <title>[DE] MGM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6655.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] MGM</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD Germany</link> 
+            <title>[DE] Nat Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6656.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Nat Geo</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema  24 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1592.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema  24 HD Germany</link> 
+            <title>[DE] Nat Geo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6657.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Nat Geo HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema  1 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1591.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema  1 HD Germany</link> 
+            <title>[DE] Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>DE: Sky Bundesliga HD 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1612.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1</link> 
+            <title>[DE] Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6659.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Nat Geo Wild HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Atlantic HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic HD Germany</link> 
+            <title>[DE] Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6660.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Nick Jr</link> 
         </item> 
           <item> 
-            <title>DE: Sky Action HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1593.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD Germany</link> 
+            <title>[DE] Pro 7 Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6661.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Pro 7 Max</link> 
         </item> 
           <item> 
-            <title>DE: Sixx HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD</link> 
+            <title>[DE] Prosieben</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6662.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Prosieben</link> 
         </item> 
           <item> 
-            <title>DE: Sat 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1581.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 HD</link> 
+            <title>[DE] RTL 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6663.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] RTL 2</link> 
         </item> 
           <item> 
-            <title>DE: Sat 1 Gold HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1582.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 Gold HD</link> 
+            <title>[DE] RTL Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6664.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] RTL Crime</link> 
         </item> 
           <item> 
-            <title>DE: RTL Passion Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion Germany</link> 
+            <title>[DE] RTL Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6665.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] RTL Living</link> 
         </item> 
           <item> 
-            <title>DE: RTL Nitro HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD</link> 
+            <title>[DE] RTL Nitro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6666.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] RTL Nitro</link> 
         </item> 
           <item> 
-            <title>DE: RTL Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Living</link> 
+            <title>[DE] RTL Passion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6667.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] RTL Passion</link> 
         </item> 
           <item> 
-            <title>DE: RTL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD</link> 
+            <title>[DE] Sat 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6668.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sat 1</link> 
         </item> 
           <item> 
-            <title>DE: RTL Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1622.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime HD</link> 
+            <title>[DE] Sat 1 Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6669.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sat 1 Gold</link> 
         </item> 
           <item> 
-            <title>DE: RTL 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1579.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD</link> 
+            <title>[DE] Sky Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6670.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Action</link> 
         </item> 
           <item> 
-            <title>DE: Romance TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Romance TV</link> 
+            <title>[DE] Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6671.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Atlantic</link> 
         </item> 
           <item> 
-            <title>DE: ProSieben MAXX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben MAXX HD</link> 
+            <title>[DE] Sky Atlantic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6672.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Atlantic HD</link> 
         </item> 
           <item> 
-            <title>DE: Prosieben HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Prosieben HD</link> 
+            <title>[DE] Sky Bundesliga 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6673.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Bundesliga 1</link> 
         </item> 
           <item> 
-            <title>DE: National Geographic HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1603.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geographic HD Germany</link> 
+            <title>[DE] Sky Bundesliga 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6674.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Bundesliga 2</link> 
         </item> 
           <item> 
-            <title>DE: NatGeo Wild HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo Wild HD Germany</link> 
+            <title>[DE] Sky Bundesliga 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6675.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Bundesliga 3</link> 
         </item> 
           <item> 
-            <title>DE: MGM HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1598.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD Germany</link> 
+            <title>[DE] Sky Bundesliga 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6676.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Bundesliga 4</link> 
         </item> 
           <item> 
-            <title>DE: Kinowelt TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1623.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kinowelt TV</link> 
+            <title>[DE] Sky Bundesliga 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6677.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Bundesliga 5</link> 
         </item> 
           <item> 
-            <title>DE: Kabel 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1 HD</link> 
+            <title>[DE] Sky Cinema  1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6678.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Cinema  1 HD</link> 
         </item> 
           <item> 
-            <title>DE: History Channel HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1605.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History Channel HD Germany</link> 
+            <title>[DE] Sky Cinema  24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6679.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Cinema  24 HD</link> 
         </item> 
           <item> 
-            <title>DE: Heimatkanal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Heimatkanal</link> 
+            <title>[DE] Sky Cinema Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6680.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Cinema Family HD</link> 
         </item> 
           <item> 
-            <title>DE: Goldstar TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Goldstar TV</link> 
+            <title>[DE] Sky Cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Cinema HD</link> 
         </item> 
           <item> 
-            <title>DE: Fox HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD Germany</link> 
+            <title>[DE] Sky Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Emotion</link> 
         </item> 
           <item> 
-            <title>DE: DMAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1608.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Disney XD Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: Disney XD Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD Deutschland</link> 
+            <title>[DE] Sky Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[DE] Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Hits</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1637.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6683.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: Disney Junior HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1636.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior HD Germany</link> 
+            <title>[DE] Sky Krimi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6684.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Krimi</link> 
         </item> 
           <item> 
-            <title>DE: Disney Cinemagic HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1635.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic HD Germany</link> 
+            <title>[DE] Sky Nostalgie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6685.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Nostalgie</link> 
         </item> 
           <item> 
-            <title>DE: Disney Channel HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1634.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD Germany</link> 
+            <title>[DE] Sky Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6686.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Sport 1</link> 
         </item> 
           <item> 
-            <title>DE: Discovery HD Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: Discovery HD Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD Deutschland</link> 
+            <title>[DE] Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6687.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Sport 1 HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1607.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[DE] Sky Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6688.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Sport 2</link> 
         </item> 
           <item> 
-            <title>DE: Das Erste HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste HD</link> 
+            <title>[DE] Sky Sport Austria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6689.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky Sport Austria</link> 
         </item> 
           <item> 
-            <title>DE: Cartoon Network Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Cartoon Network Germany</link> 
+            <title>[DE] Sky SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6690.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Sky SyFy</link> 
         </item> 
           <item> 
-            <title>DE: Boomerang Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang Germany</link> 
+            <title>[DE] Super RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6691.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Super RTL</link> 
         </item> 
           <item> 
-            <title>DE: AXN HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD Germany</link> 
+            <title>[DE] TNT Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6692.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] TNT Comedy HD</link> 
         </item> 
           <item> 
-            <title>DE: A-E Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1620.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A-E Germany</link> 
+            <title>[DE] TNT Film</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6693.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] TNT Film</link> 
         </item> 
           <item> 
-            <title>DE: 13th Street HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/19/19/1629.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD</link> 
+            <title>[DE] TNT Glitz HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6694.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] TNT Glitz HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport HD 1 Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1610.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 1 Germany</link> 
+            <title>[DE] TNT Serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6695.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] TNT Serie</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport HD 2 Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1611.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport HD 2 Germany</link> 
+            <title>[DE] Universal HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6696.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] Universal HD</link> 
         </item> 
           <item> 
-            <title>DE: Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 1 HD</link> 
+            <title>[DE] ZDF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://supervip.mine.nu:36000/live/L66Tk0e6t7/gyUAyB2NuD/6697.ts&amp;streamtype=TSDOWNLOADER&amp;name=[DE] ZDF HD</link> 
         </item> 
           <item> 
-            <title>DE: Eurosport 2 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport 2 HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Motorvision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Motorvision</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Sport News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1609.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport News HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SELECT-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-1</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SELECT-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-2</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SELECT-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1712.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-3</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SELECT-4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-4</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SELECT-5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT-5</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SELECT 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SELECT 6</link> 
-        </item> 
-          <item> 
-            <title>DE: ZDF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link> 
-        </item> 
-          <item> 
-            <title>DE: VOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1583.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Universal HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1628.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: TNT Serie HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1625.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Serie HD</link> 
-        </item> 
-          <item> 
-            <title>DE: TNT Film TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film TCM</link> 
-        </item> 
-          <item> 
-            <title>DE: TLC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1586.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Tele 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tele 5 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SyFy HD Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,DE: SyFy HD Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SyFy HD Deutschland</link> 
+            <title>**** Deutsch ****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,**** Deuts&amp;streamtype=TSDOWNLOADER&amp;name=**** Deutsch ****</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: Super RTL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL HD</link> 
+            <title>RTL De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL De</link> 
         </item> 
           <item> 
-            <title>DE: Sport1 HD (Germany)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport1 HD (Germany)</link> 
+            <title>SUPER RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPER RTL</link> 
         </item> 
           <item> 
-            <title>DE: Spiegel Geschichte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1606.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Spiegel Geschichte HD</link> 
+            <title>RTL Passion DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Passion DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Nostalgie Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1600.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Nostalgie Germany</link> 
+            <title>RTL Plug</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Plug</link> 
         </item> 
           <item> 
-            <title>DE: Sky Krimi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi</link> 
+            <title>RTL Nitro DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Nitro DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Hits HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,DE: Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits HD Germany</link> 
+            <title>3sat DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=3sat DE</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>A&amp;E DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Emotion Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Emotion Germany</link> 
+            <title>Animal Planet  DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet  DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Comedy Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy Germany</link> 
+            <title>ANIXE DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIXE DE</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Cinema 24 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1592.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 24 HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Cinema 1 HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1591.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 1 HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Bundesliga HD 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1612.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD 1</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Atlantic HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Action HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1593.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Action HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Sixx HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Sat 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1581.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Sat 1 Gold HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1582.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1 Gold HD</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Passion Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Passion Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Nitro HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro HD</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Living</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL HD</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1622.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Crime HD</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1579.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Romance TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1633.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Romance TV</link> 
-        </item> 
-          <item> 
-            <title>DE: ProSieben MAXX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ProSieben MAXX HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Prosieben HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Prosieben HD</link> 
-        </item> 
-          <item> 
-            <title>DE: National Geographic HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1603.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geographic HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: NatGeo Wild HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NatGeo Wild HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: MGM HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1598.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Kinowelt TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1623.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kinowelt TV</link> 
-        </item> 
-          <item> 
-            <title>DE: Kabel 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1584.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: History Channel HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1605.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History Channel HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: Heimatkanal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Heimatkanal</link> 
-        </item> 
-          <item> 
-            <title>DE: Goldstar TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Goldstar TV</link> 
-        </item> 
-          <item> 
-            <title>DE: Fox HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD Germany</link> 
-        </item> 
-          <item> 
-            <title>DE: DMAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1608.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Disney XD Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,DE: Disney XD Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD Deutschland</link> 
+            <title>Fox Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1637.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: Disney Junior HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1636.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior HD Germany</link> 
+            <title>Astro TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=Astro TV DE</link> 
         </item> 
           <item> 
-            <title>DE: Disney Cinemagic HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1635.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic HD Germany</link> 
+            <title>ATV AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATV AT</link> 
         </item> 
           <item> 
-            <title>DE: Disney Channel HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1634.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel HD Germany</link> 
+            <title>ATV HD AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATV HD AT</link> 
         </item> 
           <item> 
-            <title>DE: Discovery HD Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,DE: Discovery HD Deuts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD Deutschland</link> 
+            <title>ATV2 AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATV2 AT</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1607.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>AXN  DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/613.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN  DE</link> 
         </item> 
           <item> 
-            <title>DE: Das Erste HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1576.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste HD</link> 
+            <title>Boomerang DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang DE</link> 
         </item> 
           <item> 
-            <title>DE: Cartoon Network Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Cartoon Network Germany</link> 
+            <title>BR Fernsehen Nord DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR Fernsehen Nord DE</link> 
         </item> 
           <item> 
-            <title>DE: Boomerang Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang Germany</link> 
+            <title>BR Fernsehen Süd DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR Fernsehen Süd DE</link> 
         </item> 
           <item> 
-            <title>DE: AXN HD Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD Germany</link> 
+            <title>BTV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV DE</link> 
         </item> 
           <item> 
-            <title>DE: A-E Germany</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1620.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: A-E Germany</link> 
+            <title>CLASSICA DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLASSICA DE</link> 
         </item> 
           <item> 
-            <title>DE: 13th Street HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.177:25461/live/test/test/1629.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13th Street HD</link> 
+            <title>Das Erste  DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=Das Erste  DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: ALEX-BERLIN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31755.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: ALEX-BERLIN</link> 
+            <title>3Sat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=3Sat</link> 
         </item> 
           <item> 
-            <title>SKY DE: ANIXE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31756.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: ANIXE</link> 
+            <title>ARD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARD</link> 
         </item> 
           <item> 
-            <title>SKY DE: ARD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31757.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: ARD</link> 
+            <title>ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Augsburg TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31758.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Augsburg TV</link> 
+            <title>Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD</link> 
         </item> 
           <item> 
-            <title>SKY DE: AUSTRIA 24 TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31759.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: AUSTRIA 24 TV</link> 
+            <title>Disney Cinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinemagic</link> 
         </item> 
           <item> 
-            <title>SKY DE: BLK Regional TV Burgenlandkreis</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31760.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: BLK Regional TV Burgenlandkreis</link> 
+            <title>Kika</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kika</link> 
         </item> 
           <item> 
-            <title>SKY DE: DAF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31762.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: DAF</link> 
+            <title>N24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=N24</link> 
         </item> 
           <item> 
-            <title>SKY DE: Deutsche Welle (Asia)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Deuts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Deutsche Welle (Asia)</link> 
+            <title>ORF 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF 1</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31765.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>ORF 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF 2</link> 
         </item> 
           <item> 
-            <title>SKY DE: Deutsche Welle (L.A)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Deuts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Deutsche Welle (L.A)</link> 
+            <title>Pro 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pro 7</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31766.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>PRO 7 MAXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRO 7 MAXX</link> 
         </item> 
           <item> 
-            <title>SKY DE: Deutsche Welle (U.S.A)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Deuts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Deutsche Welle (U.S.A)</link> 
+            <title>RTL PASS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL PASS</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31767.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>Sat 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sat 1 HD</link> 
         </item> 
           <item> 
-            <title>SKY DE: Deutsches Anlegerfernsehen</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Deuts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Deutsches Anlegerfernsehen</link> 
+            <title>Sixx</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sixx</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31768.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>Sky Cinema 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Donau TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31769.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Donau TV</link> 
+            <title>Sky Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy</link> 
         </item> 
           <item> 
-            <title>SKY DE: ELBEKANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31771.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: ELBEKANAL</link> 
+            <title>Sky Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Emotion</link> 
         </item> 
           <item> 
-            <title>SKY DE: EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31772.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: EURONEWS</link> 
+            <title>Sky Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Fox</link> 
         </item> 
           <item> 
-            <title>SKY DE: FILSTALWELLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31774.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: FILSTALWELLE</link> 
+            <title>Sky Germany 13 Street</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany 13 Street</link> 
         </item> 
           <item> 
-            <title>SKY DE: HALLE TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31775.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: HALLE TV 1</link> 
+            <title>Sky Germany Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany Action</link> 
         </item> 
           <item> 
-            <title>SKY DE: HALLE TV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31776.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: HALLE TV 2</link> 
+            <title>Sky Germany Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany Atlantic</link> 
         </item> 
           <item> 
-            <title>SKY DE: JOIZ DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31778.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: JOIZ DE</link> 
+            <title>Sky Germany AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany AXN</link> 
         </item> 
           <item> 
-            <title>SKY DE: Light Channel TV Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Light Channel TV Deuts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Light Channel TV Deutschland</link> 
+            <title>Sky Germany History Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany History Channel</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31781.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: MUNCHEN TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31784.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: MUNCHEN TV</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: NDR Hamburg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31786.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: NDR Hamburg</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: NDR Hamburg HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31787.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: NDR Hamburg HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: NDR Meck.-Vorp.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31788.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: NDR Meck.-Vorp.</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: NDR Meck.-Vorp. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31789.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: NDR Meck.-Vorp. HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: NDR Schleswig-Hol.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31790.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: NDR Schleswig-Hol.</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: NDR Schleswig-Hol. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31791.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: NDR Schleswig-Hol. HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Parlamentsfernsehen1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Parlaments&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Parlamentsfernsehen1</link> 
+            <title>Sky Germany Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Germany Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany Hits</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31798.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>SKY DE: Parlamentsfernsehen2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Parlaments&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Parlamentsfernsehen2</link> 
+            <title>Sky Germany Krimi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany Krimi</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31799.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>Sky Germany MGM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany MGM</link> 
         </item> 
           <item> 
-            <title>SKY DE: Ran 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31800.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Ran 1</link> 
+            <title>Sky Germany NatGeo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany NatGeo Wild</link> 
         </item> 
           <item> 
-            <title>SKY DE: RBW</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31801.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: RBW</link> 
+            <title>Sky Germany TNT Film</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Germany TNT Film</link> 
         </item> 
           <item> 
-            <title>SKY DE: RIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31802.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: RIC</link> 
+            <title>Sky Nostalgie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Nostalgie</link> 
         </item> 
           <item> 
-            <title>SKY DE: SERVUS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SERVUS TV</link> 
+            <title>SKY SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SYFY</link> 
         </item> 
           <item> 
-            <title>SKY DE: SWR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31807.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SWR</link> 
+            <title>SPORTDIGITAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTDIGITAL</link> 
         </item> 
           <item> 
-            <title>SKY DE: TAGESSCHAU 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31808.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: TAGESSCHAU 24</link> 
+            <title>VOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOX</link> 
         </item> 
           <item> 
-            <title>SKY DE: WDR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/31814.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: WDR</link> 
+            <title>ZDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF</link> 
         </item> 
           <item> 
-            <title>SKY DE: RTL Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25652.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: RTL Living</link> 
+            <title>Deluxe Music DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deluxe Music DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Nick Jr</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25654.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Junior</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Heimakanal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25655.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Heimakanal</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: E! Entertainm. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25656.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: E! Entertainm. HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: tv Aktuell</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25658.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: tv Aktuell</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: 13th HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7562.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: 13th HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: 13 TH STREET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2725.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: 13 TH STREET</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: †Goldstar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7547.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: †Goldstar</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: ZDF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2012.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: ZDF HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Spiegel Geschichte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7655.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Spiegel Geschichte HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Rtl Passion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7225.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Rtl Passion</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Rtl Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7224.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Rtl Crime</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: 3sat</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2019.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: 3sat</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Orf 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2261.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Orf 1</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Orf 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2262.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Orf 2</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SRF 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/10575.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SRF 1</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SRF 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/10576.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SRF 2</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SRF INFO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25595.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SRF INFO</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Kabel 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/10054.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Kabel 1 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Sky Arts HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Arts HD</link> 
+            <title>Deutsches Musik Fernsehen DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Deuts&amp;streamtype=TSDOWNLOADER&amp;name=Deutsches Musik Fernsehen DE</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3021.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>SKY DE: RTL 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2728.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: RTL 2</link> 
+            <title>Discovery Channel  DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel  DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: MGM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3001.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: MGM</link> 
+            <title>Disney Channel DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Kika HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2999.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Kika HD</link> 
+            <title>Disney Cinemagic DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinemagic DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7549.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Fox HD</link> 
+            <title>Disney Junior DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2996.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Fox</link> 
+            <title>Disney XD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Orf Eins &amp; ORF 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2994.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Orf Eins &amp; ORF 3</link> 
+            <title>DKULTUR DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=DKULTUR DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: PRO 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2726.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: PRO 7</link> 
+            <title>E8 Television DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=E8 Television DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sat1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2020.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sat1</link> 
+            <title>EWTN DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=EWTN DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sat 1 Gold</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25651.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sat 1 Gold</link> 
+            <title>Family TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=Family TV DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2009.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: RTL</link> 
+            <title>Folx TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Folx TV DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: RTL Nitro</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2027.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: RTL Nitro</link> 
+            <title>FOX  DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX  DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: SuperRTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2028.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SuperRTL</link> 
+            <title>Fox Series DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Series DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2026.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Boomerang</link> 
+            <title>Goldstar TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Goldstar TV DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: TNT Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: TNT Comedy HD</link> 
+            <title>GOTV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOTV DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Das Erste</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2008.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Das Erste</link> 
+            <title>Gute Laune TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gute Laune TV DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: History HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: History HD</link> 
+            <title>Heimatkanal DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=Heimatkanal DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: DMAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: DMAX HD</link> 
+            <title>History DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=History DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3024.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Cartoon Network</link> 
+            <title>hr fernsehen DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=hr fernsehen DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2992.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Disney Channel</link> 
+            <title>HSE24 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=HSE24 DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Prosieben HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/4131.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Prosieben HD</link> 
+            <title>HSE24 TREND DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=HSE24 TREND DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Pro7 MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3010.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Pro7 MAX</link> 
+            <title>Junior TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=Junior TV DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Universal HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2997.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Universal HD</link> 
+            <title>Kabel 1 AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel 1 AT</link> 
         </item> 
           <item> 
-            <title>SKY DE: Cinemagic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7561.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Cinemagic HD</link> 
+            <title>kabel eins HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=kabel eins HD DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25657.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Disney XD</link> 
+            <title>KiKa DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=KiKa DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7651.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Disney Junior</link> 
+            <title>Kinowelt TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kinowelt TV DE</link> 
         </item> 
           <item> 
-            <title>SKY DE: Cinema Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Cinema Hits HD</link> 
+            <title>L-TV/TVM DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=L-TV/TVM DE</link> 
+        </item> 
+          <item> 
+            <title>LT1-OOE DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=LT1-OOE DE</link> 
+        </item> 
+          <item> 
+            <title>MediaShop- Neuheiten DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=MediaShop- Neuheiten DE</link> 
+        </item> 
+          <item> 
+            <title>MediasparTV Homeshopping DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=MediasparTV Homeshopping DE</link> 
+        </item> 
+          <item> 
+            <title>Mei Musi TV DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mei Musi TV DE</link> 
+        </item> 
+          <item> 
+            <title>MeinTVShop DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=MeinTVShop DE</link> 
+        </item> 
+          <item> 
+            <title>n-tv DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=n-tv DE</link> 
+        </item> 
+          <item> 
+            <title>N24 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=N24 DE</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo Wild HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild HD DE</link> 
+        </item> 
+          <item> 
+            <title>NDR HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=NDR HD DE</link> 
+        </item> 
+          <item> 
+            <title>ORF 2 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF 2 DE</link> 
+        </item> 
+          <item> 
+            <title>ORF 2E DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF 2E DE</link> 
+        </item> 
+          <item> 
+            <title>ORF eins DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF eins DE</link> 
+        </item> 
+          <item> 
+            <title>ORF III AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF III AT</link> 
+        </item> 
+          <item> 
+            <title>ORF III DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF III DE</link> 
+        </item> 
+          <item> 
+            <title>ORF SPORT  AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF SPORT  AT</link> 
+        </item> 
+          <item> 
+            <title>ORF1 AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF1 AT</link> 
+        </item> 
+          <item> 
+            <title>ORF2 AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF2 AT</link> 
+        </item> 
+          <item> 
+            <title>ORF2E AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORF2E AT</link> 
+        </item> 
+          <item> 
+            <title>Phoenix DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=Phoenix DE</link> 
+        </item> 
+          <item> 
+            <title>ProSieben AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben AT</link> 
+        </item> 
+          <item> 
+            <title>ProSieben Maxx DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=ProSieben Maxx DE</link> 
+        </item> 
+          <item> 
+            <title>PULS 4 AT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PULS 4 AT</link> 
+        </item> 
+          <item> 
+            <title>Sky 1 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 1 DE</link> 
+        </item> 
+          <item> 
+            <title>zdf info DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=zdf info DE</link> 
+        </item> 
+          <item> 
+            <title>ZDF NEO DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF NEO DE</link> 
+        </item> 
+          <item> 
+            <title>Zee One DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zee One DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 1</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 2</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 3</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 4</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 5</link> 
+        </item> 
+          <item> 
+            <title>Sky Select 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Select 6</link> 
+        </item> 
+          <item> 
+            <title>Arte De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte De</link> 
+        </item> 
+          <item> 
+            <title>Sixx De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sixx De</link> 
+        </item> 
+          <item> 
+            <title>Dmax De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dmax De</link> 
+        </item> 
+          <item> 
+            <title>13th Street De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th Street De</link> 
+        </item> 
+          <item> 
+            <title>Discovery Channel DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel DE</link> 
+        </item> 
+          <item> 
+            <title>History Channel DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=History Channel DE</link> 
+        </item> 
+          <item> 
+            <title>WDR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=WDR</link> 
+        </item> 
+          <item> 
+            <title>National Geographic DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic DE</link> 
+        </item> 
+          <item> 
+            <title>Prosieben De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prosieben De</link> 
+        </item> 
+          <item> 
+            <title>Pro7 Maxx De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pro7 Maxx De</link> 
+        </item> 
+          <item> 
+            <title>TNT Film De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Film De</link> 
+        </item> 
+          <item> 
+            <title>TNT Serie De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT Serie De</link> 
+        </item> 
+          <item> 
+            <title>ZDF De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF De</link> 
+        </item> 
+          <item> 
+            <title>Fox De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox De</link> 
+        </item> 
+          <item> 
+            <title>Vox De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vox De</link> 
+        </item> 
+          <item> 
+            <title>Kabel 1 De</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kabel 1 De</link> 
+        </item> 
+          <item> 
+            <title>Sky Atlantic DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema24 DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema24 DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Emotion DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Emotion DE</link> 
+        </item> 
+          <item> 
+            <title>Sky Hits DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Hits DE</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7559.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.2.82.147:25461/live/888ab/888ab/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Cinema Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7584.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Cinema Family HD</link> 
+            <title>DE:Sky_Select_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7554.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Cinema HD</link> 
+            <title>DE:Sky_Select_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_2</link> 
         </item> 
           <item> 
-            <title>SKY DE: Cinema +1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Cinema +1 HD</link> 
+            <title>DE:Sky_Select_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_3</link> 
         </item> 
           <item> 
-            <title>SKY DE: Cinema +24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7654.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Cinema +24 HD</link> 
+            <title>DE:Sky_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Comedy</link> 
         </item> 
           <item> 
-            <title>Sky DE: Nostalgie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/6386.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky DE: Nostalgie</link> 
+            <title>DE:Sky_Cinema_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Cinema_24</link> 
         </item> 
           <item> 
-            <title>SKY DE: MGM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7555.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: MGM HD</link> 
+            <title>DE:Sky_Cinema_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Cinema_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Krimi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3009.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Krimi</link> 
+            <title>DE:Sky_Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Cinema</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Hits</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKY DE: Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Hits</link> 
+            <title>DE:Sky_Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Atlantic</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3008.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>DE:Sky_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Action</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Comedy</link> 
+            <title>DE:Sky_Select_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_4</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Cinema 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3007.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Cinema 1</link> 
+            <title>DE:Sky_Krimi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Krimi</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Atlantic</link> 
+            <title>DE:Bundesliga_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Bundesliga_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Action HD</link> 
+            <title>DE:Sky_Sport_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Emotion</link> 
+            <title>DE:Sky_Sport_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_2</link> 
         </item> 
           <item> 
-            <title>SKY DE: TNT Glitz HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/25650.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: TNT Glitz HD</link> 
+            <title>DE:13th_Street</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/5/5/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:13th_Street</link> 
         </item> 
           <item> 
-            <title>SKY DE: TNT Film</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3014.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: TNT Film</link> 
+            <title>DE:Sky_Select_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: TNT Series HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3041.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: TNT Series HD</link> 
+            <title>DE:Sky_Select_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_2</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7560.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 1 HD</link> 
+            <title>DE:Sky_Select_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_3</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/1995.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 1</link> 
+            <title>DE:Sky_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Comedy</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7565.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 2 HD</link> 
+            <title>DE:Sky_Cinema_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Cinema_24</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 2</link> 
+            <title>DE:Sky_Cinema_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Cinema_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Bundesliga 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7556.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 1 HD</link> 
+            <title>DE:Sky_Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Cinema</link> 
         </item> 
           <item> 
-            <title>SKY DE: Bundesliga 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7583.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 1</link> 
+            <title>DE:Sky_Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Atlantic</link> 
         </item> 
           <item> 
-            <title>SKY DE: Bundesliga 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8678.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 2 HD</link> 
+            <title>DE:Sky_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Action</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Sport Austria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3025.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport Austria</link> 
+            <title>DE:Sky_Select_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Select_4</link> 
         </item> 
           <item> 
-            <title>SKY DE: Eurosport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7557.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Eurosport HD</link> 
+            <title>DE:Sky_Krimi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Krimi</link> 
         </item> 
           <item> 
-            <title>SKY DE: Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/6385.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Eurosport</link> 
+            <title>DE:Bundesliga_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Bundesliga_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Kinowelt</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/7551.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Kinowelt</link> 
+            <title>DE:Sky_Sport_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_1</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16720.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 3 HD</link> 
+            <title>DE:Sky_Sport_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky_Sport_2</link> 
         </item> 
           <item> 
-            <title>SKY DE: Sky Sport 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16721.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 4 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Sky Sport 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16722.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 5 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Sky Sport 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16723.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 6 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Sky Sport 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16724.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 7 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Sky Sport 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16725.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 8 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Sky Sport 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16726.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 9 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Sky Sport 10 &amp; 11 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/27931.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Sky Sport 10 &amp; 11 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8679.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 3 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8680.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 4 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8681.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 5</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8682.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 6 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 7</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8684.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 8</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 9 &amp; 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/8685.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 9 &amp; 10</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: Bundesliga 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/16719.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: Bundesliga 10</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3113.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3112.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 3 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3111.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 4 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3110.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 5 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3109.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 6 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3108.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 7 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/3115.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 8 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/27929.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 9 HD</link> 
-        </item> 
-          <item> 
-            <title>SKY DE: SKY SELECT 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.254.66.188/live/gio17132/fVcLn0lEYf/27930.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE: SKY SELECT 10 HD</link> 
+            <title>DE:13th_Street</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.99.90:16000/live/ahmed/ahmed/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:13th_Street</link> 
         </item> 
   
