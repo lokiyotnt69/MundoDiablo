@@ -9,49 +9,20 @@
   
   
            <item> 
-            <title>[COLOR yellow] #0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://79.145.55.159:8181/udp/239.0.0.108:8208.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Series [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://79.145.55.159:8181/udp/239.0.3.32:8208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Series</link> 
-        </item>
-		<item> 
             <title>[COLOR yellow] Canal+ Liga [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/TEO/test/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Liga</link> 
-        </item>	
-		<item> 
-            <title>[COLOR yellow] Canal Sur  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://79.145.55.159:8181/udp/239.0.0.49:8208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Sur</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Movistar Series [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://79.145.55.159:8181/udp/239.0.5.4:8208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow] FOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://79.145.55.159:8181/udp/239.0.0.74:8208.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+            <title>[COLOR yellow]  Canal+ Deportes HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/TEO/test/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal+ Deportes HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://79.145.55.159:8181/udp/239.0.0.14:8208.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal+ Futpol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/TEO/test/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Futpol</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  Bein Sport ES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/TEO/test/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name= Bein Sport ES HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
