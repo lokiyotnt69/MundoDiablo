@@ -9,60 +9,31 @@
   
   
   
-		 <item> 
-            <title>[COLOR red] **Lista NueVa ** [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>	      	
-        <item> 
-            <title>[COLOR red] C  LIGA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name=C  LIGA HD</link> 
+		
+		<item> 
+            <title>[COLOR yellow] laliga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4557.ts&amp;streamtype=TSDOWNLOADER&amp;name=laliga</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Deportes [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4271.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deportes</link> 
         </item>
 		<item> 
-            <title>[COLOR red] FUTBOL HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUTBOL HD</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR red] DEPORTES1 HD  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2572.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTES1 HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] BEIN SPORTS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1098/riadh1098/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
-        </item> 		
-		<item> 
-            <title>[COLOR yellow] Canal_LIGA_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_LIGA_HD</link> 
-        </item>	
-		<item> 
-            <title>[COLOR yellow] Canal   Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal   Liga</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Eurosport-1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4267.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport-1</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] F.TBOL-HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4266.ts&amp;streamtype=TSDOWNLOADER&amp;name=F.TBOL-HD</link> 
         </item>		
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Moto-GP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4255.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto-GP</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
+            <title>[COLOR yellow] Canal-Plus-Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3187.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Liga</link> 
+        </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
