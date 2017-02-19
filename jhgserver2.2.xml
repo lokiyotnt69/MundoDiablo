@@ -33,11 +33,7 @@
 		<item> 
             <title>[COLOR yellow] Canal--DEPORTES [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal--DEPORTES</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Moviestar-F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3183.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moviestar-F1</link> 
-        </item>
+        </item>		
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
