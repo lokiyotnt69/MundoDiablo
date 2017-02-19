@@ -154,9 +154,49 @@
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4244.ts&amp;streamtype=TSDOWNLOADER&amp;name=Xtra</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
+            <title>[COLOR red] Lista 2 PLUS [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>			
+		<item> 
+            <title>[COLOR yellow] FOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal-Toros  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Toros</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Canal-Plus-Decasa [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3190.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Decasa</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal-Plus-DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-DCine</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal-Plus-Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3192.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Comedia</link> 
+        </item>	
+		<item> 
+            <title>[COLOR yellow] Canal-Plus-COCINA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3193.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-COCINA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal-Plus-Accion [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Accion</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Canal-Plus-1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Calle-13 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3198.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle-13</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] AXN-White [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3201.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN-White</link> 
+        </item>	
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
