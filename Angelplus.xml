@@ -8,202 +8,42 @@
   
   
   
-        
 		<item> 
-            <title>[COLOR yellow] Accion-HD  [/COLOR]</title> 
+            <title>[COLOR yellow] Accion-HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Accion-HD</link> 
         </item>
-           <item> 
+		<item> 
             <title>[COLOR yellow] AMC  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4283.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
         </item>
+			
 		<item> 
             <title>[COLOR yellow] Baby-TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mark/mark/3982.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby-TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby-TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Boing [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4242.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
         </item>
-		<item> 
-            <title>[COLOR yellow] Canal-Cocina [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Cocina</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal-Decasa [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Decasa</link> 
-        </item>
            <item> 
-            <title>[COLOR yellow] Canal-Odisea [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Odisea</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Caza-Pesca [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4279.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza-Pesca</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Clan-TVE[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4278.ts&amp;streamtype=TSDOWNLOADER&amp;name= Clan-TVE</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4277.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedia</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Comedy-Central [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4276.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy-Central</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Cosmo [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4275.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmo</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Crimen-Inves [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4274.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crimen-Inves</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Dcine-Espanol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4273.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dcine-Espanol</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Dcine-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4272.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dcine-HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Disney-Junior [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4270.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney-Junior</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Disney-XD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4269.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney-XD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Divinity [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4241.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Energy-TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4240.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy-TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4268.ts&amp;streamtype=TSDOWNLOADER&amp;name=Estrenos</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] FDF [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4265.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Fox-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4264.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox-HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Hollywood [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4261.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Iberalia-TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4260.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iberalia-TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] La-Sexta [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4259.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Sexta</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Los40 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4256.ts&amp;streamtype=TSDOWNLOADER&amp;name=Los40</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Nat-Geo-Wild [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat-Geo-Wild</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Nonstopeople [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4253.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nonstopeople</link> 
-        </item>	
-		<item> 
-            <title>[COLOR yellow] Nova [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4252.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Series-Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4251.ts&amp;streamtype=TSDOWNLOADER&amp;name=Series-Xtra</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] SyFy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4250.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4248.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Teledeporte [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4246.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Viajar [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4244.ts&amp;streamtype=TSDOWNLOADER&amp;name=Xtra</link> 
-        </item>
-		<item> 
-            <title>[COLOR red] Lista 2 PLUS [/COLOR]</title> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] FOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Canal-Toros  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Toros</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Canal-Plus-Decasa [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3190.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Decasa</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal-Plus-DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-DCine</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal-Plus-Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3192.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Comedia</link> 
-        </item>	
-		<item> 
-            <title>[COLOR yellow] Canal-Plus-COCINA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3193.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-COCINA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal-Plus-Accion [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-Accion</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Canal-Plus-1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-Plus-1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Calle-13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3198.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle-13</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] AXN-White [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3201.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN-White</link> 
-        </item>	
-		<item> 
-            <title>[COLOR yellow] Canal-DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/2258.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal-DCine</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] CANAL-ACCION-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/2253.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL-ACCION-HD</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
@@ -216,5 +56,73 @@
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>	
-		
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
