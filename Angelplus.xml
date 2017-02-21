@@ -62,10 +62,6 @@
             <title>[COLOR yellow] PARAMOUNT (ES) [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT (ES)</link> 
         </item>
-           <item> 
-            <title>[COLOR yellow]  PANDA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/425.ts&amp;streamtype=TSDOWNLOADER&amp;name= PANDA</link> 
-        </item>
 		<item> 
             <title>[COLOR yellow] HISTORIA [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
@@ -83,44 +79,44 @@
             <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK Jr</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NEOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NATIONAL GEOGRAPHIC HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/429.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NAT GEO WILD HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MEGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  M20 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/433.ts&amp;streamtype=TSDOWNLOADER&amp;name= M20</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] LA SEXTA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] HOLLYWOOD HD (ES) [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD (ES)</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] FOX HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] FOX LIFE HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Fox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
