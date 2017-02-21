@@ -51,8 +51,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://144.217.161.49:25461/live/Dream4Ever/mHmDs4p4Aq/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] M.Dcine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://mydream4.ddns.net:25461/live/Dream4Ever/mHmDs4p4Aq/1711.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=M.Dcine</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
