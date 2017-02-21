@@ -31,10 +31,10 @@
             <link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal   Liga</link> 
         </item>
 		   <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Movistar MotoGP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/Nabile/Nabile/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar MotoGP</link> 
         </item>
 		   <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/Nabile/Nabile/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
         </item>
