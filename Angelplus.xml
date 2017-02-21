@@ -9,23 +9,7 @@
   
   
   
-		<item> 
-            <title>[COLOR yellow] Accion-HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Accion-HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] AMC  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4283.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow] Baby-TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby-TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/4242.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
-        </item>
+		
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
