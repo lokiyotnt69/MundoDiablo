@@ -3,6 +3,284 @@
 
 
   <streamingInfos>
+  
+       
+	   <item> 
+            <title>ES: MOVISTAR LA LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR LA LIGA</link> 
+        </item> 
+          <item> 
+            <title>ES: BEIN LA LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2516.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LA LIGA</link> 
+        </item> 
+          <item> 
+            <title>ES: BEIN LA LIGA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2517.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LA LIGA 1</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR DEPORTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTE</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR DEPORTE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTE 2</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR FUTBOL</link> 
+        </item> 
+          <item> 
+            <title>ES: Beinsport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Beinsport HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR GOLF</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ACCION</link> 
+        </item> 
+          <item> 
+            <title>ES: GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar moto gp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar moto gp</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar F1</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR PARTIDAZO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR PARTIDAZO</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2524.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>ES : MOVISTAR TOROS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES : MOVISTAR TOROS HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2522.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR 0# HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2512.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR 0# HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/3137.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CASA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2429.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CASA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR SERIES XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2426.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES XTRA</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL MUSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2428.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL MUSICA</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2430.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Cocina</link> 
+        </item> 
+          <item> 
+            <title>ES: BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2445.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>ES: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISCOVERY CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>ES : COMEDY CENTRAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1907.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES : COMEDY CENTRAL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
+        </item> 
+          <item> 
+            <title>ES: REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2436.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>ES: MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MEGA</link> 
+        </item> 
+          <item> 
+            <title>ES : Viajar HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1909.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES : Viajar HD</link> 
+        </item> 
+          <item> 
+            <title>ES: La 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2532.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 2</link> 
+        </item> 
+          <item> 
+            <title>ES: La 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2531.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 1</link> 
+        </item> 
+          <item> 
+            <title>ES: BEIN LA LIGA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2438.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN LA LIGA 2</link> 
+        </item> 
+          <item> 
+            <title>ES: ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2530.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ENERGY</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR DCINE Ñ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DCINE Ñ</link> 
+        </item> 
+          <item> 
+            <title>ES: Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2527.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Baby TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Antena 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3</link> 
+        </item> 
+          <item> 
+            <title>ES: antena3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/3135.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: antena3 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Disney channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney channel</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
+        </item> 
+          <item> 
+            <title>ES: History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1928.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: History</link> 
+        </item> 
+          <item> 
+            <title>ES: Hollywood HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood HD</link> 
+        </item> 
+          <item> 
+            <title>ES: SyFy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SyFy HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2421.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>ES: LaSextaHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LaSextaHD</link> 
+        </item> 
+          <item> 
+            <title>ES: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2435.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2434.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX Life</link> 
+        </item> 
+          <item> 
+            <title>ES: CUATRO SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO SD</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2422.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE13</link> 
+        </item> 
+          <item> 
+            <title>ES: Axn White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Axn White</link> 
+        </item> 
+          <item> 
+            <title>ES: 40 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2423.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 40 TV</link> 
+        </item> 
+          <item> 
+            <title>ES: TVE 24 Hora</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE 24 Hora</link> 
+        </item> 
+          <item> 
+            <title>ES: COSMO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1919.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO</link> 
+        </item> 
+          <item> 
+            <title>ES: TVE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1918.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE 2</link> 
+        </item> 
+          <item> 
+            <title>ES: TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2420.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Odisea HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1912.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Odisea HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>ES: Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1906.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1917.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>ES: AXNSpain</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXNSpain</link> 
+        </item> 
+          <item> 
+            <title>ES: Andalucia TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Andalucia TV</link> 
+        </item> 
+          <item> 
+            <title>SP | CANAL+ LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/jZn2lpbjh5/1oz5HGJQsO/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | CANAL+ LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>SP | Taquilla5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/jZn2lpbjh5/1oz5HGJQsO/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla5</link> 
+        </item> 
+          <item> 
+            <title>SP | Taquilla4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/jZn2lpbjh5/1oz5HGJQsO/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP | Taquilla4</link> 
+        </item> 
 
         
 		<item> 
