@@ -49,20 +49,20 @@
             <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7658.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] Eurosport 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] LA LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/15441.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] LA LIGA BAR TV 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/15430.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA BAR TV 1</link> 
         </item>
 		<item> 
-            <title>[COLOR red]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR red] BeIN Sports FHD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/13279.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sports FHD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
