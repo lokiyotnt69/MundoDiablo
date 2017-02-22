@@ -140,30 +140,26 @@
 		<item> 
             <title>[COLOR yellow] TCM [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7665.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7663.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
-        </item>
+        </item>          
 		<item> 
             <title>[COLOR yellow] PARAMOUNT [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] ESTILO DE VIDA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=ttp://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/12539.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESTILO DE VIDA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Sol Musica [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sol Musica</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] VH1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7591.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] IBERALIA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/15425.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
