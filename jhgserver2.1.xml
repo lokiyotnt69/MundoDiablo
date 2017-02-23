@@ -55,10 +55,72 @@
 		<item> 
             <title>[COLOR yellow] M. Futbol [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3744.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Futbol</link> 
+        </item>           
+            <title>[COLOR yellow] M. Depotes 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3747.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Depotes 1</link> 
         </item>
-       
+           <item> 
+            <title>[COLOR yellow] La Liga TV Bar [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3748.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga TV Bar</link> 
+        </item>
 		<item> 
-            <title>[COLOR yellow] #0 HD [/COLOR]</title> 
+            <title>[COLOR yellow] Eurosport 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3759.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal  Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal  Liga</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Canal   Toros [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3756.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal   Toros</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>	   		
+		<item> 
+            <title>[COLOR red] #0 HD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8551.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD</link> 
         </item>
 		<item> 
