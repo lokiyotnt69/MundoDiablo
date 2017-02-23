@@ -4,6 +4,58 @@
 
   <streamingInfos>
   
+  
+  
+  
+  
+         <item> 
+            <title>[COLOR yellow]  LA 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/2435.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA 1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LA 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/1929.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Antena 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/2128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  Cuatro [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/2127.ts&amp;streamtype=TSDOWNLOADER&amp;name= Cuatro</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  La Sexta [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/1926.ts&amp;streamtype=TSDOWNLOADER&amp;name= La Sexta</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/1859.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Caza Y Pesca [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3019.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Teledeporte [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3754.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] Movie Star F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3752.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movie Star F1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M. MotoGp [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3753.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MotoGp</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M. Futbol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3744.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Futbol</link> 
+        </item>
        
 		<item> 
             <title>[COLOR yellow] #0 HD [/COLOR]</title> 
@@ -26,32 +78,28 @@
             <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8571.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CLAN TVE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8583.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TVE</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] DEPORTE 1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8593.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTE 1 HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] DEPORTE 2 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8594.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTE 2 HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  DISCOVERY CHANNEL [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8595.ts&amp;streamtype=TSDOWNLOADER&amp;name= DISCOVERY CHANNEL</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  DISNEY CHANNEL HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8596.ts&amp;streamtype=TSDOWNLOADER&amp;name= DISNEY CHANNEL HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] EUROSPORT 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.rakstar.biz/live/2623/2623/8605.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
