@@ -76,20 +76,20 @@
             <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3756.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal   Toros</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] BeIN Sports Espana [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3738.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN Sports Espana</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal+ Accion [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Accion</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal+ Series [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3018.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Series</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal+ Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.elboxtv.com:1985/live/1234567890/1234567890/3020.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Estrenos</link> 
         </item>		
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
