@@ -4,29 +4,687 @@
 
   <streamingInfos>
   
-    <item> 
+    
+ 
+          <item> 
+            <title>SPORTSKA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5730.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTSKA TV</link> 
+        </item> 
+          <item> 
+            <title>HNTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6005.ts&amp;streamtype=TSDOWNLOADER&amp;name=HNTV</link> 
+        </item> 
+          <item> 
+            <title>SOS KANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5613.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOS KANAL</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 1 (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5185.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 (SR)</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2 (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5186.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 (SR)</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5853.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5977.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 1 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5449.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 1 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 2 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5450.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 2 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 3 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5451.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 3 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 4 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5452.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 4 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 5 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5453.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 5 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 6 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5422.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 6 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 1 HD (HR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7175.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 1 HD (HR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 2 HD (HR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7174.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 2 HD (HR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 3 HD (HR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7173.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 3 HD (HR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 4 HD (HR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7172.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 4 HD (HR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 5 HD (HR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7171.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 5 HD (HR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 1 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5455.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 1 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 2 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5456.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 2 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 3 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5457.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 3 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 4 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5458.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 4 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 5 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5459.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 5 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 1 HD (SR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7170.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 1 HD (SR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 2 HD (SR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7169.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 2 HD (SR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 3 HD (SR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7168.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 3 HD (SR)L2</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 4 HD (SR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7167.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 4 HD (SR)L2</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 1 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5166.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 1 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 2 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4845.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 2 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 3 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5168.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 3 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 4 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4854.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 4 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 5 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4856.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 5 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 6 HD (HR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4858.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 6 HD (HR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 1  HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5642.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 1  HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 2 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5461.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 2 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 3 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5462.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 3 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 4 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5172.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 4 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 5 HD (SR)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5173.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 5 HD (SR)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 1 HD (SR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7178.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 1 HD (SR)L2</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 2 HD (SR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7177.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 2 HD (SR)L2</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 3 HD (SR)L2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7176.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 3 HD (SR)L2</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4989.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB HD</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 1 HD (SLO)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6548.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 1 HD (SLO)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 2 HD (SLO)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6549.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 2 HD (SLO)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB 3 HD (SLO)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6550.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB 3 HD (SLO)</link> 
+        </item> 
+          <item> 
+            <title>SPORT KLUB GOLF (SLO)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6558.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT KLUB GOLF (SLO)</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 1 HD (SLO)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5652.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD (SLO)</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 2 HD (SLO)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5653.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD (SLO)</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 3 HD (SLO)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5654.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD (SLO)</link> 
+        </item> 
+          <item> 
+            <title>beINsport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5816.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5817.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5818.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6027.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 4 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6028.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 5 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6029.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 6 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6030.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 7 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6031.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 8 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6032.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 9 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6033.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 10 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 11 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6034.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 11 HD</link> 
+        </item> 
+          <item> 
+            <title>beINsport 12 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6035.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINsport 12 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 1 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6507.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 2 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6508.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 3 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6509.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 4 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6510.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 5 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 6 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 6 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Supercalcio HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Supercalcio HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5733.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5734.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 24 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport F1 (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5735.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport F1 (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 1 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 2 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 3 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6502.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 3 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 4 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 4 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 5 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 5 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 6 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 6 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport 2 HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2 HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4919.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Milan Channel (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Milan Channel (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Roma Channel (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Roma Channel (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Juventus Channel (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Juventus Channel (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Inter Channel (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Inter Channel (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Moto GP HD (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6513.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto GP HD (ITA)</link> 
+        </item> 
+          <item> 
+            <title>Fox Sport (ITA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6514.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sport (ITA)</link> 
+        </item> 
+          <item> 
+            <title>SKY BUNDESLIGA 1 HD  (MATCH ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5655.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY BUNDESLIGA 1 HD  (MATCH ONLY)</link> 
+        </item> 
+          <item> 
+            <title>SKY BUNDESLIGA 2 HD  (MATCH ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5785.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY BUNDESLIGA 2 HD  (MATCH ONLY)</link> 
+        </item> 
+          <item> 
+            <title>SKY BUNDESLIGA 3 HD  (MATCH ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5200.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY BUNDESLIGA 3 HD  (MATCH ONLY)</link> 
+        </item> 
+          <item> 
+            <title>SKY BUNDESLIGA 4 HD  (MATCH ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6519.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY BUNDESLIGA 4 HD  (MATCH ONLY)</link> 
+        </item> 
+          <item> 
+            <title>SKY BUNDESLIGA 5 HD  (MATCH ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6520.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY BUNDESLIGA 5 HD  (MATCH ONLY)</link> 
+        </item> 
+          <item> 
+            <title>SKY BUNDESLIGA 6 HD  (MATCH ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6521.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY BUNDESLIGA 6 HD  (MATCH ONLY)</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORT NEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5199.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORT NEWS HD</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5656.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5657.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORT AUSTRIJA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5736.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORT AUSTRIJA</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORTS 1 HD (UK)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4807.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 1 HD (UK)</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORTS 2 HD (UK)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4847.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 2 HD (UK)</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORTS 3 HD (UK)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5000.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 3 HD (UK)</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORTS 4 HD (UK)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5933.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 4 HD (UK)</link> 
+        </item> 
+          <item> 
+            <title>SKY SPORTS 5 HD (UK)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5191.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY SPORTS 5 HD (UK)</link> 
+        </item> 
+          <item> 
+            <title>TV ALL SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6468.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV ALL SPORT</link> 
+        </item> 
+          <item> 
+            <title>SUPERSPORT KOSOVA1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4844.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPERSPORT KOSOVA1 HD</link> 
+        </item> 
+          <item> 
+            <title>SUPERSPORT KOSOVA 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4837.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPERSPORT KOSOVA 2 HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL  SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5812.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL  SPORT</link> 
+        </item> 
+          <item> 
+            <title>Sky Sports F1 UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sports F1 UK</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5192.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 1 HD UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5197.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 1 HD UK</link> 
+        </item> 
+          <item> 
+            <title>BT Sport 2 HD UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6393.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT Sport 2 HD UK</link> 
+        </item> 
+          <item> 
+            <title>BT SPORT 3 HD (UK)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6574.ts&amp;streamtype=TSDOWNLOADER&amp;name=BT SPORT 3 HD (UK)</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR  DEPORTES 1 HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6561.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR  DEPORTES 1 HD (ESP)</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR DEPORTES 2 HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5398.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR DEPORTES 2 HD (ESP)</link> 
+        </item> 
+          <item> 
+            <title>BARCELONA TV (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5395.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCELONA TV (ESP)</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR LIGA (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5394.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR LIGA (ESP)</link> 
+        </item> 
+          <item> 
+            <title>BARCA TV (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6564.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV (ESP)</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR  F1 HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6560.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR  F1 HD (ESP)</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR  GOLF (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6562.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR  GOLF (ESP)</link> 
+        </item> 
+          <item> 
+            <title>MOVISTAR GP HD (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6559.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR GP HD (ESP)</link> 
+        </item> 
+          <item> 
+            <title>REAL MARID TV (ESP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6563.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MARID TV (ESP)</link> 
+        </item> 
+          <item> 
+            <title>TSN SPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6993.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN SPORT 1</link> 
+        </item> 
+          <item> 
+            <title>TSN SPORT 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6990.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN SPORT 3</link> 
+        </item> 
+          <item> 
+            <title>TSN SPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6991.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN SPORT 2</link> 
+        </item> 
+          <item> 
+            <title>TSN SPORT 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7000.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN SPORT 4</link> 
+        </item> 
+          <item> 
+            <title>TSN SPORT 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7001.ts&amp;streamtype=TSDOWNLOADER&amp;name=TSN SPORT 5</link> 
+        </item> 
+          <item> 
+            <title>AFN SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7003.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFN SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>AFN SPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6975.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFN SPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>NBA TV HD (USA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6572.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA TV HD (USA)</link> 
+        </item> 
+          <item> 
+            <title>NBA TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6573.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA TV HD</link> 
+        </item> 
+          <item> 
+            <title>C More Sport HD (S)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6233.ts&amp;streamtype=TSDOWNLOADER&amp;name=C More Sport HD (S)</link> 
+        </item> 
+          <item> 
+            <title>C More Fotboll HD (S)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6222.ts&amp;streamtype=TSDOWNLOADER&amp;name=C More Fotboll HD (S)</link> 
+        </item> 
+          <item> 
+            <title>C More Sport (S)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6082.ts&amp;streamtype=TSDOWNLOADER&amp;name=C More Sport (S)</link> 
+        </item> 
+          <item> 
+            <title>C More Golf (S)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6531.ts&amp;streamtype=TSDOWNLOADER&amp;name=C More Golf (S)</link> 
+        </item> 
+          <item> 
+            <title>Viasat Sport (S)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viasat Sport (S)</link> 
+        </item> 
+          <item> 
+            <title>FOX Sport 1 (NL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sport 1 (NL)</link> 
+        </item> 
+          <item> 
+            <title>FOX Sport 2 (NL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5823.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sport 2 (NL)</link> 
+        </item> 
+          <item> 
+            <title>FOX Sport 3 (NL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5824.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sport 3 (NL)</link> 
+        </item> 
+          <item> 
+            <title>FOX Sports 4 (Nl)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FOX Sports&amp;streamtype=TSDOWNLOADER&amp;name=FOX Sports 4 (Nl)</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5833.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Ziggo Sport Voetbal HD (NL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6108.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Voetbal HD (NL)</link> 
+        </item> 
+          <item> 
+            <title>Ziggo Sport Select 1 Hd (NL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6109.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Select 1 Hd (NL)</link> 
+        </item> 
+          <item> 
+            <title>Ziggo Sport Racing HD (NL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Racing HD (NL)</link> 
+        </item> 
+          <item> 
+            <title>Ziggo Sport Extra 1 (NL)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ziggo Sport Extra 1 (NL)</link> 
+        </item> 
+          <item> 
+            <title>FUTBOL 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5988.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUTBOL 1</link> 
+        </item> 
+          <item> 
+            <title>FUTBOL 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6492.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUTBOL 2</link> 
+        </item> 
+          <item> 
+            <title>FUTBOL 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5971.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUTBOL 3</link> 
+        </item> 
+          <item> 
+            <title>SPORT TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6003.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1</link> 
+        </item> 
+          <item> 
+            <title>DIEMA SPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIEMA SPORT 1</link> 
+        </item> 
+          <item> 
+            <title>DIEMA SPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6751.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIEMA SPORT 2</link> 
+        </item> 
+          <item> 
+            <title>SUPER TENIS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPER TENIS HD</link> 
+        </item> 
+          <item> 
+            <title>MATCH ARENA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5972.ts&amp;streamtype=TSDOWNLOADER&amp;name=MATCH ARENA</link> 
+        </item> 
+          <item> 
+            <title>MATCH NAS SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5991.ts&amp;streamtype=TSDOWNLOADER&amp;name=MATCH NAS SPORT</link> 
+        </item> 
+          <item> 
+            <title>MOTORSPORT 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5909.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORSPORT 7</link> 
+        </item> 
+          <item> 
+            <title>FOX SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5913.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS</link> 
+        </item> 
+          <item> 
+            <title>A1 SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6983.ts&amp;streamtype=TSDOWNLOADER&amp;name=A1 SPORT</link> 
+        </item> 
+          <item> 
+            <title>FIGHT BOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4884.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT BOX HD</link> 
+        </item> 
+          <item> 
+            <title>BOX NATION (UK)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4988.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOX NATION (UK)</link> 
+        </item> 
+          <item> 
+            <title>FIGHT CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6024.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>FIGHT NETWORK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/6477.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK HD</link> 
+        </item> 
+          <item> 
+            <title>EXTREME SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5990.ts&amp;streamtype=TSDOWNLOADER&amp;name=EXTREME SPORTS</link> 
+        </item> 
+          <item> 
+            <title>SPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5926.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT 2</link> 
+        </item> 
+          <item> 
+            <title>TJK SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5982.ts&amp;streamtype=TSDOWNLOADER&amp;name=TJK SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/5969.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>SPORT TONIGHT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/7166.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TONIGHT</link> 
+        </item> 
+          <item> 
+            <title>OLIMPIC CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://two-brothers.dyndns.tv:8000/live/basic/basic/4797.ts&amp;streamtype=TSDOWNLOADER&amp;name=OLIMPIC CHANNEL HD</link> 
+        </item> 
+          <item> 
             <title>***** WORLD SPORTS *****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=***** WORLD SPORTS *****</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=***** WORLD SPORTS *****</link> 
         </item> 
           <item> 
             <title>STAR SPORTS 1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 1HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 1HD</link> 
         </item> 
           <item> 
             <title>STAR SPORTS 2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 2HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 2HD</link> 
         </item> 
           <item> 
             <title>STAR SPORTS 3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 3HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 3HD</link> 
         </item> 
           <item> 
             <title>STAR SPORTS 4HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 4HD</link> 
-        </item> 
-          <item> 
-            <title>GOL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/955.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 4HD</link> 
         </item> 
           <item> 
             <title>AD Sports 1</title> 
@@ -34,7 +692,7 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>AD Sports 2</title> 
@@ -42,7 +700,7 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>Dubai Sports 1</title> 
@@ -50,7 +708,7 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>Dubai Sports 3</title> 
@@ -58,498 +716,1190 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>Dubai Racing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/974.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dubai Racing</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/974.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dubai Racing</link> 
         </item> 
           <item> 
             <title>CANAL LIGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL LIGA HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL LIGA HD</link> 
         </item> 
           <item> 
             <title>CANAL GOLF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL GOLF HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL GOLF HD</link> 
         </item> 
           <item> 
             <title>CANAL FUTBALL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL FUTBALL HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL FUTBALL HD</link> 
         </item> 
           <item> 
             <title>CANAL DEPORTES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DEPORTES HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DEPORTES HD</link> 
         </item> 
           <item> 
             <title>Real Madrid TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV</link> 
         </item> 
           <item> 
             <title>EQUIDIA LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA LIVE</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA LIVE</link> 
         </item> 
           <item> 
             <title>BEIN SPORT 1 FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 1 FR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 1 FR</link> 
         </item> 
           <item> 
             <title>BEIN SPORT 2 FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 2 FR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 2 FR</link> 
         </item> 
           <item> 
             <title>BEIN SPORT 3 FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 3 FR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 3 FR</link> 
         </item> 
           <item> 
             <title>FR Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Eurosport 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Eurosport 1</link> 
         </item> 
           <item> 
             <title>FR Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Eurosport 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Eurosport 2</link> 
         </item> 
           <item> 
             <title>AR|BEIN 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 1 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 2 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/940.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/940.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 3 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/939.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 4 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/939.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 4 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/938.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 5 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/938.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 5 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 6 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 6 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 7 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 7 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 8 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 8 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 9 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 9 HD</link> 
         </item> 
           <item> 
             <title>AR|BEIN 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 10 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 10 HD</link> 
         </item> 
           <item> 
             <title>BARCA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
         </item> 
           <item> 
             <title>DE | Sky Sport Bundesliga 1 uuu...</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3045.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Sport Bundesliga 1 uuu...</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3045.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Sport Bundesliga 1 uuu...</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3046.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3046.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3047.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3047.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3048.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3048.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3049.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3049.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3050.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3050.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3051.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3051.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3052.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3052.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3053.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3053.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3054.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3054.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!</link> 
         </item> 
           <item> 
             <title>ARENA SPORT 1 HR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3076.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 1 HR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3076.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 1 HR</link> 
         </item> 
           <item> 
             <title>ARENA SPORT 2 HR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3077.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 2 HR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3077.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 2 HR</link> 
         </item> 
           <item> 
             <title>ARENA SPORT 3 HR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3078.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 3 HR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3078.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 3 HR</link> 
         </item> 
           <item> 
             <title>ARENA SPORT 4 HR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/pXW0LuNYbR/bVTmnxqToT/3079.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 4 HR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/nmdZ1PzWoG/9Cp4e9WgZd/3079.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 4 HR</link> 
         </item> 
           <item> 
-            <title>VIP: Bein Sport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18047.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP: Bein Sport News</link> 
+            <title>***** WORLD SPORTS *****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=***** WORLD SPORTS *****</link> 
         </item> 
           <item> 
-            <title>Bein Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 1 HD</link> 
+            <title>STAR SPORTS 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 1HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21069.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>STAR SPORTS 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 2HD</link> 
         </item> 
           <item> 
-            <title>Bein Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 2 HD</link> 
+            <title>STAR SPORTS 3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 3HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21068.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>STAR SPORTS 4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=STAR SPORTS 4HD</link> 
         </item> 
           <item> 
-            <title>Bein Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21067.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 4 HD</link> 
+            <title>AD Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AD Sports&amp;streamtype=TSDOWNLOADER&amp;name=AD Sports 1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21066.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>Bein Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 5 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21065.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein Sports 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 6 HD</link> 
+            <title>AD Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,AD Sports&amp;streamtype=TSDOWNLOADER&amp;name=AD Sports 2</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21064.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>Bein Sports 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 7 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21063.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein Sports 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 8 HD</link> 
+            <title>Dubai Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Dubai Sports&amp;streamtype=TSDOWNLOADER&amp;name=Dubai Sports 1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21062.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>Bein Sports 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 9 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21061.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein Sports 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 10 HD</link> 
+            <title>Dubai Sports 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Dubai Sports&amp;streamtype=TSDOWNLOADER&amp;name=Dubai Sports 3</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21060.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>Bein Sports 11 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 11 HD</link> 
+            <title>Dubai Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/974.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dubai Racing</link> 
+        </item> 
+          <item> 
+            <title>CANAL LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL GOLF HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL FUTBALL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL FUTBALL HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL DEPORTES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DEPORTES HD</link> 
+        </item> 
+          <item> 
+            <title>Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV</link> 
+        </item> 
+          <item> 
+            <title>EQUIDIA LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA LIVE</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT 1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 1 FR</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT 2 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 2 FR</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT 3 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT 3 FR</link> 
+        </item> 
+          <item> 
+            <title>FR Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>FR Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 1 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 2 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/940.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 3 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/939.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 4 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/938.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 5 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 6 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 7 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 8 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 9 HD</link> 
+        </item> 
+          <item> 
+            <title>AR|BEIN 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR|BEIN 10 HD</link> 
+        </item> 
+          <item> 
+            <title>BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>DE | Sky Sport Bundesliga 1 uuu...</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3045.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | Sky Sport Bundesliga 1 uuu...</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3046.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3047.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3048.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3049.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3050.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3051.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3052.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3053.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3054.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 1 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3076.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 1 HR</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 2 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3077.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 2 HR</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 3 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3078.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 3 HR</link> 
+        </item> 
+          <item> 
+            <title>ARENA SPORT 4 HR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://biwsat.com:8080/live/tbK7JJKv21/VOd5ysABkn/3079.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARENA SPORT 4 HR</link> 
+        </item> 
+          <item> 
+            <title>BeinSports1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21059.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6616.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>Bein Sports 12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports 12 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21058.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Bein Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:0,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
+            <title>BeinSports2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports2</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21070.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6617.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>AR: Bein NBA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18054.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: Bein NBA HD</link> 
+            <title>BeinSports3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports3</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18251.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 1 HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6618.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18253.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 2 HD</link> 
+            <title>BeinSports4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports4</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18255.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 3 HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6619.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18257.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 4 HD</link> 
+            <title>BeinSports5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports5</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18259.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 5 HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6620.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18261.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 6 HD</link> 
+            <title>BeinSports6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports6</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18263.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 7 HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6621.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18265.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 8 HD</link> 
+            <title>BeinSports7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports7</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18267.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 9 HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6622.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18249.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 10 HD</link> 
+            <title>BeinSports8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BeinSports&amp;streamtype=TSDOWNLOADER&amp;name=BeinSports8</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 11 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18269.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 11 HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6623.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18271.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 12 HD</link> 
+            <title>OSN ANIMAL PLANET HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6585.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN ANIMAL PLANET HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18273.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 13 HD</link> 
+            <title>OSN BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6584.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN BABY TV</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 14 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18984.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 14 HD</link> 
+            <title>OSN MBC VARIETY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6608.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MBC VARIETY HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 15 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18986.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 15 HD</link> 
+            <title>OSN SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6625.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SERIES</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 16 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18988.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 16 HD</link> 
+            <title>OSN SERIES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6624.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SERIES 2 HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 1 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18252.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 1 Low</link> 
+            <title>AR: VIP MBC PRO SPORTS 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5202.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: VIP MBC PRO SPORTS 4</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 2 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18254.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 2 Low</link> 
+            <title>VIP OSN: MBC DRAMA + HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6607.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC DRAMA + HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 3 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18256.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 3 Low</link> 
+            <title>VIP| MBC PRO SPORT 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6609.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| MBC PRO SPORT 3 HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 4 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18258.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 4 Low</link> 
+            <title>OSN BBC FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6583.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN BBC FIRST</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 5 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18260.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 5 Low</link> 
+            <title>OSN COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6582.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN COMEDY CENTRAL</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 6 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18262.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 6 Low</link> 
+            <title>OSN DISCOVERY FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6581.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN DISCOVERY FAMILY</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 7 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18264.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 7 Low</link> 
+            <title>OSN DISCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6580.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN DISCOVERY HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 8 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18266.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 8 Low</link> 
+            <title>OSN DISCOVERY IDX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6579.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN DISCOVERY IDX HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 9 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18268.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 9 Low</link> 
+            <title>OSN DISCOVERY SCIENCE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6578.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN DISCOVERY SCIENCE HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 10 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18250.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 10 Low</link> 
+            <title>OSN DIZNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6577.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN DIZNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 11 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18270.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 11 Low</link> 
+            <title>OSN DIZNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6576.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN DIZNEY JUNIOR</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 12 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18272.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 12 Low</link> 
+            <title>OSN DIZNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6575.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN DIZNEY XD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 13 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18274.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 13 Low</link> 
+            <title>OSN E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6574.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN E</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 14 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18985.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 14 Low</link> 
+            <title>OSN FASHION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6573.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FASHION</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 15 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18987.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 15 Low</link> 
+            <title>OSN FASHION BOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6572.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FASHION BOX HD</link> 
         </item> 
           <item> 
-            <title> beIN SPORTS 16 low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/18989.ts&amp;streamtype=TSDOWNLOADER&amp;name= beIN SPORTS 16 low</link> 
+            <title>OSN FINE LIVING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6571.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FINE LIVING</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 1 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21032.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 1 HD ( H265 TEST )</link> 
+            <title>OSN FIRST  2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6570.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FIRST  2</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 2 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21030.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 2 HD ( H265 TEST )</link> 
+            <title>OSN FIRST COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6569.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FIRST COMEDY</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 3 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21029.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 3 HD ( H265 TEST )</link> 
+            <title>OSN FIRST COMEDY  2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6568.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FIRST COMEDY  2</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 4 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21028.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 4 HD ( H265 TEST )</link> 
+            <title>OSN FIRST HBO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6567.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FIRST HBO HD</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 5 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21027.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 5 HD ( H265 TEST )</link> 
+            <title>OSN FIRST HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6566.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FIRST HD</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 6 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21026.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 6 HD ( H265 TEST )</link> 
+            <title>OSN FN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6565.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FN HD</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 7 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21025.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 7 HD ( H265 TEST )</link> 
+            <title>OSN FOOD NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6564.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FOOD NETWORK</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 8 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21024.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 8 HD ( H265 TEST )</link> 
+            <title>OSN FOX XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6563.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FOX XTRA</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 9 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21023.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 9 HD ( H265 TEST )</link> 
+            <title>OSN FUEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6562.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN FUEL</link> 
         </item> 
           <item> 
-            <title>beIN SPORTS 10 HD ( H265 TEST )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/21031.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 10 HD ( H265 TEST )</link> 
+            <title>OSN HISTORY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6561.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN HISTORY</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12821.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 1 HD</link> 
+            <title>OSN HISTORY2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6560.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN HISTORY2</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12826.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 2 HD</link> 
+            <title>OSN ITV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6559.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN ITV</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12825.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 3 HD</link> 
+            <title>OSN JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6558.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN JIM JAM</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12824.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 4 HD</link> 
+            <title>OSN MBC  DRAMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6557.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MBC  DRAMA HD</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12823.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 5 HD</link> 
+            <title>OSN MOVIES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6547.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES 2 HD</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12822.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 6 HD</link> 
+            <title>OSN MOVIES ACTION 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6556.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES ACTION 2</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12939.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 7 HD</link> 
+            <title>OSN MOVIES ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6589.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES ACTION HD</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12940.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 8 HD</link> 
+            <title>OSN MOVIES COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6555.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES COMEDY</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 9 HD ( 720p )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12941.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 9 HD ( 720p )</link> 
+            <title>OSN MOVIES DRAMA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6553.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES DRAMA 2</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12942.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 10 HD</link> 
+            <title>OSN MOVIES DRAMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6554.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES DRAMA HD</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 11 HD ( 1080p )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/15674.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 11 HD ( 1080p )</link> 
+            <title>OSN MOVIES FAMILY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6552.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES FAMILY HD</link> 
         </item> 
           <item> 
-            <title>AR: beIN Sport 12 HD ( 1080p )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/15673.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR: beIN Sport 12 HD ( 1080p )</link> 
+            <title>OSN MOVIES FESTIVAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6551.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES FESTIVAL HD</link> 
         </item> 
           <item> 
-            <title>VIP: ALFAJR 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/6632.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP: ALFAJR 1 HD</link> 
+            <title>OSN MOVIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6550.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES HD</link> 
         </item> 
           <item> 
-            <title>VIP: ALFAJR 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12423.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP: ALFAJR 2 HD</link> 
+            <title>OSN MOVIES PREMIERE  2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6549.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES PREMIERE  2</link> 
         </item> 
           <item> 
-            <title>VIP: ALFAJR 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12424.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP: ALFAJR 3 HD</link> 
+            <title>OSN MOVIES PREMIERE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6548.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MOVIES PREMIERE HD</link> 
         </item> 
           <item> 
-            <title>VIP: ALFAJR 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.207.234:8080/live/B8VQz2mS2T/LKFHhkqXLk/12425.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP: ALFAJR 4 HD</link> 
+            <title>OSN MYHD DOCU BOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6546.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MYHD DOCU BOX</link> 
+        </item> 
+          <item> 
+            <title>OSN MYHD FAST&amp;FUN BOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6545.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN MYHD FAST&amp;FUN BOX HD</link> 
+        </item> 
+          <item> 
+            <title>OSN NAT GEO PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6544.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN NAT GEO PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>OSN NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6543.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>OSN NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6542.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>OSN Animuax HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6591.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Animuax HD</link> 
+        </item> 
+          <item> 
+            <title>OSN Cine movies HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6592.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Cine movies HD</link> 
+        </item> 
+          <item> 
+            <title>OSN YAHALA HD 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6590.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN YAHALA HD 2</link> 
+        </item> 
+          <item> 
+            <title>OSN NICK JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6541.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN NICK JR</link> 
+        </item> 
+          <item> 
+            <title>OSN NICKLODEON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6540.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN NICKLODEON HD</link> 
+        </item> 
+          <item> 
+            <title>OSN OUTDOOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6539.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN OUTDOOR</link> 
+        </item> 
+          <item> 
+            <title>OSN SCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6538.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SCI</link> 
+        </item> 
+          <item> 
+            <title>OSN SOUNDANCE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6537.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SOUNDANCE TV</link> 
+        </item> 
+          <item> 
+            <title>OSN SPORTS1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6536.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SPORTS1 HD</link> 
+        </item> 
+          <item> 
+            <title>OSN SPORTS2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6535.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SPORTS2 HD</link> 
+        </item> 
+          <item> 
+            <title>OSN SPORTS3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6534.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SPORTS3 HD</link> 
+        </item> 
+          <item> 
+            <title>OSN SPORTS4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6533.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SPORTS4 HD</link> 
+        </item> 
+          <item> 
+            <title>OSN STAR MOVIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6532.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN STAR MOVIES HD</link> 
+        </item> 
+          <item> 
+            <title>OSN STAR WORLD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6531.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN STAR WORLD HD</link> 
+        </item> 
+          <item> 
+            <title>OSN SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6530.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN SYFY</link> 
+        </item> 
+          <item> 
+            <title>OSN TLC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6529.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN TLC HD</link> 
+        </item> 
+          <item> 
+            <title>OSN TRACE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6528.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN TRACE</link> 
+        </item> 
+          <item> 
+            <title>OSN TRAVEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6527.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN TRAVEL</link> 
+        </item> 
+          <item> 
+            <title>OSN WWE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6526.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN WWE</link> 
+        </item> 
+          <item> 
+            <title>OSN YAHALA  2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6525.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN YAHALA  2 HD</link> 
+        </item> 
+          <item> 
+            <title>OSN YAHALA CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6524.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN YAHALA CINEMA</link> 
+        </item> 
+          <item> 
+            <title>OSN YAHALA DRAMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6523.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN YAHALA DRAMA HD</link> 
+        </item> 
+          <item> 
+            <title>OSN YAHALA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6522.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN YAHALA HD</link> 
+        </item> 
+          <item> 
+            <title>OSN YAHALA SHABAB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/6521.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN YAHALA SHABAB</link> 
+        </item> 
+          <item> 
+            <title>OSN: YAHALA-SHABAB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/1926.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN: YAHALA-SHABAB</link> 
+        </item> 
+          <item> 
+            <title>VIP| Almajd Quran</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4858.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| Almajd Quran</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5121.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC 1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC_MAX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5114.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC_MAX_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC DRAMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5116.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC DRAMA HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5117.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC ACTION HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5118.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC_4_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5119.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC_3_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5120.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC_2_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: Boomerang HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5804.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: Boomerang HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5805.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: Comedy Central HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: Crime &amp; Investigation Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5806.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: Crime &amp; Investigation Network</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: Discovery Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5807.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: Discovery Family HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5808.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: Discovery Science HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: E! Entertainement</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5809.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: E! Entertainement</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: Nickelodeon Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5816.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: Nickelodeon Junior</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: SeeVii Al Aoula HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5817.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: SeeVii Al Aoula HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: SeeVii Beelink HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5818.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: SeeVii Beelink HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: SeeVii Drama HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5819.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: SeeVii Drama HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: SeeVii Shamiya HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5820.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: SeeVii Shamiya HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: Sundance TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5821.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: Sundance TV HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN: TLC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5822.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN: TLC HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN YAHALA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4886.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN YAHALA HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: Cinema1-leb</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5133.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: Cinema1-leb</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: Cinema2-leb</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5131.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: Cinema2-leb</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN_MOVIES FESTIVAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4890.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN_MOVIES FESTIVAL HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN YAHALA SHABAB_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4885.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN YAHALA SHABAB_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN YAHALA DRAMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4887.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN YAHALA DRAMA HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN YAHALA CINEMA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4888.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN YAHALA CINEMA_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN STAR WORLD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4903.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN STAR WORLD HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4904.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN ON DEMAND</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4905.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN ON DEMAND</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN NaT Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4877.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN NaT Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN NaT Geo Peopel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4878.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN NaT Geo Peopel</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN :BBC First</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5460.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN :BBC First</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIESKIDS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4868.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIESKIDS HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIES PREMIERE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4892.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIES PREMIERE_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIES PREMIER 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4902.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIES PREMIER 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4889.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIES HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIES FAMILY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4896.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIES FAMILY HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIES ACTION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4891.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIES ACTION_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIE DRAMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4894.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIE DRAMA HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN MOVIE COMDEY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4895.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN MOVIE COMDEY HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4854.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Food Network</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Fix &amp; Foxi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4855.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Fix &amp; Foxi</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN FIRST HBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4911.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN FIRST HBO</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN FIRST COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4912.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN FIRST COMEDY</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4913.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN FIRST</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Fight Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4856.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Fight Network HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Fatafeat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4867.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Fatafeat</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN FAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4879.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN FAN</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4870.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN DISCOVERY SCIENCE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4899.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN DISCOVERY SCIENCE HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Discovery Sc HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4907.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Discovery Sc HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN DISCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4900.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN DISCOVERY HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN BoxOffice 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4873.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN BoxOffice 3</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN BoxOffice 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4872.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN BoxOffice 2</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Fashion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5337.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Fashion</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN BoxOffice 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4871.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN BoxOffice 1</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Animal Planet HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4874.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Animal Planet HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| Fox-Family Movies HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4837.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| Fox-Family Movies HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| Fox Action Movies HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4838.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| Fox Action Movies HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| Bein-Jeem HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4833.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| Bein-Jeem HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| Bein-Baraem-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4834.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| Bein-Baraem-HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BeIN Baraem</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4853.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BeIN Baraem</link> 
+        </item> 
+          <item> 
+            <title>VIP| Almajd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4859.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| Almajd</link> 
+        </item> 
+          <item> 
+            <title>VIP| SN AL SAFWA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4883.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| SN AL SAFWA</link> 
+        </item> 
+          <item> 
+            <title>OSN Home Cinema 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5657.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Home Cinema 1</link> 
+        </item> 
+          <item> 
+            <title>OSN Home Cinema 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5658.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Home Cinema 2</link> 
+        </item> 
+          <item> 
+            <title>OSN Home Cinema 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5659.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Home Cinema 3</link> 
+        </item> 
+          <item> 
+            <title>OSN Home Cinema 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5660.ts&amp;streamtype=TSDOWNLOADER&amp;name=OSN Home Cinema 4</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN CRIKET HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5332.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN CRIKET HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| AD Sport 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5475.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| AD Sport 1HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| AD Sport 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5474.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| AD Sport 2HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN  Ad Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5472.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN  Ad Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: adsports3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP OSN: adsports&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: adsports3</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4981.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN  Ad Sport 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5471.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN  Ad Sport 4 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: adsports4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP OSN: adsports&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: adsports4</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4980.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN  Ad Sport 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5470.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN  Ad Sport 5 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: adsports5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP OSN: adsports&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: adsports5</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4979.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: adsports6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP OSN: adsports&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: adsports6</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4978.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN sport1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4897.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN sport1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4863.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN_sport3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4898.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN_sport3_HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN Sport 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4866.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN Sport 4 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| OSN wwe HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4869.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| OSN wwe HD</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC Pro Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP OSN: MBC Pro Sports&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC Pro Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5113.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>VIP OSN: MBC Pro Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,VIP OSN: MBC Pro Sports&amp;streamtype=TSDOWNLOADER&amp;name=VIP OSN: MBC Pro Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5112.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5446.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5436.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS 1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEINSPORTS 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5437.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEINSPORTS 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5438.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS 3 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEINS PORTS 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5439.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEINS PORTS 4 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5440.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS 5 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEINS PORTS 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5441.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEINS PORTS 6 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5442.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS 7 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5443.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS 8 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5444.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS 9 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP| BEIN SPORTS 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/5445.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP| BEIN SPORTS 10 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES SPORT2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4927.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES SPORT2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES SPORT1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4926.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES SPORT1 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES OH HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4930.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES OH HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES DRAMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4932.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES DRAMA HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES DOCU HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4933.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES DOCU HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES COMEDY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4934.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES COMEDY HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES CINEMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4935.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES CINEMA HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4931.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES ACTION HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4924.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES 5 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4923.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES 4 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4922.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES 3 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4921.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES 2 HD</link> 
+        </item> 
+          <item> 
+            <title>VIP IL: YES 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/5oRyabpknT/Tq3D6EwrUF/4920.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIP IL: YES 1 HD</link> 
         </item> 
   
