@@ -12,41 +12,40 @@
 		
 		
 		<item> 
-            <title>[COLOR yellow] GOL-TV [/COLOR]</title> 
+            <title>[COLOR yellow] Nickelodeon [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL-TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] C+FUTBALHD [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+FUTBALHD</link> 
-        </item>
-			
+        </item>			
 		<item> 
             <title>[COLOR yellow] beINSPORT [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSPORT_ES</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] C+LIGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+LIGA HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] BEIN_LA_LIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_LA_LIGA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] LaLiga_TV_Bar.HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga_TV_Bar.HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] EUROSPORT.1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT.1</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MOVISTAR_F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR_F1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M.MOTOGP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.MOTOGP</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
