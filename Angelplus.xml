@@ -7,13 +7,10 @@
   
   	
 		
+		
 		<item> 
-            <title>[COLOR yellow]FOX_HD  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/11/11/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/active/active/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
