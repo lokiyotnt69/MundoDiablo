@@ -33,16 +33,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar MotoGP</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TOROS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS HD</link> 
         </item>		
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] BEIN SPORT ES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/LtPhlsMOOV/2ze4l4Kedp/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT ES</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CANAL+ LIGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.116.156:8080/live/LtPhlsMOOV/2ze4l4Kedp/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ LIGA HD</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
