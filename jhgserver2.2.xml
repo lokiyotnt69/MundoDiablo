@@ -9,33 +9,20 @@
   
     
 		<item> 
-            <title>[COLOR yellow] BEIN_LALIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_LALIGA</link> 
+            <title>[COLOR yellow] Bein Sports [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] BEIN_SPORTS  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/3186.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORTS</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] LALIGA_TV_BAR_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/5408.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA_TV_BAR_HD</link> 
+            <title>[COLOR yellow] Bein LaLiga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein LaLiga</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] LaLigatv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLigatv</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] GOL TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2038.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
