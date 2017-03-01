@@ -9,108 +9,69 @@
   
 		
 		
-		
-		
 		<item> 
-            <title>[COLOR yellow] Nickelodeon [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL-TV</link> 
+            <title>[COLOR yellow] # 0 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] C+FUTBALHD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+FUTBALHD</link> 
+            <title>[COLOR yellow] M.Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.CINE N [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.CINE N</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.DCine</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.comedia</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] M.Acción [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.SERIES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.SERIES HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.Series Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Series Xtra</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] beINSPORT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSPORT_ES</link> 
+            <title>[COLOR yellow] Hollywood [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] C+LIGA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+LIGA HD</link> 
+            <title>[COLOR yellow] M.Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Xtra</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] BEIN_LA_LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_LA_LIGA</link> 
+            <title>[COLOR yellow] Fox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] LaLiga_TV_Bar.HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga_TV_Bar.HD</link> 
+            <title>[COLOR yellow] COSMO HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] EUROSPORT.1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT.1</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] MOVISTAR_F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR_F1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M.MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/soni/soni/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.MOTOGP</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
         </item>		
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] AMC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] SYFY HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Calle 13 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
