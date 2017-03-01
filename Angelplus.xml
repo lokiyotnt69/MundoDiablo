@@ -15,42 +15,21 @@
  
 		
 		
-		
 		<item> 
-            <title>[COLOR yellow]Canal+Toros [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/mourad/mourad/5743.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Toros</link> 
+            <title>[COLOR yellow] #0_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0_HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Calle_13_Spain [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/mourad/mourad/5980.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle_13_Spain</link> 
+            <title>[COLOR yellow] TELECINCO_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO_HD</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] Canal+Accion [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/mourad/mourad/5954.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Accion</link> 
+            <title>[COLOR yellow] LA_SEXTA_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_SEXTA_HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Canal+Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/nabil/nabil/5959.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Liga</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] cuatro [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iprotv.ddnss.me/live/?z=1&u=demo0PRy9616sL&s=Vy9pINUT9O9AAi6sXF&id=49&t=live&f=ts&amp;streamtype=TSDOWNLOADER&amp;name=cuatro</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] FOX+HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX+HD</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
