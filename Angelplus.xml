@@ -27,8 +27,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/mourad/mourad/5954.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Accion</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal+Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/nabil/nabil/5959.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Liga</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
