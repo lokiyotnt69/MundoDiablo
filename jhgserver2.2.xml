@@ -7,85 +7,18 @@
   <streamingInfos>
 
   
-        <item> 
-            <title>[COLOR yellow] Canal_FUTBOL_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_FUTBOL_HD</link> 
+    
+		<item> 
+            <title>[COLOR yellow] BEIN_LALIGA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_LALIGA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Canal_DEPORTES 2_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_DEPORTES 2_HD</link> 
+            <title>[COLOR yellow] BEIN_SPORTS  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/3186.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORTS</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] Canal_LIGA_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_LIGA_HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Canal_LIGA_2_HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.56.222:8000/live/1/2/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_LIGA_2_HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] Canal   Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyiptv.zapto.org:8000/live/iptv1790/179065287/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal   Liga</link> 
-        </item>		 
-		<item> 
-            <title>[COLOR yellow] M.Deportes1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.161.49:25461/live/Dream4Ever/mHmDs4p4Aq/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Deportes1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M.Futbol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.161.49:25461/live/Dream4Ever/mHmDs4p4Aq/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Futbol</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow] MOVISTAR F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] MOTO GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://158.69.52.43:8000/live/Cristian/12345/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] M. MotoGp [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MotoGp</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M. Formula 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. Formula 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] GOL TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Movistar moto gp [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1916.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar moto gp</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://91.92.115.130/live/MohammadKAbdelhadi/MohammadKAbdelhadi360/1915.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] beIN La Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN La Liga</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  LA LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/15441.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA LIGA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  La Liga TV Bar [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/arsenal/kHwVbbMEG5/13006.ts&amp;streamtype=TSDOWNLOADER&amp;name= La Liga TV Bar</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] LALIGA_TV_BAR_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://service1.astrovida.tv:8000/live/MEN7e4GTD40/kljgYwEXGAh/5408.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA_TV_BAR_HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
