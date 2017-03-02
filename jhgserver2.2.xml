@@ -27,14 +27,6 @@
            <item> 
             <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar MotoGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar MotoGP</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] TOROS HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/3090.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS HD</link> 
         </item>		
 		<item> 
             <title>[COLOR yellow] BEIN SPORT ES [/COLOR]</title> 
@@ -55,11 +47,7 @@
 		<item> 
             <title>[COLOR yellow] Eurosport1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M.MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.MOTOGP</link> 
-        </item>
+        </item>		
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
