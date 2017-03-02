@@ -34,7 +34,7 @@
         </item>
 		<item> 
             <title>[COLOR yellow] TOROS HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/3090.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS HD</link> 
         </item>		
 		<item> 
             <title>[COLOR yellow] BEIN SPORT ES [/COLOR]</title> 
@@ -57,8 +57,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M.MOTOGP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.MOTOGP</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
