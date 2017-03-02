@@ -52,12 +52,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Mega [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Andalucia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1377.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
