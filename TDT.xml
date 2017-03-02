@@ -6,74 +6,22 @@
 		
 		
 		
-		
+	
 		<item> 
             <title>[COLOR yellow] LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Atreseries [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Cuatro [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] TELECINCO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
+            <title>[COLOR yellow] LA 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] lasexta [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=lasexta</link> 
+            <title>[COLOR yellow] Antena 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Neox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Nova [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ENERGY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] DIVINITY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] MTV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Mega [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Andalucia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1377.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 			
 		<item> 
