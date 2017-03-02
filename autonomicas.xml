@@ -11,34 +11,6 @@
 		
 		
 		<item> 
-            <title>[COLOR yellow] LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/serge3/serge3/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/serge3/serge3/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Atreseries [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/serge3/serge3/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Cuatro [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/serge3/serge3/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] TELECINCO  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/serge3/serge3/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] lasexta [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/serge3/serge3/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=lasexta</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Neox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/serge3/serge3/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
-        </item>			
-		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
