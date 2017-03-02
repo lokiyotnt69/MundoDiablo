@@ -7,22 +7,6 @@
 		
 		
 	
-		<item> 
-            <title>[COLOR yellow] LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] LA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Antena 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
-        </item>
 			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
