@@ -4,6 +4,7 @@
 
 
 
+
   <streamingInfos>
 
   
@@ -13,8 +14,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13932.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA HD</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] LA LIGA TV BAR HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13933.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV BAR HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
