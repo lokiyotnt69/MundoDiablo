@@ -11,11 +11,11 @@
 	
 		<item> 
             <title>[COLOR yellow] DISNEY JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://comunidadiptv.org/online/estable/premium/?pass=6wGfHQ7M0t.m3u&canal=20.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://comunidadiptv.org/online/estable/premium/?pass=6wGfHQ7M0t.m3u&canal=20.ts</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] FOX HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://comunidadiptv.org/online/estable/premium/?pass=6wGfHQ7M0t.m3u&canal=33.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://comunidadiptv.org/online/estable/premium/?pass=6wGfHQ7M0t.m3u&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
