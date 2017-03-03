@@ -1,111 +1,267 @@
-   <?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-   
-  <streamingInfos>
 
-		
-		<item> 
-            <title>RO:Digi_Sport_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6020.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_1</link> 
+
+<streamingInfos>
+ 
+          <item> 
+            <title>[ RO ] ANIMAL PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24329.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] ANIMAL PLANET</link> 
         </item> 
           <item> 
-            <title>RO:Digi_Sport_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6021.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_2</link> 
+            <title>[ RO ] ANTENA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24328.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] ANTENA 3</link> 
         </item> 
           <item> 
-            <title>RO:Digi_Sport_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6022.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_3</link> 
+            <title>[ RO ] ANTENA STARS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24327.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] ANTENA STARS</link> 
         </item> 
           <item> 
-            <title>RO:Digi_Sport_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6023.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Digi_Sport_4</link> 
+            <title>[ RO ] AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24326.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] AXN</link> 
         </item> 
           <item> 
-            <title>RO:Discovery_channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6048.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Discovery_channel</link> 
+            <title>[ RO ] Antena 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18595.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Antena 1</link> 
         </item> 
           <item> 
-            <title>RO:Discovery_ID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6047.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Discovery_ID</link> 
+            <title>[ RO ] B1 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24325.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] B1 TV</link> 
         </item> 
           <item> 
-            <title>RO:Discovery_science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6046.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Discovery_science</link> 
+            <title>[ RO ] BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24324.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] BOOMERANG</link> 
         </item> 
           <item> 
-            <title>RO:Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6045.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Disney_Channel</link> 
+            <title>[ RO ] CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24323.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] CARTOON NETWORK</link> 
         </item> 
           <item> 
-            <title>RO:Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6044.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Disney_Junior</link> 
+            <title>[ RO ] Cinemax 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24281.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Cinemax 2</link> 
         </item> 
           <item> 
-            <title>RO:DOLCE_SPORT2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6029.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:DOLCE_SPORT2_HD</link> 
+            <title>[ RO ] Canal 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18594.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Canal 2</link> 
         </item> 
           <item> 
-            <title>RO:Eurosport_1_HD_RO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6028.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Eurosport_1_HD_RO</link> 
+            <title>[ RO ] Cinemax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24282.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Cinemax</link> 
         </item> 
           <item> 
-            <title>RO:Eurosport_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6027.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Eurosport_2</link> 
+            <title>[ RO ] DIGI SPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24320.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] DIGI SPORT 2</link> 
         </item> 
           <item> 
-            <title>RO:Eurosport_2_HD_RO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6026.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Eurosport_2_HD_RO</link> 
+            <title>[ RO ] Canal 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18593.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Canal 3 HD</link> 
         </item> 
           <item> 
-            <title>RO:Extreme_Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,RO:Extreme_Sports&amp;streamtype=TSDOWNLOADER&amp;name=RO:Extreme_Sports</link> 
+            <title>[ RO ] Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24280.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Discovery Science</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6025.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[ RO ] DISNEY Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24318.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] DISNEY Channel</link> 
         </item> 
           <item> 
-            <title>RO:Film_Cafe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6034.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Film_Cafe</link> 
+            <title>[ RO ] DIVA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24317.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] DIVA TV</link> 
         </item> 
           <item> 
-            <title>RO:Food_Network_HD_RO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6043.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Food_Network_HD_RO</link> 
+            <title>[ RO ] DOLCE SPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24316.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] DOLCE SPORT 1</link> 
         </item> 
           <item> 
-            <title>RO:HBO_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6036.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:HBO_2</link> 
+            <title>[ RO ] DOLCE SPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24315.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] DOLCE SPORT 2</link> 
         </item> 
           <item> 
-            <title>RO:HBO_Romania</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6035.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:HBO_Romania</link> 
+            <title>[ RO ] CT Piu24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18592.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] CT Piu24</link> 
         </item> 
           <item> 
-            <title>RO:JimJam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6042.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:JimJam</link> 
+            <title>[ RO ] CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24322.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] CNN</link> 
         </item> 
           <item> 
-            <title>RO:National_Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6041.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:National_Geographic</link> 
+            <title>[ RO ] ETNO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24314.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] ETNO TV</link> 
         </item> 
           <item> 
-            <title>RO:Nat_Geo_Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6040.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Nat_Geo_Wild</link> 
+            <title>[ RO ] Digi Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24321.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Digi Sport 1</link> 
         </item> 
           <item> 
-            <title>RO:Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6039.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Nickelodeon</link> 
+            <title>[ RO ] EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24312.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] EUROSPORT 1</link> 
         </item> 
           <item> 
-            <title>RO:ProCinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6037.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:ProCinema</link> 
+            <title>[ RO ] EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24313.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] EURONEWS</link> 
         </item> 
           <item> 
-            <title>RO:Sport_RO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6024.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Sport_RO_HD</link> 
+            <title>[ RO ] DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24319.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] DISCOVERY</link> 
         </item> 
           <item> 
-            <title>RO:Viasat_History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipc.proipciptv.com:8000/live/phillips/phillips/6038.ts&amp;streamtype=TSDOWNLOADER&amp;name=RO:Viasat_History</link> 
+            <title>[ RO ] TV TRWAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18570.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TV TRWAM</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TV Kino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18572.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TV Kino</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TV Asta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18573.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TV Asta</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] THT Bravo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18574.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] THT Bravo</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Salajeanul TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18578.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Salajeanul TV</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Retro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18580.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Retro</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Ren TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18581.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Ren TV</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Realtaea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18582.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Realtaea TV</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] RTR Moldova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18579.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] RTR Moldova</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Pro TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18583.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Pro TV</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Prima Love</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18584.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Prima Love</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Prima</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18586.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Prima</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Plus Barrandov</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18587.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Plus Barrandov</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24310.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Moldova Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18589.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Moldova Sport</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TVR 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18569.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TVR 1</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] MBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18591.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] MBC</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TVR 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18568.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TVR 2</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TVR Moldova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18567.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TVR Moldova</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TeleM Iasi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18576.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TeleM Iasi</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TeleMoldovaPlus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18575.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TeleMoldovaPlus</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Viasat Nature</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24283.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Viasat Nature</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Viasat History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24284.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Viasat History</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] TV 1000</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24285.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] TV 1000</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Tv Sud Est</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18571.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Tv Sud Est</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] FilmBox Plus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24305.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] FilmBox Plus</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] FilmBox Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24304.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] FilmBox Family</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] FilmBox Extra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24303.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] FilmBox Extra HD</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] FilmBox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24306.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] FilmBox</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] FAVORIT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24308.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] FAVORIT</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24309.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] EUROSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24311.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] EUROSPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Noe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18588.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Noe</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] acasa hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24330.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] acasa hd</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] acasa gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24331.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] acasa gold</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] Moldova 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18590.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] Moldova 1</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] prima cool</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18585.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] prima cool</link> 
+        </item> 
+          <item> 
+            <title>[ RO ] slagr tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/18577.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO ] slagr tv</link> 
+        </item> 
+          <item> 
+            <title>[ RO: ] Actualitatea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24059.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO: ] Actualitatea TV</link> 
+        </item> 
+          <item> 
+            <title>[ RO: ] Bit TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/adriano/W60xv8e8YV/24060.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ RO: ] Bit TV</link> 
         </item> 
   
