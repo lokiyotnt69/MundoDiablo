@@ -8,103 +8,8 @@
   
   
 		
-	 <item> 
-            <title>SP-ES: Canal  Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/4125.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP-ES: Canal  Futbol</link> 
-        </item> 
-          <item> 
-            <title>SP-ES: Canal  Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/4127.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP-ES: Canal  Liga</link> 
-        </item> 
-          <item> 
-            <title>SP-ES: Canal  Liga 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/4126.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP-ES: Canal  Liga 2</link> 
-        </item> 
-          <item> 
-            <title>SP-ES: REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/4124.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP-ES: REAL MADRID TV</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Boing</link> 
-        </item> 
-          <item> 
-            <title>ES: Disney Junior HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Junior HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Hollywood HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood HD</link> 
-        </item> 
-          <item> 
-            <title>ES: La sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La sexta</link> 
-        </item> 
-          <item> 
-            <title>ES: M MotoGP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M MotoGP HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Movistar Formula1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Formula1</link> 
-        </item> 
-          <item> 
-            <title>ES: Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nova</link> 
-        </item> 
-          <item> 
-            <title>ES: Odisea</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Odisea</link> 
-        </item> 
-          <item> 
-            <title>ES: TAQUILLA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TAQUILLA 1 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TAQUILLA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TAQUILLA 2 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TAQUILLA 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TAQUILLA 3 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TAQUILLA 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2180.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TAQUILLA 4 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TAQUILLA 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2181.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TAQUILLA 5 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TAQUILLA 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2182.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TAQUILLA 6 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: TAQUILLA 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TAQUILLA 7 HD</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2186.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA 10 HD</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2184.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA 8 HD</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA 9 HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport 1 HD</link> 
-        </item> 
-           <item> 
+	 
+        <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -115,8 +20,7 @@
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
+        </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
