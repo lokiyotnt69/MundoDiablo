@@ -10,28 +10,28 @@
 		
 	 
         <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TOROS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow]  TOROS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13602.ts&amp;streamtype=TSDOWNLOADER&amp;name= TOROS HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M. ESTRENOS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS HD</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M. ESTRENOS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M. ACCION HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13603.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ACCION HD</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M. ACCION  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ACCION</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
