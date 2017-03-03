@@ -78,12 +78,12 @@
             <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13914.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA LIGA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MOTO GP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/12345/67890/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MotoGP HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://d4life.dtdns.net:8000/live/Raul/Raul/3841.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotoGP HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
