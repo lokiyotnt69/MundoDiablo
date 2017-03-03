@@ -4,1402 +4,678 @@
   
   
   <streamingInfos>
- 
- 
- 
- 
- 
- 
-         <item> 
-            <title>Tf1 ift HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tf1 ift HD</link> 
+  
+  
+   <item> 
+            <title>TF1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 HD</link> 
         </item> 
           <item> 
             <title>France 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 2 HD</link> 
         </item> 
           <item> 
             <title>France 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 3 HD</link> 
         </item> 
           <item> 
             <title>France 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 4 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 4 HD</link> 
         </item> 
           <item> 
             <title>France 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 5 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 5 HD</link> 
         </item> 
           <item> 
             <title>M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 HD</link> 
         </item> 
           <item> 
             <title>Arte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte HD</link> 
         </item> 
           <item> 
             <title>C8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 HD</link> 
         </item> 
           <item> 
             <title>W9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 HD</link> 
         </item> 
           <item> 
             <title>TMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC HD</link> 
         </item> 
           <item> 
             <title>HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
         </item> 
           <item> 
             <title>NRJ 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ 12</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ 12</link> 
         </item> 
           <item> 
             <title>13ème Rue HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=13ème Rue HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=13ème Rue HD</link> 
         </item> 
           <item> 
             <title>NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
         </item> 
           <item> 
             <title>Paris première HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris première HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris première HD</link> 
         </item> 
           <item> 
             <title>6Ter HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=6Ter HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=6Ter HD</link> 
         </item> 
           <item> 
             <title>C STAR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=C STAR HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=C STAR HD</link> 
         </item> 
           <item> 
             <title>iTELE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=iTELE HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=iTELE HD</link> 
         </item> 
           <item> 
             <title>RTL 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2343.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 9 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2343.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 9 HD</link> 
         </item> 
           <item> 
             <title>France Ô HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=France Ô HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=France Ô HD</link> 
         </item> 
           <item> 
-            <title>L’Equipe 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=L’Equipe 21</link> 
+            <title>L'Equipe 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=L'Equipe 21</link> 
         </item> 
           <item> 
             <title>INFOSPORT+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+</link> 
         </item> 
           <item> 
             <title>Numéro 23</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numéro 23</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numéro 23</link> 
         </item> 
           <item> 
             <title>France 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 24</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 24</link> 
         </item> 
           <item> 
             <title>Cherie 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cherie 25 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cherie 25 HD</link> 
         </item> 
           <item> 
             <title>France info HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3180.ts&amp;streamtype=TSDOWNLOADER&amp;name=France info HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3180.ts&amp;streamtype=TSDOWNLOADER&amp;name=France info HD</link> 
         </item> 
           <item> 
             <title>BFM TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM TV HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM TV HD</link> 
         </item> 
           <item> 
             <title>BFM Business</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM Business</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM Business</link> 
         </item> 
           <item> 
             <title>BFM SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM SPORT HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM SPORT HD</link> 
         </item> 
           <item> 
             <title>SPORT 365 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3179.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT 365 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3179.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT 365 HD</link> 
         </item> 
           <item> 
             <title>LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
         </item> 
           <item> 
             <title>Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews</link> 
         </item> 
           <item> 
             <title>TV5 Monde</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 Monde</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 Monde</link> 
         </item> 
           <item> 
             <title>LCP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCP</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCP</link> 
         </item> 
           <item> 
             <title>TV BREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV BREIZH</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV BREIZH</link> 
         </item> 
           <item> 
             <title>Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy HD</link> 
         </item> 
           <item> 
             <title>E ! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2856.ts&amp;streamtype=TSDOWNLOADER&amp;name=E ! Entertainment</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2856.ts&amp;streamtype=TSDOWNLOADER&amp;name=E ! Entertainment</link> 
         </item> 
           <item> 
             <title>TEVA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA HD</link> 
         </item> 
           <item> 
             <title>Comedie+ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie+ HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie+ HD</link> 
         </item> 
           <item> 
             <title>TCM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM HD</link> 
         </item> 
           <item> 
             <title>CANAL+ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ HD</link> 
         </item> 
           <item> 
             <title>Canal+ Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3943.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3943.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Low</link> 
         </item> 
           <item> 
             <title>CANAL+ DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE HD</link> 
         </item> 
           <item> 
             <title>Canal+ Decalé Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Decalé Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Decalé Low</link> 
         </item> 
           <item> 
             <title>CANAL+ CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA HD</link> 
         </item> 
           <item> 
             <title>Canal+ Cinema Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3942.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Cinema Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3942.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Cinema Low</link> 
         </item> 
           <item> 
             <title>CANAL+ FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FAMILY HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FAMILY HD</link> 
         </item> 
           <item> 
             <title>Canal+ Family Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3939.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Family Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3939.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Family Low</link> 
         </item> 
           <item> 
             <title>CANAL+ SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT HD</link> 
         </item> 
           <item> 
             <title>Canal+ Sport Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3941.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Sport Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3941.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Sport Low</link> 
         </item> 
           <item> 
             <title>CANAL+ SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SERIES HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SERIES HD</link> 
         </item> 
           <item> 
             <title>Canal+ Series Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3940.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Series Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3940.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Series Low</link> 
         </item> 
           <item> 
             <title>Cine+ Premier HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Premier HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Premier HD</link> 
         </item> 
           <item> 
             <title>Cine+ Famiz HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Famiz HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Famiz HD</link> 
         </item> 
           <item> 
             <title>Cine+ Frisson HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Frisson HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Frisson HD</link> 
         </item> 
           <item> 
             <title>Ciné+ Émotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Émotion HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Émotion HD</link> 
         </item> 
           <item> 
             <title>Cine+ Classic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic HD</link> 
         </item> 
           <item> 
             <title>OCS Max HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Max HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Max HD</link> 
         </item> 
           <item> 
             <title>OCS City HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS City HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS City HD</link> 
         </item> 
           <item> 
             <title>OCS Choc HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Choc HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Choc HD</link> 
         </item> 
           <item> 
             <title>OCS Geant HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Geant HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Geant HD</link> 
         </item> 
           <item> 
             <title>CINE FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FX</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FX</link> 
         </item> 
           <item> 
             <title>CINE Polar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE Polar</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE Polar</link> 
         </item> 
           <item> 
             <title>Serie Club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie Club</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie Club</link> 
         </item> 
           <item> 
             <title>Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action</link> 
         </item> 
           <item> 
             <title>Paramount Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel HD</link> 
         </item> 
           <item> 
             <title>RMC Découverte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC Découverte HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC Découverte HD</link> 
         </item> 
           <item> 
             <title>Planete+ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+ HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+ HD</link> 
         </item> 
           <item> 
             <title>Planète+ C.I. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planète+ C.I. HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planète+ C.I. HD</link> 
         </item> 
           <item> 
             <title>Planète+ A&amp;E HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planète+ A&amp;E HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planète+ A&amp;E HD</link> 
         </item> 
           <item> 
             <title>Crime District</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3540.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime District</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3540.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime District</link> 
         </item> 
           <item> 
             <title>National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD</link> 
         </item> 
           <item> 
             <title>NatGeo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo Wild HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo Wild HD</link> 
         </item> 
           <item> 
             <title>Discovery Science HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science HD</link> 
         </item> 
           <item> 
             <title>Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD</link> 
         </item> 
           <item> 
             <title>Science et Vie HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science et Vie HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science et Vie HD</link> 
         </item> 
           <item> 
             <title>Voyage HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage HD</link> 
         </item> 
           <item> 
             <title>ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAUX</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAUX</link> 
         </item> 
           <item> 
             <title>USHUAIA TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA TV HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA TV HD</link> 
         </item> 
           <item> 
             <title>Trek TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trek TV HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trek TV HD</link> 
         </item> 
           <item> 
             <title>Histoire HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire HD</link> 
         </item> 
           <item> 
-            <title>Toute l’Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toute l’Histoire</link> 
+            <title>Toute l'Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toute l'Histoire</link> 
         </item> 
           <item> 
             <title>Seasons hd</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=Seasons hd</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=Seasons hd</link> 
         </item> 
           <item> 
             <title>Chasse et pêche HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et pêche HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et pêche HD</link> 
         </item> 
           <item> 
             <title>SFR SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1 HD</link> 
         </item> 
           <item> 
             <title>SFR SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 2 HD</link> 
         </item> 
           <item> 
             <title>SFR SPORT 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 3 HD</link> 
         </item> 
           <item> 
             <title>SFR SPORT 4K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3471.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 4K</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3471.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 4K</link> 
         </item> 
           <item> 
             <title>SFR SPORT 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 5 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 5 HD</link> 
         </item> 
           <item> 
             <title>Eurosport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport HD</link> 
         </item> 
           <item> 
             <title>Eurosport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 HD</link> 
         </item> 
           <item> 
             <title>Foot+ 24/24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+ 24/24 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+ 24/24 HD</link> 
         </item> 
           <item> 
             <title>GOLF+ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF+ HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF+ HD</link> 
         </item> 
           <item> 
             <title>AB Moteurs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB Moteurs</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB Moteurs</link> 
         </item> 
           <item> 
             <title>Equidia Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia Live HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia Live HD</link> 
         </item> 
           <item> 
             <title>Equidia life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia life</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia life</link> 
         </item> 
           <item> 
             <title>Elle Girl</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=Elle Girl</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=Elle Girl</link> 
         </item> 
           <item> 
             <title>ENF | TIJI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | TIJI HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | TIJI HD</link> 
         </item> 
           <item> 
             <title>ENF | PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | PIWI</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | PIWI</link> 
         </item> 
           <item> 
             <title>ENF | Zouzous</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Zouzous</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Zouzous</link> 
         </item> 
           <item> 
             <title>ENF | Teletoon+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Teletoon+</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Teletoon+</link> 
         </item> 
           <item> 
             <title>ENF | Gulli</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Gulli</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Gulli</link> 
         </item> 
           <item> 
             <title>ENF | Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Boomerang</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Boomerang</link> 
         </item> 
           <item> 
             <title>ENF | Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Boing</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Boing</link> 
         </item> 
           <item> 
             <title>ENF | Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Cartoon Network</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Cartoon Network</link> 
         </item> 
           <item> 
             <title>ENF | NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | NICKELODEON</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | NICKELODEON</link> 
         </item> 
           <item> 
             <title>ENF | Nickeleodeon Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Nickeleodeon Junior</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Nickeleodeon Junior</link> 
         </item> 
           <item> 
             <title>ENF | Nickelodeon 4Teens</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/5291.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Nickelodeon 4Teens</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/5291.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Nickelodeon 4Teens</link> 
         </item> 
           <item> 
             <title>ENF | Disney Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Channel HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Channel HD</link> 
         </item> 
           <item> 
             <title>ENF | Disney Channel +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Channel +1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Channel +1</link> 
         </item> 
           <item> 
             <title>ENF | Disney Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Cinema HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Cinema HD</link> 
         </item> 
           <item> 
             <title>ENF | Disney Cinemagic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2733.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Cinemagic</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2733.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Cinemagic</link> 
         </item> 
           <item> 
             <title>ENF | Disney Junior HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Junior HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Junior HD</link> 
         </item> 
           <item> 
             <title>ENF | Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney XD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney XD</link> 
         </item> 
           <item> 
             <title>CANAL J HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL J HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL J HD</link> 
         </item> 
           <item> 
             <title>ENF | MANGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | MANGA HD</link> 
-        </item> 
-          <item> 
-            <title>GAME ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1787.ts&amp;streamtype=TSDOWNLOADER&amp;name=GAME ONE</link> 
-        </item> 
-          <item> 
-            <title>ENF | J-One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | J-One</link> 
-        </item> 
-          <item> 
-            <title>AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1</link> 
-        </item> 
-          <item> 
-            <title>No Life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2844.ts&amp;streamtype=TSDOWNLOADER&amp;name=No Life</link> 
-        </item> 
-          <item> 
-            <title>MCM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM HD</link> 
-        </item> 
-          <item> 
-            <title>NRJ HITS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2938.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ HITS HD</link> 
-        </item> 
-          <item> 
-            <title>Trace urban</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3968.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trace urban</link> 
-        </item> 
-          <item> 
-            <title>Ofive</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2843.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ofive</link> 
-        </item> 
-          <item> 
-            <title>M6 Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 Music</link> 
-        </item> 
-          <item> 
-            <title>MTV FRANCE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3181.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV FRANCE HD</link> 
-        </item> 
-          <item> 
-            <title>MTV Hits.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=MTV Hits.</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>MTV Base HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Base HD</link> 
-        </item> 
-          <item> 
-            <title>MTV Dance HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Dance HD</link> 
-        </item> 
-          <item> 
-            <title>MTV ROCK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3470.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCK</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | MANGA HD</link> 
         </item> 
           <item> 
             <title>Clubbing TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clubbing TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clubbing TV</link> 
         </item> 
           <item> 
             <title>BET TV MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=BET TV MUSIC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=BET TV MUSIC</link> 
         </item> 
           <item> 
             <title>BRAVA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=BRAVA HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=BRAVA HD</link> 
         </item> 
           <item> 
             <title>Virgin TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2344.ts&amp;streamtype=TSDOWNLOADER&amp;name=Virgin TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2344.ts&amp;streamtype=TSDOWNLOADER&amp;name=Virgin TV</link> 
         </item> 
           <item> 
             <title>GONG TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=GONG TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=GONG TV</link> 
         </item> 
           <item> 
             <title>WEO TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=WEO TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=WEO TV</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte1</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte2</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte3</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte4</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte4</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte5</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte5</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte6</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte6</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte7</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte7</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte8</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte8</link> 
         </item> 
           <item> 
             <title>PPV-A la Carte9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte9</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A la Carte9</link> 
         </item> 
           <item> 
             <title>PPV-A laCarte 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A laCarte 10</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV-A laCarte 10</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 1</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 2</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2193.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2193.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 3</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 4</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 4</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2191.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 5</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2191.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 5</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 6</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 6</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2189.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 7</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2189.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 7</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 8</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 8</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 9</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 9</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2200.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 10</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2200.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 10</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 11</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2199.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 11</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2199.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 11</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2198.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 12</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2198.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 12</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2197.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 13</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2197.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 13</link> 
         </item> 
           <item> 
             <title>CANAL PLAY 14</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 14</link> 
-        </item> 
-          <item> 
-            <title>CANAL PLAY 15</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2195.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 15</link> 
-        </item> 
-          <item> 
-            <title>CANAL PLAY 16</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2194.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 16</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 14</link> 
         </item> 
           <item> 
             <title>PPV OCS CINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS CINE</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS CINE</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +1</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +2</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +3</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +4</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +4</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +5</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +5</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2339.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +6</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2339.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +6</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2340.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +7</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2340.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +7</link> 
         </item> 
           <item> 
             <title>PPV OCS GO CINE +8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2341.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +8</link> 
-        </item> 
-          <item> 
-            <title>Mirabelle TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/2342.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mirabelle TV</link> 
-        </item> 
-          <item> 
-            <title>Tébéo TV Bretagne</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tébéo TV Bretagne</link> 
-        </item> 
-          <item> 
-            <title>TV7 Bordeaux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3546.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV7 Bordeaux</link> 
-        </item> 
-          <item> 
-            <title>Grand Lille</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Grand Lille</link> 
-        </item> 
-          <item> 
-            <title>La chaine normande</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3542.ts&amp;streamtype=TSDOWNLOADER&amp;name=La chaine normande</link> 
-        </item> 
-          <item> 
-            <title>Alsace 20</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3543.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alsace 20</link> 
-        </item> 
-          <item> 
-            <title>Vosges Télévision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3547.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vosges Télévision</link> 
-        </item> 
-          <item> 
-            <title>ILTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3544.ts&amp;streamtype=TSDOWNLOADER&amp;name=ILTV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2341.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV OCS GO CINE +8</link> 
         </item> 
           <item> 
             <title>FR | Bein Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 1 HD</link> 
         </item> 
           <item> 
             <title>FR | Bein Sport 1 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3969.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 1 Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3969.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 1 Low</link> 
         </item> 
           <item> 
             <title>FR | Bein Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 2 HD</link> 
         </item> 
           <item> 
             <title>FR | Bein Sport 2 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3970.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 2 Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3970.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 2 Low</link> 
         </item> 
           <item> 
             <title>FR | Bein Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 3 HD</link> 
         </item> 
           <item> 
             <title>FR | Bein Sport 3 Low</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/24358465368465/1593574628/3971.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 3 Low</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/3971.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 3 Low</link> 
         </item> 
           <item> 
-            <title>-------|FR CINEMA PRIVE|-------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/3218.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------|FR CINEMA PRIVE|-------</link> 
+            <title>FR | Bein Sport Max 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport Max 4</link> 
         </item> 
           <item> 
-            <title>FR|CANAL+HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2594.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+HD</link> 
+            <title>FR | Bein Sport Max 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport Max 5</link> 
         </item> 
           <item> 
-            <title>FR|CANAL+SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+SERIES HD</link> 
+            <title>FR | Bein Sport Max 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/594.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport Max 6</link> 
         </item> 
           <item> 
-            <title>FR|CANAL+FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+FAMILY HD</link> 
+            <title>FR | beIN Sport Max 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2201.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | beIN Sport Max 7</link> 
         </item> 
           <item> 
-            <title>FR|CANAL+CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+CINEMA HD</link> 
+            <title>FR | beIN Sport Max 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | beIN Sport Max 8</link> 
         </item> 
           <item> 
-            <title>FR|CINE+ FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CINE+ FRISSON HD</link> 
+            <title>FR | beIN Sport Max 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | beIN Sport Max 9</link> 
         </item> 
           <item> 
-            <title>FR|CINE+ PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CINE+ PREMIER HD</link> 
-        </item> 
-          <item> 
-            <title>FR|TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1775.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TF1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TF1</link> 
-        </item> 
-          <item> 
-            <title>FR|FRANCE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1776.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|FRANCE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|France 2</link> 
-        </item> 
-          <item> 
-            <title>FR|FRANCE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|FRANCE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|France 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|France 3</link> 
-        </item> 
-          <item> 
-            <title>FR|France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|France 4</link> 
-        </item> 
-          <item> 
-            <title>FR|France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|France 5</link> 
-        </item> 
-          <item> 
-            <title>FR|France O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|France O</link> 
-        </item> 
-          <item> 
-            <title>FR|M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|M6 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|M6</link> 
-        </item> 
-          <item> 
-            <title>FR|W9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|W9 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|W9</link> 
-        </item> 
-          <item> 
-            <title>FR|C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|C8</link> 
-        </item> 
-          <item> 
-            <title>FR|C STAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|C STAR</link> 
-        </item> 
-          <item> 
-            <title>FR|6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|6TER HD</link> 
-        </item> 
-          <item> 
-            <title>FR|6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|6TER</link> 
-        </item> 
-          <item> 
-            <title>FR|RTS Un</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|RTS Un</link> 
-        </item> 
-          <item> 
-            <title>FR|RTS Deux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|RTS Deux</link> 
-        </item> 
-          <item> 
-            <title>--|FR INFO|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|FR INFO|--</link> 
-        </item> 
-          <item> 
-            <title>FR|I-tele</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|I-tele</link> 
-        </item> 
-          <item> 
-            <title>FR|bfm</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|bfm</link> 
-        </item> 
-          <item> 
-            <title>FR|Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Euronews</link> 
-        </item> 
-          <item> 
-            <title>FR|France24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|France24</link> 
-        </item> 
-          <item> 
-            <title>---|FR SPORT|---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=---|FR SPORT|---</link> 
-        </item> 
-          <item> 
-            <title>FR|beIN SPORTS HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|beIN SPORTS HD1</link> 
-        </item> 
-          <item> 
-            <title>FR|beINSport1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|beINSport1</link> 
-        </item> 
-          <item> 
-            <title>FR|beIN SPORTS HD2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|beIN SPORTS HD2</link> 
-        </item> 
-          <item> 
-            <title>FR|beINSport2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|beINSport2</link> 
-        </item> 
-          <item> 
-            <title>FR|Bein Sports HD3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR|Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR|Bein Sports HD3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR|beINSport3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|beINSport3</link> 
-        </item> 
-          <item> 
-            <title>FR|BeIN Sports MAX 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR|BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR|BeIN Sports MAX 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR|BeIN Sports MAX 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR|BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR|BeIN Sports MAX 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR|BeIN Sports MAX 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR|BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR|BeIN Sports MAX 6</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1305.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR|BeIN Sports MAX 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR|BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR|BeIN Sports MAX 7</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1306.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR|BeIN Sports MAX 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR|BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR|BeIN Sports MAX 8</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1307.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR|CANAL+SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+SPORT HD</link> 
-        </item> 
-          <item> 
-            <title>FR|CANAL+ SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+ SPORT HD</link> 
-        </item> 
-          <item> 
-            <title>FR|SFR Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|SFR Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|SFR Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR|SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR|SFR Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR|SFR Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2595.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|SFR Sport 3 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Foot+ 24/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1631.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Foot+ 24/24</link> 
-        </item> 
-          <item> 
-            <title>FR|GOLF+HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|GOLF+HD</link> 
-        </item> 
-          <item> 
-            <title>FR|INFOSPORT+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|INFOSPORT+</link> 
-        </item> 
-          <item> 
-            <title>FR|Kombat Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/3124.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Kombat Sport</link> 
-        </item> 
-          <item> 
-            <title>FR|Eurosport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Eurosport HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Eurosport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Eurosport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|L EQUIPE 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|L EQUIPE 21</link> 
-        </item> 
-          <item> 
-            <title>FR|Equidia Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Equidia Live</link> 
-        </item> 
-          <item> 
-            <title>FR|CANAL+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+</link> 
-        </item> 
-          <item> 
-            <title>FR|SERIE CLUB HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|SERIE CLUB HD</link> 
-        </item> 
-          <item> 
-            <title>FR|serie club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1833.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|serie club</link> 
-        </item> 
-          <item> 
-            <title>FR|CANAL+ SERIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+ SERIE</link> 
-        </item> 
-          <item> 
-            <title>FR|Canal cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Canal cinema</link> 
-        </item> 
-          <item> 
-            <title>FR|Canal+ family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Canal+ family</link> 
-        </item> 
-          <item> 
-            <title>FR|Cine Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Cine Premier</link> 
-        </item> 
-          <item> 
-            <title>FR|CINE+FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CINE+FRISSON</link> 
-        </item> 
-          <item> 
-            <title>FR|CINE+ EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CINE+ EMOTION</link> 
-        </item> 
-          <item> 
-            <title>FR|CINÉ POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CINÉ POLAR</link> 
-        </item> 
-          <item> 
-            <title>FR|CINÉ FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CINÉ FX</link> 
-        </item> 
-          <item> 
-            <title>FR|CINE+ CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CINE+ CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>FR|Ciné +Famiz</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Ciné +Famiz</link> 
-        </item> 
-          <item> 
-            <title>FR|CANAL+ DECALE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL+ DECALE</link> 
-        </item> 
-          <item> 
-            <title>FR|TCM Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TCM Cinema</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS MAX</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS GEANTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS GEANTS</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS CHOC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS CHOC</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS CITY</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS HORREUR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2019.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS HORREUR</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS AVENTURE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2021.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS AVENTURE</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2020.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS ACTION</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS GO COMEDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS GO COMEDIE</link> 
-        </item> 
-          <item> 
-            <title>FR|OCS DOCUMENTAIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|OCS DOCUMENTAIRE</link> 
-        </item> 
-          <item> 
-            <title>---|FR DIVERTISSE|---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=---|FR DIVERTISSE|---</link> 
-        </item> 
-          <item> 
-            <title>FR|AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|AB1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|HD 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|HD 1</link> 
-        </item> 
-          <item> 
-            <title>FR|TMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TMC HD</link> 
-        </item> 
-          <item> 
-            <title>FR|TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TMC</link> 
-        </item> 
-          <item> 
-            <title>FR|NT1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|NT1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR|NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|NT1</link> 
-        </item> 
-          <item> 
-            <title>FR|Teva</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Teva</link> 
-        </item> 
-          <item> 
-            <title>FR|E! HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1124.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|E! HD</link> 
-        </item> 
-          <item> 
-            <title>FR|RTL 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|RTL 9</link> 
-        </item> 
-          <item> 
-            <title>FR|TV BREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TV BREIZH</link> 
-        </item> 
-          <item> 
-            <title>FR|Numero 23</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Numero 23</link> 
-        </item> 
-          <item> 
-            <title>FR|Syfy Universal HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Syfy Universal HD</link> 
-        </item> 
-          <item> 
-            <title>FR|ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|ACTION HD</link> 
-        </item> 
-          <item> 
-            <title>FR|13EME RUE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|13EME RUE HD</link> 
-        </item> 
-          <item> 
-            <title>FR|PARIS PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|PARIS PREMIERE</link> 
-        </item> 
-          <item> 
-            <title>FR|Paramount Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1630.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Paramount Channel</link> 
-        </item> 
-          <item> 
-            <title>FR|Cherie 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Cherie 25</link> 
-        </item> 
-          <item> 
-            <title>FR|COMEDIE+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|COMEDIE+</link> 
-        </item> 
-          <item> 
-            <title>FR|Comedie +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Comedie +</link> 
-        </item> 
-          <item> 
-            <title>FR|Enorme-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Enorme-TV</link> 
-        </item> 
-          <item> 
-            <title>FR|Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Arte</link> 
-        </item> 
-          <item> 
-            <title>FR|Tébéo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Tébéo</link> 
-        </item> 
-          <item> 
-            <title>FR|Wéo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Wéo HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Monaco Info</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Monaco Info</link> 
-        </item> 
-          <item> 
-            <title>--|FR MUSIC|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1510.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|FR MUSIC|--</link> 
-        </item> 
-          <item> 
-            <title>FR|MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1509.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|MTV</link> 
-        </item> 
-          <item> 
-            <title>FR|Virgin</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Virgin</link> 
-        </item> 
-          <item> 
-            <title>FR|NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|NRJ12</link> 
-        </item> 
-          <item> 
-            <title>FR|M6 MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|M6 MUSIC</link> 
-        </item> 
-          <item> 
-            <title>--|FR DOCUMENTAIRE|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|FR DOCUMENTAIRE|--</link> 
-        </item> 
-          <item> 
-            <title>FR|PLANETE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|PLANETE</link> 
-        </item> 
-          <item> 
-            <title>FR|PLANETE CI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|PLANETE CI HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Planete+ CI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Planete+ CI HD</link> 
-        </item> 
-          <item> 
-            <title>FR|PLANETE A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|PLANETE A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>FR|VOYAGE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|VOYAGE HD</link> 
-        </item> 
-          <item> 
-            <title>FR|DISCOVERY  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|DISCOVERY  HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Discovery HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1831.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>FR|DISCOVERY SCIENCE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|DISCOVERY SCIENCE HD</link> 
-        </item> 
-          <item> 
-            <title>FR|TREK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TREK HD</link> 
-        </item> 
-          <item> 
-            <title>FR|SEASON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|SEASON HD</link> 
-        </item> 
-          <item> 
-            <title>FR|SCIENCES ET VIE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|SCIENCES ET VIE HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Science et Vie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Science et Vie</link> 
-        </item> 
-          <item> 
-            <title>FR|NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|NAT GEO WILD HD</link> 
-        </item> 
-          <item> 
-            <title>FR|NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>FR|National Geo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|National Geo HD</link> 
-        </item> 
-          <item> 
-            <title>FR|Chasse et Pêche</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Chasse et Pêche</link> 
-        </item> 
-          <item> 
-            <title>FR|Animaux hd</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Animaux hd</link> 
-        </item> 
-          <item> 
-            <title>FR|Animaux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Animaux</link> 
-        </item> 
-          <item> 
-            <title>FR|USHUAIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|USHUAIA TV</link> 
-        </item> 
-          <item> 
-            <title>FR|RMC Decouverte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|RMC Decouverte HD</link> 
-        </item> 
-          <item> 
-            <title>FR|toute l'histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|toute l'histoire</link> 
-        </item> 
-          <item> 
-            <title>FR|Zouzous</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Zouzous</link> 
-        </item> 
-          <item> 
-            <title>FR|GameOne</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|GameOne</link> 
-        </item> 
-          <item> 
-            <title>FR|NICKELODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1787.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|NICKELODEON HD</link> 
-        </item> 
-          <item> 
-            <title>FR|NICK JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|NICK JR</link> 
-        </item> 
-          <item> 
-            <title>FR|Gulli</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Gulli</link> 
-        </item> 
-          <item> 
-            <title>FR|MANGAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|MANGAS</link> 
-        </item> 
-          <item> 
-            <title>FR|TéléTOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|TéléTOON</link> 
-        </item> 
-          <item> 
-            <title>FR|DisneyJunior HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|DisneyJunior HD</link> 
-        </item> 
-          <item> 
-            <title>FR|DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>FR|DISNEY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|DISNEY CINEMA</link> 
-        </item> 
-          <item> 
-            <title>FR|PIWI+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|PIWI+</link> 
-        </item> 
-          <item> 
-            <title>FR|CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>FR|Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Boomerang</link> 
-        </item> 
-          <item> 
-            <title>FR|CANAL J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAL J</link> 
-        </item> 
-          <item> 
-            <title>FR|Tiji</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|Tiji</link> 
-        </item> 
-          <item> 
-            <title>---|FR PPV|---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=---|FR PPV|---</link> 
-        </item> 
-          <item> 
-            <title>FR|CANALPLAY 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANALPLAY 1</link> 
-        </item> 
-          <item> 
-            <title>FR|CANALPLAY 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANALPLAY 2</link> 
-        </item> 
-          <item> 
-            <title>FR|CANALPLAY3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANALPLAY3</link> 
-        </item> 
-          <item> 
-            <title>FR|CANAPLAY 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANAPLAY 4</link> 
-        </item> 
-          <item> 
-            <title>FR|CANALPLAY 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANALPLAY 5</link> 
-        </item> 
-          <item> 
-            <title>FR|CANALPLAY 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/serge3/serge3/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR|CANALPLAY 6</link> 
+            <title>FR | beIN Sport Max 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/76846649288689/1593574628/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | beIN Sport Max 10</link> 
         </item> 
   
