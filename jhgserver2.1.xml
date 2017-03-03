@@ -8,22 +8,14 @@
   
   
 		
-		
+	
 		<item> 
-            <title>[COLOR yellow] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://gameserver101.hopto.org:19001/live/charuestephane/digiphone2009/9296.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+            <title>[COLOR yellow] DISNEY JR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://comunidadiptv.org/online/estable/premium/?pass=6wGfHQ7M0t.m3u&canal=20.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JR</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Calle 13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://gameserver101.hopto.org:19001/live/charuestephane/digiphone2009/9306.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] FOX HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://comunidadiptv.org/online/estable/premium/?pass=6wGfHQ7M0t.m3u&canal=33.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
