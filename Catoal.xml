@@ -1,7 +1,4 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
- <streamingInfos>
 
 <item>
 <title> [COLOR lime]IPTV Varios Paises 2[/COLOR]</title>
@@ -12,9 +9,9 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
   <title>[makelist.param1]</title>
-  <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name= <streamingInfos> [makelist.param1]</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
+  <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=J.H.G [makelist.param1]</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
 ]]></listrepeat>
 <expres>#EXTINF:-1,(.*?)\n(.*)</expres>
 <page>http://smartiptvspain.mine.nu:980/get.php?username=Nereo&amp;password=Nereo&amp;type=m3u</page>
