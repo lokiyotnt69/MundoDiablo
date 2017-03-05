@@ -13,11 +13,7 @@
 		<item> 
             <title>[COLOR yellow] Bein LaLiga [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/taha/taha/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein LaLiga</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LaLigatv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/taha/taha/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLigatv</link> 
-        </item>		
+        </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
