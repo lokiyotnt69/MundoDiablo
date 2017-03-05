@@ -9,89 +9,14 @@
 
   
     	
+		
 		<item> 
-            <title>[COLOR yellow] LA LIGA HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13932.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA HD</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] LA LIGA TV BAR HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13933.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV BAR HD</link> 
+            <title>[COLOR yellow] Bein LaLiga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/taha/taha/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein LaLiga</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] LA LIGA TV BAR SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV BAR SD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] LA LIGA BAR TV 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13940.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA BAR TV 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] GOL TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13934.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M. PARTIDAZO SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/9190.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. PARTIDAZO SD</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow]  M. FUTBOL [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/10.ts&amp;streamtype=TSDOWNLOADER&amp;name= M. FUTBOL</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M.  DEPORTES [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.  DEPORTES</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] M. DEPORTES 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/7197.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 2</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M. F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/5963.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. F1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M. MOTO GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MOTO GP</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  EUROSPORT 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13668.ts&amp;streamtype=TSDOWNLOADER&amp;name= EUROSPORT 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] EUROSPORT 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13670.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] BEIN SPORTS HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/5983.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] BEIN SPORTS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  MEGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/14118.ts&amp;streamtype=TSDOWNLOADER&amp;name= MEGA</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow]  LA LIGA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13914.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA LIGA</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] MOTO GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://latinchannel.tv:8000/live/12345/67890/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTO GP</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] MotoGP HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://d4life.dtdns.net:8000/live/Raul/Raul/3841.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotoGP HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] LaLigatv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/taha/taha/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLigatv</link> 
         </item>		
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
