@@ -7,224 +7,44 @@
   
   
   
-	      <item> 
-            <title>ES:BEIN_SPORTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BEIN_SPORTS</link> 
-        </item> 
-          <item> 
-            <title>ES:C+ACCION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+ACCION_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:CANAL_ ACTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_ ACTION_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:CANAL_COMEDIA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL_COMEDIA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+LIGA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+LIGA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+LIGA_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+LIGA_2_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+FUTBOL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+FUTBOL_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+DEPORTES_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+DEPORTES_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+DEPORTES_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+DEPORTES_2_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:TELECINCO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELECINCO_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:FOX_LIFE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX_LIFE_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:FOX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FOX_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:LA_SEXTA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_SEXTA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:LA_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_1_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:LA_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA_2_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:NAT_GEO_WILD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/961.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NAT_GEO_WILD_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:NATIONAL_GEOGRAPHIC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/960.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NATIONAL_GEOGRAPHIC_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:DISCOVERY_CHANNEL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISCOVERY_CHANNEL_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:DISCOVERY_CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISCOVERY_CI</link> 
-        </item> 
-          <item> 
-            <title>ES:AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:AXN_WHITE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN_WHITE_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:NICK_Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NICK_Jr</link> 
-        </item> 
-          <item> 
-            <title>ES:DISNE_CHANNEL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNE_CHANNEL_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:DISNEY_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/955.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_XD</link> 
-        </item> 
-          <item> 
-            <title>ES:DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY_JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>ES:C+SERIES_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+SERIES_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+SERIES_XTRA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+SERIES_XTRA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:CUATRO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CUATRO_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:CALLE_13_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CALLE_13_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+XTRA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+XTRA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+GOLF_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+GOLF_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+TOROS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+TOROS_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+ESTRENOS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+ESTRENOS_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+DCINE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+DCINE_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:C+COMEDIA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:C+COMEDIA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:ANTENA_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ANTENA_3_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:VIAJAR_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:VIAJAR_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:TELEDEPORTE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/946.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELEDEPORTE_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:MEGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MEGA</link> 
-        </item> 
-          <item> 
-            <title>ES:HOLLYWOOD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HOLLYWOOD_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:TCM_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TCM_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:ODISEA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/948.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ODISEA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>ES_0_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_0_HD</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_1</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_2</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_3</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_4</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_5</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_6</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_7</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_8</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_9</link> 
-        </item> 
-          <item> 
-            <title>ES:TAQUILLA_10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/tarik1/tarik1/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TAQUILLA_10</link> 
-        </item> 
-  
-		   <item> 
+        
+		<item> 
+            <title>[COLOR yellow] # 0 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] M.Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -236,7 +56,15 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-		   <item> 
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -248,7 +76,16 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-		   <item> 
+			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -259,4 +96,15 @@
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.vid
