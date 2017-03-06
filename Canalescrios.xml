@@ -6,33 +6,29 @@
 		
 		
 	
-		<item> 
-            <title>[COLOR yellow] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
-        </item>
-           <item> 
+        <item> 
             <title>[COLOR yellow] CLAN TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/413.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] BOING [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] BABY TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13666.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item>
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item>		
 		<item> 
             <title>[COLOR yellow] CANAL PANDA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/13669.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
         </item>
            <item> 
             <title>[COLOR yellow] DISNEY CHANNEL [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
