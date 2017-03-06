@@ -37,16 +37,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Series Xtra</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Hollywood [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] M.Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Xtra</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Fox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
