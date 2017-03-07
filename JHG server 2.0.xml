@@ -151,21 +151,19 @@
         </item>			
 		<item> 
             <title>[COLOR yellow] TCM [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=
-
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3370.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3370.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] VIAJAR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3390.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NAT GEO WILD HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3389.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NATIONAL GEOGRAPHIC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3375.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
