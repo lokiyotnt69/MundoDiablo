@@ -15,10 +15,11 @@
 	<fanart></fanart>
 ]]></listrepeat>
 <expres>#EXTINF:-1,(.*?)\n(.*)</expres>
-<page>http://193.70.116.156:8080/get.php?username=U9GuRY8XoU&password=paBTihIMNb&type=m3u</page>
+<page>http://163.172.30.64:8789/get.php?username=admin&password=12345678&type=m3u</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
+
 
 
 
