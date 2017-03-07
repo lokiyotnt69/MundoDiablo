@@ -8,64 +8,18 @@
   <streamingInfos>
 
   
-    	
-				
-		<item> 
-            <title>[COLOR yellow] Bein Sports [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LaLigatv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLigatv</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] M.Fútbol [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Fútbol</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M.Deportes [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Deportes</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M.Deportes 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.Deportes 2</link> 
-        </item>
+
 		<item> 
             <title>[COLOR yellow] GOL TV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/admin/12345678/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+        </item>		
+        <item> 
+            <title>[COLOR yellow] CANAL+DEPORTES_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/admin/12345678/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+DEPORTES_HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Barça TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barça TV</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] TELEDEPORTE [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1379.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTE</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Eurosport1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow] Movistar MotoGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar MotoGP</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] TOROS HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS HD</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CANAL+DEPORTES_2.HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/admin/12345678/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+DEPORTES_2.HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
@@ -80,6 +34,5 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-           <item> 
-            <title>[COLOR yellow]  [/COL
+          
 		
