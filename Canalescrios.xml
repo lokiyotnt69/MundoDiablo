@@ -5,47 +5,27 @@
   <streamingInfos>
 		
 		
-	
-        <item> 
-            <title>[COLOR yellow] CLAN TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
+		
+		
+		<item> 
+            <title>[COLOR yellow] Canal Baby [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11021.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Baby</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] BOING [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+            <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11032.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item>		
+            <title>[COLOR yellow] Disney Junior [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11033.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
+        </item>			
 		<item> 
-            <title>[COLOR yellow] CANAL PANDA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow] DISNEY CHANNEL [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Nick Jr. [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11036.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr.</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Nickelodeon [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11037.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
