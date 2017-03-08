@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTM3U
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="===== Spain =====" tvg-logo="" group-title="",===== Spain =====
 http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1197.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="Spain",ES: LA 1 HD
