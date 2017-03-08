@@ -2,371 +2,73 @@
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="===== Spain =====" tvg-logo="" group-title="",===== Spain =====
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1197.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="Spain",ES: LA 1 HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3364.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: LA 2" tvg-logo="" group-title="Spain",ES: LA 2
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/622.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: ANTENA3 HD" tvg-logo="" group-title="Spain",ES: ANTENA3 HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3383.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: CUATRO  HD" tvg-logo="" group-title="Spain",ES: CUATRO  HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3391.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="Spain",ES: TELECINCO HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3384.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: LA SEXTA  HD" tvg-logo="" group-title="Spain",ES: LA SEXTA  HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3392.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: #O HD" tvg-logo="" group-title="Spain",ES: #O HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2401.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TELEDEPORTE HD" tvg-logo="" group-title="Spain",ES: TELEDEPORTE HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3374.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Bein Sport HD" tvg-logo="" group-title="Spain",ES: Bein Sport HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/6491.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Bein Liga HD" tvg-logo="" group-title="Spain",ES: Bein Liga HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2409.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR HD" tvg-logo="" group-title="Spain",ES: La Liga BAR HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/7180.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLIga 1 (event only)" tvg-logo="" group-title="Spain",ES: beIN LaLIga 1 (event only)
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/7181.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLIga 2 (event only)" tvg-logo="" group-title="Spain",ES: beIN LaLIga 2 (event only)
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/7182.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: beIN LaLIga 3 (event only)" tvg-logo="" group-title="Spain",ES: beIN LaLIga 3 (event only)
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/7183.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Partidazo HD" tvg-logo="" group-title="Spain",ES: M. Partidazo HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8200.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Futbol HD" tvg-logo="" group-title="Spain",ES: M. Futbol HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2408.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes HD" tvg-logo="" group-title="Spain",ES: M. Deportes HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2407.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. DEPORTES 2 HD" tvg-logo="" group-title="Spain",ES: M. DEPORTES 2 HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3372.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M.Golf  HD" tvg-logo="" group-title="Spain",ES: M.Golf  HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3373.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TOROS HD" tvg-logo="" group-title="Spain",ES: TOROS HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/6816.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: MoviStar F1 HD" tvg-logo="" group-title="Spain",ES: MoviStar F1 HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2570.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar GP HD" tvg-logo="" group-title="Spain",ES: Movistar GP HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2836.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Estrenos HD" tvg-logo="" group-title="Spain",ES: M. Estrenos HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2405.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M.  XTRA HD" tvg-logo="" group-title="Spain",ES: M.  XTRA HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3388.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Dcine HD" tvg-logo="" group-title="Spain",ES: M. Dcine HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2404.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Comedia HD" tvg-logo="" group-title="Spain",ES: M. Comedia HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2403.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Accion HD" tvg-logo="" group-title="Spain",ES: M. Accion HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2402.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M.  SERIES HD" tvg-logo="" group-title="Spain",ES: M.  SERIES HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2406.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. SERIES Xtra HD" tvg-logo="" group-title="Spain",ES: M. SERIES Xtra HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3365.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX HD" tvg-logo="" group-title="Spain",ES: FOX HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3367.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="Spain",ES: FOX LIFE HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/6815.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="Spain",ES: HOLLYWOOD HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3369.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: COSMO HD" tvg-logo="" group-title="Spain",ES: COSMO HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3387.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="Spain",ES: COMEDY CENTRAL HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3386.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="Spain",ES: CALLE 13 HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3368.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: AXN HD" tvg-logo="" group-title="Spain",ES: AXN HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3385.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="Spain",ES: AXN WHITE HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3366.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: AMC HD" tvg-logo="" group-title="Spain",ES: AMC HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3371.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: SYFY HD" tvg-logo="" group-title="Spain",ES: SYFY HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/6814.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: NICKELODEON HD" tvg-logo="" group-title="Spain",ES: NICKELODEON HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/6817.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TCM HD" tvg-logo="" group-title="Spain",ES: TCM HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3370.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: VIAJAR HD" tvg-logo="" group-title="Spain",ES: VIAJAR HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3390.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="Spain",ES: NAT GEO WILD HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3389.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Spain",ES: NATIONAL GEOGRAPHIC HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3375.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Spain",ES: DISCOVERY CHANNEL HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3376.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="Spain",ES: DISNEY CHANNEL HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/3382.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="" group-title="Spain",ES: CAZA Y PESCA HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8206.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: EUROSPORT 1HD" tvg-logo="" group-title="Spain",ES: EUROSPORT 1HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8204.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="Spain",ES: EUROSPORT 2
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8208.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: MEZZO LIVE HD" tvg-logo="" group-title="Spain",ES: MEZZO LIVE HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8205.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: #0" tvg-logo="" group-title="Spain",ES: #0
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/635.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: GOL T" tvg-logo="" group-title="Spain",ES: GOL T
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1084.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Futbol" tvg-logo="" group-title="Spain",ES: Canal Futbol
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/656.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal  Deportes" tvg-logo="" group-title="Spain",ES: Canal  Deportes
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/636.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Deportes2" tvg-logo="" group-title="Spain",ES: Canal Deportes2
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1085.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar F1" tvg-logo="" group-title="Spain",ES: Movistar F1
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1087.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Movistar GP" tvg-logo="" group-title="Spain",ES: Movistar GP
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1088.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Teledeporte" tvg-logo="" group-title="Spain",ES: Teledeporte
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1089.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Golf" tvg-logo="" group-title="Spain",ES: Canal Golf
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1086.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Torros" tvg-logo="" group-title="Spain",ES: Canal Torros
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1092.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Estrenos" tvg-logo="" group-title="Spain",ES: Canal Estrenos
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1094.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal  Accion" tvg-logo="" group-title="Spain",ES: Canal  Accion
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/638.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal  Comedia" tvg-logo="" group-title="Spain",ES: Canal  Comedia
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/637.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Xtra" tvg-logo="" group-title="Spain",ES: Canal Xtra
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1091.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Series" tvg-logo="" group-title="Spain",ES: Canal Series
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1093.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Series Xtra" tvg-logo="" group-title="Spain",ES: Canal Series Xtra
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1095.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dcine" tvg-logo="" group-title="Spain",ES: Dcine
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/634.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Barca tv" tvg-logo="" group-title="Spain",ES: Barca tv
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/639.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: RealMadrid TV" tvg-logo="" group-title="Spain",ES: RealMadrid TV
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/632.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Caza y pesca" tvg-logo="" group-title="Spain",ES: Caza y pesca
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1102.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: LA 1" tvg-logo="" group-title="Spain",ES: LA 1
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/623.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Antena3" tvg-logo="" group-title="Spain",ES: Antena3
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1097.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TV3 HD" tvg-logo="" group-title="Spain",ES: TV3 HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2210.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Cuatro hd" tvg-logo="" group-title="Spain",ES: Cuatro hd
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/627.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Telecinco" tvg-logo="" group-title="Spain",ES: Telecinco
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/624.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Sexta hd" tvg-logo="" group-title="Spain",ES: La Sexta hd
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/628.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TV Galicia" tvg-logo="" group-title="Spain",ES: TV Galicia
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1429.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="Spain",ES: Andalucia TV
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1440.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: 3/24" tvg-logo="" group-title="Spain",ES: 3/24
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1441.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: FDF" tvg-logo="" group-title="Spain",ES: FDF
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1098.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Energy" tvg-logo="" group-title="Spain",ES: Energy
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1099.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Calle 13" tvg-logo="" group-title="Spain",ES: Calle 13
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1096.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Fox" tvg-logo="" group-title="Spain",ES: Fox
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/631.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Hollywood" tvg-logo="" group-title="Spain",ES: Hollywood
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/629.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Disney Channel Spain" tvg-logo="" group-title="Spain",ES: Disney Channel Spain
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/633.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Clan Tve" tvg-logo="" group-title="Spain",ES: Clan Tve
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1100.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Nat Geo" tvg-logo="" group-title="Spain",ES: Nat Geo
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1101.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: National Geo" tvg-logo="" group-title="Spain",ES: National Geo
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/625.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Nat Geo Wild" tvg-logo="" group-title="Spain",ES: Nat Geo Wild
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/626.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TV Canaria" tvg-logo="" group-title="Spain",ES: TV Canaria
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2215.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES-ES: Gente TV* (NOT 24H)" tvg-logo="" group-title="Latino",ES-ES: Gente TV* (NOT 24H)
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/6214.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: NOVA" tvg-logo="" group-title="Spain",ES: NOVA
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2214.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TNT" tvg-logo="" group-title="Spain",ES: TNT
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2634.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: SYFY" tvg-logo="" group-title="Spain",ES: SYFY
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2639.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Paramount" tvg-logo="" group-title="Spain",ES: Paramount
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2642.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Dmax" tvg-logo="" group-title="Spain",ES: Dmax
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2641.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Lancelot TV" tvg-logo="" group-title="Spain",ES: Lancelot TV
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2640.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Iberlia TV" tvg-logo="" group-title="Spain",ES: Iberlia TV
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2629.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Comedy Central" tvg-logo="" group-title="Spain",ES: Comedy Central
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2633.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Classica" tvg-logo="" group-title="Spain",ES: Classica
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2637.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Odisea" tvg-logo="" group-title="Spain",ES: Odisea
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2631.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Decasa" tvg-logo="" group-title="Spain",ES: Canal Decasa
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2632.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: AMC" tvg-logo="" group-title="Spain",ES: AMC
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2638.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: A&E" tvg-logo="" group-title="Spain",ES: A&E
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2643.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="Spain",ES: 24 HORAS
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2630.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: NEOX" tvg-logo="" group-title="Spain",ES: NEOX
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2216.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: MTV Spana" tvg-logo="" group-title="Spain",ES: MTV Spana
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2213.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Mega HD" tvg-logo="" group-title="Spain",ES: Mega HD
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2217.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: DIVINITY" tvg-logo="" group-title="Spain",ES: DIVINITY
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2218.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: C  SUR_A" tvg-logo="" group-title="Spain",ES: C  SUR_A
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2212.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Boing" tvg-logo="" group-title="Spain",ES: Boing
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/2211.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Historia" tvg-logo="" group-title="Spain",ES: Historia
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/630.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Axn Spain" tvg-logo="" group-title="Spain",ES: Axn Spain
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/641.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Axn White Spain" tvg-logo="" group-title="Spain",ES: Axn White Spain
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/640.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Coccina" tvg-logo="" group-title="Spain",ES: Canal Coccina
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1103.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Sol Musica" tvg-logo="" group-title="Spain",ES: Sol Musica
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/1090.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Aragon" tvg-logo="" group-title="Spain",ES: Aragon
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8211.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: C&I" tvg-logo="" group-title="Spain",ES: C&I
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8209.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Extremadura" tvg-logo="" group-title="Spain",ES: Canal Extremadura
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8210.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: NONSTOPEOPLE" tvg-logo="" group-title="Spain",ES: NONSTOPEOPLE
-http://pro-iptv.ddns.net:8080/live/K8E2QNkLRO/AS2pIih0VB/8207.ts
-#EXTINF:-1,------------ Spain TV ------------
-http://bb1.sendevric.com:8000/live/jean/jean123/4880.ts
-#EXTINF:-1,ESP - LA 1
-http://bb1.sendevric.com:8000/live/jean/jean123/7301.ts
-#EXTINF:-1,ESP - LA 2
-http://bb1.sendevric.com:8000/live/jean/jean123/7302.ts
-#EXTINF:-1,ESP - Andalucia TV
-http://bb1.sendevric.com:8000/live/jean/jean123/11049.ts
-#EXTINF:-1,ESP - Antena 3
-http://bb1.sendevric.com:8000/live/jean/jean123/7271.ts
-#EXTINF:-1,ESP - Divinity
-http://bb1.sendevric.com:8000/live/jean/jean123/7294.ts
-#EXTINF:-1,ESP - Quatro
-http://bb1.sendevric.com:8000/live/jean/jean123/7317.ts
-#EXTINF:-1,ESP - La Sexta
-http://bb1.sendevric.com:8000/live/jean/jean123/7304.ts
-#EXTINF:-1,ESP - Toros TV
-http://bb1.sendevric.com:8000/live/jean/jean123/11035.ts
-#EXTINF:-1,ESP - Calle 13
-http://bb1.sendevric.com:8000/live/jean/jean123/11016.ts
-#EXTINF:-1,ESP - Telecinico
-http://bb1.sendevric.com:8000/live/jean/jean123/7321.ts
-#EXTINF:-1,ESP - Teledeporte
-http://bb1.sendevric.com:8000/live/jean/jean123/7322.ts
-#EXTINF:-1,ESP - Viajar HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11015.ts
-#EXTINF:-1,ESP - TCM
-http://bb1.sendevric.com:8000/live/jean/jean123/7320.ts
-#EXTINF:-1,ESP - Fox HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11026.ts
-#EXTINF:-1,ESP - Fox Life HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11027.ts
-#EXTINF:-1,ESP - A & E
-http://bb1.sendevric.com:8000/live/jean/jean123/11009.ts
-#EXTINF:-1,ESP - AMC
-http://bb1.sendevric.com:8000/live/jean/jean123/11010.ts
-#EXTINF:-1,ESP - AXN HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11045.ts
-#EXTINF:-1,ESP - AXN White
-http://bb1.sendevric.com:8000/live/jean/jean123/11008.ts
-#EXTINF:-1,ESP - Canal Series
-http://bb1.sendevric.com:8000/live/jean/jean123/11020.ts
-#EXTINF:-1,ESP - Canal Accion
-http://bb1.sendevric.com:8000/live/jean/jean123/11018.ts
-#EXTINF:-1,ESP - Canal Comedia
-http://bb1.sendevric.com:8000/live/jean/jean123/11019.ts
-#EXTINF:-1,ESP - Canal Estrenos
-http://bb1.sendevric.com:8000/live/jean/jean123/11017.ts
-#EXTINF:-1,ESP - Comedy Central
-http://bb1.sendevric.com:8000/live/jean/jean123/11023.ts
-#EXTINF:-1,ESP - Hollywood HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11025.ts
-#EXTINF:-1,ESP - Discovery Channel
-http://bb1.sendevric.com:8000/live/jean/jean123/11030.ts
-#EXTINF:-1,ESP - Discovery Dmax
-http://bb1.sendevric.com:8000/live/jean/jean123/11031.ts
-#EXTINF:-1,ESP - National Geographic HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11038.ts
-#EXTINF:-1,ESP - National Geographic Wild
-http://bb1.sendevric.com:8000/live/jean/jean123/11011.ts
-#EXTINF:-1,ESP - Canal Cocina
-http://bb1.sendevric.com:8000/live/jean/jean123/11014.ts
-#EXTINF:-1,ESP - Historia
-http://bb1.sendevric.com:8000/live/jean/jean123/11024.ts
-#EXTINF:-1,ESP - Caza y Pesca
-http://bb1.sendevric.com:8000/live/jean/jean123/11012.ts
-#EXTINF:-1,ESP - Canal Baby
-http://bb1.sendevric.com:8000/live/jean/jean123/11021.ts
-#EXTINF:-1,ESP - Cartoon Network
-http://bb1.sendevric.com:8000/live/jean/jean123/11022.ts
-#EXTINF:-1,ESP - Disney Channel
-http://bb1.sendevric.com:8000/live/jean/jean123/11032.ts
-#EXTINF:-1,ESP - Disney Junior
-http://bb1.sendevric.com:8000/live/jean/jean123/11033.ts
-#EXTINF:-1,ESP - Disney XD
-http://bb1.sendevric.com:8000/live/jean/jean123/11034.ts
-#EXTINF:-1,ESP - Nick Jr.
-http://bb1.sendevric.com:8000/live/jean/jean123/11036.ts
-#EXTINF:-1,ESP - Nickelodeon
-http://bb1.sendevric.com:8000/live/jean/jean123/11037.ts
-#EXTINF:-1,ESP - MTV Espana
-http://bb1.sendevric.com:8000/live/jean/jean123/11040.ts
-#EXTINF:-1,ESP - Bein Sport La Liga HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11047.ts
-#EXTINF:-1,ESP - La Liga
-http://bb1.sendevric.com:8000/live/jean/jean123/11013.ts
-#EXTINF:-1,ESP - Movistar Deportes 1
-http://bb1.sendevric.com:8000/live/jean/jean123/11041.ts
-#EXTINF:-1,ESP - Movistar Deportes 2
-http://bb1.sendevric.com:8000/live/jean/jean123/11042.ts
-#EXTINF:-1,ESP - Movistar Formula 1
-http://bb1.sendevric.com:8000/live/jean/jean123/11043.ts
-#EXTINF:-1,ESP - Movistar Moto GP
-http://bb1.sendevric.com:8000/live/jean/jean123/11039.ts
-#EXTINF:-1,ESP - Movistar Futbol
-http://bb1.sendevric.com:8000/live/jean/jean123/11044.ts
-#EXTINF:-1,ESP - Eurosport 1 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11028.ts
-#EXTINF:-1,ESP - Eurosport 2 HD
-http://bb1.sendevric.com:8000/live/jean/jean123/11029.ts
-#EXTINF:-1,ESP - La Liga Tv Bar
-http://bb1.sendevric.com:8000/live/jean/jean123/7240.ts
-#EXTINF:-1,ESP - Gol TV
-http://bb1.sendevric.com:8000/live/jean/jean123/7298.ts
-#EXTINF:-1,ESP - Barca TV
-http://bb1.sendevric.com:8000/live/jean/jean123/11046.ts
-#EXTINF:-1,ESP - Real Madrid TV
-http://bb1.sendevric.com:8000/live/jean/jean123/11048.ts
-#EXTINF:-1,ESP - Real Madrid TV (B)
-http://bb1.sendevric.com:8000/live/jean/jean123/4879.ts
-#EXTINF:-1,ESP - Bein La Liga HD
-http://bb1.sendevric.com:8000/live/jean/jean123/7261.ts
-#EXTINF:-1,ESP - Caza Y Pesca HD
-http://bb1.sendevric.com:8000/live/jean/jean123/7242.ts
-#EXTINF:-1,ESP - Mezzo
-http://bb1.sendevric.com:8000/live/jean/jean123/4878.ts
-#EXTINF:-1,ESP - MTV Dance
-http://bb1.sendevric.com:8000/live/jean/jean123/7310.ts
-#EXTINF:-1,ESP - MTV Hits
-http://bb1.sendevric.com:8000/live/jean/jean123/7309.ts
-#EXTINF:-1,ESP - MTV Rock
-http://bb1.sendevric.com:8000/live/jean/jean123/7308.ts
-#EXTINF:-1,ESP - VH1
-http://bb1.sendevric.com:8000/live/jean/jean123/7311.ts
-
-
+#EXTINF:-1,CTV
+http://90.229.173.167:9000/ch22
+#EXTINF:-1,SUNDANCE TV
+http://90.229.173.167:9000/ch23
+#EXTINF:-1,m Series
+http://90.229.173.167:9000/ch13
+#EXTINF:-1,mezzo
+http://90.229.173.167:9000/ch14
+#EXTINF:-1,ODISEA
+http://90.229.173.167:9000/ch25
+#EXTINF:-1,National Geographic
+http://90.229.173.167:9000/ch26
+#EXTINF:-1,CALLE13
+http://90.229.173.167:9000/ch29
+#EXTINF:-1,SuFy
+http://90.229.173.167:9000/ch32
+#EXTINF:-1,M+
+http://90.229.173.167:9000/ch33
+#EXTINF:-1,F.
+http://90.229.173.167:9000/ch34
+#EXTINF:-1,TP clan
+http://90.229.173.167:9000/ch35
+#EXTINF:-1,N/A
+http://90.229.173.167:9000/ch36
+#EXTINF:-1,TP 1
+http://90.229.173.167:9000/ch37
+#EXTINF:-1,HOLYWOOD
+http://90.229.173.167:9000/ch38
+#EXTINF:-1,TP 2
+http://90.229.173.167:9000/ch39
+#EXTINF:-1,5
+http://90.229.173.167:9000/ch40
+#EXTINF:-1,M Extra
+http://90.229.173.167:9000/ch41
+#EXTINF:-1,N/A
+http://90.229.173.167:9000/ch42
+#EXTINF:-1,TNT
+http://90.229.173.167:9000/ch43
+#EXTINF:-1,Nat Geo WILD
+http://90.229.173.167:9000/ch44
+#EXTINF:-1,M Estrenos
+http://90.229.173.167:9000/ch45
+#EXTINF:-1,Disney Channel
+http://90.229.173.167:9000/ch46
+#EXTINF:-1,M eSports
+http://90.229.173.167:9000/ch47
+#EXTINF:-1,TCM
+http://90.229.173.167:9000/ch48
+#EXTINF:-1,Comedy Central
+http://90.229.173.167:9000/ch49
+#EXTINF:-1,VIAJAR
+http://90.229.173.167:9000/ch50
+#EXTINF:-1,M Series Extra
+http://90.229.173.167:9000/ch51
+#EXTINF:-1,tdp
+http://90.229.173.167:9000/ch52
+#EXTINF:-1,N/A
+http://90.229.173.167:9000/ch53
+#EXTINF:-1,amc
+http://90.229.173.167:9000/ch54
+#EXTINF:-1,N/A
+http://90.229.173.167:9000/ch55
+#EXTINF:-1,Telesur
+http://90.229.173.167:9000/ch56
+#EXTINF:-1,TBN ESPANA
+http://90.229.173.167:9000/ch57
+#EXTINF:-1,GALICIA
+http://90.229.173.167:9000/ch58
+#EXTINF:-1,i24 News
+http://90.229.173.167:9000/ch59

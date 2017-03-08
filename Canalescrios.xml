@@ -7,26 +7,8 @@
 		
 		
 		
-		<item> 
-            <title>[COLOR yellow] Canal Baby [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11021.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Baby</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11032.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Disney Junior [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11033.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Nick Jr. [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11036.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr.</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Nickelodeon [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/jean/jean123/11037.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
-        </item>
+	
+	
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
