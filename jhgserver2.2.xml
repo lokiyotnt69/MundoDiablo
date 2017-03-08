@@ -12,7 +12,7 @@
 
 		<item> 
             <title>[COLOR yellow] GOL TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/admin/12345678/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/sohail/sohail/3016.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
         </item>		
         <item> 
             <title>[COLOR yellow] CANAL+DEPORTES_HD [/COLOR]</title> 
