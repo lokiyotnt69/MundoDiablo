@@ -6,45 +6,7 @@
   
   
   
-  
-        
-        
-		<item> 
-            <title>[COLOR blue] 40 TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/amicocalavis/avisamicocal/3237.ts&amp;streamtype=TSDOWNLOADER&amp;name=40 TV</link> 
-        </item>		
-		<item> 
-            <title>[COLOR blue] A3 Series [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/amicocalavis/avisamicocal/3234.ts&amp;streamtype=TSDOWNLOADER&amp;name=A3 Series</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] AMC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/amicocalavis/avisamicocal/3233.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
-        </item>	
-		<item> 
-            <title>[COLOR blue]  Andalucia TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/amicocalavis/avisamicocal/3232.ts&amp;streamtype=TSDOWNLOADER&amp;name= Andalucia TV</link> 
-        </item>		
-		<item> 
-            <title>[COLOR blue] Anime TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/amicocalavis/avisamicocal/3231.ts&amp;streamtype=TSDOWNLOADER&amp;name=Anime TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue] Antena 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/amicocalavis/avisamicocal/3230.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
-        </item>         
-		<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>		
-		<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR blue]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>		
+  	
 		<item> 
             <title>[COLOR blue]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
