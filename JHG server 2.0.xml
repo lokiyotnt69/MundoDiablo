@@ -145,24 +145,24 @@
             <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TNT_ES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT_ES</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] ENERGY [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/4746.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] TELECINCO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] PANDA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=PANDA</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
