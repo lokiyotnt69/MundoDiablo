@@ -73,6 +73,58 @@
             <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_TOROS</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] SERIES_EXTRA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/840.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIES_EXTRA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] CANAL_DEPORTES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3937.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_DEPORTES</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CANAL_DEPORTES_2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3935.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_DEPORTES_2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] C+_DEPORTES [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_DEPORTES</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] MOVIESTAR_F1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVIESTAR_F1</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] ANDALUCIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/5121.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] FOX_LIFE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_LIFE</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] FOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LA_1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_1</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow] NICK_JUNIOR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK_JUNIOR</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] BOING [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -87,8 +139,19 @@
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
