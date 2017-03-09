@@ -1,74 +1,189 @@
 #EXTM3U
 
 
-
-#EXTINF:-1,CTV
-http://90.229.173.167:9000/ch22
-#EXTINF:-1,SUNDANCE TV
-http://90.229.173.167:9000/ch23
-#EXTINF:-1,m Series
-http://90.229.173.167:9000/ch13
-#EXTINF:-1,mezzo
-http://90.229.173.167:9000/ch14
-#EXTINF:-1,ODISEA
-http://90.229.173.167:9000/ch25
-#EXTINF:-1,National Geographic
-http://90.229.173.167:9000/ch26
-#EXTINF:-1,CALLE13
-http://90.229.173.167:9000/ch29
-#EXTINF:-1,SuFy
-http://90.229.173.167:9000/ch32
-#EXTINF:-1,M+
-http://90.229.173.167:9000/ch33
-#EXTINF:-1,F.
-http://90.229.173.167:9000/ch34
-#EXTINF:-1,TP clan
-http://90.229.173.167:9000/ch35
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch36
-#EXTINF:-1,TP 1
-http://90.229.173.167:9000/ch37
-#EXTINF:-1,HOLYWOOD
-http://90.229.173.167:9000/ch38
-#EXTINF:-1,TP 2
-http://90.229.173.167:9000/ch39
-#EXTINF:-1,5
-http://90.229.173.167:9000/ch40
-#EXTINF:-1,M Extra
-http://90.229.173.167:9000/ch41
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch42
-#EXTINF:-1,TNT
-http://90.229.173.167:9000/ch43
-#EXTINF:-1,Nat Geo WILD
-http://90.229.173.167:9000/ch44
-#EXTINF:-1,M Estrenos
-http://90.229.173.167:9000/ch45
-#EXTINF:-1,Disney Channel
-http://90.229.173.167:9000/ch46
-#EXTINF:-1,M eSports
-http://90.229.173.167:9000/ch47
-#EXTINF:-1,TCM
-http://90.229.173.167:9000/ch48
-#EXTINF:-1,Comedy Central
-http://90.229.173.167:9000/ch49
-#EXTINF:-1,VIAJAR
-http://90.229.173.167:9000/ch50
-#EXTINF:-1,M Series Extra
-http://90.229.173.167:9000/ch51
-#EXTINF:-1,tdp
-http://90.229.173.167:9000/ch52
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch53
-#EXTINF:-1,amc
-http://90.229.173.167:9000/ch54
-#EXTINF:-1,N/A
-http://90.229.173.167:9000/ch55
-#EXTINF:-1,Telesur
-http://90.229.173.167:9000/ch56
-#EXTINF:-1,TBN ESPANA
-http://90.229.173.167:9000/ch57
-#EXTINF:-1,GALICIA
-http://90.229.173.167:9000/ch58
-#EXTINF:-1,i24 News
-http://90.229.173.167:9000/ch59
+#EXTINF:-1,---- < SPAGNA > ---
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/14674.ts
+#EXTINF:-1,[ES] C  Piu24 Horas
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20994.ts
+#EXTINF:-1,[ES] C  A&E
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20993.ts
+#EXTINF:-1,[ES] C  AMC
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20991.ts
+#EXTINF:-1,[ES] C  AXN
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20990.ts
+#EXTINF:-1,[ES] C  AXN White
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20989.ts
+#EXTINF:-1,[ES] C  Accion HD
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20992.ts
+#EXTINF:-1,[ES] C  Canal Cocina
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20988.ts
+#EXTINF:-1,[ES] C  Canal Decasa
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20987.ts
+#EXTINF:-1,[ES] C  Canal Odisea
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20986.ts
+#EXTINF:-1,[ES] C  Caza & Pesca
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20985.ts
+#EXTINF:-1,[ES] C  Clan TVE
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20984.ts
+#EXTINF:-1,[ES] C  Comedia
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20983.ts
+#EXTINF:-1,[ES] C  Comedy Central
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20982.ts
+#EXTINF:-1,[ES] C  Cosmo
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20981.ts
+#EXTINF:-1,[ES] C  Crimen Inves
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20980.ts
+#EXTINF:-1,[ES] C  Dcine Espanol
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20979.ts
+#EXTINF:-1,[ES] C  Dcine HD
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20978.ts
+#EXTINF:-1,[ES] C  Deportes
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20977.ts
+#EXTINF:-1,[ES] C  Discovery
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20976.ts
+#EXTINF:-1,[ES] C  Disney Channel
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20975.ts
+#EXTINF:-1,[ES] C  Disney Junior
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20974.ts
+#EXTINF:-1,[ES] C  Disney XD
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20973.ts
+#EXTINF:-1,[ES] C  Estrenos
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20972.ts
+#EXTINF:-1,[ES] C  Eurosport 1
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20971.ts
+#EXTINF:-1,[ES] C  F.TBOL HD
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20970.ts
+#EXTINF:-1,[ES] C  FDF
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20969.ts
+#EXTINF:-1,[ES] C  Fox HD
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20968.ts
+#EXTINF:-1,[ES] C  Fox Life
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20967.ts
+#EXTINF:-1,[ES] C  Fox News
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20966.ts
+#EXTINF:-1,[ES] C  Golf
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20965.ts
+#EXTINF:-1,[ES] C  Hollywood
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20964.ts
+#EXTINF:-1,[ES] C  Iberalia TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20963.ts
+#EXTINF:-1,[ES] C  La Sexta
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20962.ts
+#EXTINF:-1,[ES] C  La1
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20961.ts
+#EXTINF:-1,[ES] C  La2
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20960.ts
+#EXTINF:-1,[ES] C  Los40
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20959.ts
+#EXTINF:-1,[ES] C  Moto GP
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20958.ts
+#EXTINF:-1,[ES] C  Moviestar F1
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20957.ts
+#EXTINF:-1,[ES] C  Nat Geo
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20956.ts
+#EXTINF:-1,[ES] C  Nat Geo Wild
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20955.ts
+#EXTINF:-1,[ES] C  Nonstopeople
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20954.ts
+#EXTINF:-1,[ES] C  Nova
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20953.ts
+#EXTINF:-1,[ES] C  Series Xtra
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20952.ts
+#EXTINF:-1,[ES] C  SyFy
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20951.ts
+#EXTINF:-1,[ES] C  TCM
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20950.ts
+#EXTINF:-1,[ES] C  TNT
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20947.ts
+#EXTINF:-1,[ES] C  Telecinco
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20949.ts
+#EXTINF:-1,[ES] C  Teledeporte
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20948.ts
+#EXTINF:-1,[ES] C  Viajar
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20946.ts
+#EXTINF:-1,[ES] C  Xtra
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/20945.ts
+#EXTINF:-1,[ES] C Baby TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21092.ts
+#EXTINF:-1,[ES] C Barca TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21091.ts
+#EXTINF:-1,[ES] C Boing
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21090.ts
+#EXTINF:-1,[ES] C Divinity
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21089.ts
+#EXTINF:-1,[ES] C Energy TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21088.ts
+#EXTINF:-1,[ES] C Estellas
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21087.ts
+#EXTINF:-1,[ES] C LTC
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21086.ts
+#EXTINF:-1,[ES] C MTV Espana
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21085.ts
+#EXTINF:-1,[ ES: ] 13 TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23788.ts
+#EXTINF:-1,[ ES: ] Action
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23789.ts
+#EXTINF:-1,[ ES: ] ALFA TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23790.ts
+#EXTINF:-1,[ ES: ] Andalucia TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23791.ts
+#EXTINF:-1,[ ES: ] Anime Tv
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23792.ts
+#EXTINF:-1,[ ES: ] Antenna 3
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23793.ts
+#EXTINF:-1,[ ES: ] AXN White
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23794.ts
+#EXTINF:-1,[ ES: ] Bein Sport
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23795.ts
+#EXTINF:-1,[ ES: ] Canal  Costa
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23796.ts
+#EXTINF:-1,[ ES: ] Canal  DeportES:
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23797.ts
+#EXTINF:-1,[ ES: ] Canal 1
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23798.ts
+#EXTINF:-1,[ ES: ] Canal Dcine
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23799.ts
+#EXTINF:-1,[ ES: ] Comedia
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23800.ts
+#EXTINF:-1,[ ES: ] Disney Channel
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23801.ts
+#EXTINF:-1,[ ES: ] DXTV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23802.ts
+#EXTINF:-1,[ ES: ] EiTB
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23803.ts
+#EXTINF:-1,[ ES: ] EL Tiempo TV
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23804.ts
+#EXTINF:-1,[ ES: ] ES:trenos
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23805.ts
+#EXTINF:-1,[ ES: ] Euronews
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23806.ts
+#EXTINF:-1,[ ES: ] Fox
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23807.ts
+#EXTINF:-1,[ ES: ] Fox Life
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23808.ts
+#EXTINF:-1,[ ES: ] Futbol
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23809.ts
+#EXTINF:-1,[ ES: ] Hollywood
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23810.ts
+#EXTINF:-1,[ ES: ] IB3
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23811.ts
+#EXTINF:-1,[ ES: ] Liga
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23812.ts
+#EXTINF:-1,[ ES: ] Nat Geo Wild
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23813.ts
+#EXTINF:-1,[ ES: ] Real Madrid
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23814.ts
+#EXTINF:-1,[ ES: ] Rete 8 Sport ANGLO
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23815.ts
+#EXTINF:-1,[ ES: ] RPTA7
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23816.ts
+#EXTINF:-1,[ ES: ] SeriES: Xtra
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23817.ts
+#EXTINF:-1,[ ES: ] Taquilla 1
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23818.ts
+#EXTINF:-1,[ ES: ] TV Extremadura
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23819.ts
+#EXTINF:-1,[ ES: ] TV Nuevo Tiempo
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23820.ts
+#EXTINF:-1,[ ES: ] TV3
+http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/23821.ts
