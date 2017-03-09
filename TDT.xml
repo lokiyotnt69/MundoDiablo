@@ -8,49 +8,34 @@
 		
 	
 			
-		<item> 
-            <title>[COLOR yellow]  LA 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/33.ts&amp;streamtype=TSDOWNLOADER&amp;name= LA 1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
-        </item>
-           <item> 
+		
+        <item> 
             <title>[COLOR yellow]  CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/24.ts&amp;streamtype=TSDOWNLOADER&amp;name= CUATRO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7686.ts&amp;streamtype=TSDOWNLOADER&amp;name= CUATRO</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  TELECINCO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= TELECINCO</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] LA SEXTA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA</link> 
-        </item>		
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/10008.ts&amp;streamtype=TSDOWNLOADER&amp;name= TELECINCO</link> 
+        </item>			
 		<item> 
             <title>[COLOR yellow] NEOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/7194.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] NOVA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
-        </item>
-           <item> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/14970.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
+        </item>	
+         <item> 
             <title>[COLOR yellow]  MEGA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/7200.ts&amp;streamtype=TSDOWNLOADER&amp;name= MEGA TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7713.ts&amp;streamtype=TSDOWNLOADER&amp;name= MEGA TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  FDF [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/404.ts&amp;streamtype=TSDOWNLOADER&amp;name= FDF</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7679.ts&amp;streamtype=TSDOWNLOADER&amp;name= FDF</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] DIVINITY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/7196.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldcs.info:8080/live/alberto/alberto/7195.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
