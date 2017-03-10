@@ -1,189 +1,101 @@
 #EXTM3U
 
 
-#EXTINF:-1,---- < SPAGNA > ---
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/14674.ts
-#EXTINF:-1,[ES] C Piu24 Horas
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20994.ts
-#EXTINF:-1,[ES] C A&E
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20993.ts
-#EXTINF:-1,[ES] C AMC
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20991.ts
-#EXTINF:-1,[ES] C AXN
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20990.ts
-#EXTINF:-1,[ES] C AXN White
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20989.ts
-#EXTINF:-1,[ES] C Accion HD
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20992.ts
-#EXTINF:-1,[ES] C Canal Cocina
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20988.ts
-#EXTINF:-1,[ES] C Canal Decasa
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20987.ts
-#EXTINF:-1,[ES] C Canal Odisea
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20986.ts
-#EXTINF:-1,[ES] C Caza & Pesca
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20985.ts
-#EXTINF:-1,[ES] C Clan TVE
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20984.ts
-#EXTINF:-1,[ES] C Comedia
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20983.ts
-#EXTINF:-1,[ES] C Comedy Central
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20982.ts
-#EXTINF:-1,[ES] C Cosmo
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20981.ts
-#EXTINF:-1,[ES] C Crimen Inves
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20980.ts
-#EXTINF:-1,[ES] C Dcine Espanol
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20979.ts
-#EXTINF:-1,[ES] C Dcine HD
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20978.ts
-#EXTINF:-1,[ES] C Deportes
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20977.ts
-#EXTINF:-1,[ES] C Discovery
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20976.ts
-#EXTINF:-1,[ES] C Disney Channel
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20975.ts
-#EXTINF:-1,[ES] C Disney Junior
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20974.ts
-#EXTINF:-1,[ES] C Disney XD
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20973.ts
-#EXTINF:-1,[ES] C Estrenos
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20972.ts
-#EXTINF:-1,[ES] C Eurosport 1
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20971.ts
-#EXTINF:-1,[ES] C F.TBOL HD
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20970.ts
-#EXTINF:-1,[ES] C FDF
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20969.ts
-#EXTINF:-1,[ES] C Fox HD
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20968.ts
-#EXTINF:-1,[ES] C Fox Life
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20967.ts
-#EXTINF:-1,[ES] C Fox News
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20966.ts
-#EXTINF:-1,[ES] C Golf
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20965.ts
-#EXTINF:-1,[ES] C Hollywood
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20964.ts
-#EXTINF:-1,[ES] C Iberalia TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20963.ts
-#EXTINF:-1,[ES] C La Sexta
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20962.ts
-#EXTINF:-1,[ES] C La1
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20961.ts
-#EXTINF:-1,[ES] C La2
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20960.ts
-#EXTINF:-1,[ES] C Los40
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20959.ts
-#EXTINF:-1,[ES] C Moto GP
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20958.ts
-#EXTINF:-1,[ES] C Moviestar F1
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20957.ts
-#EXTINF:-1,[ES] C Nat Geo
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20956.ts
-#EXTINF:-1,[ES] C Nat Geo Wild
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20955.ts
-#EXTINF:-1,[ES] C Nonstopeople
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20954.ts
-#EXTINF:-1,[ES] C Nova
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20953.ts
-#EXTINF:-1,[ES] C Series Xtra
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20952.ts
-#EXTINF:-1,[ES] C SyFy
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20951.ts
-#EXTINF:-1,[ES] C TCM
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20950.ts
-#EXTINF:-1,[ES] C TNT
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20947.ts
-#EXTINF:-1,[ES] C Telecinco
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20949.ts
-#EXTINF:-1,[ES] C Teledeporte
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20948.ts
-#EXTINF:-1,[ES] C Viajar
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20946.ts
-#EXTINF:-1,[ES] C Xtra
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/20945.ts
-#EXTINF:-1,[ES] C Baby TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21092.ts
-#EXTINF:-1,[ES] C Barca TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21091.ts
-#EXTINF:-1,[ES] C Boing
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21090.ts
-#EXTINF:-1,[ES] C Divinity
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21089.ts
-#EXTINF:-1,[ES] C Energy TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21088.ts
-#EXTINF:-1,[ES] C Estellas
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21087.ts
-#EXTINF:-1,[ES] C LTC
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21086.ts
-#EXTINF:-1,[ES] C MTV Espana
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/21085.ts
-#EXTINF:-1,[ ES: ] 13 TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23788.ts
-#EXTINF:-1,[ ES: ] Action
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23789.ts
-#EXTINF:-1,[ ES: ] ALFA TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23790.ts
-#EXTINF:-1,[ ES: ] Andalucia TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23791.ts
-#EXTINF:-1,[ ES: ] Anime Tv
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23792.ts
-#EXTINF:-1,[ ES: ] Antenna 3
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23793.ts
-#EXTINF:-1,[ ES: ] AXN White
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23794.ts
-#EXTINF:-1,[ ES: ] Bein Sport
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23795.ts
-#EXTINF:-1,[ ES: ] Canal Costa
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23796.ts
-#EXTINF:-1,[ ES: ] Canal DeportES:
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23797.ts
-#EXTINF:-1,[ ES: ] Canal 1
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23798.ts
-#EXTINF:-1,[ ES: ] Canal Dcine
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23799.ts
-#EXTINF:-1,[ ES: ] Comedia
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23800.ts
-#EXTINF:-1,[ ES: ] Disney Channel
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23801.ts
-#EXTINF:-1,[ ES: ] DXTV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23802.ts
-#EXTINF:-1,[ ES: ] EiTB
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23803.ts
-#EXTINF:-1,[ ES: ] EL Tiempo TV
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23804.ts
-#EXTINF:-1,[ ES: ] ES:trenos
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23805.ts
-#EXTINF:-1,[ ES: ] Euronews
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23806.ts
-#EXTINF:-1,[ ES: ] Fox
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23807.ts
-#EXTINF:-1,[ ES: ] Fox Life
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23808.ts
-#EXTINF:-1,[ ES: ] Futbol
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23809.ts
-#EXTINF:-1,[ ES: ] Hollywood
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23810.ts
-#EXTINF:-1,[ ES: ] IB3
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23811.ts
-#EXTINF:-1,[ ES: ] Liga
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23812.ts
-#EXTINF:-1,[ ES: ] Nat Geo Wild
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23813.ts
-#EXTINF:-1,[ ES: ] Real Madrid
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23814.ts
-#EXTINF:-1,[ ES: ] Rete 8 Sport ANGLO
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23815.ts
-#EXTINF:-1,[ ES: ] RPTA7
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23816.ts
-#EXTINF:-1,[ ES: ] SeriES: Xtra
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23817.ts
-#EXTINF:-1,[ ES: ] Taquilla 1
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23818.ts
-#EXTINF:-1,[ ES: ] TV Extremadura
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23819.ts
-#EXTINF:-1,[ ES: ] TV Nuevo Tiempo
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23820.ts
-#EXTINF:-1,[ ES: ] TV3
-http://185.2.83.202:23000/live/12bella0115super1/SnEC9c7V7i/23821.ts
+#EXTINF:-1,*******SPANISH***********
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/2094.ts
+#EXTINF:-1,ES: TELECINCO
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1103.ts
+#EXTINF:-1,ES: TAQUILLA 5 TEST
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1783.ts
+#EXTINF:-1,ES: TAQUILLA 4 TEST
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1782.ts
+#EXTINF:-1,ES: TAQUILLA 3 TEST
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1781.ts
+#EXTINF:-1,ES: TAQUILLA 2 TEST
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1780.ts
+#EXTINF:-1,ES: TAQUILLA 1 TEST
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1779.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1120.ts
+#EXTINF:-1,ES: LA SEXTA
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1118.ts
+#EXTINF:-1,ES: LA 2
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1125.ts
+#EXTINF:-1,ES: LA 1
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1124.ts
+#EXTINF:-1,ES: FOX MOVIE HD
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1112.ts
+#EXTINF:-1,ES: CANAL Odesia
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1116.ts
+#EXTINF:-1,ES: CANAL COCINA
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1101.ts
+#EXTINF:-1,ES: CANAL   1
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1113.ts
+#EXTINF:-1,ES: CALLE 13
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1110.ts
+#EXTINF:-1,Es: ANTENA3
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1102.ts
+#EXTINF:-1,SPA:TNT
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1766.ts
+#EXTINF:-1,SPA:MoviStar MotoGP
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1762.ts
+#EXTINF:-1,SPA:Fox Life
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1768.ts
+#EXTINF:-1,SPA:Fox
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1752.ts
+#EXTINF:-1,SPA:National GEO
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1754.ts
+#EXTINF:-1,SPA:CANAL+HD
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1753.ts
+#EXTINF:-1,SPA:Comedy
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1767.ts
+#EXTINF:-1,SPA:Canal Decasa
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1764.ts
+#EXTINF:-1,SPA:C Seriesxtra
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1760.ts
+#EXTINF:-1,SPA:C  Golf
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1763.ts
+#EXTINF:-1,SPA:C  Estrenos
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1758.ts
+#EXTINF:-1,SPA:C   DCINE
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1759.ts
+#EXTINF:-1,SPA: Canal+ Toros
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/1765.ts
+#EXTINF:-1,SPA: Historia
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/951.ts
+#EXTINF:-1,SPA: CANAL+ FUTBOL
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/890.ts
+#EXTINF:-1,SPA: Canal+ Comedia
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/896.ts
+#EXTINF:-1,SPA-NAT GEO WILD
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/904.ts
+#EXTINF:-1,SPA-Hollywood Spain
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/905.ts
+#EXTINF:-1,SPA-MOVISTAR F1
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/902.ts
+#EXTINF:-1,SPA-disney jr
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/901.ts
+#EXTINF:-1,SPA: Eurosport 1
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/3148.ts
+#EXTINF:-1,SPA: Canal+ deporte 2
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/3146.ts
+#EXTINF:-1,SPA: Bein liga
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/3147.ts
+#EXTINF:-1,SPA-Cuatro
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/908.ts
+#EXTINF:-1,SPA-CANAL+DEPORTE
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/903.ts
+#EXTINF:-1,SPA-canal+ action
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/892.ts
+#EXTINF:-1,SPA-Canal   Liga
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/900.ts
+#EXTINF:-1,SPA-Canal   Dcine
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/897.ts
+#EXTINF:-1,SPA-BEIN SPORT N
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/946.ts
+#EXTINF:-1,SPA-Barca TV
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/895.ts
+#EXTINF:-1,SPA-AXN White Spain
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/894.ts
+#EXTINF:-1,SPA-AXN Spain
+http://iptv-volkan.net:8000/live/raja/cLRD6FYE7R/893.ts
