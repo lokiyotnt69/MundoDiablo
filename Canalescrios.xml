@@ -9,34 +9,21 @@
 		
 		
 	
-	
-		<item> 
-            <title>[COLOR yellow] C Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/12bella0115super1/SnEC9c7V7i/21090.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
-        </item>				
-		<item> 
-            <title>[COLOR yellow] BABY TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/24989.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.254.44.161:9900/live/525/525/25071.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
-        </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Baby TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3651.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] BOING [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Disney XD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3654.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Nickelodeon [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
