@@ -1,68 +1,195 @@
 #EXTM3U
 
 
-EXTINF:-1,[COLOR yellow][I][B]------------------------------------------------[/B][/I][/COLOR]
+EXTINF:-1,[COLOR yellow][I][B]-------------------NO FUNCIONAN -----------------------------[/B][/I][/COLOR]
 
 
-#EXTINF:-1, SP TNT
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1823.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, Teledeporte
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1822.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,SyFy_SPAIN
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1889.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,SP Moto GP
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1867.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,Hollywood
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1855.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, Toros
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1828.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,C+Estrenos_SPAIN
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1885.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,Dcine HD
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1838.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, Accion HD
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1831.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,Caza Y Pesca
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1845.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, AXN HD
-plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/alpha123/alpha123/1853.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,  M SERIES 
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5153.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, MOVISTAR FORMULA 1
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16150.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,Movistar Estrenos
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15023.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, CANAL+ COMEDIA HD
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5156.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, CALLE 13
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5159.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, Movistar Comedia HD 
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15019.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,HOLLYWOOD
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16126.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,FOX 
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15007.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8567.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1, M ESTRENOS HD 
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5155.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow] beIN Sports[/COLOR]
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11116.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow] beIN LaLiga 1 [/COLOR]
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10730.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow]  Gol T[/COLOR]
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15010.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,[COLOR yellow] MOVISTAR  FUTBOL  [/COLOR]
-plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16153.ts&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
-#EXTINF:-1,
-plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER 
+ 
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]AXN
+http://209.126.107.175:25461/live/suriptv/suriptv/390.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Antena 3
+http://209.126.107.175:25461/live/suriptv/suriptv/677.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Bein sport
+http://209.126.107.175:25461/live/suriptv/suriptv/675.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]CANAL INSTITUCIONAL
+http://209.126.107.175:25461/live/suriptv/suriptv/635.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]CABLENOTICIAS
+http://209.126.107.175:25461/live/suriptv/suriptv/648.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]CDF Basico
+http://209.126.107.175:25461/live/suriptv/suriptv/395.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]CDF HD
+http://209.126.107.175:25461/live/suriptv/suriptv/508.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]CDF Premium
+http://209.126.107.175:25461/live/suriptv/suriptv/393.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Canal 13
+http://209.126.107.175:25461/live/suriptv/suriptv/392.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Cinecanal
+http://209.126.107.175:25461/live/suriptv/suriptv/396.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Cuatro espana
+http://209.126.107.175:25461/live/suriptv/suriptv/678.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]chilevision
+http://209.126.107.175:25461/live/suriptv/suriptv/391.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Cartoon Network
+http://209.126.107.175:25461/live/suriptv/suriptv/394.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Cinemax
+http://209.126.107.175:25461/live/suriptv/suriptv/397.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Canal 26
+http://209.126.107.175:25461/live/suriptv/suriptv/628.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Canal uno
+http://209.126.107.175:25461/live/suriptv/suriptv/786.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]CNN Chile
+http://209.126.107.175:25461/live/suriptv/suriptv/398.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Dep 1 espana
+http://209.126.107.175:25461/live/suriptv/suriptv/669.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]DeporTV (DXTV)
+http://209.126.107.175:25461/live/suriptv/suriptv/612.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Disney Jr
+http://209.126.107.175:25461/live/suriptv/suriptv/650.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Disney XD
+http://209.126.107.175:25461/live/suriptv/suriptv/400.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Discovery Channel
+http://209.126.107.175:25461/live/suriptv/suriptv/649.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Espn
+http://209.126.107.175:25461/live/suriptv/suriptv/651.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Esnp 2
+http://209.126.107.175:25461/live/suriptv/suriptv/652.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]ESPN 3
+http://209.126.107.175:25461/live/suriptv/suriptv/401.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Ecuador TV
+http://209.126.107.175:25461/live/suriptv/suriptv/498.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Ecuavisa
+http://209.126.107.175:25461/live/suriptv/suriptv/788.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]EL TIEMPO
+http://209.126.107.175:25461/live/suriptv/suriptv/643.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]F1
+http://209.126.107.175:25461/live/suriptv/suriptv/507.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Eurosport 2
+http://209.126.107.175:25461/live/suriptv/suriptv/674.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Gama TV
+http://209.126.107.175:25461/live/suriptv/suriptv/789.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]F1 espana
+http://209.126.107.175:25461/live/suriptv/suriptv/670.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Action
+http://209.126.107.175:25461/live/suriptv/suriptv/502.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Movies
+http://209.126.107.175:25461/live/suriptv/suriptv/653.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox 1
+http://209.126.107.175:25461/live/suriptv/suriptv/501.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Channel
+http://209.126.107.175:25461/live/suriptv/suriptv/402.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]FX
+http://209.126.107.175:25461/live/suriptv/suriptv/404.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Sports
+http://209.126.107.175:25461/live/suriptv/suriptv/503.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Sports HD
+http://209.126.107.175:25461/live/suriptv/suriptv/683.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Sports HD 2
+http://209.126.107.175:25461/live/suriptv/suriptv/684.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Sports HD 3 HD
+http://209.126.107.175:25461/live/suriptv/suriptv/685.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Sport Chile HD
+http://209.126.107.175:25461/live/suriptv/suriptv/783.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox Sports HD MX
+http://209.126.107.175:25461/live/suriptv/suriptv/785.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Fox sport Premium
+http://209.126.107.175:25461/live/suriptv/suriptv/682.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Futbol espana
+http://209.126.107.175:25461/live/suriptv/suriptv/671.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Gol TV
+http://209.126.107.175:25461/live/suriptv/suriptv/500.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Golf espana
+http://209.126.107.175:25461/live/suriptv/suriptv/672.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]HBO
+http://209.126.107.175:25461/live/suriptv/suriptv/387.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Hollywood
+http://209.126.107.175:25461/live/suriptv/suriptv/661.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]History Channel
+http://209.126.107.175:25461/live/suriptv/suriptv/483.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]I-Sat
+http://209.126.107.175:25461/live/suriptv/suriptv/484.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]La 1 espana
+http://209.126.107.175:25461/live/suriptv/suriptv/663.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]La 2 espana
+http://209.126.107.175:25461/live/suriptv/suriptv/664.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]La Sexta
+http://209.126.107.175:25461/live/suriptv/suriptv/665.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]La Red
+http://209.126.107.175:25461/live/suriptv/suriptv/485.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]LIFE DESIGN HD
+http://209.126.107.175:25461/live/suriptv/suriptv/642.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]MTV
+http://209.126.107.175:25461/live/suriptv/suriptv/487.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Magazine
+http://209.126.107.175:25461/live/suriptv/suriptv/659.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Mega
+http://209.126.107.175:25461/live/suriptv/suriptv/486.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Movistar Estrenos
+http://209.126.107.175:25461/live/suriptv/suriptv/662.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Movistar Xtra
+http://209.126.107.175:25461/live/suriptv/suriptv/666.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]MUSICA HD
+http://209.126.107.175:25461/live/suriptv/suriptv/641.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Mundo Fox
+http://209.126.107.175:25461/live/suriptv/suriptv/488.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Mi musica HD
+http://209.126.107.175:25461/live/suriptv/suriptv/110.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Nat Geo
+http://209.126.107.175:25461/live/suriptv/suriptv/489.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Nasa Tv
+http://209.126.107.175:25461/live/suriptv/suriptv/238.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Nick Jr
+http://209.126.107.175:25461/live/suriptv/suriptv/791.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Nickelodeon
+http://209.126.107.175:25461/live/suriptv/suriptv/490.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Real Madrid TV
+http://209.126.107.175:25461/live/suriptv/suriptv/3.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Space
+http://209.126.107.175:25461/live/suriptv/suriptv/492.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Sony
+http://209.126.107.175:25461/live/suriptv/suriptv/491.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Tc Television
+http://209.126.107.175:25461/live/suriptv/suriptv/654.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TELE MEDELLIN
+http://209.126.107.175:25461/live/suriptv/suriptv/639.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TIGO MUSIC
+http://209.126.107.175:25461/live/suriptv/suriptv/637.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TELECARIBE
+http://209.126.107.175:25461/live/suriptv/suriptv/633.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TELEANTIOQUIA
+http://209.126.107.175:25461/live/suriptv/suriptv/640.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TELE VID
+http://209.126.107.175:25461/live/suriptv/suriptv/638.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Teleamazonas
+http://209.126.107.175:25461/live/suriptv/suriptv/787.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TCM espana
+http://209.126.107.175:25461/live/suriptv/suriptv/667.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TNT espana
+http://209.126.107.175:25461/live/suriptv/suriptv/668.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TRENDY
+http://209.126.107.175:25461/live/suriptv/suriptv/636.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TVN
+http://209.126.107.175:25461/live/suriptv/suriptv/496.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TNT
+http://209.126.107.175:25461/live/suriptv/suriptv/495.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Telepacifico
+http://209.126.107.175:25461/live/suriptv/suriptv/494.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Teletrak HD
+http://209.126.107.175:25461/live/suriptv/suriptv/126.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TyC Sports
+http://209.126.107.175:25461/live/suriptv/suriptv/655.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Telecinco
+http://209.126.107.175:25461/live/suriptv/suriptv/679.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]PakaPaka
+http://209.126.107.175:25461/live/suriptv/suriptv/658.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Partidazo espana
+http://209.126.107.175:25461/live/suriptv/suriptv/673.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Peliculas espana
+http://209.126.107.175:25461/live/suriptv/suriptv/676.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]TCM
+http://209.126.107.175:25461/live/suriptv/suriptv/493.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]UFC
+http://209.126.107.175:25461/live/suriptv/suriptv/506.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Universal
+http://209.126.107.175:25461/live/suriptv/suriptv/497.ts
+#EXTINF:-1,[COLOR][COLOR blue]•  [/COLOR]Win
+http://209.126.107.175:25461/live/suriptv/suriptv/790.ts
