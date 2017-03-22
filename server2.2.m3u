@@ -241,5 +241,56 @@ http://163.172.213.25:8000/live/sebas/sebas/158.m3u8
 http://163.172.213.25:8000/live/sebas/sebas/166.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FORMUSIC TV" tvg-logo="" group-title="General Streams",FORMUSIC TV
 http://163.172.213.25:8000/live/sebas/sebas/177.m3u8
-
+#EXTINF:-1,#0
+hls://http://192.99.149.20:8080/live/promotryp/ID43089219/3275.m3u8
+#EXTINF:-1,24 HORAS
+hls://http://192.99.149.20:8080/live/promotryp/ID43089219/3309.m3u8
+#EXTINF:-1,A&E
+hls://http://192.99.149.20:8080/live/promotryp/ID43089219/3308.m3u8
+#EXTINF:-1,AXN
+http://192.99.149.20:8080/live/promotryp/ID43089219/3277.m3u8
+#EXTINF:-1,BEIN SPORT
+http://192.99.149.20:8080/live/promotryp/ID43089219/3293.m3u8
+#EXTINF:-1,BOING
+http://192.99.149.20:8080/live/promotryp/ID43089219/3283.m3u8
+#EXTINF:-1,C ACCION
+hls://http://192.99.149.20:8080/live/promotryp/ID43089219/3324.m3u8
+#EXTINF:-1,CALLE13
+http://192.99.149.20:8080/live/promotryp/ID43089219/3306.m3u8
+#EXTINF:-1,CANAL DE CASA
+http://192.99.149.20:8080/live/promotryp/ID43089219/3305.m3u8
+#EXTINF:-1,C ODISEA
+http://192.99.149.20:8080/live/promotryp/ID43089219/3303.m3u8
+#EXTINF:-1,C SUR ACAZA Y PESCA
+http://192.99.149.20:8080/live/promotryp/ID43089219/3302.m3u8
+#EXTINF:-1,C COMEDIA
+http://192.99.149.20:8080/live/promotryp/ID43089219/3323.m3u8
+#EXTINF:-1,C DE CINE
+http://192.99.149.20:8080/live/promotryp/ID43089219/3322.m3u8
+#EXTINF:-1,C DEPORTES
+http://192.99.149.20:8080/live/promotryp/ID43089219/3325.m3u8
+#EXTINF:-1,C LIGA
+hls://http://192.99.149.20:8080/live/promotryp/ID43089219/3320.m3u8
+#EXTINF:-1,CRIMEN
+http://192.99.149.20:8080/live/promotryp/ID43089219/3297.m3u8
+#EXTINF:-1,DCINE
+http://192.99.149.20:8080/live/promotryp/ID43089219/3296.m3u8
+#EXTINF:-1,DISCOVERY
+http://192.99.149.20:8080/live/promotryp/ID43089219/3295.m3u8
+#EXTINF:-1,DISNEY XD
+http://192.99.149.20:8080/live/promotryp/ID43089219/3282.m3u8
+#EXTINF:-1,EUROESPORT
+http://192.99.149.20:8080/live/promotryp/ID43089219/3289.m3u8
+#EXTINF:-1,FOX
+http://192.99.149.20:8080/live/promotryp/ID43089219/3298.m3u8
+#EXTINF:-1,FOX LIFE
+http://192.99.149.20:8080/live/promotryp/ID43089219/3299.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://192.99.149.20:8080/live/promotryp/ID43089219/3287.m3u8
+#EXTINF:-1,LA 2
+http://192.99.149.20:8080/live/promotryp/ID43089219/3318.m3u8
+#EXTINF:-1,LA SEXTA
+http://192.99.149.20:8080/live/promotryp/ID43089219/3285.m3u8
+#EXTINF:-1,MOVIESTAR GP
+http://192.99.149.20:8080/live/promotryp/ID43089219/3315.m3u8
 
