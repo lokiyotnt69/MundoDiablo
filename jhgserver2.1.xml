@@ -5,47 +5,580 @@
   <streamingInfos>
   
   
-      	
-		<item> 
-            <title>[COLOR yellow] F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>	
-        <item> 
-            <title>DEPORTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTE 2</link> 
+     
+		   <item> 
+            <title>ES: #0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8812.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #0 HD</link> 
         </item> 
           <item> 
-            <title>DEPORTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=DEPORTE 1</link> 
+            <title>ES: LA 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8515.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1HD</link> 
         </item> 
-        <item> 
-            <title>GOL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
-        </item>	
-         <item> 
-            <title>BEIN SPORT LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT LIGA</link> 
-        </item>    
           <item> 
-            <title>BEIN SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+            <title>ES: LA 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8519.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2HD</link> 
         </item> 
-		<item> 
-            <title>LA LIGA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/dfskgjndslkr/gdfkdfon84654ff/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA TV</link> 
-        </item> 		
-        <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+          <item> 
+            <title>ES: CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8517.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
+        </item> 
+          <item> 
+            <title>ES: LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8516.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: ANTENNA 3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8521.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENNA 3HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR F1</link> 
+        </item> 
+          <item> 
+            <title>ES: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8522.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8833.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIAJAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8534.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>ES: FDF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8518.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9008.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
+        </item> 
+          <item> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8524.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9006.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
+        </item> 
+          <item> 
+            <title>ES: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9019.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>ES: MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8832.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MEGA</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8819.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8815.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM HD</link> 
+        </item> 
+          <item> 
+            <title>ES: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8818.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8817.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>ES: DISCOVERY CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8822.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8530.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>ES: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8590.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>ES: GOL Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9011.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL Tv</link> 
+        </item> 
+          <item> 
+            <title>ES: Bein Liga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9018.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Liga HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Bein Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9017.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sport HD</link> 
+        </item> 
+          <item> 
+            <title>ES: La Liga BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9009.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Liga BAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/3263.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ LIGA</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/3264.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR GOLF</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR FUTBAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8824.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR FUTBAL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR  DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8826.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR  DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8828.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ACTION HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8827.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR DEPORTES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8830.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8825.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR DEPORTES 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8831.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTES 2HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8834.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/3260.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ACCION</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9016.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR COCINA</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/3274.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR TOROS</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR CINE N</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9228.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR CINE N</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9225.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DECASA</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR DEPORTE 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9234.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTE 2HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9246.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR GOLF HD</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR MotoGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9254.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR MotoGP</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8814.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8813.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CAZA Y PESCA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9015.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CAZA Y PESCA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9013.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C &amp; I</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9223.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C &amp; I</link> 
+        </item> 
+          <item> 
+            <title>ES: 24 HOURS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9210.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24 HOURS</link> 
+        </item> 
+          <item> 
+            <title>ES: ANTENA 3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9216.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3HD</link> 
+        </item> 
+          <item> 
+            <title>ES: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9219.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BABY TV</link> 
+        </item> 
+          <item> 
+            <title>ES: BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9220.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE 13HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9224.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DEPORTE 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9233.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DEPORTE 1HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9235.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9236.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9237.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>ES: ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9239.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ENERGY</link> 
+        </item> 
+          <item> 
+            <title>ES: EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9240.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>ES: HISTORY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9248.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORY</link> 
+        </item> 
+          <item> 
+            <title>ES: LTC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9250.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LTC</link> 
+        </item> 
+          <item> 
+            <title>ES: NAT GEO WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9257.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD HD</link> 
+        </item> 
+          <item> 
+            <title>ES: National Geographic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9258.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: National Geographic HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NONSTOPEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9260.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NONSTOPEOPLE</link> 
+        </item> 
+          <item> 
+            <title>ES: 40#</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11679.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 40#</link> 
+        </item> 
+          <item> 
+            <title>ES: ANDALUCIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11670.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANDALUCIA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal 3/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11674.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal 3/24</link> 
+        </item> 
+          <item> 
+            <title>ES: COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11667.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>ES: Esperanza TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11669.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Esperanza TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Galicia TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11680.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Galicia TV</link> 
+        </item> 
+          <item> 
+            <title>ES: IB3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11668.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: IB3</link> 
+        </item> 
+          <item> 
+            <title>ES: Iberalia TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11677.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Iberalia TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Lancelot tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11676.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Lancelot tv</link> 
+        </item> 
+          <item> 
+            <title>ES: Levante TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11678.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Levante TV</link> 
+        </item> 
+          <item> 
+            <title>ES: MARBELLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11673.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MARBELLA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11671.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nick Jr</link> 
+        </item> 
+          <item> 
+            <title>ES: Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11672.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real Madrid TV</link> 
+        </item> 
+          <item> 
+            <title>ES: TV Canaria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11675.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TV Canaria</link> 
+        </item> 
+          <item> 
+            <title>ES: PARAMOUNT CH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9262.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PARAMOUNT CH</link> 
+        </item> 
+          <item> 
+            <title>ES: DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9012.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>ES: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9020.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TYC SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/11430.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TYC SPORTS</link> 
+        </item> 
+          <item> 
+            <title>ES: IBERALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9010.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: IBERALIA</link> 
+        </item> 
+          <item> 
+            <title>ES: CLAN TVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/9014.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CLAN TVE HD</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8829.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8820.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEP CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8821.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEP CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8531.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>ES: BOING HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/RWO3h94Eyp/i2MiedX73o/8538.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BOING HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3310.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TV3</link> 
+        </item> 
+          <item> 
+            <title>ES: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
+        </item> 
+          <item> 
+            <title>ES: SOL M.SICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3279.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SOL M.SICA</link> 
+        </item> 
+          <item> 
+            <title>ES: RTV Ceuta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3312.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: RTV Ceuta</link> 
+        </item> 
+          <item> 
+            <title>ES: RT Spain</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3313.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: RT Spain</link> 
+        </item> 
+          <item> 
+            <title>ES: Real Madrid Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3314.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real Madrid Tv</link> 
+        </item> 
+          <item> 
+            <title>ES: PLAYBOY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3304.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PLAYBOY TV</link> 
+        </item> 
+          <item> 
+            <title>ES: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+        </item> 
+          <item> 
+            <title>ES: NONSTOPEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NONSTOPEOPLE</link> 
+        </item> 
+          <item> 
+            <title>ES: NAT GEOGRAPH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3281.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEOGRAPH</link> 
+        </item> 
+          <item> 
+            <title>ES: MOVISTAR GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3315.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR GP HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: La 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3318.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 2</link> 
+        </item> 
+          <item> 
+            <title>ES: La 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3317.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 1</link> 
+        </item> 
+          <item> 
+            <title>ES: IBERALIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3286.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: IBERALIA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3287.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>ES: HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3288.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>ES: Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox Life</link> 
+        </item> 
+          <item> 
+            <title>ES: Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox</link> 
+        </item> 
+          <item> 
+            <title>ES: EUROSPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT HD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3282.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>ES: DISNEY JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3290.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JR</link> 
+        </item> 
+          <item> 
+            <title>ES: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3295.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>ES: DCINE ESPA¹OL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3296.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DCINE ESPA¹OL</link> 
+        </item> 
+          <item> 
+            <title>ES: CRIMEN INVES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3297.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CRIMEN INVES</link> 
+        </item> 
+          <item> 
+            <title>ES: COSMO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO</link> 
+        </item> 
+          <item> 
+            <title>ES: CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3301.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL SUR A.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL SUR A.</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3303.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL ODISEA</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3305.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DECASA</link> 
+        </item> 
+          <item> 
+            <title>ES: CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3306.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>ES: C TOROS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3291.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C TOROS HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C PARTIDAZO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3292.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C PARTIDAZO HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C LIGA HD 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C LIGA HD 2</link> 
+        </item> 
+          <item> 
+            <title>ES: C LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3319.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C FUTBOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3321.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C FUTBOL HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C DEPORTES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3325.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C DEPORTES HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3322.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C DCINE</link> 
+        </item> 
+          <item> 
+            <title>ES: C COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3323.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3324.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>ES: C  GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3307.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C  GOLF</link> 
+        </item> 
+          <item> 
+            <title>ES: Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3283.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Boing</link> 
+        </item> 
+          <item> 
+            <title>ES: BEIN SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3293.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BEIN SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3311.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN White</link> 
+        </item> 
+          <item> 
+            <title>ES: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
+        </item> 
+          <item> 
+            <title>ES: ANDALUCIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3294.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANDALUCIA TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Alfa TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3316.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Alfa TV</link> 
+        </item> 
+          <item> 
+            <title>ES: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3308.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>ES: 24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3309.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 24 HORAS</link> 
+        </item> 
+          <item> 
+            <title>ES: #0</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cf-cf-cf-cf.cf:8080/live/V3970700/ID43089209/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #0</link> 
+        </item> 
+  
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
