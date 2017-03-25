@@ -78,16 +78,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
         </item>
           		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Movistar Series [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Movistar Series Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35798.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
         </item>
-          		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+         <item> 
+            <title>[COLOR yellow] SyFy HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
