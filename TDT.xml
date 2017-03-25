@@ -43,15 +43,14 @@
 		<item> 
             <title>[COLOR yellow] CANAL SUR [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35485.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
-        </item>
-			
+        </item>			
 		<item> 
             <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39152.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CANALSUR 2 ANDALUCIA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CANALSUR 2 ANDALUCIA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39150.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALSUR 2 ANDALUCIA</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
