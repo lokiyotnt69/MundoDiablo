@@ -10,29 +10,14 @@
 		
 		
 	
-           <item> 
-            <title>[COLOR yellow] Baby TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3651.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
-        </item>
+           
 		<item> 
-            <title>[COLOR yellow] BOING [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Disney XD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3654.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Nickelodeon [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/Igballe/Igballe/3687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NICK JR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39108.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Nick Jr. [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35815.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr.</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
