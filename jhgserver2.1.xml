@@ -7,29 +7,21 @@
   
      
 		
-  
-		<item> 
-            <title>[COLOR yellow] Movistar  Formula 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35615.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar  Formula 1</link> 
-        </item>			
+  			
 		<item> 
             <title>[COLOR yellow] Movistar F1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35756.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar F1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Movistar Fórmula 1 [/COLOR]</title> 
+            <title>[COLOR red] Movistar Fórmula 1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39079.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Fórmula 1</link> 
         </item>
            <item> 
             <title>[COLOR yellow] MotoGP [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35405.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotoGP</link> 
         </item>
-		<item> 
-            <title>[COLOR yellow] Movistar Moto GP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39091.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Moto GP</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar Moto GP [/COLOR]</title> 
+				<item> 
+            <title>[COLOR red] Movistar Moto GP [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35759.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Moto GP</link> 
         </item>
 		<item> 
