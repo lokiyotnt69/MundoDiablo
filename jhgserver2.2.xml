@@ -12,11 +12,47 @@
 
   
        
+       
+		<item> 
+            <title>[COLOR yellow] # 0 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39139.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35793.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Movistar Acción [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35788.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
+        </item>       
+		<item> 
+            <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35790.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Movistar Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Movistar Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35800.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra</link> 
+        </item>          
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
-			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>       
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
@@ -25,5 +61,6 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+          
           
 		
