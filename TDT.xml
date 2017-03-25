@@ -7,81 +7,51 @@
 		
 		
 	
-			
 		
-        <item> 
-            <title>[COLOR yellow]  CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7686.ts&amp;streamtype=TSDOWNLOADER&amp;name= CUATRO</link> 
+		<item> 
+            <title>[COLOR yellow] La 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35602.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] LA 2 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35459.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  TELECINCO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/10008.ts&amp;streamtype=TSDOWNLOADER&amp;name= TELECINCO</link> 
+            <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35502.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35477.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] NEOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/14970.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
-        </item>	
-         <item> 
-            <title>[COLOR yellow]  MEGA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7713.ts&amp;streamtype=TSDOWNLOADER&amp;name= MEGA TV</link> 
+            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  FDF [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7679.ts&amp;streamtype=TSDOWNLOADER&amp;name= FDF</link> 
+            <title>[COLOR yellow] SEXTA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35812.ts&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] NOVA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35780.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] DIVINITY [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7714.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+            <title>[COLOR yellow] Neox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35623.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow] CANAL SUR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35485.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
+        </item>
+			
 		<item> 
             <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/lehainam1994/namskype/7640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CANALSUR 2 ANDALUCIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CANALSUR 2 ANDALUCIA</link> 
         </item>
            <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
