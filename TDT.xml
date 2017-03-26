@@ -52,13 +52,9 @@
             <title>[COLOR yellow] CANALSUR 2 ANDALUCIA [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39150.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALSUR 2 ANDALUCIA</link> 
         </item>
-           <item> 
-            <title>[COLOR yellow] ANDALUCIATV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIATV</link> 
-        </item>
-		<item> 
+        <item> 
             <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39072.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Ten [/COLOR]</title> 
@@ -68,7 +64,39 @@
             <title>[COLOR yellow] Divinity TV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35470.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
         </item>
+		<item> 
+            <title>[COLOR yellow] Dkiss [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35586.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dkiss</link> 
+        </item>
 			<item> 
+            <title>[COLOR yellow] Energy [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35469.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Mega [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+			<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
