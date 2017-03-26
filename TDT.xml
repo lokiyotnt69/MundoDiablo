@@ -54,19 +54,19 @@
         </item>
            <item> 
             <title>[COLOR yellow] ANDALUCIATV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/Lz3ym4KMFi/ILLBp701kz/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIATV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIATV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Ten [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35656.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ten</link> 
         </item>
 			<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Divinity TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35470.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
         </item>
 			<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
