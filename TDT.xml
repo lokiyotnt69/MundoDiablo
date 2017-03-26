@@ -10,19 +10,19 @@
 		
 		<item> 
             <title>[COLOR yellow] La 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/Lz3ym4KMFi/ILLBp701kz/3105.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39167.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
             <title>[COLOR yellow] LA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/Lz3ym4KMFi/ILLBp701kz/3104.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35604.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35502.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/Lz3ym4KMFi/ILLBp701kz/3111.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Telecinco [/COLOR]</title> 
@@ -30,7 +30,7 @@
         </item>
 		<item> 
             <title>[COLOR yellow] SEXTA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/Lz3ym4KMFi/ILLBp701kz/3103.ts&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
         </item>
            <item> 
             <title>[COLOR yellow] NOVA [/COLOR]</title> 
@@ -58,7 +58,7 @@
         </item>
 		<item> 
             <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/Lz3ym4KMFi/ILLBp701kz/4977.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
