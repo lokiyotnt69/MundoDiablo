@@ -22,7 +22,7 @@
         </item>
 		<item> 
             <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
             <title>[COLOR red] Telecinco [/COLOR]</title> 
@@ -42,7 +42,7 @@
         </item>
 		<item> 
             <title>[COLOR yellow] CANAL SUR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
@@ -51,26 +51,22 @@
 		<item> 
             <title>[COLOR yellow] CANALSUR 2 ANDALUCIA [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CANALSUR 2 ANDALUCIA</link> 
-        </item>
-        <item> 
-            <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
-        </item>
+        </item>       
 		<item> 
             <title>[COLOR yellow] Ten [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Ten</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ten</link> 
         </item>
 			<item> 
             <title>[COLOR yellow] Divinity TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Dkiss [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Dkiss</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dkiss</link> 
         </item>
 			<item> 
             <title>[COLOR yellow] Energy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Mega [/COLOR]</title> 
@@ -102,11 +98,11 @@
         </item>
 		<item> 
             <title>[COLOR yellow] Atreseries [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] FDF [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
