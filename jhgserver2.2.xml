@@ -20,19 +20,19 @@
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Acción [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
         </item>       
 		<item> 
             <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Xtra [/COLOR]</title> 
