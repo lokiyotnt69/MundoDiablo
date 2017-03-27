@@ -15,92 +15,92 @@
        
        
 		<item> 
-            <title>[COLOR yellow] # 0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39139.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+            <title>[COLOR red] # 0 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35793.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Acción [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35788.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
         </item>       
 		<item> 
             <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35790.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35800.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra</link> 
         </item>          
 		<item> 
             <title>[COLOR yellow] XTRM [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39129.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] SOMOS [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39130.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOMOS</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=SOMOS</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Cine Español [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/38962.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Cine Español</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Cine Español</link> 
         </item>       
 		<item> 
             <title>[COLOR yellow] --SERIES-- [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35687.ts&amp;streamtype=TSDOWNLOADER&amp;name= SERIES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= SERIES</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35595.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] AMC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35542.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
         </item>
-          		<item> 
-            <title>[COLOR yellow] CANAL HOLLYWOOD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39180.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+        <item> 
+            <title>[COLOR red] CANAL HOLLYWOOD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CALLE 13 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39117.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
         </item>
           		<item> 
-            <title>[COLOR yellow] TNT [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39125.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+            <title>[COLOR red] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Comedy Central [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
         </item>
           		<item> 
             <title>[COLOR yellow] Movistar Series [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Movistar Series Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35798.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
+            <title>[COLOR red] Movistar Series Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
         </item>
          <item> 
-            <title>[COLOR yellow] SyFy HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
+            <title>[COLOR red] SyFy HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Paramount Channel [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
         </item>
              <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] AXN WHITE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
         </item>
           	<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
