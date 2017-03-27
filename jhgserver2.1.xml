@@ -14,7 +14,7 @@
         </item>
 		<item> 
             <title>[COLOR pink] MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/Lz3ym4KMFi/ILLBp701kz/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto GP</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Moto GP</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
@@ -51,14 +51,6 @@
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Toros Tv [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.bighd.us:1557/live/dragan/dragan123/3668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros Tv</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Nova [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.bighd.us:1557/live/dragan/dragan123/3667.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
