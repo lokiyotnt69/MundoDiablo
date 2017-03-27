@@ -14,7 +14,7 @@
         </item>
 		<item> 
             <title>[COLOR pink] MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Moto GP</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/41275.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto GP</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
