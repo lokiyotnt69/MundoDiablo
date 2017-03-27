@@ -10,31 +10,31 @@
 		
 		<item> 
             <title>[COLOR yellow] La 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
             <title>[COLOR yellow] LA 2 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+            <title>[COLOR red] ANTENA 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] Telecinco [/COLOR]</title> 
+            <title>[COLOR red] Telecinco [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] SEXTA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
+            <title>[COLOR red] SEXTA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] NOVA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+            <title>[COLOR red] NOVA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Neox [/COLOR]</title> 
@@ -97,7 +97,7 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Caza y Pesca  [/COLOR]</title> 
+            <title>[COLOR red] Caza y Pesca  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
         </item>
 		<item> 
