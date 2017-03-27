@@ -15,8 +15,8 @@
        
        
 		<item> 
-            <title>[COLOR red] # 0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+            <title>[COLOR blue] # 0 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
@@ -55,8 +55,8 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name= SERIES</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+            <title>[COLOR red] Fox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/Hamster/Hamster/16917.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] AMC [/COLOR]</title> 
@@ -95,12 +95,12 @@
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
         </item>
              <item> 
-            <title>[COLOR yellow] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+            <title>[COLOR red] AXN [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] AXN WHITE [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+            <title>[COLOR red] AXN WHITE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
         </item>
           	<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
