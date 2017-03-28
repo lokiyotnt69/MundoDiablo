@@ -9,7 +9,7 @@
 	
 		
 		<item> 
-            <title>[COLOR yellow] La 1 [/COLOR]</title> 
+            <title>[COLOR red] La 1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/152.ts;&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
@@ -21,11 +21,11 @@
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] CUATRO [/COLOR]</title> 
+            <title>[COLOR red] CUATRO [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
-            <title>[COLOR red] Telecinco [/COLOR]</title> 
+            <title>[COLOR orange] Telecinco [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/Hamster/Hamster/16938.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
@@ -45,7 +45,7 @@
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
         </item>			
 		<item> 
-            <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
+            <title>[COLOR red] ANDALUCIA TV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/Hamster/Hamster/16927.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
         </item>
 		<item> 
@@ -57,24 +57,20 @@
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ten</link> 
         </item>
 			<item> 
-            <title>[COLOR yellow] Divinity TV [/COLOR]</title> 
+            <title>[COLOR red] Divinity TV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Dkiss [/COLOR]</title> 
+            <title>[COLOR red] Dkiss [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dkiss</link> 
         </item>
 			<item> 
-            <title>[COLOR yellow] Energy [/COLOR]</title> 
+            <title>[COLOR red] Energy [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Mega [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow] mega [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
+            <title>[COLOR red] Mega [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] GOL TV [/COLOR]</title> 
@@ -82,19 +78,11 @@
         </item>
 		<item> 
             <title>[COLOR red] Toros TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Toros TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
-        </item>
-			<item> 
-            <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
         </item>
 		<item> 
             <title>[COLOR red] Caza y Pesca  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.128.169:8000/live/lg5DJEgDeJ/Sxf8H0TT7F/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Atreseries [/COLOR]</title> 
