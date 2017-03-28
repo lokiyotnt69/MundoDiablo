@@ -16,8 +16,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] BABY TV [/COLOR]</title> 
@@ -29,19 +29,19 @@
         </item>			
 		<item> 
             <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal Panda [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
         </item>
            <item> 
             <title>[COLOR yellow] Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] NICK JR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
