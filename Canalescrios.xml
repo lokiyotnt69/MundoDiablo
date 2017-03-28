@@ -13,31 +13,31 @@
            
 		<item> 
             <title>[COLOR yellow] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/39108.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] Nick Jr. [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35815.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr.</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] BABY TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35498.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CLAN TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35483.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal Panda [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35782.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
         </item>
            <item> 
             <title>[COLOR yellow] Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/Nereo/Nereo/35766.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
