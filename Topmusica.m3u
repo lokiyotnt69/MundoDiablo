@@ -359,3 +359,5 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
 #EXTINF:-1,Music Choice Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,UFC
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8
