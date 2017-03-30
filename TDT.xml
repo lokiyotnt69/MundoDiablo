@@ -10,7 +10,7 @@
 		
 		<item> 
             <title>[COLOR red] La 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.globepremium.com:8000/live/bruno/bruno/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/IBKHAtOcLn/pLAxP6Wtof/8515.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
             <title>[COLOR red] LA 2 [/COLOR]</title> 
@@ -42,51 +42,47 @@
         </item>
 		<item> 
             <title>[COLOR red] CANAL SUR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
         </item>			
 		<item> 
             <title>[COLOR red] ANDALUCIA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/Hamster/Hamster/16927.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
         </item>
 		<item> 
             <title>[COLOR red] Divinity TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
         </item>
 		<item> 
             <title>[COLOR red] Dkiss [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dkiss</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Dkiss</link> 
         </item>
 			<item> 
             <title>[COLOR red] Energy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
         </item>
 		<item> 
             <title>[COLOR red] Mega [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
         </item>
 		<item> 
             <title>[COLOR red] Toros TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
         </item>
 		<item> 
             <title>[COLOR red] Caza y Pesca  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/surinder/surinder/4977.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
         </item>
 		<item> 
             <title>[COLOR red] Atreseries [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
         </item>
 		<item> 
             <title>[COLOR red] FDF [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] TOROSTV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1832.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] cuatro  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/BLXOlDNPDY/H757n790R7/8517.ts&amp;streamtype=TSDOWNLOADER&amp;name= Cuatro</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Cuatro [/COLOR]</title> 
