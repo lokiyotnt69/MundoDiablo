@@ -18,14 +18,10 @@
            <item> 
             <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/IBKHAtOcLn/pLAxP6Wtof/8531.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] *BABY TV* [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/BLXOlDNPDY/H757n790R7/9219.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item>
+        </item>		
 		<item> 
             <title>[COLOR yellow] CLAN TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/IBKHAtOcLn/pLAxP6Wtof/9014.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3204.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
@@ -37,15 +33,19 @@
         </item>
            <item> 
             <title>[COLOR yellow] Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/IBKHAtOcLn/pLAxP6Wtof/8538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] NICK JR [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/BLXOlDNPDY/H757n790R7/11671.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] *BABY TV* [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3211.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://wachtv.org:8000/live/mauricio.gonzalest/OOGSTHXtLx/15715.m3u8&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 			
 		<item> 
