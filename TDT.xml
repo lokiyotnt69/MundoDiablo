@@ -9,23 +9,23 @@
 	
 		<item> 
             <title>[COLOR yellow] La 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8515.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
             <title>[COLOR yellow] LA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8519.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8521.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2028.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8517.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Telecinco [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2030.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] SEXTA [/COLOR]</title> 
