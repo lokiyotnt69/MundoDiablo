@@ -7,47 +7,68 @@
 		
 		
 	
+		
 		<item> 
             <title>[COLOR yellow] La 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3317.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
             <title>[COLOR yellow] LA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3318.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.251.19:8080/live/Guru/Guru/3383.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.xa1q.com:8000/live/meddeb151/benothm/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.251.19:8080/live/Guru/Guru/3391.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Telecinco [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/decca/decca/16938.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] SEXTA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
         </item>
            <item> 
             <title>[COLOR yellow] NOVA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
-        </item>						
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/decca/decca/16928.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Neox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/decca/decca/16931.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CANAL SUR [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3302.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.105.182:8000/live/decca/decca/16784.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
+        </item>		
+        <item> 
+            <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3301.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item>		
 		<item> 
             <title>[COLOR yellow] GOL TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/2585.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.251.19:8080/live/Guru/Guru/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
         </item>
 			<item> 
             <title>[COLOR yellow] Toros TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
         </item>		
 		<item> 
-            <title>[COLOR yellow] Caza y Pesca  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Atreseries [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] FDF [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.org:8000/live/iudtest115/iudtest115/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
