@@ -18,23 +18,23 @@
        
 		<item> 
             <title>[COLOR yellow] # 0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/BLXOlDNPDY/H757n790R7/8812.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8812.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8825.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Acción [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
         </item>       
 		<item> 
             <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8827.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Xtra [/COLOR]</title> 
@@ -42,7 +42,7 @@
         </item>          
 		<item> 
             <title>[COLOR yellow] XTRM [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/surinder/surinder/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] SOMOS [/COLOR]</title> 
@@ -108,218 +108,6 @@
             <title>[COLOR yellow] DARK [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=DARK</link> 
         </item>
-		<item> 
-            <title>[COLOR blue] LISTA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		  <item> 
-          <title>========||| CANAL SPAIN |||========</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/9054.ts&amp;streamtype=TSDOWNLOADER&amp;name=========||| CANAL SPAIN |||========</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  24 Horas</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10200.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  24 Horas</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  A&amp;E</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10199.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  A&amp;E</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Accion HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10198.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Accion HD</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  AMC</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10197.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AMC</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  AXN</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10196.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AXN</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  AXN White</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10195.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  AXN White</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Canal Cocina</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10194.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Cocina</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Canal Decasa</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10193.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Decasa</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Canal Odisea</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10192.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Canal Odisea</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Caza &amp; Pesca</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10191.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Caza &amp; Pesca</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Clan TVE</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10190.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Clan TVE</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Comedia</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10189.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Comedia</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Comedy Central</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10188.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Comedy Central</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Cosmo</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10187.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Cosmo</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Crimen Inves</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10186.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Crimen Inves</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Dcine Espanol</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10185.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Dcine Espanol</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Dcine HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10184.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Dcine HD</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Deportes</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10183.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Deportes</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Discovery</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10182.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Discovery</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Disney Channel</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10181.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney Channel</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Disney Junior</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10180.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney Junior</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Disney XD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10179.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Disney XD</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Estrenos</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10178.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Estrenos</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Eurosport 1</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10177.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Eurosport 1</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  F.TBOL HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10176.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  F.TBOL HD</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  FDF</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10175.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  FDF</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Fox HD</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10174.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox HD</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Fox Life</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10173.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox Life</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Fox News</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10172.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Fox News</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Golf</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10171.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Golf</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Hollywood</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10170.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Hollywood</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Iberalia TV</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10169.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Iberalia TV</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  La Sexta</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10168.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La Sexta</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  La1</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10167.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La1</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  La2</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10166.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  La2</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Los40</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10165.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Los40</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Moto GP</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10164.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moto GP</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Moviestar F1</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10163.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Moviestar F1</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Nat Geo</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10162.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nat Geo</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Nat Geo Wild</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10161.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nat Geo Wild</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Nonstopeople</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10160.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nonstopeople</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Nova</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10159.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Nova</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Series Xtra</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10158.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Series Xtra</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  SyFy</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10157.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  SyFy</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  TCM</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10156.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  TCM</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Telecinco</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10155.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Telecinco</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Teledeporte</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10154.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Teledeporte</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  TNT</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10153.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  TNT</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Viajar</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10152.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Viajar</link> 
-      </item> 
-        <item> 
-          <title>[ES] C  Xtra</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10151.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C  Xtra</link> 
-      </item> 
-        <item> 
-          <title>[ES] C TVE International</title> 
-          <link>plugin://plugin.video.f4mTester/?url=http://iptv.iptvthebest.net:15000/live/ale/ale1/10150.ts&amp;streamtype=TSDOWNLOADER&amp;name=[ES] C TVE International</link> 
-      </item> 
 		
 		
 		 <item> 
