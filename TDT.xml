@@ -85,7 +85,7 @@
         </item>
 			<item> 
             <title>[COLOR yellow] Toros TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Toros TV [/COLOR]</title> 

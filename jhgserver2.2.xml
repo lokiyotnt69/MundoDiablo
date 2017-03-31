@@ -18,31 +18,31 @@
        
 		<item> 
             <title>[COLOR yellow] # 0 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8812.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8825.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Acción [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
         </item>       
 		<item> 
             <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8826.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Movistar Comedia [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.208.25:5210/live/JiP9Jk5kWN/8HyC8fMOVg/8827.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2042.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra</link> 
         </item>          
 		<item> 
             <title>[COLOR yellow] XTRM [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://link.softiptv.com:2500/live/surinder/surinder/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] SOMOS [/COLOR]</title> 
@@ -58,15 +58,15 @@
         </item>			
 		<item> 
             <title>[COLOR red] Fox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1788.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2048.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] AMC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2055.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
         </item>
         <item> 
             <title>[COLOR yellow] CANAL HOLLYWOOD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CALLE 13 [/COLOR]</title> 
@@ -82,23 +82,23 @@
         </item>
           		<item> 
             <title>[COLOR yellow] Movistar Series [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2046.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Movistar Series Xtra [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2047.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
         </item>
          <item> 
             <title>[COLOR yellow] SyFy HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/cimoronow2/b9jM03sR7p/2056.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Paramount Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/BLXOlDNPDY/H757n790R7/9262.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
         </item>
              <item> 
             <title>[COLOR red] AXN [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
         </item>
 		<item> 
             <title>[COLOR red] AXN WHITE [/COLOR]</title> 
