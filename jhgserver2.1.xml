@@ -46,6 +46,18 @@
             <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHTBOX</link> 
         </item>
 		<item> 
+            <title>[COLOR yellow] MOTOGP [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9219.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] TOROSTV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9243.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Eurosport 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
+        </item>
+		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
