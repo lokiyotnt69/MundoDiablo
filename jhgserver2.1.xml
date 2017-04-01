@@ -9,55 +9,56 @@
   
   
   
+		
 		<item> 
-            <title>[COLOR yellow] GOLTV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLTV</link> 
-        </item>        
-		<item> 
-            <title>[COLOR yellow] La Liga BAR HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Liga BAR HD</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] Movistar DEPORTES 1  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DEPORTES 1</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow] Movistar DEPORTES 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DEPORTES 2</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] NBA SD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA SD</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] UFC NETWORK HD opc1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=UFC NETWORK HD opc1</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] WWE HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=WWE HD</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] BOXNATION  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOXNATION</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
            <item> 
-            <title>[COLOR yellow] FIGHTBOX [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHTBOX</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] MOTOGP [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9219.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] TOROSTV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9243.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROSTV</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Eurosport 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow] Bein La Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9235.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein La Liga</link> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
