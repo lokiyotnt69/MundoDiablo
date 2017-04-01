@@ -8,6 +8,7 @@
   
   
   
+  
 		<item> 
             <title>[COLOR yellow] GOLTV [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLTV</link> 
@@ -37,16 +38,16 @@
             <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=UFC NETWORK HD opc1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] WWE HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=WWE HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] BOXNATION  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOXNATION</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] FIGHTBOX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://144.217.70.189:8000/live/iptvchile/demolibre/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHTBOX</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
