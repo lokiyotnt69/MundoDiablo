@@ -58,6 +58,6 @@
             <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9474.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Bein La Liga [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://kodi-forum.ddns.net:8000/live/CHINO/Q31IF0x03G/9235.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein La Liga</link> 
         </item>
