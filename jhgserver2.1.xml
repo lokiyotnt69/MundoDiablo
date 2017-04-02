@@ -14,6 +14,18 @@
             <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Liga_HD</link> 
         </item>	
            <item> 
+            <title>[COLOR yellow] LA LIGATV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGATV</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LALIGA2  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/10712.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA2</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  lA LIGA OPCION3 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://gameserver101.hopto.org:19001/live/charuestephane/digiphone2009/9356.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA 3</link> 
+        </item>
+			<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
