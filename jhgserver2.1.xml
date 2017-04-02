@@ -11,12 +11,12 @@
   
 		
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] C+_Futbol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ht.challenge.ovh:7040/live/676800/96690/5430.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+_Futbol</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Canal_Liga_HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ht.challenge.ovh:7040/live/676800/96690/4700.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Liga_HD</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
