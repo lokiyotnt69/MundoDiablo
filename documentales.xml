@@ -12,39 +12,31 @@
         </item>
            <item> 
             <title>[COLOR yellow] Canal Cocina [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1818.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal Decasa [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/2507.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Discovery Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel</link> 
-        </item>			
-		<item> 
-            <title>[COLOR yellow] Discovery Max [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Max</link> 
-        </item>		
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel</link> 
+        </item>					
           <item> 
             <title>[COLOR yellow] Viajar [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] IBERALIA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1382.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar</link> 
         </item>
 		<item> 
             <title>[COLOR red] NATIONAL GEOGRAPHIC [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CRIMEN & INVESTIGACION [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/demo/demo/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN & INVESTIGACION</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/2503.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN & INVESTIGACION</link> 
         </item>
            <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
