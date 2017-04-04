@@ -10,61 +10,25 @@
 		
 		
 	
+     
            
 		<item> 
             <title>[COLOR yellow] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/IBKHAtOcLn/pLAxP6Wtof/11671.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1925.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
         </item>
            <item> 
             <title>[COLOR yellow] NICKELODEON [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/IBKHAtOcLn/pLAxP6Wtof/8531.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item>		
-		<item> 
-            <title>[COLOR yellow] CLAN TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3204.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TV</link> 
-        </item>			
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item>					
 		<item> 
             <title>[COLOR yellow] Disney Channel [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1945.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Canal Panda [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip03.fox-cloud.co/live/spider_WYAhz6/ciH0kgSu/1833.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
         </item>
            <item> 
             <title>[COLOR yellow] Boing [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] NICK JR [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptvbox.ddns.net:5210/live/BLXOlDNPDY/H757n790R7/11671.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] *BABY TV* [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3211.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://kepleriptv.cechire.org:15003/live/Felacodec/wQm0Y46bQv/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-			
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-           <item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item>			
