@@ -78,8 +78,8 @@
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] - [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://dmtn-iptv.com:8080/live/jmmt1204/OirkNpcMX0/15027.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
