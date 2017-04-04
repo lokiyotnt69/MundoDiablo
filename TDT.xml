@@ -8,74 +8,78 @@
 		
 		
 		
-	
+		
 		<item> 
             <title>[COLOR yellow] La 1 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1</link> 
         </item>
            <item> 
             <title>[COLOR yellow] LA 2 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] ANTENA 3 [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] CUATRO [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
         </item>			
 		<item> 
             <title>[COLOR yellow] Telecinco [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] SEXTA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/527.ts&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/8.ts&amp;streamtype=TSDOWNLOADER&amp;name= SEXTA</link> 
         </item>
            <item> 
             <title>[COLOR yellow] NOVA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Neox [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
-        </item>				
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
+        </item>
 		<item> 
-            <title>[COLOR yellow] ANDALUCIA TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1377.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
-        </item>		
-        <item> 
-            <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
-        </item>	
-		<item> 
+            <title>[COLOR yellow] CANALSUR 2 ANDALUCIA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALSUR 2 ANDALUCIA</link> 
+        </item>
+      	<item> 
             <title>[COLOR yellow] Divinity TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
-        </item>		
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity TV</link> 
+        </item>
 		<item> 
             <title>[COLOR yellow] Energy [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy</link> 
         </item>
 		<item> 
             <title>[COLOR yellow] Mega [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega</link> 
         </item>		
 		<item> 
             <title>[COLOR yellow] GOL TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/2038.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
         </item>
 			<item> 
             <title>[COLOR yellow] Toros TV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CAZA Y PESCA [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
         </item>		
 		<item> 
             <title>[COLOR yellow] Atreseries [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
-        </item>	
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=Atreseries</link> 
+        </item>
 		<item> 
-            <title>[COLOR yellow] MTV [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ali13/ali13/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
+            <title>[COLOR yellow] FDF [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
 		<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
