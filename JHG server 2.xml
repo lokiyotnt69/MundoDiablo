@@ -39,12 +39,8 @@
 		<item> 
             <title>[COLOR yellow] F1 [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://193.70.34.156:8789/live/HHHH/HHHH/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=F1</link> 
-        </item>
-		<item> 
-            <title>[COLOR yellow] M.MOTOGP.HD [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.34.156:8789/live/HHHH/HHHH/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.MOTOGP.HD</link> 
-        </item>
-           <item> 
+        </item>		
+          <item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
