@@ -11,21 +11,60 @@
 
 
   
+  	
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MOVISTAR F1 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1 HD</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item>		
+            <title>[COLOR yellow] MOVISTAR F1  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR F1 </link> 
+        </item>			
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] Movistar Futbol [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1979.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Plus</link> 
         </item>
 		<item> 
-            <title>[COLOR yellow]  [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>[COLOR yellow] MOTOGP  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1978.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOGP</link> 
         </item>
-           
-      
+           <item> 
+            <title>[COLOR yellow]  Bein Liga HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name= Bein Liga HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Bein Sport HD  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sport HD</link> 
+        </item>
+		    <item> 
+            <title>[COLOR yellow] Canal  DEPORTES HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal  DEPORTES HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Canal  ESTRENOS HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal  ESTRENOS HD</link> 
+        </item>
+		    <item> 
+            <title>[COLOR yellow]  Canal  FUTBOL HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name= Canal  FUTBOL HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] LIGA 2 HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIGA 2 HD</link> 
+        </item>
+		    <item> 
+            <title>[COLOR yellow]  LIGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name= LIGA HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  EUROSPORT 1 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1941.ts&amp;streamtype=TSDOWNLOADER&amp;name= EUROSPORT 1</link> 
+        </item>
+		  <item> 
+            <title>[COLOR yellow] GOL Tv [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1936.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL Tv</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  La Liga BAR HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://basic.ioiptv.com:8000/live/HECTORMUÑOZ/1234/1931.ts&amp;streamtype=TSDOWNLOADER&amp;name= La Liga BAR HD</link> 
+        </item>
