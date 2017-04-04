@@ -1,0 +1,67 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+#EXTINF:-1, Movistar accion
+
+http://edge10.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
+
+
+#EXTINF:-1, TNT
+
+http://edge10.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
+
+#EXTINF:-1, AXN
+
+http://edge10.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
+
+#EXTINF:-1, CALLE 13 UNIVERSAL
+
+http://edge10.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
+
+
+#EXTINF:-1, Discovery max
+
+http://cdn1.elitegol.xyz/verliga/27/index.m3u8
+
+#EXTINF:-1, Crimen+investigacion
+
+http://edge10.livesports.pw/live/vercrimenyinvestigacioneb/index.m3u8
+
+#EXTINF:-1, Mega
+
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_2_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Baby tv
+
+http://edge10.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8
+
+
+#EXTINF:-1,la sexta
+
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1, NEOX
+
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1, NOVA
+
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1, MTV
+
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+
+#EXTINF:-1,M2O
+
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1,ANIME
+
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
