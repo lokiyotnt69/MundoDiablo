@@ -8,13 +8,101 @@
   
   
   
-  
-          <item> 
-            <title>[COLOR yellow] JHG Canal Liga [/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Liga_HD</link> 
-        </item>	
        
-			<item> 
+       
+		<item> 
+            <title>[COLOR yellow] # 0 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Movistar Estrenos [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Estrenos</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Movistar Acción [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Acción</link> 
+        </item>       
+		<item> 
+            <title>[COLOR yellow] Movistar DCine [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar DCine</link> 
+        </item>			
+		<item> 
+            <title>[COLOR yellow] Movistar Comedia [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Comedia</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Movistar Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Xtra</link> 
+        </item>   	
+		<item> 
+            <title>[COLOR yellow] Movistar Cine Español [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Cine Español</link> 
+        </item> 			
+		<item> 
+            <title>[COLOR yellow] Fox [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] AMC [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item>
+          		<item> 
+            <title>[COLOR yellow] CANAL HOLLYWOOD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] CALLE 13 [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+        </item>
+          		<item> 
+            <title>[COLOR yellow] TNT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Comedy Central [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+        </item>
+          		<item> 
+            <title>[COLOR yellow] Movistar Series [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Movistar Series Xtra [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movistar Series Xtra</link> 
+        </item>
+         <item> 
+            <title>[COLOR yellow] SyFy HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] Paramount Channel [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
+        </item>         
+          	<item> 
+            <title>[COLOR yellow] CIMEMAX [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=CIMEMAX</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] DARK [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=DARK</link> 
+        </item>
+		 <item> 
+            <title>[COLOR yellow] XTRM [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] SOMOS [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOMOS</link> 
+        </item>
+          	<item> 
+            <title>[COLOR yellow] LIFE TV [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIFE TV</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow] SUNDANCE [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/raul/raul/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE</link> 
+        </item>
+		    	<item> 
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
@@ -22,3 +110,25 @@
             <title>[COLOR yellow]  [/COLOR]</title> 
             <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item>
+		 <item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+          	<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+		<item> 
+            <title>[COLOR yellow]  [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>
+          
+          
+          
+          
+          
+		
