@@ -6,5 +6,20 @@
   
   
   
+		
+		
+		
+		<item> 
+            <title>[COLOR yellow] *** DEPORTES *** [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item>		
+		<item> 
+            <title>[COLOR yellow] C LIGA HD [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://192.99.149.20:8080/live/grspan/sxlk2slkx/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=C LIGA HD</link> 
+        </item>
+           <item> 
+            <title>[COLOR yellow] BEIN SPORT [/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+        </item>		
   
   
